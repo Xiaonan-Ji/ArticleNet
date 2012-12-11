@@ -1,7 +1,7 @@
 Welcome to ArticleNet! This is a open-scource system for systematical reviews. 
 ArticleNet is developed by the Network Laboratory of Biomedical Informatics, The Ohio State University.
 
-The source codes consists of two part:
+The source codes consist of two parts:
 (1) Server part-- The "SR-C" folder. 
 (2) Web part-- The "ArticleNet" folder.
 
