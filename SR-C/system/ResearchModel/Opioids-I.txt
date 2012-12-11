@@ -1,0 +1,1330 @@
+
+PMID- 12855350
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030711
+DCOM- 20030917
+LR  - 20061115
+IS  - 0304-3959 (Print)
+IS  - 0304-3959 (Linking)
+VI  - 104
+IP  - 1-2
+DP  - 2003 Jul
+TI  - Long term effects of oral sustained release morphine on neuropsychological
+      performance in patients with chronic non-cancer pain.
+PG  - 389-400
+AB  - Morphine is increasingly used in patients with chronic non-cancer pain, but a
+      major concern associated with chronic use relates to possible cognitive
+      side-effects. The aim of this long-term prospective study was to evaluate the
+      cognitive impact of oral sustained release morphine in patients with non-cancer
+      pain. A battery of neuropsychological tests to explore attention, psychomotor
+      speed and memory was administered. The effects of morphine on pain, quality of
+      life, mood, subjective memory impairment and side-effects were also investigated.
+      Evaluations were performed at baseline in patients free from opioids and then
+      after 3, 6 and 12 months. Twenty-eight patients were included: 18 received oral
+      sustained morphine (range 40-140 mg/day), ten patients stopped morphine
+      prematurely because of side-effects or insufficient pain relief and were followed
+      as a control group. There was no impairment of any neuropsychological variable
+      over time in the morphine treated patients in comparison with the control group. 
+      Two measures of information processing speed - the Stroop interference score and 
+      the digit symbol test were improved at 6 and 12 months and there were significant
+      correlations with the pain relief and improvement of mood. Self-reported memory
+      impairment improved notably in responders to morphine. Morphine induced
+      persisting effects on pain, and to a lesser extent on quality of life and mood.
+      The visual analog scale score for side-effects increased at 12 months and
+      essentially consisted of gastrointestinal disorders. This study demonstrates that
+      12 months treatment with oral morphine does not disrupt cognitive functioning in 
+      patients with chronic non-cancer pain and instead results in moderate improvement
+      of some aspects of cognitive functioning, as a consequence of the pain relief and
+      concomitant improvement of well-being and mood.
+AD  - Centre d'Evaluation et de Traitement de la Douleur, 9, Avenue Charles de Gaulle, 
+      Hopital Ambroise Pare, 92 100 Boulogne, France.
+FAU - Tassain, V
+AU  - Tassain V
+FAU - Attal, N
+AU  - Attal N
+FAU - Fletcher, D
+AU  - Fletcher D
+FAU - Brasseur, L
+AU  - Brasseur L
+FAU - Degieux, P
+AU  - Degieux P
+FAU - Chauvin, M
+AU  - Chauvin M
+FAU - Bouhassira, D
+AU  - Bouhassira D
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Netherlands
+TA  - Pain
+JT  - Pain
+JID - 7508686
+RN  - 0 (Delayed-Action Preparations)
+RN  - 57-27-2 (Morphine)
+SB  - IM
+CIN - Pain. 2004 Jan;107(1-2):191; author reply 191-2. PMID: 14715405
+MH  - Administration, Oral
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Analysis of Variance
+MH  - Chronic Disease
+MH  - Delayed-Action Preparations/administration & dosage/adverse effects
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Morphine/*administration & dosage/adverse effects
+MH  - Neuropsychological Tests/*statistics & numerical data
+MH  - Pain/*drug therapy/*psychology
+MH  - Prospective Studies
+MH  - Psychomotor Performance/*drug effects/physiology
+MH  - Quality of Life/psychology
+MH  - Statistics, Nonparametric
+MH  - Time Factors
+EDAT- 2003/07/12 05:00
+MHDA- 2003/09/18 05:00
+CRDT- 2003/07/12 05:00
+AID - S0304395903000472 [pii]
+PST - ppublish
+SO  - Pain. 2003 Jul;104(1-2):389-400.
+
+PMID- 12762545
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030523
+DCOM- 20030728
+LR  - 20061115
+IS  - 0022-1198 (Print)
+IS  - 0022-1198 (Linking)
+VI  - 48
+IP  - 3
+DP  - 2003 May
+TI  - Methadone-related deaths in Hennepin County, Minnesota: 1992-2002.
+PG  - 668-71
+AB  - Methadone maintenance therapy (MMT) is the only currently established medical
+      therapy for heroin addiction. However, MMT still remains controversial. In
+      Hennepin County, Minnesota, methadone is one of the top ten drugs reported in
+      medical examiner investigated deaths and one of the most commonly diverted
+      pharmaceuticals. This report reviews the role of methadone in medical examiner
+      deaths over a 10-year period, 1992-2002. We compare cause and manner of death
+      (accidental, natural, suicide) and methadone blood concentrations for decedents
+      who were members of MMT programs with illicit users and those prescribed
+      methadone for chronic pain. Findings reveal that 65% of decedents with measurable
+      blood methadone concentrations were not participating in MMT programs. A total of
+      96 cases were identified, with the majority white (90.5%) and male (76.8%). MMTP 
+      program members were the minority (34.7%) of the methadone positive deaths and
+      39% were illicit users. Fifteen percent were chronic pain patients with almost
+      half of this group dying from overdose. Methadone concentrations of drug
+      caused/related deaths (0.18-3.99 mg/L) overlapped with those of deaths not
+      attributable to methadone (0.18-3.03 mg/L) with no definable lethal level.
+      Interpretation of methadone blood concentrations must be done in the context of
+      the clinical history for determining cause of death, and may be confounded by
+      postmortem redistribution.
+AD  - Hennepin County Medical Center, Minneapolis, MN 55415, USA.
+FAU - Gagajewski, Angelique
+AU  - Gagajewski A
+FAU - Apple, Fred S
+AU  - Apple FS
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - J Forensic Sci
+JT  - Journal of forensic sciences
+JID - 0375370
+RN  - 0 (Narcotic Antagonists)
+RN  - 0 (Narcotics)
+RN  - 76-99-3 (Methadone)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Cause of Death
+MH  - Female
+MH  - Forensic Medicine
+MH  - Gas Chromatography-Mass Spectrometry
+MH  - Humans
+MH  - Incidence
+MH  - Male
+MH  - Methadone/blood/*poisoning/therapeutic use
+MH  - Middle Aged
+MH  - Minnesota/epidemiology
+MH  - Narcotic Antagonists/blood/*poisoning/therapeutic use
+MH  - Narcotics/blood/*poisoning/therapeutic use
+MH  - Overdose/mortality
+MH  - Substance-Related Disorders/*epidemiology/rehabilitation
+EDAT- 2003/05/24 05:00
+MHDA- 2003/07/29 05:00
+CRDT- 2003/05/24 05:00
+PST - ppublish
+SO  - J Forensic Sci. 2003 May;48(3):668-71.
+
+PMID- 12215866
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020906
+DCOM- 20030221
+LR  - 20061115
+IS  - 0172-8172 (Print)
+IS  - 0172-8172 (Linking)
+VI  - 22
+IP  - 5
+DP  - 2002 Sep
+TI  - Transdermal fentanyl for the treatment of back pain caused by vertebral
+      osteoporosis.
+PG  - 199-203
+AB  - Pain relief for patients with osteoporosis is important to maintain mobility and 
+      facilitate physical therapy. Transdermal fentanyl may be useful but has not been 
+      studied systematically. Patients with at least one osteoporotic vertebral
+      fracture requiring strong opioids were enrolled and received transdermal
+      fentanyl. Treatment history, pain, ease of physical therapy, and quality of life 
+      were recorded at baseline and after 4 weeks. Of 64 patients enrolled, 49
+      completed the study; 12 withdrew because of adverse events, most commonly nausea,
+      vomiting, or dizziness. Pain at rest and on movement decreased significantly from
+      baseline to final assessment (mean scores 7.84 and 8.55, respectively, at
+      baseline, falling to 3.56 and 4.50 after 4 weeks). Quality of life improved
+      significantly, and 61% of patients were satisfied with the treatment. Ability to 
+      undergo physical therapy improved significantly. Transdermal fentanyl is useful
+      for the treatment of severe back pain caused by osteoporosis.
+AD  - Medizinische Klinik 4, Klinikum Leverkusen, Dhuennberg 60, 51375 Leverkusen,
+      Germany. ringe@klinikum-lev.de
+FAU - Ringe, J D
+AU  - Ringe JD
+FAU - Faber, H
+AU  - Faber H
+FAU - Bock, O
+AU  - Bock O
+FAU - Valentine, S
+AU  - Valentine S
+FAU - Felsenberg, D
+AU  - Felsenberg D
+FAU - Pfeifer, M
+AU  - Pfeifer M
+FAU - Minne, H W
+AU  - Minne HW
+FAU - Schwalen, S
+AU  - Schwalen S
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20020710
+PL  - Germany
+TA  - Rheumatol Int
+JT  - Rheumatology international
+JID - 8206885
+RN  - 0 (Analgesics, Opioid)
+RN  - 437-38-7 (Fentanyl)
+SB  - IM
+MH  - Administration, Cutaneous
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Analgesics, Opioid/*administration & dosage
+MH  - Back Pain/*drug therapy/*etiology/physiopathology
+MH  - Female
+MH  - Fentanyl/*administration & dosage
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Osteoporosis/*complications/diagnosis
+MH  - Pain Measurement
+MH  - Patient Satisfaction
+MH  - Probability
+MH  - Prospective Studies
+MH  - *Quality of Life
+MH  - Severity of Illness Index
+MH  - Spinal Diseases/complications/diagnosis
+MH  - Statistics, Nonparametric
+MH  - Treatment Outcome
+EDAT- 2002/09/07 10:00
+MHDA- 2003/02/22 04:00
+CRDT- 2002/09/07 10:00
+PHST- 2002/02/21 [received]
+PHST- 2002/05/29 [accepted]
+PHST- 2002/07/10 [aheadofprint]
+AID - 10.1007/s00296-002-0217-8 [doi]
+PST - ppublish
+SO  - Rheumatol Int. 2002 Sep;22(5):199-203. Epub 2002 Jul 10.
+
+PMID- 11348910
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010511
+DCOM- 20010614
+LR  - 20091118
+IS  - 0959-8138 (Print)
+IS  - 0959-535X (Linking)
+VI  - 322
+IP  - 7295
+DP  - 2001 May 12
+TI  - Randomised crossover trial of transdermal fentanyl and sustained release oral
+      morphine for treating chronic non-cancer pain.
+PG  - 1154-8
+AB  - OBJECTIVES: To compare patients' preference for transdermal fentanyl or sustained
+      release oral morphine, their level of pain control, and their quality of life
+      after treatment. DESIGN: Randomised, multicentre, international, open label,
+      crossover trial. SETTING: 35 centres in Belgium, Canada, Denmark, Finland, the
+      United Kingdom, the Netherlands, and South Africa. PARTICIPANTS: 256 patients
+      (aged 26-82 years) with chronic non-cancer pain who had been treated with
+      opioids. MAIN OUTCOME MEASURES: Patients' preference for transdermal fentanyl or 
+      sustained release oral morphine, pain control, quality of life, and safety
+      assessments. Results: Of 212 patients, 138 (65%) preferred transdermal fentanyl, 
+      whereas 59 (28%) preferred sustained release oral morphine and 15 (7%) expressed 
+      no preference. Better pain relief was the main reason for preference for fentanyl
+      given by 35% of patients. More patients considered pain control as being "good"
+      or "very good" with fentanyl than with morphine (35% v 23%, P=0.002). These
+      results were reflected in both patients' and investigators' opinions on the
+      global efficacy of transdermal fentanyl. Patients receiving fentanyl had on
+      average higher quality of life scores than those receiving morphine. The
+      incidence of adverse events was similar in both treatment groups; however, more
+      patients experienced constipation with morphine than with fentanyl (48% v 29%,
+      P<0.001). Overall, 41% of patients experienced mild or moderate cutaneous
+      problems associated with wearing the transdermal fentanyl patch, and more
+      patients withdrew because of adverse events during treatment with fentanyl than
+      with morphine (10% v 5%). However, within the subgroup of patients naive to both 
+      fentanyl and morphine, similar numbers of patients withdrew owing to adverse
+      effects (11% v 10%, respectively). CONCLUSION: Transdermal fentanyl was preferred
+      to sustained release oral morphine by patients with chronic non-cancer pain
+      previously treated with opioids. The main reason for preference was better pain
+      relief, achieved with less constipation and an enhanced quality of life.
+AD  - Chronic Pain Services, Northwick Park and St Mark's NHS Trust, Harrow, Middlesex 
+      HA1 3UJ.
+FAU - Allan, L
+AU  - Allan L
+FAU - Hays, H
+AU  - Hays H
+FAU - Jensen, N H
+AU  - Jensen NH
+FAU - de Waroux, B L
+AU  - de Waroux BL
+FAU - Bolt, M
+AU  - Bolt M
+FAU - Donald, R
+AU  - Donald R
+FAU - Kalso, E
+AU  - Kalso E
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - BMJ
+JT  - BMJ (Clinical research ed.)
+JID - 8900488
+RN  - 0 (Analgesics, Opioid)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 437-38-7 (Fentanyl)
+RN  - 57-27-2 (Morphine)
+SB  - AIM
+SB  - IM
+CIN - BMJ. 2001 May 12;322(7295):1134-5. PMID: 11348892
+MH  - Administration, Cutaneous
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Analgesics, Opioid/administration & dosage/*therapeutic use
+MH  - Chronic Disease
+MH  - Cross-Over Studies
+MH  - Delayed-Action Preparations
+MH  - Female
+MH  - Fentanyl/administration & dosage/*therapeutic use
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Morphine/administration & dosage/*therapeutic use
+MH  - Pain/*drug therapy
+MH  - Patient Satisfaction
+PMC - PMC31593
+OID - NLM: PMC31593
+EDAT- 2001/05/12 10:00
+MHDA- 2001/06/15 10:01
+CRDT- 2001/05/12 10:00
+PST - ppublish
+SO  - BMJ. 2001 May 12;322(7295):1154-8.
+
+PMID- 11331334
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010501
+DCOM- 20010531
+LR  - 20061115
+IS  - 0732-183X (Print)
+IS  - 0732-183X (Linking)
+VI  - 19
+IP  - 9
+DP  - 2001 May 1
+TI  - Strategies to manage the adverse effects of oral morphine: an evidence-based
+      report.
+PG  - 2542-54
+AB  - Successful pain management with opioids requires that adequate analgesia be
+      achieved without excessive adverse effects. By these criteria, a substantial
+      minority of patients treated with oral morphine (10% to 30%) do not have a
+      successful outcome because of (1) excessive adverse effects, (2) inadequate
+      analgesia, or (3) a combination of both excessive adverse effects along with
+      inadequate analgesia. The management of excessive adverse effects remains a major
+      clinical challenge. Multiple approaches have been described to address this
+      problem. The clinical challenge of selecting the best option is enhanced by the
+      lack of definitive, evidence-based comparative data. Indeed, this aspect of
+      opioid therapeutics has become a focus of substantial controversy. This study
+      presents evidence-based recommendations for clinical-practice formulated by an
+      Expert Working Group of the European Association of Palliative Care (EAPC)
+      Research NETWORK: These recommendations highlight the need for careful evaluation
+      to distinguish between morphine adverse effects from comorbidity, dehydration, or
+      drug interactions, and initial consideration of dose reduction (possibly by the
+      addition of a co analgesic). If side effects persist, the clinician should
+      consider options of symptomatic management of the adverse effect, opioid
+      rotation, or switching route of systemic administration. The approaches are
+      described and guidelines are provided to aid in selecting between therapeutic
+      options.
+AD  - Cancer Pain and Palliative Medicine Service, Department of Oncology, Shaare Zedek
+      Medical Center, Jerusalem, Israel. chernyn@netvision.net.il
+FAU - Cherny, N
+AU  - Cherny N
+FAU - Ripamonti, C
+AU  - Ripamonti C
+FAU - Pereira, J
+AU  - Pereira J
+FAU - Davis, C
+AU  - Davis C
+FAU - Fallon, M
+AU  - Fallon M
+FAU - McQuay, H
+AU  - McQuay H
+FAU - Mercadante, S
+AU  - Mercadante S
+FAU - Pasternak, G
+AU  - Pasternak G
+FAU - Ventafridda, V
+AU  - Ventafridda V
+CN  - Expert Working Group of the European Association of Palliative Care Network
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - United States
+TA  - J Clin Oncol
+JT  - Journal of clinical oncology : official journal of the American Society of
+      Clinical Oncology
+JID - 8309333
+RN  - 0 (Narcotics)
+RN  - 57-27-2 (Morphine)
+SB  - IM
+MH  - Administration, Oral
+MH  - Animals
+MH  - Cognition Disorders/chemically induced/therapy
+MH  - Constipation/chemically induced/therapy
+MH  - Diagnosis, Differential
+MH  - Drug Interactions
+MH  - Humans
+MH  - Morphine/administration & dosage/*adverse effects
+MH  - Myoclonus/chemically induced/therapy
+MH  - Narcotics/*adverse effects
+MH  - Vomiting/chemically induced/therapy
+RF  - 172
+EDAT- 2001/05/02 10:00
+MHDA- 2001/06/02 10:01
+CRDT- 2001/05/02 10:00
+PST - ppublish
+SO  - J Clin Oncol. 2001 May 1;19(9):2542-54.
+
+PMID- 11166969
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010222
+DCOM- 20010531
+LR  - 20061115
+IS  - 0304-3959 (Print)
+IS  - 0304-3959 (Linking)
+VI  - 90
+IP  - 1-2
+DP  - 2001 Feb 1
+TI  - The effect of opioids on phantom limb pain and cortical reorganization.
+PG  - 47-55
+AB  - The efficacy of oral retarded morphine sulphate (MST) was tested against placebo 
+      in a double-blind crossover design in 12 patients with phantom limb pain after
+      unilateral leg or arm amputation. Two counterbalanced treatment phases of 4 weeks
+      each were initiated with an intravenous test infusion of MST or Placebo. The
+      titration phase was 2 weeks. The dose of MST was titrated to at least 70 mg/day
+      and at highest 300 mg/day. Pain intensity was assessed hourly on visual analog
+      scales during a 4-week treatment-free phase, both treatment phases and at two
+      follow-ups (6 and 12 months). Reorganization of somatosensory cortex, electric
+      perception and pain thresholds as well as selective attention were measured pre- 
+      and post-treatment. A significant pain reduction was found during MST but not
+      during placebo. A clinically relevant response to MST (pain reduction of more
+      than 50%) was evident in 42%, a partial response (pain reduction of 25-50%) in 8%
+      of the patients. Neuromagnetic source imaging of three patients showed initial
+      evidence for reduced cortical reorganization under MST concurrent with the
+      reduction in pain intensity. Perception and pain thresholds were not
+      significantly altered whereas attention was significantly lower under MST. Thus, 
+      opioids show efficacy in the treatment of phantom limb pain and may potentially
+      influence also cortical reorganization. These data need to be replicated in
+      larger patient samples.
+AD  - Institute of Medical Psychology and Behavioral Neurobiology,
+      Eberhard-Karls-University of Tubingen, Gartenstrasse 29, 72074, Tubingen,
+      Germany. ellena.huse@uni-tuebingen.de
+FAU - Huse, E
+AU  - Huse E
+FAU - Larbig, W
+AU  - Larbig W
+FAU - Flor, H
+AU  - Flor H
+FAU - Birbaumer, N
+AU  - Birbaumer N
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - Netherlands
+TA  - Pain
+JT  - Pain
+JID - 7508686
+RN  - 0 (Analgesics, Opioid)
+RN  - 57-27-2 (Morphine)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Amputation Stumps
+MH  - Analgesics, Opioid/pharmacology/*therapeutic use
+MH  - Analysis of Variance
+MH  - Brain Mapping
+MH  - Cerebral Cortex/physiology
+MH  - Cross-Over Studies
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Linear Models
+MH  - Male
+MH  - Middle Aged
+MH  - Morphine/pharmacology/*therapeutic use
+MH  - Neuronal Plasticity/physiology
+MH  - Pain/*drug therapy/psychology
+MH  - Pain Measurement/drug effects/psychology
+MH  - Phantom Limb/*drug therapy/psychology
+MH  - Statistics, Nonparametric
+EDAT- 2001/02/13 11:00
+MHDA- 2001/06/02 10:01
+CRDT- 2001/02/13 11:00
+AID - S0304-3959(00)00385-7 [pii]
+PST - ppublish
+SO  - Pain. 2001 Feb 1;90(1-2):47-55.
+
+PMID- 10743822
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000509
+DCOM- 20000509
+LR  - 20041117
+IS  - 0315-162X (Print)
+IS  - 0315-162X (Linking)
+VI  - 27
+IP  - 3
+DP  - 2000 Mar
+TI  - Double blind randomized placebo control trial of controlled release codeine in
+      the treatment of osteoarthritis of the hip or knee.
+PG  - 764-71
+AB  - OBJECTIVE: Pain is the cardinal feature of osteoarthritis (OA), and with
+      advancing disease there is loss of function and increasing pain even at times of 
+      joint rest. Few studies have evaluated the role of opioid analgesics in treating 
+      the pain of OA. METHODS: This randomized, double blind, parallel group study
+      compared the efficacy and safety of a 12 hourly controlled release codeine
+      formulation (Codeine Contin) with placebo in patients with chronic pain due to OA
+      of the hips and/or knees. The 4 week treatment period, following an analgesic
+      washout phase of 2-7 days, included weekly clinic evaluations, at which the dose 
+      was escalated as appropriate, and daily patient diary completion. Pain (daily),
+      stiffness, and physical function (weekly) were assessed using the
+      multidimensional, self-administered WOMAC (visual analog scale version)
+      questionnaire. RESULTS: Sixty-six eligible patients completed the study. The mean
+      initial and final daily doses of controlled release codeine were 50 mg every 12 h
+      at baseline and 159 mg every 12 h at the final assessment. All variables in the
+      efficacy analysis indicated superiority of controlled release codeine over
+      placebo. The WOMAC pain scale showed an improvement of 44.8% over baseline in the
+      controlled release codeine group compared with 12.3% taking placebo (p = 0.0004).
+      For the WOMAC stiffness and physical function scales the improvements over
+      baseline on controlled release codeine were 47.7% and 49.3%, respectively
+      compared with 17.0% and 17.0%, respectively, with placebo (p = 0.003; p =
+      0.0007). Controlled release codeine was also significantly better than placebo on
+      measures of sleep quality and requirement for supplemental acetaminophen.
+      CONCLUSION: Single entity controlled release codeine is an effective treatment
+      for pain due to OA of the hip or knee.
+AD  - Royal University Hospital, Saskatoon, Saskatchewan, Canada. pelosop@duke.usask.ca
+FAU - Peloso, P M
+AU  - Peloso PM
+FAU - Bellamy, N
+AU  - Bellamy N
+FAU - Bensen, W
+AU  - Bensen W
+FAU - Thomson, G T
+AU  - Thomson GT
+FAU - Harsanyi, Z
+AU  - Harsanyi Z
+FAU - Babul, N
+AU  - Babul N
+FAU - Darke, A C
+AU  - Darke AC
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - CANADA
+TA  - J Rheumatol
+JT  - The Journal of rheumatology
+JID - 7501984
+RN  - 0 (Analgesics, Non-Narcotic)
+RN  - 0 (Analgesics, Opioid)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Placebos)
+RN  - 103-90-2 (Acetaminophen)
+RN  - 76-57-3 (Codeine)
+SB  - IM
+MH  - Acetaminophen/administration & dosage/therapeutic use
+MH  - Aged
+MH  - Analgesics, Non-Narcotic/administration & dosage/therapeutic use
+MH  - Analgesics, Opioid/*administration & dosage/therapeutic use
+MH  - Codeine/*administration & dosage/therapeutic use
+MH  - Delayed-Action Preparations
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Drug Therapy, Combination
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Osteoarthritis, Hip/*drug therapy/physiopathology
+MH  - Osteoarthritis, Knee/*drug therapy/physiopathology
+MH  - Placebos
+MH  - Pliability
+MH  - Sleep/drug effects
+EDAT- 2000/04/01 09:00
+MHDA- 2000/05/16 09:00
+CRDT- 2000/04/01 09:00
+PST - ppublish
+SO  - J Rheumatol. 2000 Mar;27(3):764-71.
+
+PMID- 10737286
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000412
+DCOM- 20000412
+LR  - 20061115
+IS  - 0003-9926 (Print)
+IS  - 0003-9926 (Linking)
+VI  - 160
+IP  - 6
+DP  - 2000 Mar 27
+TI  - Around-the-clock, controlled-release oxycodone therapy for osteoarthritis-related
+      pain: placebo-controlled trial and long-term evaluation.
+PG  - 853-60
+AB  - BACKGROUND: Although opioid analgesics have well-defined efficacy and safety in
+      treatment of chronic cancer pain, further research is needed to define their role
+      in treatment of chronic noncancer pain. OBJECTIVE: To evaluate the effects of
+      controlled-release oxycodone (OxyContin tablets) treatment on pain and function
+      and its safety vs placebo and in long-term use in patients with moderate to
+      severe osteoarthritis pain. METHODS: One hundred thirty-three patients
+      experiencing persistent osteoarthritis-related pain for at least 1 month were
+      randomized to double-blind treatment with placebo (n = 45) or 10 mg (n = 44) or
+      20 mg (n = 44) of controlled-release oxycodone every 12 hours for 14 days. One
+      hundred six patients enrolled in an open-label, 6-month extension trial;
+      treatment for an additional 12 months was optional. RESULTS: Use of
+      controlled-release oxycodone, 20 mg, was superior (P<.05) to placebo in reducing 
+      pain intensity and the interference of pain with mood, sleep, and enjoyment of
+      life. During long-term treatment, the mean dose remained stable at approximately 
+      40 mg/d after titration, and pain intensity was stable. Fifty-eight patients
+      completed 6 months of treatment, 41 completed 12 months, and 15 completed 18
+      months. Common opioid side effects were reported, several of which decreased in
+      duration as therapy continued. CONCLUSIONS: Around-the-clock controlled-release
+      oxycodone therapy seemed to be effective and safe for patients with chronic,
+      moderate to severe, osteo-arthritis-related pain. Effective analgesia was
+      accompanied by a reduction in the interference of pain with mood, sleep, and
+      enjoyment of life. Analgesia was maintained during long-term treatment, and the
+      daily dose remained stable after titration. Typical opioid side effects were
+      reported during short- and long-term therapy.
+AD  - Arthritis Center Ltd, Phoenix, Ariz, USA.
+FAU - Roth, S H
+AU  - Roth SH
+FAU - Fleischmann, R M
+AU  - Fleischmann RM
+FAU - Burch, F X
+AU  - Burch FX
+FAU - Dietz, F
+AU  - Dietz F
+FAU - Bockow, B
+AU  - Bockow B
+FAU - Rapoport, R J
+AU  - Rapoport RJ
+FAU - Rutstein, J
+AU  - Rutstein J
+FAU - Lacouture, P G
+AU  - Lacouture PG
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Arch Intern Med
+JT  - Archives of internal medicine
+JID - 0372440
+RN  - 0 (Analgesics, Opioid)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 76-42-6 (Oxycodone)
+SB  - AIM
+SB  - IM
+MH  - Aged
+MH  - Analgesics, Opioid/*administration & dosage/adverse effects
+MH  - Delayed-Action Preparations
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Osteoarthritis/*complications
+MH  - Oxycodone/*administration & dosage/adverse effects
+MH  - Pain/*drug therapy/*etiology
+MH  - Severity of Illness Index
+MH  - Treatment Outcome
+EDAT- 2000/03/29 09:00
+MHDA- 2000/04/15 09:00
+CRDT- 2000/03/29 09:00
+PST - ppublish
+SO  - Arch Intern Med. 2000 Mar 27;160(6):853-60.
+
+PMID- 10541775
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991203
+DCOM- 19991203
+LR  - 20061115
+IS  - 0031-6970 (Print)
+IS  - 0031-6970 (Linking)
+VI  - 55
+IP  - 8
+DP  - 1999 Oct
+TI  - Assessment of analgesia in human chronic pain. Randomized double-blind crossover 
+      study of once daily repro-dose morphine versus MST continus.
+PG  - 577-81
+AB  - OBJECTIVE: This study evaluated Repro-Dose morphine (RDM; Reliadol from Nycomed
+      Pharma), a new once daily controlled-release morphine formulation, against twice 
+      daily MST Continuous (MST) at steady state in patients with chronic opioid
+      responsive pain. METHODS: A randomized double-blind two-way crossover design was 
+      used to evaluate the efficacy and adverse effects of RDM once daily or MST twice 
+      daily, at the same total daily doses, in patients with chronic stable pain (dose 
+      range 20-120 mg per day). During the RDM limb of the study active drug was
+      administered in the evening and placebo in the morning. Dextromoramide was
+      provided as escape analgesia throughout the study. Following a 5-day screening
+      period, during which stability of oral opioid dose was verified, patients
+      underwent two 5-day treatment periods, (one MST, one RDM) in random sequence.
+      Pain scores, escape analgesia requirements and side-effects were compared using
+      data from days 3, 4 and 5 of each treatment period. Any events or medication
+      changes occurring during the study period thought liable to influence analgesia
+      were regarded as protocol violations. Overall assessment and period preference
+      was assessed by direct questioning. RDM treatment was regarded as successful if
+      the amount of escape medication required during the RDM period was equal to or
+      less than that required during the MST period. RESULTS: Forty-seven patients were
+      included in the study, of whom 40 completed both periods [the intention to treat 
+      (ITT) population], 31 in strict accordance with the protocol [the per protocol
+      (PP) population]. Results were similar for both populations. There was no
+      significant difference in pain scores or incidence of adverse events occurring
+      during the MST and RDM periods. For the ITT population, requirements for escape
+      medication during the RDM period were less than, equal to or greater than those
+      recorded during the MST period for 14, 15, and 11 patients, respectively.
+      Twenty-nine of 40 patients (72.5%) were therefore RDM treatment successes (95%
+      confidence interval 56.1-85.4%). The percentage of patients preferring RDM (45%) 
+      combined with those with no preference (32.5%) was significantly higher than
+      those preferring MST (22.5%; P = 0. 0003). CONCLUSIONS: Oral morphine
+      administered as RDM once daily is at least as effective and well tolerated as MST
+      twice daily, with over 70% of patients in this double-blind crossover study
+      reporting that RDM was equal or superior to MST.
+AD  - Pain Relief Research Unit, Kings College Hospital, Denmark Hill, Camberwell,
+      London SE5 9RS, UK. suepeat@lineone.net
+FAU - Peat, S
+AU  - Peat S
+FAU - Sweet, P
+AU  - Sweet P
+FAU - Miah, Y
+AU  - Miah Y
+FAU - Barklamb, M
+AU  - Barklamb M
+FAU - Larsen, U
+AU  - Larsen U
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - GERMANY
+TA  - Eur J Clin Pharmacol
+JT  - European journal of clinical pharmacology
+JID - 1256165
+RN  - 0 (Analgesics, Opioid)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 57-27-2 (Morphine)
+SB  - IM
+MH  - Administration, Oral
+MH  - Aged
+MH  - Analgesics, Opioid/*administration & dosage/adverse effects
+MH  - Chronic Disease
+MH  - Cross-Over Studies
+MH  - Delayed-Action Preparations
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Morphine/*administration & dosage/adverse effects
+MH  - Pain/*drug therapy
+MH  - Pain Measurement
+EDAT- 1999/12/14
+MHDA- 1999/12/14 00:01
+CRDT- 1999/12/14 00:00
+AID - 90550577.228 [pii]
+PST - ppublish
+SO  - Eur J Clin Pharmacol. 1999 Oct;55(8):577-81.
+
+PMID- 10524470
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991112
+DCOM- 19991112
+LR  - 20061115
+IS  - 0749-8047 (Print)
+IS  - 0749-8047 (Linking)
+VI  - 15
+IP  - 3
+DP  - 1999 Sep
+TI  - Efficacy and safety of controlled-release versus immediate-release oxycodone:
+      randomized, double-blind evaluation in patients with chronic back pain.
+PG  - 179-83
+AB  - OBJECTIVE: To compare the efficacy and safety of controlled-release oxycodone
+      given every 12 hours with immediate-release oxycodone given four times daily in
+      patients with persistent back pain. DESIGN: Randomized, double-blind,
+      active-controlled, two-period crossover trial. PATIENTS: Fifty-seven adult
+      outpatients with stable, chronic, moderate-to-severe low back pain despite
+      analgesic therapy were enrolled; 47 were randomized; 11 discontinued for side
+      effects, most commonly nausea and vomiting. INTERVENTIONS: Controlled-release
+      oxycodone tablets given every 12 hours; immediate-release oxycodone tablets given
+      four times daily; dose titration with controlled-release or immediate-release for
+      up to 10 days; double-blind treatment for 4-7 days each. OUTCOME MEASURES:
+      Patients' pain scores (0 = none, 1 = slight, 2 = moderate, 3 = severe). RESULTS: 
+      Pain intensity decreased from moderate to severe at baseline to slight at the end
+      of titration with both oxycodone formulations. The daily oxycodone dose was 40 mg
+      or less in 68% of patients. During double-blind treatment, mean pain intensity
+      was maintained at 1.2 (0.1 SE) with controlled-release and at 1.1 (0.1 SE) with
+      immediate-release oxycodone. The most common adverse events were constipation,
+      nausea, pruritus, somnolence, and dizziness. CONCLUSIONS: Controlled-release
+      oxycodone given every 12 hours was comparable with immediate-release oxycodone
+      given four times daily in efficacy and safety, and it provides convenient,
+      twice-daily, around-the-clock treatment for selected patients with persistent
+      back pain that is inadequately controlled by nonopioids or as-needed opioid
+      therapy.
+AD  - Park Place Therapeutic Center, Plantation, Florida 33324, USA.
+FAU - Hale, M E
+AU  - Hale ME
+FAU - Fleischmann, R
+AU  - Fleischmann R
+FAU - Salzman, R
+AU  - Salzman R
+FAU - Wild, J
+AU  - Wild J
+FAU - Iwan, T
+AU  - Iwan T
+FAU - Swanton, R E
+AU  - Swanton RE
+FAU - Kaiko, R F
+AU  - Kaiko RF
+FAU - Lacouture, P G
+AU  - Lacouture PG
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Clin J Pain
+JT  - The Clinical journal of pain
+JID - 8507389
+RN  - 0 (Analgesics, Opioid)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 76-42-6 (Oxycodone)
+SB  - IM
+MH  - Analgesics, Opioid/*administration & dosage/adverse effects/therapeutic use
+MH  - Back Pain/*drug therapy/physiopathology
+MH  - Chronic Disease
+MH  - Delayed-Action Preparations
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Oxycodone/*administration & dosage/adverse effects/therapeutic use
+MH  - Titrimetry
+MH  - Treatment Outcome
+EDAT- 1999/10/19
+MHDA- 1999/10/19 00:01
+CRDT- 1999/10/19 00:00
+PST - ppublish
+SO  - Clin J Pain. 1999 Sep;15(3):179-83.
+
+PMID- 10229408
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990614
+DCOM- 19990614
+LR  - 20061115
+IS  - 0315-162X (Print)
+IS  - 0315-162X (Linking)
+VI  - 26
+IP  - 4
+DP  - 1999 Apr
+TI  - Treatment of osteoarthritis pain with controlled release oxycodone or fixed
+      combination oxycodone plus acetaminophen added to nonsteroidal antiinflammatory
+      drugs: a double blind, randomized, multicenter, placebo controlled trial.
+PG  - 862-9
+AB  - OBJECTIVE: To compare the efficacy and safety of controlled release oxycodone
+      given every 12 h around the clock with immediate release oxycodone-acetaminophen 
+      (APAP) given 4 times daily for osteoarthritis (OA) pain. METHODS: Adults (n=167) 
+      with moderate to severe OA pain despite regular use of nonsteroidal
+      antiinflammatory drugs (NSAID) entered open label titration for 30 days with
+      immediate release oxycodone qid; 107 qualified for randomization to double blind,
+      parallel group treatment for 30 days with placebo, controlled release oxycodone, 
+      or immediate release oxycodone-APAP. RESULTS: Following titration with immediate 
+      release oxycodone, mean (SE) pain intensity (0, none to 3, severe) decreased from
+      2.44 (0.04) to 1.38 (0.05) (p=0.0001), and quality of sleep (1, very poor; 5,
+      excellent) improved from 2.58 (0.08) to 3.57 (0.07) (p=0.0001). Mean dose was
+      about 40 mg/day. Pain intensity and quality of sleep were significantly improved 
+      in both active groups compared with the placebo group (p< or =0.05) during the
+      double blind trial. Pain intensity and sleep scores were comparable in both
+      active groups during double blind treatment. Nausea (p=0.03) and dry mouth
+      (p=0.09) were less common with controlled release oxycodone than immediate
+      release oxycodone-APAP. CONCLUSION: Controlled release oxycodone q12h and
+      immediate release oxycodone-APAP qid, added to NSAID, were superior to placebo
+      for reducing OA pain and improving quality of sleep. The active treatments
+      provided comparable pain control and sleep quality. Controlled release oxycodone 
+      was associated with a lower incidence of some side effects.
+AD  - Gainesville Clinical Research Center, Florida 32605, USA.
+FAU - Caldwell, J R
+AU  - Caldwell JR
+FAU - Hale, M E
+AU  - Hale ME
+FAU - Boyd, R E
+AU  - Boyd RE
+FAU - Hague, J M
+AU  - Hague JM
+FAU - Iwan, T
+AU  - Iwan T
+FAU - Shi, M
+AU  - Shi M
+FAU - Lacouture, P G
+AU  - Lacouture PG
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - CANADA
+TA  - J Rheumatol
+JT  - The Journal of rheumatology
+JID - 7501984
+RN  - 0 (Analgesics, Non-Narcotic)
+RN  - 0 (Analgesics, Opioid)
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 103-90-2 (Acetaminophen)
+RN  - 76-42-6 (Oxycodone)
+SB  - IM
+MH  - Acetaminophen/*therapeutic use
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Analgesics, Non-Narcotic/*therapeutic use
+MH  - Analgesics, Opioid/administration & dosage/*therapeutic use
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*therapeutic use
+MH  - Arthrography
+MH  - Delayed-Action Preparations
+MH  - Double-Blind Method
+MH  - Drug Therapy, Combination
+MH  - Female
+MH  - Humans
+MH  - Joints/pathology
+MH  - Male
+MH  - Middle Aged
+MH  - Osteoarthritis/*drug therapy/physiopathology/radiography
+MH  - Oxycodone/administration & dosage/*therapeutic use
+MH  - Pain/*drug therapy
+MH  - Pain Measurement
+MH  - Quality of Life
+MH  - Sleep
+MH  - Treatment Outcome
+EDAT- 1999/05/06
+MHDA- 1999/05/06 00:01
+CRDT- 1999/05/06 00:00
+PST - ppublish
+SO  - J Rheumatol. 1999 Apr;26(4):862-9.
+
+PMID- 9854758
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990225
+DCOM- 19990225
+LR  - 20090709
+IS  - 0362-2436 (Print)
+IS  - 0362-2436 (Linking)
+VI  - 23
+IP  - 23
+DP  - 1998 Dec 1
+TI  - Opioid therapy for chronic noncancer back pain. A randomized prospective study.
+PG  - 2591-600
+AB  - STUDY DESIGN: A randomized, open, long-term, repeated-dose comparison of an
+      anti-inflammatory drug and two opioid regimens in 36 patients with back pain.
+      OBJECTIVES: To examine the long-term safety and efficacy of chronic opioid
+      therapy in a randomized trial of patients with back pain. METHODS: All
+      participants underwent a 4-week washout period of no opioid medication before
+      being randomly assigned to one of three treatment regimens for 16 weeks: 1)
+      naproxen only, 2) set-dose oxycodone, or 3) titrated-dose oxycodone and
+      sustained-release morphine sulfate. All patients then were assigned to a titrated
+      dose of opioids for 16 weeks and then gradually tapered off their medication for 
+      12 weeks. Finally, all participants were monitored for a 1-month posttreatment
+      washout period. Each patient was called once a week for a report on pain,
+      activity, mood, medication, hours awake, and adverse effects and was monitored
+      carefully for signs of abuse and noncompliance. RESULTS: Weekly reports during
+      the experimental phase showed the titrated-dose group to have less pain (P <
+      0.001) and less emotional distress (P < 0.001) than the other two groups. Both
+      opioid groups were significantly different from the naproxen-only group. During
+      the titration phase, patients also reported significantly less pain and improved 
+      mood. Few differences were found in activity or hours asleep, or between average 
+      pretreatment and posttreatment phone-interview and questionnaire variables. No
+      adverse events occurred, and only one participant showed signs of abuse behavior.
+      CONCLUSIONS: The results suggest that opioid therapy has a positive effect on
+      pain and mood but little effect on activity and sleep. Opioid therapy for chronic
+      back pain was used without significant risk of abuse. However, tapered-off opioid
+      treatment is palliative and without long-term benefit.
+AD  - Department of Anesthesia, Brigham and Women's Hospital, Harvard Medical School,
+      Boston, Massachusetts, USA.
+FAU - Jamison, R N
+AU  - Jamison RN
+FAU - Raymond, S A
+AU  - Raymond SA
+FAU - Slawsby, E A
+AU  - Slawsby EA
+FAU - Nedeljkovic, S S
+AU  - Nedeljkovic SS
+FAU - Katz, N P
+AU  - Katz NP
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Spine (Phila Pa 1976)
+JT  - Spine
+JID - 7610646
+RN  - 0 (Analgesics, Opioid)
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 22204-53-1 (Naproxen)
+RN  - 57-27-2 (Morphine)
+RN  - 76-42-6 (Oxycodone)
+SB  - IM
+MH  - Activities of Daily Living
+MH  - Adult
+MH  - Analgesics, Opioid/adverse effects/*therapeutic use
+MH  - Anti-Inflammatory Agents, Non-Steroidal/adverse effects/therapeutic use
+MH  - Back Pain/*drug therapy
+MH  - Drug Therapy, Combination
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Mood Disorders/drug therapy
+MH  - Morphine/adverse effects/*therapeutic use
+MH  - Naproxen/adverse effects/therapeutic use
+MH  - Oxycodone/adverse effects/*therapeutic use
+MH  - Pain Measurement
+MH  - Prospective Studies
+MH  - Questionnaires
+MH  - Sleep/drug effects
+MH  - Treatment Outcome
+EDAT- 1998/12/17
+MHDA- 1998/12/17 00:01
+CRDT- 1998/12/17 00:00
+PST - ppublish
+SO  - Spine (Phila Pa 1976). 1998 Dec 1;23(23):2591-600.
+
+PMID- 9633737
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980709
+DCOM- 19980709
+LR  - 20061115
+IS  - 0028-3878 (Print)
+IS  - 0028-3878 (Linking)
+VI  - 50
+IP  - 6
+DP  - 1998 Jun
+TI  - Efficacy of oxycodone in neuropathic pain: a randomized trial in postherpetic
+      neuralgia.
+PG  - 1837-41
+AB  - OBJECTIVE: Although opioid analgesics are used in the management of neuropathic
+      pain syndromes, evidence of their efficacy remains to be established. We
+      evaluated the clinical efficacy and safety of oxycodone in neuropathic pain using
+      postherpetic neuralgia as a model. METHODS: Patients with postherpetic neuralgia 
+      of at least moderate intensity were randomized to controlled-release oxycodone 10
+      mg or placebo every 12 hours, each for 4 weeks, using a double-blind, crossover
+      design. The dose was increased weekly up to a possible maximum of 30 mg every 12 
+      hours. Pain intensity and pain relief were assessed daily, and steady (ongoing)
+      pain, brief (paroxysmal) pain, skin pain (allodynia), and pain relief were
+      recorded at weekly visits. Clinical effectiveness, disability, and treatment
+      preference were also assessed. RESULTS: Fifty patients were enrolled and 38
+      completed the study (16 men, 22 women, age 70+/-11 years, onset of postherpetic
+      neuralgia 31+/-29 months, duration of pain 18+/-5 hours per day). The oxycodone
+      dose during the final week was 45+/-17 mg per day. Compared with placebo,
+      oxycodone resulted in pain relief (2.9+/-1.2 versus 1.8+/-1.1, p=0.0001) and
+      reductions in steady pain (34+/-26 versus 55+/-27 mm, p=0.0001), allodynia
+      (32+/-26 versus 50+/-30 mm, p=0.0004), and paroxysmal spontaneous pain (22+/-24
+      versus 42+/-32 mm, p=0.0001). Global effectiveness, disability, and masked
+      patient preference all showed superior scores with oxycodone relative to placebo 
+      (1.8+/-1.1 versus 0.7+/-1.0, p=0.0001; 0.3+/-0.8 versus 0.7+/-1.0, p=0.041; 67%
+      versus 11%, p=0.001, respectively). CONCLUSIONS: Controlled-release oxycodone is 
+      an effective analgesic for the management of steady pain, paroxysmal spontaneous 
+      pain, and allodynia, which frequently characterize postherpetic neuralgia.
+AD  - Department of Medicine, University of Toronto, Ontario, Canada.
+FAU - Watson, C P
+AU  - Watson CP
+FAU - Babul, N
+AU  - Babul N
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Neurology
+JT  - Neurology
+JID - 0401060
+RN  - 0 (Analgesics, Opioid)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 76-42-6 (Oxycodone)
+SB  - AIM
+SB  - IM
+MH  - Aged
+MH  - Analgesics, Opioid/administration & dosage/adverse effects/*therapeutic use
+MH  - Cross-Over Studies
+MH  - Delayed-Action Preparations
+MH  - Double-Blind Method
+MH  - Female
+MH  - Herpes Zoster/*complications
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Neuralgia/*drug therapy/physiopathology/*virology
+MH  - Oxycodone/administration & dosage/adverse effects/*therapeutic use
+MH  - Pain/physiopathology
+MH  - Treatment Outcome
+EDAT- 1998/06/20
+MHDA- 1998/06/20 00:01
+CRDT- 1998/06/20 00:00
+PST - ppublish
+SO  - Neurology. 1998 Jun;50(6):1837-41.
+
+PMID- 8544547
+OWN - NLM
+STAT- MEDLINE
+DA  - 19960209
+DCOM- 19960209
+LR  - 20061115
+IS  - 0140-6736 (Print)
+IS  - 0140-6736 (Linking)
+VI  - 347
+IP  - 8995
+DP  - 1996 Jan 20
+TI  - Randomised trial of oral morphine for chronic non-cancer pain.
+PG  - 143-7
+AB  - BACKGROUND: The use of opioid analgesics for chronic non-cancer pain is
+      controversial. Some surveys report good pain relief and improvement in
+      performance while others suggest a poor outcome with a propensity to
+      psychological dependence or addiction. METHODS: We undertook a randomised
+      double-blind crossover study to test the hypothesis that oral morphine relieves
+      pain and improves the quality of life in patients with chronic regional pain of
+      soft tissue or musculoskeletal origin who have not responded to codeine,
+      anti-inflammatory agents, and antidepressants. Morphine was administered as a
+      sustained-release preparation in doses up to 60 mg twice daily and compared with 
+      benztropine (active placebo) in doses up to 1 mg twice daily over three-week
+      titration, six-week evaluation, and two-week washout phases. Pain intensity, pain
+      relief, and drug liking were rated weekly and psychological features, functional 
+      status, and cognition were assessed at baseline and at the end of each evaluation
+      phase. FINDINGS: After dose titration in the 46 patients who completed the study,
+      the mean daily doses of drugs were morphine 83.5 mg and benztropine 1.7 mg. On
+      visual analogue scales, the morphine group showed a reduction in pain intensity
+      relative to placebo in period I (p = 0.01) and this group also fared better in a 
+      crossover analysis of the sum of pain intensity differences from baseline (p =
+      0.02). No other significant differences were detected. INTERPRETATION: In
+      patients with treatment-resistant chronic regional pain of soft-tissue or
+      musculoskeletal origin, nine weeks of oral morphine in doses up to 120 mg daily
+      may confer analgesic benefit with a low risk of addiction but is unlikely to
+      yield psychological or functional improvement.
+AD  - Department of Clinical Neurological Sciences, University of Western Ontario,
+      London, Canada.
+FAU - Moulin, D E
+AU  - Moulin DE
+FAU - Iezzi, A
+AU  - Iezzi A
+FAU - Amireh, R
+AU  - Amireh R
+FAU - Sharpe, W K
+AU  - Sharpe WK
+FAU - Boyd, D
+AU  - Boyd D
+FAU - Merskey, H
+AU  - Merskey H
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Lancet
+JT  - Lancet
+JID - 2985213R
+RN  - 0 (Analgesics, Opioid)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Placebos)
+RN  - 57-27-2 (Morphine)
+RN  - 86-13-5 (Benztropine)
+SB  - AIM
+SB  - IM
+MH  - Administration, Oral
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Analgesics, Opioid/administration & dosage/*therapeutic use
+MH  - Benztropine/administration & dosage/therapeutic use
+MH  - Chronic Disease
+MH  - Cognition/drug effects
+MH  - Cross-Over Studies
+MH  - Delayed-Action Preparations
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Morphine/administration & dosage/*therapeutic use
+MH  - Musculoskeletal Diseases/physiopathology
+MH  - Pain/*drug therapy/physiopathology/psychology
+MH  - Pain Measurement
+MH  - Patient Satisfaction
+MH  - Placebos
+MH  - Quality of Life
+MH  - Treatment Outcome
+EDAT- 1996/01/20
+MHDA- 1996/01/20 00:01
+CRDT- 1996/01/20 00:00
+PST - ppublish
+SO  - Lancet. 1996 Jan 20;347(8995):143-7.
+
+PMID- 8545142
+OWN - NLM
+STAT- MEDLINE
+DA  - 19960213
+DCOM- 19960213
+LR  - 20061115
+IS  - 0304-3959 (Print)
+IS  - 0304-3959 (Linking)
+VI  - 62
+IP  - 2
+DP  - 1995 Aug
+TI  - Efficacy of controlled-release codeine in chronic non-malignant pain: a
+      randomized, placebo-controlled clinical trial.
+PG  - 169-78
+AB  - Treatment decisions for the use of opioid analgesics in chronic non-malignant
+      pain are based primarily on survey data, as evidence from well-controlled
+      clinical trials has been lacking. Forty-six patients with chronic non-malignant
+      pain were enrolled in a randomized, double-blind, placebo-controlled evaluation
+      of controlled-release (CR) codeine. Following a 3-7-day diary familiarization
+      period, patients were randomly assigned to 7 days of treatment each with CR
+      codeine q12h or placebo. The CR codeine dose was determined from the consumption 
+      of acetaminophen+codeine in the 7 days preceding the study. During both phases,
+      breakthrough pain was treated with acetaminophen+codeine every 4 h as required.
+      Pain intensity was assessed at 08:00 h and 20:00 h using a visual analogue scale 
+      (VAS) and a 5-point categorical scale, and rescue analgesic consumption was
+      recorded at the time of use. Thirty patients (17 female, 13 male; mean age: 55.1 
+      +/- 13.4 years) completed the study and were treated with a mean daily CR codeine
+      dose of 273 +/- 78 mg (range: 200-400 mg). CR codeine treatment resulted in
+      significantly lower overall VAS pain intensity scores (35 +/- 18 vs. 49 +/- 16, P
+      = 0.0001), categorical pain intensity scores (1.7 +/- 0.6 vs. 2.2 +/- 0.6, P =
+      0.0001), and in pain scores by day of treatment and by time of day. Daily rescue 
+      analgesic consumption was significantly lower on CR codeine, relative to placebo 
+      treatment (3.6 +/- 3.5 vs. 6.1 +/- 3.2 tablets/day, P = 0.0001). There was also a
+      significant reduction in the Pain Disability Index (PDI) on CR codeine, compared 
+      to placebo (25.0 +/- 7.7 vs. 35.1 +/- 8.2, P = 0.0001). Patients' and
+      investigators' blinded treatment preference was significantly in favor of CR
+      codeine, relative to placebo (73% vs. 10%, P = 0.0160 and 80% vs. 7%, P = 0.0014,
+      respectively). The incidence of nausea was significantly higher on CR codeine
+      than on placebo (32.6% vs. 11.9%, P = 0.013). Ninety-three percent of patients
+      completing the study requested long-term, open-label treatment with CR codeine.
+      Pain intensity scores at the completion of 19 weeks of long-term evaluation were 
+      comparable to those during the double-blind CR codeine treatment. We conclude
+      that treatment with CR codeine results in reduced pain and pain-related
+      disability in patients with chronic non-malignant pain.
+AD  - Allergy and Respiratory Medicine Clinic, Kelowna, British Columbia, Canada.
+FAU - Arkinstall, W
+AU  - Arkinstall W
+FAU - Sandler, A
+AU  - Sandler A
+FAU - Goughnour, B
+AU  - Goughnour B
+FAU - Babul, N
+AU  - Babul N
+FAU - Harsanyi, Z
+AU  - Harsanyi Z
+FAU - Darke, A C
+AU  - Darke AC
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - NETHERLANDS
+TA  - Pain
+JT  - Pain
+JID - 7508686
+RN  - 0 (Analgesics, Opioid)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Drug Combinations)
+RN  - 0 (Placebos)
+RN  - 103-90-2 (Acetaminophen)
+RN  - 76-57-3 (Codeine)
+SB  - IM
+MH  - Acetaminophen/therapeutic use
+MH  - Adult
+MH  - Aged
+MH  - Analgesics, Opioid/adverse effects/*therapeutic use
+MH  - Analysis of Variance
+MH  - Chronic Disease
+MH  - Codeine/adverse effects/*therapeutic use
+MH  - Cross-Over Studies
+MH  - Delayed-Action Preparations
+MH  - Dose-Response Relationship, Drug
+MH  - Drug Combinations
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Pain/*drug therapy
+MH  - Placebos
+EDAT- 1995/08/01
+MHDA- 1995/08/01 00:01
+CRDT- 1995/08/01 00:00
+AID - 0304-3959(94)00262-D [pii]
+PST - ppublish
+SO  - Pain. 1995 Aug;62(2):169-78.

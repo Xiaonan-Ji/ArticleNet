@@ -1,0 +1,69 @@
+adult
+adults
+adverse
+albuminuria
+benazepril
+captopril
+cardiovascular
+carotid
+cerebrovascular
+cilazapril
+congestive
+creatinine
+diabetes
+enalapril 
+fosinopril
+hyperlipidemia
+hypertension
+kidney
+lisinopril
+moexipril
+mortality
+myocardial infarction
+nephropath
+nephropathy
+perindopril
+peripheral vascular
+quinapril 
+ramipril 
+renal
+stroke
+trandolapril
+ventricular
+adverse
+itches
+itch
+itching
+poison
+poisonous
+toxic
+functional
+withdrawal
+withdrawals
+safety
+mortality
+hospitalization
+emergency
+emergencies
+discontinuation
+employment
+employ
+nausea
+vomit
+headache
+tolerability
+tolerance
+death
+dead
+placebo
+quality of life
+life quality
+dry mouth
+mental state
+low back pain
+heart failure
+heart disease
+blood pressure
+myocardial infarction
+adverse effect
+adverse effects

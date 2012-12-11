@@ -1,0 +1,2077 @@
+
+PMID- 14616928
+OWN - NLM
+STAT- MEDLINE
+DA  - 20031117
+DCOM- 20031224
+LR  - 20101118
+IS  - 0333-1024 (Print)
+IS  - 0333-1024 (Linking)
+VI  - 23
+IP  - 9
+DP  - 2003 Nov
+TI  - Comparative efficacy of eletriptan vs. naratriptan in the acute treatment of
+      migraine.
+PG  - 869-76
+AB  - This was a randomized, double-blind study designed to evaluate the comparative
+      efficacy and tolerability of the 40-mg dose of eletriptan and the 2.5-mg dose of 
+      naratriptan. Patients (n = 548) meeting International Headache Society (IHS)
+      criteria for migraine were randomized to treat a single migraine attack with
+      either eletriptan 40 mg, naratriptan 2.5 mg, or placebo. Headache response rates 
+      at 2 h and 4 h, respectively, were 56% and 80% for eletriptan, 42% and 67% for
+      naratriptan (P < 0.01 for both time-points vs. eletriptan), and 31% and 44% for
+      placebo (P < 0.0001 vs. both active drugs at both time-points). Eletriptan also
+      showed a significantly greater pain-free response at 2 h (35% vs. 18%; P < 0.001)
+      as well as lower use of rescue medication (15% vs. 27%; P < 0.01) and higher
+      sustained headache response at 24 h (38%) compared with naratriptan (27%; P <
+      0.05) and placebo (19%; P < 0.01). Both eletriptan and naratriptan were well
+      tolerated. The results confirm previous meta-analyses that have suggested the
+      superiority of eletriptan vs. naratriptan in the acute treatment of migraine.
+AD  - Hospital Medica Sur, Colonia Toriello Guerra, Mexico.
+FAU - Garcia-Ramos, G
+AU  - Garcia-Ramos G
+FAU - MacGregor, E A
+AU  - MacGregor EA
+FAU - Hilliard, B
+AU  - Hilliard B
+FAU - Bordini, C A
+AU  - Bordini CA
+FAU - Leston, J
+AU  - Leston J
+FAU - Hettiarachchi, J
+AU  - Hettiarachchi J
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Cephalalgia
+JT  - Cephalalgia : an international journal of headache
+JID - 8200710
+RN  - 0 (Indoles)
+RN  - 0 (Piperidines)
+RN  - 0 (Pyrrolidines)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Tryptamines)
+RN  - 0 (eletriptan)
+RN  - 121679-13-8 (naratriptan)
+SB  - IM
+MH  - Adult
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Indoles/adverse effects/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/*drug therapy
+MH  - Patient Satisfaction
+MH  - Piperidines/adverse effects/*therapeutic use
+MH  - Pyrrolidines/adverse effects/*therapeutic use
+MH  - Serotonin Receptor Agonists/adverse effects/*therapeutic use
+MH  - Time Factors
+MH  - Treatment Outcome
+MH  - Tryptamines
+EDAT- 2003/11/18 05:00
+MHDA- 2003/12/25 05:00
+CRDT- 2003/11/18 05:00
+AID - 593 [pii]
+PST - ppublish
+SO  - Cephalalgia. 2003 Nov;23(9):869-76.
+
+PMID- 12749502
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030516
+DCOM- 20030710
+LR  - 20101118
+IS  - 0149-2918 (Print)
+IS  - 0149-2918 (Linking)
+VI  - 25
+IP  - 2
+DP  - 2003 Feb
+TI  - A review of the effects of almotriptan and other triptans on clinical trial
+      outcomes that are meaningful to patients with migraine.
+PG  - 331-41
+AB  - BACKGROUND: Traditional end points in clinical trials of migraine therapy, such
+      as 2-hour pain response, may not fully address the outcomes patients consider
+      most important: rapid and sustained freedom from pain over 24 hours, and a low,
+      placebo-like incidence of adverse events. A composite efficacy measure such as
+      the sustained pain-free rate (no pain by 2 hours after dosing, no recurrence, no 
+      use of rescue medication from 2 to 24 hours after dosing) may be more
+      appropriate. OBJECTIVE: Clinically relevant differences between almotriptan and
+      other triptans were reviewed in the context of the attributes of acute migraine
+      treatment that patients consider most important. METHODS: This review was based
+      on published reports of open-label and placebo-controlled clinical trials of
+      almotriptan, results of a survey concerning the attributes patients consider most
+      important in a migraine medication, and a published meta-analysis of 53
+      placebo-controlled clinical trials of triptans involving >24,000 patients.
+      RESULTS: Almotriptan was effective and well tolerated in the placebo-controlled
+      clinical trials; results of the 6- and 12-month open-label studies supported its 
+      good tolerability profile. A respective 87% and 86% of respondents to the patient
+      survey indicated that they considered complete freedom from pain and no
+      recurrence among the most important attributes of migraine treatment, both of
+      which are included in the sustained pain-free rate. In the meta-analysis,
+      almotriptan had a favorable efficacy and tolerability profile compared with other
+      triptans, particularly with respect to sustained pain-free rate, which was
+      significantly higher with almotriptan 12.5 mg compared with sumatriptan 100 mg
+      (25.9% vs 20.0%, respectively; P < 0.05). In addition, the placebo-subtracted
+      rate of adverse events was significantly lower with almotriptan compared with
+      sumatriptan (1.8% vs 4.4%, respectively; P < 0.05). Results of a head-to-head
+      placebo-controlled trial of almotriptan 12.5 mg and sumatriptan 100 mg supported 
+      the balance of efficacy and tolerability observed for almotriptan in the
+      meta-analysis. CONCLUSIONS: Data from clinical trials suggest that almotriptan is
+      effective and well tolerated in the treatment of acute migraine pain. Based on a 
+      sustained pain-free rate that is among the highest and an adverse-event rate that
+      is among the lowest for the triptans, almotriptan represents a therapeutic option
+      for the initial treatment of acute migraine with or without aura.
+AD  - Department of Neurology, The Johns Hopkins University School of Medicine,
+      Baltimore, Maryland, USA. bmondell@jhmi.edu
+FAU - Mondell, Brian E
+AU  - Mondell BE
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - United States
+TA  - Clin Ther
+JT  - Clinical therapeutics
+JID - 7706726
+RN  - 0 (Indoles)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Tryptamines)
+RN  - 154323-57-6 (almotriptan)
+SB  - IM
+MH  - Clinical Trials as Topic
+MH  - Humans
+MH  - Indoles/adverse effects/*therapeutic use
+MH  - Migraine Disorders/*drug therapy
+MH  - Serotonin Receptor Agonists/adverse effects/*therapeutic use
+MH  - Treatment Outcome
+MH  - Tryptamines
+RF  - 27
+EDAT- 2003/05/17 05:00
+MHDA- 2003/07/11 05:00
+CRDT- 2003/05/17 05:00
+AID - S014929180380084X [pii]
+PST - ppublish
+SO  - Clin Ther. 2003 Feb;25(2):331-41.
+
+PMID- 12656712
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030326
+DCOM- 20030709
+LR  - 20101118
+IS  - 0017-8748 (Print)
+IS  - 0017-8748 (Linking)
+VI  - 43
+IP  - 4
+DP  - 2003 Apr
+TI  - Sumatriptan in migraine with unilateral cranial autonomic symptoms: an open
+      study.
+PG  - 400-3
+AB  - OBJECTIVE: To investigate the response to sumatriptan in migraineurs with
+      unilateral cranial autonomic symptoms such as lacrimation, eye redness, eyelid
+      edema, nasal congestion, and rhinorrhea. BACKGROUND: Given the potential
+      large-scale recruitment of peripheral neurovascular 5-HT1B/1D receptors
+      consequent to the activation of the trigeminal autonomic reflex in such patients,
+      the presence of unilateral cranial autonomic symptoms may predict a positive
+      response to sumatriptan. METHODS: Seventy-two consecutive migraineurs with
+      unilateral cranial autonomic symptoms were given sumatriptan 50-mg tablets to
+      treat 1 migraine attack and were asked to record their clinical response to the
+      drug at different time points. End points were pain-relief and pain-free response
+      at 1 and 2 hours. RESULTS: Pain relief was reported by 47 patients (65.3%) at 1
+      hour and by 59 (81.9%) at 2 hours. Pain-free response was reported by 22 patients
+      (30.6%) at 1 hour and by 44 (61.1%) at 2 hours. Responsiveness to sumatriptan did
+      not correlate with the type or number of unilateral cranial autonomic symptoms,
+      demographic characteristics, prophylactic treatments, use of contraceptives, or
+      concomitant tension-type headache. CONCLUSIONS: Migraineurs with unilateral
+      cranial autonomic symptoms seem to respond to sumatriptan better than other
+      migraineurs. The presence of unilateral cranial autonomic symptoms may predict a 
+      positive response to the triptans.
+AD  - Department of Neurosciences, University La Sapienza, Viale dell'Universita 30,
+      00185 Rome, Italy.
+FAU - Barbanti, Piero
+AU  - Barbanti P
+FAU - Fabbrini, Giovanni
+AU  - Fabbrini G
+FAU - Vanacore, Nicola
+AU  - Vanacore N
+FAU - Pesare, Marina
+AU  - Pesare M
+FAU - Buzzi, Maria Gabriella
+AU  - Buzzi MG
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PL  - United States
+TA  - Headache
+JT  - Headache
+JID - 2985091R
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 103628-46-2 (Sumatriptan)
+SB  - IM
+MH  - Adult
+MH  - Autonomic Nervous System/*physiopathology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Migraine Disorders/*drug therapy/physiopathology
+MH  - Reflex/drug effects/physiology
+MH  - Serotonin Receptor Agonists/*therapeutic use
+MH  - Sumatriptan/*therapeutic use
+MH  - Treatment Outcome
+MH  - Trigeminal Nerve/drug effects/physiopathology
+EDAT- 2003/03/27 05:00
+MHDA- 2003/07/10 05:00
+CRDT- 2003/03/27 05:00
+AID - hed03077 [pii]
+PST - ppublish
+SO  - Headache. 2003 Apr;43(4):400-3.
+
+PMID- 12656709
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030326
+DCOM- 20030709
+LR  - 20101118
+IS  - 0017-8748 (Print)
+IS  - 0017-8748 (Linking)
+VI  - 43
+IP  - 4
+DP  - 2003 Apr
+TI  - Migraine headache recurrence: relationship to clinical, pharmacological, and
+      pharmacokinetic properties of triptans.
+PG  - 376-88
+AB  - BACKGROUND AND OBJECTIVES: Triptan use is associated with headache recurrence,
+      and this has been cited as an important reason for patient dissatisfaction with
+      the treatment. The mechanism by which recurrence occurs is not clear, and the
+      incidence of recurrence varies with the triptan used. In order to explore the
+      pharmacological and physiological interaction of triptans and migraine headache
+      recurrence further, some specific clinical, pharmacological, and pharmacokinetic 
+      factors that might influence migraine recurrence were evaluated in a review of
+      the major efficacy data for the drugs in the triptan class. These factors were
+      5-HT1B and 5-HT1D receptor activities, the pharmacokinetic elimination half-life 
+      of each triptan, and the clinical efficacy of each compound, determined by the
+      proportion of patients with headache relief and the therapeutic gain over
+      placebo. METHODS: Clinical data were derived from 31 triptan, placebo-controlled,
+      major efficacy studies used in a previous meta-analysis. The mean recurrence
+      rate, mean headache response, and therapeutic gain were calculated using the
+      results from the individual clinical studies. Mean headache response and
+      therapeutic gain were calculated at the time point used to define recurrence in
+      each study. Data for binding affinity and potency were taken from a
+      direct-comparison in vitro pharmacology study, and the elimination half-life
+      quoted in the data sheet for each triptan was used. Rank correlation with
+      recurrence rate was performed for each of the test parameters. RESULTS: Mean
+      headache recurrence rates ranged from 17% for frovatriptan 2.5 mg to 40% for
+      rizatriptan. Elimination half-life and recurrence were inversely correlated (r = 
+      -1.0, P =.0016). There was also a significant inverse correlation between 5-HT1B 
+      receptor potency and recurrence (r = -0.68, P =.034), but 5-HT1D receptor potency
+      was not correlated with recurrence (r = -0.20, P =.54). In addition, the binding 
+      affinities for the 5-HT1B and 5-HT1D receptors were not correlated to headache
+      recurrence. Importantly, it also was demonstrated that initial clinical efficacy 
+      was not correlated to headache recurrence. The correlation coefficient for
+      headache response was 0.18 (P =.53) and for therapeutic gain, -0.11 (P =.71).
+      CONCLUSION: The incidence of migraine headache recurrence varies between drugs in
+      the triptan class. Migraine recurrence does not appear to be related to initial
+      clinical efficacy, but is influenced by the pharmacological and pharmacokinetic
+      properties of the individual triptans. The triptans with longer half-lives and
+      greater 5-HT1B receptor potency had the lowest rates of headache recurrence.
+AD  - Service de Neurologie, CHU Rangueil, 1 Avenue Jean Poulhes, 31054 Toulouse,
+      France.
+FAU - Geraud, Gilles
+AU  - Geraud G
+FAU - Keywood, Charlotte
+AU  - Keywood C
+FAU - Senard, Jean Michel
+AU  - Senard JM
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Headache
+JT  - Headache
+JID - 2985091R
+RN  - 0 (HTR1B protein, human)
+RN  - 0 (Receptor, Serotonin, 5-HT1B)
+RN  - 0 (Receptor, Serotonin, 5-HT1D)
+RN  - 0 (Receptors, Serotonin)
+RN  - 0 (Serotonin Receptor Agonists)
+SB  - IM
+CIN - Headache. 2003 Nov-Dec;43(10):1119-21; author reply 1121. PMID: 14629255
+MH  - Animals
+MH  - Half-Life
+MH  - Humans
+MH  - Migraine Disorders/*drug therapy
+MH  - Receptor, Serotonin, 5-HT1B
+MH  - Receptor, Serotonin, 5-HT1D
+MH  - Receptors, Serotonin/metabolism
+MH  - Recurrence
+MH  - Serotonin Receptor Agonists/pharmacokinetics/*therapeutic use
+RF  - 39
+EDAT- 2003/03/27 05:00
+MHDA- 2003/07/10 05:00
+CRDT- 2003/03/27 05:00
+AID - hed03073 [pii]
+PST - ppublish
+SO  - Headache. 2003 Apr;43(4):376-88.
+
+PMID- 12603639
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030226
+DCOM- 20030902
+LR  - 20101118
+IS  - 0017-8748 (Print)
+IS  - 0017-8748 (Linking)
+VI  - 43
+IP  - 3
+DP  - 2003 Mar
+TI  - Comparative efficacy of eletriptan 40 mg versus sumatriptan 100 mg.
+PG  - 214-22
+AB  - OBJECTIVE: To confirm the efficacy advantage of eletriptan 40 mg over sumatriptan
+      100 mg. Background.-Eletriptan 80 mg has demonstrated significantly greater
+      efficacy when compared to both sumatriptan 50 mg and 100 mg in two studies.
+      Eletriptan 40 mg demonstrated significantly greater efficacy than sumatriptan 100
+      mg in one previous trial. METHODS: Two thousand one hundred thirteen patients
+      with a diagnosis of migraine according to International Headache Society criteria
+      were randomized using a double-blind, double-dummy, parallel-group design, and
+      treated for a single migraine attack with either eletriptan 40 mg, sumatriptan
+      100 mg, or placebo. The primary endpoint was 2-hour headache response. Secondary 
+      endpoints included headache response rates at 1 hour, pain-free rates, absence of
+      associated symptoms, functional response at 1 and 2 hours, and sustained headache
+      response. RESULTS: Headache response rates at 2 hours postdose were significantly
+      higher for eletriptan 40 mg (67%) than for sumatriptan 100 mg (59%; P <.001) and 
+      placebo (26%; P <.0001). Eletriptan 40 mg consistently showed significant (P
+      <.01) efficacy over sumatriptan 100 mg across secondary clinical outcomes,
+      including 1-hour headache response; 2-hour pain-free response; absence of nausea,
+      photophobia, and phonophobia; functional improvement; use of rescue medication;
+      treatment acceptability; and sustained headache response (P <.05). Overall,
+      treatment-related adverse events were low, nausea being the only adverse event
+      with an incidence of 2% or higher (4.9% with eletriptan, 4.2% sumatriptan, 2.8%
+      placebo). CONCLUSION: This trial confirmed that eletriptan 40 mg offers superior 
+      efficacy in treating migraine pain and associated symptoms and in restoring
+      patient functioning when compared with sumatriptan 100 mg.
+AD  - Houston (Tex) Headache Clinic, TX 77004, USA.
+FAU - Mathew, Ninan T
+AU  - Mathew NT
+FAU - Schoenen, Jean
+AU  - Schoenen J
+FAU - Winner, Paul
+AU  - Winner P
+FAU - Muirhead, Nancy
+AU  - Muirhead N
+FAU - Sikes, Carolyn R
+AU  - Sikes CR
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Headache
+JT  - Headache
+JID - 2985091R
+RN  - 0 (Indoles)
+RN  - 0 (Pyrrolidines)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Tryptamines)
+RN  - 0 (eletriptan)
+RN  - 103628-46-2 (Sumatriptan)
+SB  - IM
+CIN - Headache. 2003 Sep;43(8):921; author reply 924-8. PMID: 12940818
+CIN - Headache. 2003 Sep;43(8):923-4; author reply 924-8. PMID: 14562837
+CIN - Headache. 2003 Sep;43(8):922; author reply 924-8. PMID: 14562838
+MH  - Acute Disease
+MH  - Adolescent
+MH  - Adult
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Indoles/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/*drug therapy
+MH  - Pyrrolidines/*therapeutic use
+MH  - Serotonin Receptor Agonists/*therapeutic use
+MH  - Sumatriptan/*therapeutic use
+MH  - Treatment Outcome
+MH  - Tryptamines
+EDAT- 2003/02/27 04:00
+MHDA- 2003/09/03 05:00
+CRDT- 2003/02/27 04:00
+AID - hed03044 [pii]
+PST - ppublish
+SO  - Headache. 2003 Mar;43(3):214-22.
+
+PMID- 12603638
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030226
+DCOM- 20030902
+LR  - 20101118
+IS  - 0017-8748 (Print)
+IS  - 0017-8748 (Linking)
+VI  - 43
+IP  - 3
+DP  - 2003 Mar
+TI  - Efficacy, safety, and tolerability of oral eletriptan for treatment of acute
+      migraine: a multicenter, double-blind, placebo-controlled study conducted in the 
+      United States.
+PG  - 202-13
+AB  - OBJECTIVE: To investigate the efficacy, consistency, safety, and tolerability of 
+      oral eletriptan in the acute treatment of three migraine attacks. BACKGROUND:
+      Eletriptan is a selective 5-HT1B/1D agonist member of a class of agents known to 
+      be effective in the acute treatment of migraine. METHODS: Thirteen hundred
+      thirty-four patients were randomized to 20 mg, 40 mg, or 80 mg of eletriptan, or 
+      placebo and could treat up to three attacks. The primary efficacy endpoint was
+      2-hour headache response for the first attack. Secondary endpoints included
+      associated symptom relief, and pain-free, sustained pain-free, and consistency of
+      response. RESULTS: Eletriptan 20 mg, 40 mg, and 80 mg achieved significantly (P
+      <.0001) better headache response rates than placebo at 2 hours (47%, 62%, and
+      59%, respectively, versus 22%) and 4 hours (64%, 76%, and 79%, respectively,
+      versus 25%). Headache response was observed to be rapid, showing improvement at
+      0.5 hour and 1 hour. Two-hour pain-free response rates for eletriptan 20 mg, 40
+      mg, and 80 mg were 14%, 27%, and 27%, respectively, compared with 4% for placebo.
+      Sustained pain-free response rates were significantly (P <.001) better for
+      eletriptan 20 mg (10%), 40 mg (20%), and 80 mg (18%) compared with placebo (3%). 
+      Eletriptan had a higher consistency of intrapatient response than placebo in two 
+      of three (68% to 82%) and three of three attacks (32% to 60%) versus 16% and 8%, 
+      respectively. All eletriptan doses yielded significant functional improvement at 
+      2 hours. Adverse events were generally mild or moderate and transient, with
+      eletriptan 20 mg having an adverse event profile comparable to placebo.
+      CONCLUSIONS: Eletriptan is efficacious, displaying high consistency of response
+      over multiple attacks, and is well tolerated for the acute treatment of migraine.
+AD  - The New England Center for Headache, Stamford, Conn 06902, USA.
+FAU - Sheftell, Fred
+AU  - Sheftell F
+FAU - Ryan, Robert
+AU  - Ryan R
+FAU - Pitman, Verne
+AU  - Pitman V
+CN  - Eletriptan Steering Committee
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Headache
+JT  - Headache
+JID - 2985091R
+RN  - 0 (Indoles)
+RN  - 0 (Pyrrolidines)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Tryptamines)
+RN  - 0 (eletriptan)
+SB  - IM
+MH  - Acute Disease
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Indoles/*therapeutic use
+MH  - Male
+MH  - Migraine Disorders/*drug therapy
+MH  - Pyrrolidines/*therapeutic use
+MH  - Serotonin Receptor Agonists/*therapeutic use
+MH  - Time Factors
+MH  - Treatment Outcome
+MH  - Tryptamines
+MH  - United States
+EDAT- 2003/02/27 04:00
+MHDA- 2003/09/03 05:00
+CRDT- 2003/02/27 04:00
+AID - hed03043 [pii]
+PST - ppublish
+SO  - Headache. 2003 Mar;43(3):202-13.
+
+PMID- 12534326
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030121
+DCOM- 20030320
+LR  - 20101118
+IS  - 0114-5916 (Print)
+IS  - 0114-5916 (Linking)
+VI  - 26
+IP  - 2
+DP  - 2003
+TI  - Tolerability of the triptans: clinical implications.
+PG  - 93-107
+AB  - The triptans represent a relatively new class of compounds effective in the
+      treatment of migraine. The safety and tolerability of these drugs have been
+      extensively investigated since the first triptan (sumatriptan) became
+      commercially available. A report on a very large population of patients tested
+      during clinical trials and in postmarketing studies, confirms that these drugs
+      are safe and well tolerated when correctly used. Adverse events are frequently
+      reported, but are usually mild and only a few patients discontinue therapy
+      because of them. These adverse events include, in particular, the so-called
+      'triptan symptoms' (tingling, sensation of warmth, etc.). The exact mechanism of 
+      chest symptoms reported by 20% of patients with migraine treated with triptans
+      remains unclear, but are exceptionally related to a cardiac mechanism. CNS
+      adverse events (i.e. somnolence) are also reported, but it is a matter of debate 
+      whether they are related to the pharmacological properties (i.e. lipophilicity)
+      of the drug or are symptoms of the disease itself. The potential risk for drug
+      overuse must be taken into account when the triptans are given to patients with a
+      high frequency of migraine attacks. Clinical interaction of triptans with other
+      drugs metabolised in the liver may theoretically influence the incidence of
+      adverse events, but there is little evidence to support this assumption. There is
+      no evidence of a teratogenic risk of triptans in pregnant women taking these
+      drugs.
+AD  - University Centre for Adaptive Disorders and Headache, IRCCS C. Mondino
+      Foundation, University of Pavia, Italy. giuseppe.nappi@mondino.it
+FAU - Nappi, Giuseppe
+AU  - Nappi G
+FAU - Sandrini, Giorgio
+AU  - Sandrini G
+FAU - Sances, Grazia
+AU  - Sances G
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - New Zealand
+TA  - Drug Saf
+JT  - Drug safety : an international journal of medical toxicology and drug experience
+JID - 9002928
+RN  - 0 (HTR1B protein, human)
+RN  - 0 (Receptor, Serotonin, 5-HT1B)
+RN  - 0 (Receptor, Serotonin, 5-HT1D)
+RN  - 0 (Receptors, Serotonin)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 103628-46-2 (Sumatriptan)
+SB  - IM
+MH  - Brain/drug effects
+MH  - Cardiovascular System/drug effects
+MH  - Drug Interactions
+MH  - Female
+MH  - Fetus/drug effects
+MH  - Humans
+MH  - Migraine Disorders/*drug therapy
+MH  - Pregnancy
+MH  - Receptor, Serotonin, 5-HT1B
+MH  - Receptor, Serotonin, 5-HT1D
+MH  - Receptors, Serotonin/drug effects
+MH  - Serotonin Receptor Agonists/*adverse effects
+MH  - Sumatriptan/*adverse effects/pharmacology
+RF  - 146
+EDAT- 2003/01/22 04:00
+MHDA- 2003/03/21 04:00
+CRDT- 2003/01/22 04:00
+AID - 260203 [pii]
+PST - ppublish
+SO  - Drug Saf. 2003;26(2):93-107.
+
+PMID- 12464714
+OWN - NLM
+STAT- MEDLINE
+DA  - 20021204
+DCOM- 20030319
+LR  - 20101118
+IS  - 0014-3022 (Print)
+IS  - 0014-3022 (Linking)
+VI  - 49
+IP  - 1
+DP  - 2003
+TI  - Crossover comparison of efficacy and preference for rizatriptan 10 mg versus
+      ergotamine/caffeine in migraine.
+PG  - 20-9
+AB  - Rizatriptan is a selective 5-HT(1B/1D) receptor agonist with rapid oral
+      absorption and early onset of action in the acute treatment of migraine. This
+      randomized double- blind crossover outpatient study assessed the preference for 1
+      rizatriptan 10 mg tablet to 2 ergotamine 1 mg/caffeine 100 mg tablets in 439
+      patients treating a single migraine attack with each therapy. Of patients
+      expressing a preference (89.1%), more than twice as many preferred rizatriptan to
+      ergotamine/caffeine (69.9 vs. 30.1%, p < or = 0.001). Faster relief of headache
+      was the most important reason for preference, cited by 67.3% of patients
+      preferring rizatriptan and 54.2% of patients who preferred ergotamine/caffeine.
+      The co-primary endpoint of being pain free at 2 h was also in favor of
+      rizatriptan. Forty-nine percent of patients were pain free 2 h after rizatriptan,
+      compared with 24.3% treated with ergotamine/caffeine (p < or = 0.001),
+      rizatriptan being superior within 1 h of treatment. Headache relief at 2 h was
+      75.9% for rizatriptan and 47.3% for ergotamine/caffeine (p < or = 0.001), with
+      rizatriptan being superior to ergotamine/caffeine within 30 min of dosing. Almost
+      36% of patients taking rizatriptan were pain free at 2 h and had no recurrence or
+      need for additional medication within 24 h, compared to 20% of patients on
+      ergotamine/caffeine (p < or = 0.001). Rizatriptan was also superior to
+      ergotamine/caffeine in the proportions of patients with no nausea, vomiting,
+      phonophobia or photophobia and for patients with normal function 2 h after drug
+      intake (p < or = 0.001). More patients were (completely, very or somewhat)
+      satisfied 2 h after treatment with rizatriptan (69.8%) than at 2 h after
+      treatment with ergotamine/caffeine (38.6%, p < or = 0.001). Recurrence rates were
+      31.4% with rizatriptan and 15.3% with ergotamine/caffeine. Both active treatments
+      were well tolerated. The most common adverse events (incidence > or = 5% in one
+      group) after rizatriptan and ergotamine/caffeine, respectively, were dizziness
+      (6.7 and 5.3%), nausea (4.2 and 8.5%) and somnolence (5.5 and 2.3%).
+CI  - Copyright 2003 S. Karger AG, Basel
+AD  - Ottawa Headache Centre, Ottawa, Canada.
+FAU - Christie, Suzanne
+AU  - Christie S
+FAU - Gobel, Hartmut
+AU  - Gobel H
+FAU - Mateos, Valentin
+AU  - Mateos V
+FAU - Allen, Christopher
+AU  - Allen C
+FAU - Vrijens, France
+AU  - Vrijens F
+FAU - Shivaprakash, Malathi
+AU  - Shivaprakash M
+CN  - Rizatriptan-Ergotamine/Caffeine Preference Study Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - Switzerland
+TA  - Eur Neurol
+JT  - European neurology
+JID - 0150760
+RN  - 0 (Drug Combinations)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Triazoles)
+RN  - 0 (Tryptamines)
+RN  - 113-15-5 (Ergotamine)
+RN  - 145202-66-0 (rizatriptan)
+RN  - 58-08-2 (Caffeine)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Caffeine/adverse effects/*therapeutic use
+MH  - Cross-Over Studies
+MH  - Double-Blind Method
+MH  - Drug Combinations
+MH  - Ergotamine/adverse effects/*therapeutic use
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/*drug therapy
+MH  - Pain Measurement
+MH  - Patient Satisfaction
+MH  - Serotonin Receptor Agonists/adverse effects/*therapeutic use
+MH  - Triazoles/adverse effects/*therapeutic use
+MH  - Tryptamines
+EDAT- 2002/12/05 04:00
+MHDA- 2003/03/20 04:00
+CRDT- 2002/12/05 04:00
+AID - 67018 [pii]
+PST - ppublish
+SO  - Eur Neurol. 2003;49(1):20-9.
+
+PMID- 12391349
+OWN - NLM
+STAT- MEDLINE
+DA  - 20021022
+DCOM- 20021114
+LR  - 20101118
+IS  - 0028-3878 (Print)
+IS  - 0028-3878 (Linking)
+VI  - 59
+IP  - 8
+DP  - 2002 Oct 22
+TI  - Eletriptan vs sumatriptan: a double-blind, placebo-controlled, multiple migraine 
+      attack study.
+PG  - 1210-7
+AB  - OBJECTIVE: To compare the efficacy of oral eletriptan, 40 mg and 80 mg, and oral 
+      sumatriptan, 50 mg and 100 mg, in the acute treatment of migraine. METHODS:
+      Patients with a history of migraine (n = 1,008) were randomly assigned to receive
+      placebo, 40 mg of eletriptan, 80 mg of eletriptan, 50 mg of sumatriptan, or 100
+      mg of sumatriptan to treat up to three attacks. Early headache response (at 1
+      hour) was the primary endpoint, in addition to the standard endpoint, 2-hour
+      headache response. RESULTS: Headache response rates were 12% at 1 hour and 31% at
+      2 hours for placebo; 24% at 1 hour and 50% at 2 hours for sumatriptan 50 mg; 27% 
+      at 1 hour and 53% at 2 hours for sumatriptan 100 mg; 30% at 1 hour and 64% at 2
+      hours for eletriptan 40 mg; and 37% at 1 hour and 67% at 2 hours for eletriptan
+      80 mg. More patients receiving eletriptan 80 mg achieved a 1-hour headache
+      response than did patients receiving sumatriptan 50 mg (p < 0.05). All doses of
+      eletriptan were superior to sumatriptan at 2 hours for headache response and
+      complete pain relief (p < 0.05). Significantly more patients on eletriptan 80 mg 
+      achieved headache response in all attacks than did patients receiving either
+      sumatriptan dose. Eletriptan 40 mg was superior to both sumatriptan doses in
+      functional improvement (p < 0.005). The superior efficacy of both eletriptan
+      doses was associated with higher rates of patient acceptability than sumatriptan 
+      50 mg (p < 0.05). Eletriptan and sumatriptan were well tolerated. CONCLUSION:
+      Oral eletriptan (40 mg and 80 mg) is effective, safe, and tolerable in the acute 
+      treatment of migraine and yields a consistent response.
+AD  - University Centre for Adaptive Disorders and Headache, IRCCSC. Mondino
+      Foundation, Pavia, Italy. gsandrini@unipv.it
+FAU - Sandrini, G
+AU  - Sandrini G
+FAU - Farkkila, M
+AU  - Farkkila M
+FAU - Burgess, G
+AU  - Burgess G
+FAU - Forster, E
+AU  - Forster E
+FAU - Haughie, S
+AU  - Haughie S
+CN  - Eletriptan Steering Committee
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Neurology
+JT  - Neurology
+JID - 0401060
+RN  - 0 (Indoles)
+RN  - 0 (Pyrrolidines)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Tryptamines)
+RN  - 0 (eletriptan)
+RN  - 103628-46-2 (Sumatriptan)
+SB  - AIM
+SB  - IM
+CIN - Neurology. 2003 Apr 8;60(7):1221-2; author reply 1221-2. PMID: 12682349
+MH  - Adult
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Indoles/adverse effects/*therapeutic use
+MH  - Logistic Models
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/*drug therapy/physiopathology/prevention & control
+MH  - Pyrrolidines/adverse effects/*therapeutic use
+MH  - Remission Induction
+MH  - Serotonin Receptor Agonists/adverse effects/therapeutic use
+MH  - Sumatriptan/adverse effects/*therapeutic use
+MH  - Tryptamines
+EDAT- 2002/10/23 04:00
+MHDA- 2002/11/26 04:00
+CRDT- 2002/10/23 04:00
+PST - ppublish
+SO  - Neurology. 2002 Oct 22;59(8):1210-7.
+
+PMID- 12383065
+OWN - NLM
+STAT- MEDLINE
+DA  - 20021017
+DCOM- 20030303
+LR  - 20101118
+IS  - 0333-1024 (Print)
+IS  - 0333-1024 (Linking)
+VI  - 22
+IP  - 8
+DP  - 2002 Oct
+TI  - Determinants of migraine-specific quality of life.
+PG  - 680-5
+AB  - This paper reports an analysis of two randomized controlled trials of
+      rizatriptan, in which the 24-h Migraine Quality of Life QuestionnaireCopyright
+      was used to assess migraine-specific quality of life in patients receiving acute 
+      treatment. The objective of the analysis was to determine which clinical effects 
+      of a migraine medication, as measured by traditional clinical trial endpoints,
+      contribute to a better short-term health-related quality of life. The results
+      demonstrate that patients who experience complete pain relief and are able to
+      function at their normal ability within 2 h and experience no headache recurrence
+      have the highest migraine-specific quality of life scores. Patients who were
+      satisfied with medication at 2 h had higher migraine-specific quality of life
+      scores than those who were not satisfied. In conclusion, migraine therapy that
+      provides rapid, complete, and sustained pain relief, with restoration of
+      functional ability, has the most beneficial impact on short-term health-related
+      quality of life for migraineurs.
+AD  - Merck Research Laboratories, West Point, PA 19486, USA.
+      nancy_santanello@merck.com
+FAU - Santanello, N C
+AU  - Santanello NC
+FAU - Davies, G
+AU  - Davies G
+FAU - Allen, C
+AU  - Allen C
+FAU - Kramer, M
+AU  - Kramer M
+FAU - Lipton, R
+AU  - Lipton R
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - England
+TA  - Cephalalgia
+JT  - Cephalalgia : an international journal of headache
+JID - 8200710
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Triazoles)
+RN  - 0 (Tryptamines)
+RN  - 145202-66-0 (rizatriptan)
+SB  - IM
+MH  - Adult
+MH  - Humans
+MH  - Migraine Disorders/drug therapy/*physiopathology
+MH  - Multicenter Studies as Topic
+MH  - *Quality of Life
+MH  - Randomized Controlled Trials as Topic
+MH  - Serotonin Receptor Agonists/therapeutic use
+MH  - Time Factors
+MH  - Triazoles/therapeutic use
+MH  - Tryptamines
+EDAT- 2002/10/18 04:00
+MHDA- 2003/03/04 04:00
+CRDT- 2002/10/18 04:00
+AID - 435 [pii]
+PST - ppublish
+SO  - Cephalalgia. 2002 Oct;22(8):680-5.
+
+PMID- 12373035
+OWN - NLM
+STAT- MEDLINE
+DA  - 20021009
+DCOM- 20021129
+LR  - 20101118
+IS  - 0014-3022 (Print)
+IS  - 0014-3022 (Linking)
+VI  - 48
+IP  - 3
+DP  - 2002
+TI  - Restoring migraine sufferers' ability to function normally: a comparison of
+      rizatriptan and other triptans in randomized trials.
+PG  - 172-7
+AB  - BACKGROUND: Many migraine patients are unable to function normally during a
+      migraine attack. Assessments of treatment efficacy have tended to focus on
+      migraine symptoms, rather than looking at functional impact. This study compared 
+      the efficacy of different oral triptans for restoring normal function in migraine
+      sufferers. METHODS: Retrospective subgroup analysis of data from five randomized,
+      placebo-controlled, double-blind clinical trials in which oral rizatriptan was
+      directly compared with oral sumatriptan 100 mg (772 attacks), 50 mg (2,227
+      attacks), and 25 mg (1,182 attacks), naratriptan 2.5 mg (413 attacks), and
+      zolmitriptan 2.5 mg (578 attacks) for the acute treatment of a moderate or severe
+      migraine attack. Functional disability was evaluated by patients on a 4-grade
+      scale ('normal', 'mild impairment', 'severe impairment', 'requires bedrest') at
+      baseline and at 0.5, 1, 1.5, 2, 3 and 4 h after dosing. This analysis looked at
+      the percentage of patients who had normal functional ability at 2 h, the last
+      time point before escape medications were allowed, in the subgroup of patients
+      who had some level of disability at baseline. RESULTS: Most patients in each
+      trial and treatment group had some level of disability at baseline (range =
+      94-100%). At 2 h, more patients on rizatriptan 10 mg were able to function
+      normally compared with sumatriptan 100 mg (39 vs. 32%, odds ratio = 1.4, p =
+      0.021), sumatriptan 50 mg (47 vs. 42%, odds ratio = 1.2, p = 0.033), sumatriptan 
+      25 mg (48 vs. 36%, odds ratio = 1.7, p < 0.001), naratriptan 2.5 mg (39 vs. 22%, 
+      odds ratio = 2.5, p < 0.001), and zolmitriptan 2.5 mg (45 vs. 36%, odds ratio =
+      1.6, p = 0.008). CONCLUSION: In direct head-to-head comparative clinical trials, 
+      oral rizatriptan 10 mg enabled more migraine sufferers to function normally at 2 
+      h after dosing than oral sumatriptan, naratriptan, and zolmitriptan.
+CI  - Copyright 2002 S. Karger AG, Basel
+AD  - National Neurological Institute C. Besta, Milan, Italy.
+FAU - Bussone, Gennaro
+AU  - Bussone G
+FAU - D'Amico, Domenico
+AU  - D'Amico D
+FAU - McCarroll, Kathleen A
+AU  - McCarroll KA
+FAU - Gerth, William
+AU  - Gerth W
+FAU - Lines, Christopher R
+AU  - Lines CR
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Switzerland
+TA  - Eur Neurol
+JT  - European neurology
+JID - 0150760
+RN  - 0 (Indoles)
+RN  - 0 (Oxazolidinones)
+RN  - 0 (Piperidines)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Triazoles)
+RN  - 0 (Tryptamines)
+RN  - 103628-46-2 (Sumatriptan)
+RN  - 121679-13-8 (naratriptan)
+RN  - 139264-17-8 (zolmitriptan)
+RN  - 145202-66-0 (rizatriptan)
+SB  - IM
+MH  - Administration, Oral
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Female
+MH  - Humans
+MH  - Indoles/administration & dosage
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/*drug therapy
+MH  - Oxazolidinones/administration & dosage
+MH  - Piperidines/administration & dosage
+MH  - Randomized Controlled Trials as Topic
+MH  - Retrospective Studies
+MH  - Serotonin Receptor Agonists/*administration & dosage
+MH  - Sumatriptan/administration & dosage
+MH  - Treatment Outcome
+MH  - Triazoles/*administration & dosage
+MH  - Tryptamines
+EDAT- 2002/10/10 04:00
+MHDA- 2002/11/30 04:00
+CRDT- 2002/10/10 04:00
+AID - 65513 [pii]
+PST - ppublish
+SO  - Eur Neurol. 2002;48(3):172-7.
+
+PMID- 12353056
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020927
+DCOM- 20021209
+LR  - 20101118
+IS  - 1080-563X (Print)
+IS  - 1080-563X (Linking)
+VI  - 8
+IP  - 3
+DP  - 2002 Fall
+TI  - Almotriptan, a new anti-migraine agent: a review.
+PG  - 217-34
+AB  - Almotriptan is a new anti-migraine agent with nanomolar affinity for human
+      5-HT(1B), 5-HT(1D), and 5-HT(1F) receptors, weak affinity for 5-HT(1A) and
+      5-HT(7) receptors and no significant affinity for more than 20 other
+      pharmacological receptors. Almotriptan was effective in animal models predictive 
+      of anti-migraine activity in humans and had a good safety profile in animal
+      studies. From the toxicological point of view, almotriptan has a profile similar 
+      to that of other marketed triptans. In animal studies, at levels substantially
+      higher than required for therapeutic activity in humans, almotriptan was devoid
+      of any oncogenic, genotoxic or teratogenic effects. Almotriptan is well absorbed 
+      orally; its absolute bioavailability in humans is 70%. Its peak plasma levels are
+      reached at 1 to 3 h after its administration; its elimination half-life is 3 to 4
+      h. Almotriptan is metabolized by monoamine oxidase-mediated oxidative deamination
+      and cytochrome P450-mediated oxidation as the major metabolic route and by flavin
+      monooxygenase as the minor route. No dose adjustment is required for gender or
+      age, and only in the case of severe renal impairment the dose should not exceed
+      12.5 mg over a 24-h period. There was no significant interaction between a single
+      dose of almotriptan and propranolol, fluoxetine or verapamil, at multiple doses. 
+      The efficacy of almotriptan in the treatment of acute migraine was demonstrated
+      in clinical trials on more than 3000 patients with migraine. At two h after oral 
+      administration of almotriptan, 12.5 mg, the percentages of patients showing pain 
+      relief and a pain-free score were 64 and 36%, respectively. The effects of
+      almotriptan were significantly better than those of placebo. When almotriptan was
+      administered in the early phase of migraine, the percentage of pain-free patients
+      at 2 h rose to 84%. In a phase III, double-blind and placebo-controlled study,
+      the incidence of adverse events with almotriptan was not statistically different 
+      from that of placebo. Based on the available data, it appears that almotriptan is
+      the triptan of choice when good efficacy and high tolerability are desired.
+AD  - Pharmacological Development Department, Almirall Prodesfarma, Research Center,
+      Barcelona, Spain. jgras@almirallprodesfarma.com.
+FAU - Gras, Jordi
+AU  - Gras J
+FAU - Llenas, Jesus
+AU  - Llenas J
+FAU - Jansat, Josep M
+AU  - Jansat JM
+FAU - Jauregui, Jose
+AU  - Jauregui J
+FAU - Cabarrocas, Xavier
+AU  - Cabarrocas X
+FAU - Palacios, Jose M
+AU  - Palacios JM
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - CNS Drug Rev
+JT  - CNS drug reviews
+JID - 9514898
+RN  - 0 (Indoles)
+RN  - 0 (Receptors, Serotonin)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Tryptamines)
+RN  - 154323-57-6 (almotriptan)
+SB  - IM
+MH  - Animals
+MH  - Area Under Curve
+MH  - Cardiovascular System/drug effects
+MH  - Central Nervous System/drug effects
+MH  - Dose-Response Relationship, Drug
+MH  - Humans
+MH  - Indoles/adverse effects/pharmacokinetics/*therapeutic use
+MH  - Kidney/drug effects
+MH  - Migraine Disorders/*drug therapy
+MH  - Receptors, Serotonin/metabolism/physiology
+MH  - Respiratory System/drug effects
+MH  - Serotonin Receptor Agonists/pharmacokinetics/*therapeutic use
+MH  - Treatment Outcome
+MH  - Tryptamines
+RF  - 45
+EDAT- 2002/09/28 04:00
+MHDA- 2002/12/10 04:00
+CRDT- 2002/09/28 04:00
+PST - ppublish
+SO  - CNS Drug Rev. 2002 Fall;8(3):217-34.
+
+PMID- 12110113
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020711
+DCOM- 20030113
+LR  - 20101118
+IS  - 0333-1024 (Print)
+IS  - 0333-1024 (Linking)
+VI  - 22
+IP  - 5
+DP  - 2002 Jun
+TI  - Zolmitriptan is effective and well tolerated in Japanese patients with migraine: 
+      a dose-response study.
+PG  - 376-83
+AB  - This phase II study investigated the efficacy, tolerability and dose-response
+      relationship of oral zolmitriptan in the treatment of a single migraine attack in
+      Japanese patients. A bridging analysis then assessed the validity of
+      extrapolating western clinical data to these Japanese patients. In this
+      multicentre, randomized, double-blind, placebo-controlled study, patients
+      received a single dose of placebo or zolmitriptan 1, 2.5 or 5 mg. The primary
+      endpoints were 2-h headache response and the tolerability of zolmitriptan. A
+      statistically significant dose-response relationship was observed for the 2-h
+      headache response (P=0.003). The 2.5 mg group had significantly greater 2-h
+      headache response than the placebo group (P=0.032). The adverse event profile was
+      similar to that reported in western patients, and no adverse events unique to the
+      Japanese population were observed. The bridging analysis report confirmed similar
+      efficacy and tolerability of zolmitriptan in Japanese and western populations. In
+      the Japanese patients, the estimated response rates were 34.3%, 45.2%, 57.7% and 
+      66.2% for placebo, and zolmitriptan 1, 2.5 and 5 mg, respectively, while in the
+      western population the corresponding rates were 39.9%, 49.6%, 61.2% and 71.7%.
+      Zolmitriptan is effective and well tolerated in the acute treatment of migraine
+      in Japanese patients. The optimal dose was 2.5 mg, although the 5 mg dose may
+      provide further benefit for some patients. The bridging analysis supports
+      extrapolation of data from western to Japanese patients.
+AD  - Department of Neurology, Kitasato University, Kitasato 1-15-1, Sagamihara-Shi,
+      Kanagawa, Japan. fskai@kitasato-u.ac.jp
+FAU - Sakai, F
+AU  - Sakai F
+FAU - Iwata, M
+AU  - Iwata M
+FAU - Tashiro, K
+AU  - Tashiro K
+FAU - Itoyama, Y
+AU  - Itoyama Y
+FAU - Tsuji, S
+AU  - Tsuji S
+FAU - Fukuuchi, Y
+AU  - Fukuuchi Y
+FAU - Sobue, G
+AU  - Sobue G
+FAU - Nakashima, K
+AU  - Nakashima K
+FAU - Morimatsu, M
+AU  - Morimatsu M
+LA  - eng
+PT  - Clinical Trial
+PT  - Clinical Trial, Phase II
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - England
+TA  - Cephalalgia
+JT  - Cephalalgia : an international journal of headache
+JID - 8200710
+RN  - 0 (Oxazolidinones)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Tryptamines)
+RN  - 139264-17-8 (zolmitriptan)
+SB  - IM
+MH  - Adult
+MH  - Cultural Characteristics
+MH  - Dose-Response Relationship, Drug
+MH  - Female
+MH  - Humans
+MH  - Hyperacusis/etiology/prevention & control
+MH  - Japan
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/complications/*drug therapy
+MH  - Oxazolidinones/administration & dosage/adverse effects/*therapeutic use
+MH  - Photophobia/etiology/prevention & control
+MH  - Recurrence
+MH  - Safety
+MH  - Serotonin Receptor Agonists/administration & dosage/adverse effects/*therapeutic 
+      use
+MH  - Treatment Outcome
+MH  - Tryptamines
+MH  - Vomiting/etiology/prevention & control
+EDAT- 2002/07/12 10:00
+MHDA- 2003/01/14 04:00
+CRDT- 2002/07/12 10:00
+AID - 377 [pii]
+PST - ppublish
+SO  - Cephalalgia. 2002 Jun;22(5):376-83.
+
+PMID- 11993610
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020507
+DCOM- 20021016
+LR  - 20101118
+IS  - 0333-1024 (Print)
+IS  - 0333-1024 (Linking)
+VI  - 22
+IP  - 1
+DP  - 2002 Feb
+TI  - Efficacy, safety and tolerability of oral eletriptan in the acute treatment of
+      migraine: results of a phase III, multicentre, placebo-controlled study across
+      three attacks.
+PG  - 23-32
+AB  - The efficacy, safety and tolerability of the 5-HT1B/D receptor agonist eletriptan
+      (40 mg and 80 mg) in acute treatment of migraine was evaluated in a
+      multinational, randomized, double-blind, parallel-group, placebo-controlled,
+      three-attack study treating 1153 patients. In the initial attack, significantly
+      more eletriptan patients reported headache relief and complete pain relief at 2 h
+      vs. placebo (40 mg 62% and 32%, 80 mg 65% and 34%, placebo 19% and 3%; P <
+      0.0001). Headache relief occurred faster after eletriptan, with more patients at 
+      both doses reporting relief 30 min (P < 0.01) and 1 h (P < 0.0001) after
+      treatment than after placebo. There was a significantly lower recurrence rate
+      with eletriptan 80 mg compared with placebo (P < 0.01). Adverse events for all
+      treatments were generally mild or moderate and self-limiting. Eletriptan 40 mg
+      and eletriptan 80 mg both appear to be effective and well-tolerated acute
+      migraine treatments.
+AD  - Alfred Hospital, Prahran, Australia. richard.stark@med.monash.edu.au
+FAU - Stark, R
+AU  - Stark R
+FAU - Dahlof, C
+AU  - Dahlof C
+FAU - Haughie, S
+AU  - Haughie S
+FAU - Hettiarachchi, J
+AU  - Hettiarachchi J
+CN  - Eletriptan Steering Committee
+LA  - eng
+PT  - Clinical Trial
+PT  - Clinical Trial, Phase III
+PT  - Comparative Study
+PT  - Evaluation Studies
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Cephalalgia
+JT  - Cephalalgia : an international journal of headache
+JID - 8200710
+RN  - 0 (HTR1B protein, human)
+RN  - 0 (Indoles)
+RN  - 0 (Pyrrolidines)
+RN  - 0 (Receptor, Serotonin, 5-HT1B)
+RN  - 0 (Receptor, Serotonin, 5-HT1D)
+RN  - 0 (Receptors, Serotonin)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Tryptamines)
+RN  - 0 (eletriptan)
+SB  - IM
+MH  - Administration, Oral
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Indoles/*administration & dosage/adverse effects
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/*drug therapy
+MH  - Pain Measurement
+MH  - Pyrrolidines/*administration & dosage/adverse effects
+MH  - Receptor, Serotonin, 5-HT1B
+MH  - Receptor, Serotonin, 5-HT1D
+MH  - Receptors, Serotonin
+MH  - Serotonin Receptor Agonists/*administration & dosage/adverse effects
+MH  - Treatment Outcome
+MH  - Tryptamines
+EDAT- 2002/05/08 10:00
+MHDA- 2002/10/17 04:00
+CRDT- 2002/05/08 10:00
+PST - ppublish
+SO  - Cephalalgia. 2002 Feb;22(1):23-32.
+
+PMID- 11972576
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020425
+DCOM- 20020828
+LR  - 20101118
+IS  - 0333-1024 (Print)
+IS  - 0333-1024 (Linking)
+VI  - 22
+IP  - 2
+DP  - 2002 Mar
+TI  - Zolmitriptan orally disintegrating tablet is effective in the acute treatment of 
+      migraine.
+PG  - 101-6
+AB  - A new formulation of zolmitriptan has been developed that dissolves on the tongue
+      without the need for additional fluid intake. In this double-blind, parallel
+      study, 471 patients were randomized to receive the zolmitriptan orally
+      disintegrating tablet 2.5 mg (n=231) or matching placebo (n=240) to treat a
+      single moderate or severe migraine. Headache relief following zolmitriptan 2.5 mg
+      (63%) was significantly greater than with placebo (22%) at 2 h post-dose (primary
+      endpoint; P < 0.0001). The zolmitriptan orally disintegrating tablet was also
+      significantly more effective than placebo for 1-, 2- and 4-h pain-free response
+      (8% vs. 3%, P=0.0207, 27% vs. 7%, P < 0.0001, and 37% vs. 11%, P < 0.0001,
+      respectively). Of those patients stating a preference, 70% of patients preferred 
+      the orally disintegrating tablet to a conventional tablet. Zolmitriptan orally
+      disintegrating tablets are an effective and convenient alternative to a
+      conventional tablet, allowing migraine attacks to be treated anytime a migraine
+      strikes, which can facilitate earlier treatment.
+AD  - The Kings Headache Services, Kings College Hospital, London, UK.
+      ANDYDOWSON@DOWSONA.fsnet.co.uk
+FAU - Dowson, A J
+AU  - Dowson AJ
+FAU - MacGregor, E A
+AU  - MacGregor EA
+FAU - Purdy, R A
+AU  - Purdy RA
+FAU - Becker, W J
+AU  - Becker WJ
+FAU - Green, J
+AU  - Green J
+FAU - Levy, S L
+AU  - Levy SL
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Cephalalgia
+JT  - Cephalalgia : an international journal of headache
+JID - 8200710
+RN  - 0 (Oxazolidinones)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Tryptamines)
+RN  - 139264-17-8 (zolmitriptan)
+SB  - IM
+MH  - Administration, Oral
+MH  - Adult
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/*drug therapy/physiopathology
+MH  - Oxazolidinones/*administration & dosage/adverse effects/chemistry/therapeutic use
+MH  - Palliative Care
+MH  - Patient Satisfaction
+MH  - Recurrence
+MH  - Retreatment
+MH  - Serotonin Receptor Agonists/*administration & dosage/adverse
+      effects/chemistry/therapeutic use
+MH  - Solubility
+MH  - Tryptamines
+EDAT- 2002/04/26 10:00
+MHDA- 2002/08/29 10:01
+CRDT- 2002/04/26 10:00
+AID - 319 [pii]
+PST - ppublish
+SO  - Cephalalgia. 2002 Mar;22(2):101-6.
+
+PMID- 11328332
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010430
+DCOM- 20010628
+LR  - 20101118
+IS  - 1351-5101 (Print)
+IS  - 1351-5101 (Linking)
+VI  - 8
+IP  - 3
+DP  - 2001 May
+TI  - Zolmitriptan versus sumatriptan for the acute oral treatment of migraine: a
+      randomized, double-blind, international study.
+PG  - 237-45
+AB  - This randomized, double-blind, parallel-group study compared the efficacy and
+      tolerability of zolmitriptan (2.5 or 5 mg) and sumatriptan (50 mg) in the acute
+      oral treatment of up to six moderate-to-severe migraine attacks. The intention to
+      treat (ITT) population comprised of 1522 patients: 500 treated with zolmitriptan 
+      2.5 mg (2671 attacks), 514 with zolmitriptan 5 mg (2744 attacks) and 508 with
+      sumatriptan 50 mg (2693 attacks). Overall, the 2-h headache response rates in
+      these groups were 62.9, 65.7 and 66.6%, respectively. There were no statistically
+      significant differences between sumatriptan 50 mg and zolmitriptan 2.5 mg (P =
+      0.12) or 5 mg (P = 0.80). Approximately 40% of patients in each group reported a 
+      2-h headache response in > or = 80% of attacks. There were no statistically
+      significant differences between the groups in the rates of headache response at 1
+      h (zolmitriptan 2.5 mg 36.9%, zolmitriptan 5 mg 39.5% and sumatriptan 50 mg
+      38.0%) or 4 h (70.3, 72.9 and 72.2%, respectively) or in the rates of meaningful 
+      migraine relief at 1, 2 or 4 h or sustained (24-h) pain relief. All treatments
+      were well tolerated. In conclusion, zolmitriptan (2.5 or 5 mg) proved similarly
+      efficacious compared with sumatriptan (50 mg), both in terms of response rates
+      and consistency across attacks.
+AD  - Box Surgery, London Road, Box Corsham, Wiltshire, UK.
+FAU - Gruffyd-Jones, K
+AU  - Gruffyd-Jones K
+FAU - Kies, B
+AU  - Kies B
+FAU - Middleton, A
+AU  - Middleton A
+FAU - Mulder, L J
+AU  - Mulder LJ
+FAU - Rosjo , O
+AU  - Rosjo O
+FAU - Millson, D S
+AU  - Millson DS
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Eur J Neurol
+JT  - European journal of neurology : the official journal of the European Federation
+      of Neurological Societies
+JID - 9506311
+RN  - 0 (Oxazolidinones)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Tryptamines)
+RN  - 103628-46-2 (Sumatriptan)
+RN  - 139264-17-8 (zolmitriptan)
+SB  - IM
+MH  - Administration, Oral
+MH  - Adult
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - International Cooperation
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/*drug therapy/physiopathology
+MH  - Oxazolidinones/adverse effects/*therapeutic use
+MH  - Recurrence
+MH  - Serotonin Receptor Agonists/adverse effects/*therapeutic use
+MH  - Severity of Illness Index
+MH  - Sumatriptan/adverse effects/*therapeutic use
+MH  - Treatment Outcome
+MH  - Tryptamines
+EDAT- 2001/05/01 10:00
+MHDA- 2001/06/29 10:01
+CRDT- 2001/05/01 10:00
+AID - ene218 [pii]
+PST - ppublish
+SO  - Eur J Neurol. 2001 May;8(3):237-45.
+
+PMID- 11284463
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010330
+DCOM- 20010503
+LR  - 20101118
+IS  - 0017-8748 (Print)
+IS  - 0017-8748 (Linking)
+VI  - 38
+IP  - 10
+DP  - 1998 Nov-Dec
+TI  - Oral rizatriptan versus oral sumatriptan: a direct comparative study in the acute
+      treatment of migraine. Rizatriptan 030 Study Group.
+PG  - 748-55
+AB  - Rizatriptan is a potent, oral, 5-HT1B/1D agonist with more rapid absorption and
+      higher bioavailability than oral sumatriptan. It was postulated that this would
+      result in more rapid onset of effect. This randomized, double-blind,
+      triple-dummy, parallel-groups study compared rizatriptan 5 mg, rizatriptan 10 mg,
+      sumatriptan 100 mg, and placebo in 1268 outpatients treating a single migraine
+      attack. Headache relief rates after rizatriptan 10 mg were consistently higher
+      than sumatriptan at all time points up to 2 hours, with significance at 1 hour
+      (37% versus 28%, P = 0.010). All active agents were significantly superior to
+      placebo with regard to headache relief and pain freedom at 2 hours (P < or =
+      0.001). The primary efficacy endpoint of time to pain relief through 2 hours
+      demonstrated that, after adjustment for age imbalance, rizatriptan 10 mg had
+      earlier onset than sumatriptan 100 mg (P = 0.032; hazard ratio 1.21). Rizatriptan
+      10 mg was also superior to sumatriptan on pain-free response (P = 0.032),
+      reduction in functional disability (P = 0.015), and relief of nausea at 2 hours
+      (P = 0.010). Significantly fewer drug-related clinical adverse events were
+      reported after rizatriptan 10 mg (33%, P = 0.014) compared with sumatriptan 100
+      mg (41%). We conclude that rizatriptan 10 mg has a rapid onset of action and
+      relieves headache and associated symptoms more effectively than sumatriptan 100
+      mg.
+AD  - Bispebjerg Hospital, Copenhagen, Denmark.
+FAU - Tfelt-Hansen, P
+AU  - Tfelt-Hansen P
+FAU - Teall, J
+AU  - Teall J
+FAU - Rodriguez, F
+AU  - Rodriguez F
+FAU - Giacovazzo, M
+AU  - Giacovazzo M
+FAU - Paz, J
+AU  - Paz J
+FAU - Malbecq, W
+AU  - Malbecq W
+FAU - Block, G A
+AU  - Block GA
+FAU - Reines, S A
+AU  - Reines SA
+FAU - Visser, W H
+AU  - Visser WH
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Headache
+JT  - Headache
+JID - 2985091R
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Triazoles)
+RN  - 0 (Tryptamines)
+RN  - 103628-46-2 (Sumatriptan)
+RN  - 145202-66-0 (rizatriptan)
+SB  - IM
+CIN - Headache. 1999 Jan;39(1):59-60. PMID: 18567177
+CIN - Headache. 2000 Jul-Aug;40(7):605-9. PMID: 10940103
+MH  - Administration, Oral
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/*drug therapy
+MH  - Serotonin Receptor Agonists/*administration & dosage
+MH  - Sumatriptan/*administration & dosage
+MH  - Triazoles/*administration & dosage
+MH  - Tryptamines
+EDAT- 2001/04/04 10:00
+MHDA- 2001/05/22 10:01
+CRDT- 2001/04/04 10:00
+PST - ppublish
+SO  - Headache. 1998 Nov-Dec;38(10):748-55.
+
+PMID- 11037741
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010122
+DCOM- 20010201
+LR  - 20101118
+IS  - 0333-1024 (Print)
+IS  - 0333-1024 (Linking)
+VI  - 20
+IP  - 5
+DP  - 2000 Jun
+TI  - Comparison of rizatriptan 10 mg vs. zolmitriptan 2.5 mg in the acute treatment of
+      migraine. Rizatriptan-Zolmitriptan Study Group.
+PG  - 455-61
+AB  - The efficacy and tolerability of rizatriptan (MAXALT) and zolmitriptan (ZOMIG)
+      were compared in a randomized, double-blind, double-dummy, stratified (on prior
+      use of rizatriptan and/or zolmitriptan), placebo-controlled, single attack study 
+      in 766 patients. Rizatriptan tended to provide freedom from pain sooner than
+      zolmitriptan (hazard ratio 1.26, P = 0.075), acting within 60 min following
+      dosing. More patients were pain free at 2 h on rizatriptan than on zolmitriptan
+      (43.2% vs. 35.6%, P=0.041), while headache relief at 2 h was similar (70.5% vs.
+      66.8%). At 2 h, fewer patients on rizatriptan had symptoms of photophobia (35.6% 
+      vs. 43.5%, P = 0.029) and nausea (25.2% vs. 32.5%, P=0.046), and more patients on
+      rizatriptan had normal function (45.4% vs. 37.0%, P=0.025) than zolmitriptan.
+      Headache recurred in 28% of patients taking rizatriptan, 29% taking zolmitriptan 
+      and 26% taking placebo. Both active treatments were effective compared to placebo
+      and were well tolerated. The most common side-effects with rizatriptan were
+      asthenia/fatigue, somnolence and dizziness, while the most common side-effects
+      with zolmitriptan were asthenia/fatigue and dizziness.
+AD  - University Hospital Marques de Valdecilla, Santander, Spain.
+FAU - Pascual, J
+AU  - Pascual J
+FAU - Vega, P
+AU  - Vega P
+FAU - Diener, H C
+AU  - Diener HC
+FAU - Allen, C
+AU  - Allen C
+FAU - Vrijens, F
+AU  - Vrijens F
+FAU - Patel, K
+AU  - Patel K
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - NORWAY
+TA  - Cephalalgia
+JT  - Cephalalgia : an international journal of headache
+JID - 8200710
+RN  - 0 (Oxazolidinones)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Triazoles)
+RN  - 0 (Tryptamines)
+RN  - 139264-17-8 (zolmitriptan)
+RN  - 145202-66-0 (rizatriptan)
+SB  - IM
+MH  - Adult
+MH  - Disability Evaluation
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Migraine Disorders/*drug therapy/physiopathology
+MH  - Oxazolidinones/adverse effects/*therapeutic use
+MH  - Quality of Life
+MH  - Recurrence
+MH  - Retreatment
+MH  - Serotonin Receptor Agonists/adverse effects/*therapeutic use
+MH  - Time Factors
+MH  - Triazoles/adverse effects/*therapeutic use
+MH  - Tryptamines
+EDAT- 2000/10/19 11:00
+MHDA- 2001/02/28 10:01
+CRDT- 2000/10/19 11:00
+PST - ppublish
+SO  - Cephalalgia. 2000 Jun;20(5):455-61.
+
+PMID- 10972633
+OWN - NLM
+STAT- MEDLINE
+DA  - 20001211
+DCOM- 20001222
+LR  - 20101118
+IS  - 0149-2918 (Print)
+IS  - 0149-2918 (Linking)
+VI  - 22
+IP  - 8
+DP  - 2000 Aug
+TI  - Efficacy of naratriptan tablets in the acute treatment of migraine: a
+      dose-ranging study. Naratriptan S2WB2004 Study Group.
+PG  - 970-80
+AB  - OBJECTIVE: This study sought to compare the efficacy of several doses of
+      naratriptan tablets with that of sumatriptan tablets and placebo in the acute
+      treatment of a single migraine attack. METHODS: This was a randomized,
+      double-blind, placebo-controlled, parallel-group, dose-ranging study. Patients
+      received either naratriptan tablets (1, 2.5, 5, 7.5, or 10 mg), sumatriptan
+      tablets (100 mg), or placebo. RESULTS: A total of 643 patients took part in the
+      study. Two hours after dosing, headache relief was reported by significantly more
+      patients treated with any dose of naratriptan (52%-69%) or sumatriptan (60%) than
+      with placebo (31%) (P < 0.05). Four hours after dosing, headache relief was
+      reported by significantly more patients treated with any dose of naratriptan
+      (63%-80%) or sumatriptan (80%) than with placebo (39%) and by significantly more 
+      patients treated with sumatriptan 100 mg (80%) than with naratriptan 1 mg (64%), 
+      2.5 mg (63%), or 5 mg (65%) (P < 0.05). Twenty-four-hour overall efficacy
+      (headache relief maintained through 24 hours postdose with no worsening, no use
+      of rescue medication, and no recurrence) was reported by more patients treated
+      with any dose of naratriptan (39%-58%) or sumatriptan (44%) than with placebo
+      (22%). Headache recurrence was reported in 17% to 32% of naratriptan-treated
+      patients, 44% of sumatriptan-treated patients, and 36% of placebo recipients. The
+      overall incidence of adverse events was similar in patients treated with
+      naratriptan 1 mg (20%), naratriptan 2.5 mg (21%), and placebo (23%). For
+      naratriptan 5, 7.5, and 10 mg, the incidence of adverse events was 32%, 37%, and 
+      35%, respectively, and for sumatriptan 100 mg it was 26%. CONCLUSIONS: Our
+      results suggest that the 2.5-mg dose of naratriptan tablets offers the optimal
+      efficacy-to-tolerability ratio at the dose range between 1 and 10 mg. Although
+      naratriptan 2.5 mg was less effective than sumatriptan 100 mg at 4 hours after
+      dosing, the 2 medications showed similar efficacy at 24 hours.
+AD  - Lansi-Pohjan Keskussairaala, Neurologian Poliklinikka, Kemi, Finland.
+FAU - Havanka, H
+AU  - Havanka H
+FAU - Dahlof, C
+AU  - Dahlof C
+FAU - Pop, P H
+AU  - Pop PH
+FAU - Diener, H C
+AU  - Diener HC
+FAU - Winter, P
+AU  - Winter P
+FAU - Whitehouse, H
+AU  - Whitehouse H
+FAU - Hassani, H
+AU  - Hassani H
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Clin Ther
+JT  - Clinical therapeutics
+JID - 7706726
+RN  - 0 (Indoles)
+RN  - 0 (Piperidines)
+RN  - 0 (Placebos)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Tablets)
+RN  - 0 (Tryptamines)
+RN  - 0 (Vasoconstrictor Agents)
+RN  - 121679-13-8 (naratriptan)
+SB  - IM
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Humans
+MH  - Indoles/administration & dosage/adverse effects/*therapeutic use
+MH  - Migraine Disorders/*drug therapy
+MH  - Patient Satisfaction
+MH  - Piperidines/administration & dosage/adverse effects/*therapeutic use
+MH  - Placebos
+MH  - Serotonin Receptor Agonists/administration & dosage/adverse effects/*therapeutic 
+      use
+MH  - Tablets
+MH  - Tryptamines
+MH  - Vasoconstrictor Agents/administration & dosage/adverse effects/*therapeutic use
+EDAT- 2000/09/06 11:00
+MHDA- 2001/02/28 10:01
+CRDT- 2000/09/06 11:00
+AID - S0149291800800685 [pii]
+PST - ppublish
+SO  - Clin Ther. 2000 Aug;22(8):970-80.
+
+PMID- 10817444
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000719
+DCOM- 20000719
+LR  - 20101118
+IS  - 0333-1024 (Print)
+IS  - 0333-1024 (Linking)
+VI  - 20
+IP  - 1
+DP  - 2000 Feb
+TI  - Comparison of the efficacy of zolmitriptan and sumatriptan: issues in migraine
+      trial design.
+PG  - 30-8
+AB  - In this international, multicentre, double-blind, placebo-controlled, single
+      attack study, 'triptan naive' migraine patients were randomized in an 8:8:1 ratio
+      to receive zolmitriptan 5 mg, sumatriptan 100 mg or placebo. The all-treated
+      analysis included 1058 patients who took study medication. The primary endpoint, 
+      complete headache response, was reported by 39%, 38% and 32% of patients treated 
+      with zolmitriptan, sumatriptan and placebo, respectively, with no significant
+      difference between treatment groups. In patients with moderate headache at
+      baseline, complete response was significantly greater following zolmitriptan than
+      after placebo (48% vs. 27%; P=0.01); there was no significant difference between 
+      sumatriptan and placebo groups (40% vs. 27%). In patients with severe baseline
+      headache (where a greater reduction in headache intensity is required for a
+      headache response), there was no significant difference between any groups in
+      complete headache response rates. For secondary endpoints, active treatment
+      groups were significantly superior to placebo for: 1-, 2- and 4-h headache
+      response (e.g. 2-h headache response rates: zolmitriptan 59%; sumatriptan 61%;
+      placebo 44%; P < 0.01 vs. placebo); pain-free response rates at 2 and 4 h;
+      alleviation of nausea and vomiting; use of escape medication and restoration of
+      normal activity. The incidence of adverse events was similar between zolmitriptan
+      and sumatriptan groups but was slightly lower in the placebo group. The lack of
+      difference between active treatments and placebo for complete response probably
+      reflects the high placebo response obtained, which is probably a result of
+      deficiencies in trial design. For example, the randomization ratio may result in 
+      high expectation of active treatment. Thus, while ethically patient exposure to
+      placebo should be minimized, this must be balanced against the scientific
+      rationale underpinning study design.
+AD  - Service de Neurologie, CHU de Rangueil, Toulouse, France.
+      geraud.g@chu-toulouse.fr
+FAU - Geraud, G
+AU  - Geraud G
+FAU - Olesen, J
+AU  - Olesen J
+FAU - Pfaffenrath, V
+AU  - Pfaffenrath V
+FAU - Tfelt-Hansen, P
+AU  - Tfelt-Hansen P
+FAU - Zupping, R
+AU  - Zupping R
+FAU - Diener, H C
+AU  - Diener HC
+FAU - Sweet, R
+AU  - Sweet R
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - NORWAY
+TA  - Cephalalgia
+JT  - Cephalalgia : an international journal of headache
+JID - 8200710
+RN  - 0 (Oxazoles)
+RN  - 0 (Oxazolidinones)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Tryptamines)
+RN  - 103628-46-2 (Sumatriptan)
+RN  - 139264-17-8 (zolmitriptan)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/*drug therapy
+MH  - Oxazoles/adverse effects/*therapeutic use
+MH  - *Oxazolidinones
+MH  - Recurrence
+MH  - Research Design
+MH  - Serotonin Receptor Agonists/adverse effects/*therapeutic use
+MH  - Sumatriptan/adverse effects/*therapeutic use
+MH  - Treatment Outcome
+MH  - Tryptamines
+EDAT- 2000/05/19 09:00
+MHDA- 2000/07/25 11:00
+CRDT- 2000/05/19 09:00
+PST - ppublish
+SO  - Cephalalgia. 2000 Feb;20(1):30-8.
+
+PMID- 10759911
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000911
+DCOM- 20000911
+LR  - 20101118
+IS  - 0017-8748 (Print)
+IS  - 0017-8748 (Linking)
+VI  - 40
+IP  - 2
+DP  - 2000 Feb
+TI  - A comparative trial of zolmitriptan and sumatriptan for the acute oral treatment 
+      of migraine.
+PG  - 119-28
+AB  - OBJECTIVE: This randomized, double-blind, parallel group multicenter study
+      compared response rates and tolerability of zolmitriptan with sumatriptan in the 
+      acute treatment of migraine. METHODS: A sample consisting of 1445 outpatients
+      with an established diagnosis of migraine was randomized to zolmitriptan, 2.5 mg 
+      or 5 mg, or sumatriptan, 25 mg or 50 mg. Patients took 1 tablet for
+      moderate/severe migraine and a second identical tablet, if necessary, for
+      recurrent headache of moderate/severe intensity 4 to 24 hours after the initial
+      dose. Up to six attacks were treated during a 6-month period. The primary outcome
+      measure was headache response 2 hours after the initial dose. Secondary end
+      points included 1-hour and 4-hour headache response and pain relief over 24
+      hours. RESULTS: A headache response at 2 hours was noted in 67.1% of patients
+      taking zolmitriptan, 2.5 mg, and 64.8% of those taking zolmitriptan, 5 mg, versus
+      59.6% of patients taking sumatriptan, 25 mg, and 63.8% of those taking
+      sumatriptan, 50 mg. At 2 and 4 hours, the differences between zolmitriptan, 2.5
+      mg, and sumatriptan, 25 mg, were statistically significant (odds ratio=1.49 and
+      1.67, respectively; both P<.001). Statistically significant differences between
+      zolmitriptan, 2.5 mg, and sumatriptan, 50 mg, were seen at 2 and 4 hours post
+      dose (odds ratio=1.21 and 1.23, respectively; both P<.05). At 1 hour post dose,
+      the headache response rate for zolmitriptan, 2. 5 mg, was numerically higher than
+      response rates for sumatriptan, 25 mg and 50mg (odds ratio=1.16, odds ratio=1.06,
+      though they failed to reach statistical significance; P=.061, P=.461
+      respectively). Differences between zolmitriptan, 5 mg, and sumatriptan, 25 mg,
+      were statistically significant at 1, 2, and 4 hours (odds ratio=1.43, 1. 46, and 
+      1.78, respectively; all P<.001) and at 1 and 4 hours versus sumatriptan, 50 mg
+      (odds ratio=1.28, P=.002; odds ratio=1.29, P=.012, respectively). Although not
+      statistically significant at 2 hours, more patients responded to zolmitriptan, 5 
+      mg, than to sumatriptan, 50 mg (odds ratio=1.16, P=.064). Patients receiving
+      zolmitriptan, 2. 5 mg or 5 mg, achieved more pain relief over 24 hours than
+      patients receiving sumatriptan, 25 mg (odds ratio=1.47, and 1.54 respectively,
+      both P<.001) or sumatriptan, 50 mg (odds ratio=1.17, P=.021; odds ratio=1.22,
+      P=.005, respectively). All treatments were well tolerated. CONCLUSIONS:
+      Zolmitriptan, 2.5 mg and 5 mg, was at least as effective as sumatriptan, 25 mg or
+      50 mg, for all parameters studied. Zolmitriptan, 2.5 mg, was significantly more
+      effective than sumatriptan, 50 mg, in terms of headache response at 2 and 4
+      hours. Patients taking zolmitriptan were significantly more likely to have pain
+      relief over 24 hours than those taking sumatriptan.
+AD  - University of Medicine & Dentistry of New Jersey, Headache Center, Moorestown, NJ
+      08057, USA.
+FAU - Gallagher, R M
+AU  - Gallagher RM
+FAU - Dennish, G
+AU  - Dennish G
+FAU - Spierings, E L
+AU  - Spierings EL
+FAU - Chitra, R
+AU  - Chitra R
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Headache
+JT  - Headache
+JID - 2985091R
+RN  - 0 (Oxazoles)
+RN  - 0 (Oxazolidinones)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Tryptamines)
+RN  - 103628-46-2 (Sumatriptan)
+RN  - 139264-17-8 (zolmitriptan)
+SB  - IM
+CIN - Headache. 2001 Mar;41(3):321-3. PMID: 11264695
+MH  - Acute Disease
+MH  - Administration, Oral
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/*drug therapy
+MH  - Oxazoles/*therapeutic use
+MH  - *Oxazolidinones
+MH  - Patient Satisfaction
+MH  - Recurrence
+MH  - Serotonin Receptor Agonists/*therapeutic use
+MH  - Sumatriptan/*therapeutic use
+MH  - Time Factors
+MH  - Treatment Outcome
+MH  - Tryptamines
+EDAT- 2000/04/12 09:00
+MHDA- 2000/09/19 11:01
+CRDT- 2000/04/12 09:00
+AID - hed00017 [pii]
+PST - ppublish
+SO  - Headache. 2000 Feb;40(2):119-28.
+
+PMID- 10636142
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000127
+DCOM- 20000127
+LR  - 20101118
+IS  - 0028-3878 (Print)
+IS  - 0028-3878 (Linking)
+VI  - 54
+IP  - 1
+DP  - 2000 Jan 11
+TI  - Eletriptan in acute migraine: a double-blind, placebo-controlled comparison to
+      sumatriptan. Eletriptan Steering Committee.
+PG  - 156-63
+AB  - OBJECTIVE: To compare the efficacy, safety, and tolerability of oral eletriptan
+      (20 mg, 40 mg, and 80 mg) with that of oral sumatriptan (100 mg) and placebo for 
+      the acute treatment of migraine. BACKGROUND: Eletriptan is a potent and selective
+      agonist at human recombinant 5HT1B/1D receptors, with efficacy in animal models
+      that predict antimigraine activity. In healthy volunteers, the pharmacokinetics
+      of eletriptan are characterized by linear and rapid oral absorption. METHODS:
+      Randomized, double-blind, parallel-group study conducted in 857 outpatients with 
+      a diagnosis of migraine according to the International Headache Society (IHS)
+      criteria. Of these, 692 took study medication for one acute migraine attack and
+      provided on-drug efficacy data. Subjects received either placebo, 100 mg of
+      sumatriptan or 20 mg, 40 mg, or 80 mg of eletriptan for the treatment of an acute
+      migraine attack. The primary endpoint was the percentage of patients with a
+      headache response (improvement in pain intensity from moderate or severe to mild 
+      or none) at 2 hours after treatment. RESULTS: At the primary endpoint (2 hours
+      after dosing), headache response rates were 24% (30/126) for placebo; 55%
+      (63/115) for sumatriptan, 100 mg; 54% (70/129) for eletriptan, 20 mg; 65%
+      (76/117) for eletriptan, 40 mg; and 77% (91/118) for eletriptan, 80 mg. There was
+      a difference compared with placebo (p<0.001) for all doses of eletriptan, and at 
+      2 hours there was a difference between sumatriptan, 100 mg, and eletriptan, 80 mg
+      (p<0.001). Headache-free rates at 2 hours were superior to placebo (6%; p<0.001) 
+      for both the 80-mg dose of eletriptan (37%) and the 40-mg dose (29%), with the
+      80-mg dose also being superior to 100 mg of sumatriptan (23%; p<0.05). Eletriptan
+      and sumatriptan were well tolerated, and the majority of adverse events were mild
+      or moderate in intensity and transient. CONCLUSION: In this placebo-controlled
+      trial, eletriptan, at selected doses, demonstrated superior efficacy, onset of
+      action and patient acceptability in the acute treatment of migraine when compared
+      with oral sumatriptan and placebo.
+AD  - Institute of Neurology, The National Hospital for Neurology and Neurosurgery,
+      London, UK. peterg@brain.ion.ucl.ac.uk
+FAU - Goadsby, P J
+AU  - Goadsby PJ
+FAU - Ferrari, M D
+AU  - Ferrari MD
+FAU - Olesen, J
+AU  - Olesen J
+FAU - Stovner, L J
+AU  - Stovner LJ
+FAU - Senard, J M
+AU  - Senard JM
+FAU - Jackson, N C
+AU  - Jackson NC
+FAU - Poole, P H
+AU  - Poole PH
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Neurology
+JT  - Neurology
+JID - 0401060
+RN  - 0 (Indoles)
+RN  - 0 (Placebos)
+RN  - 0 (Pyrrolidines)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Tryptamines)
+RN  - 0 (Vasoconstrictor Agents)
+RN  - 0 (eletriptan)
+RN  - 103628-46-2 (Sumatriptan)
+SB  - AIM
+SB  - IM
+CIN - Neurology. 2000 Sep 12;55(5):735; author reply 736. PMID: 10980753
+CIN - Neurology. 2000 Sep 12;55(5):735-6. PMID: 11041768
+MH  - Acute Disease
+MH  - Administration, Oral
+MH  - Adult
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Indoles/adverse effects/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/*drug therapy/physiopathology
+MH  - Placebos
+MH  - Pyrrolidines/adverse effects/*therapeutic use
+MH  - Recurrence
+MH  - Serotonin Receptor Agonists/adverse effects/*therapeutic use
+MH  - Sumatriptan/adverse effects/*therapeutic use
+MH  - Treatment Outcome
+MH  - Tryptamines
+MH  - Vasoconstrictor Agents/adverse effects/*therapeutic use
+EDAT- 2000/01/15
+MHDA- 2000/01/15 00:01
+CRDT- 2000/01/15 00:00
+PST - ppublish
+SO  - Neurology. 2000 Jan 11;54(1):156-63.
+
+PMID- 10529545
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991223
+DCOM- 19991223
+LR  - 20101118
+IS  - 0014-3022 (Print)
+IS  - 0014-3022 (Linking)
+VI  - 42
+IP  - 3
+DP  - 1999
+TI  - Comparison of rizatriptan 10 mg vs. naratriptan 2.5 mg in migraine.
+PG  - 173-9
+AB  - Rizatriptan (MAXALT(TM), Merck & Co., Inc.) is a selective 5-HT(1B/1D) receptor
+      agonist with rapid oral absorption and early onset of action for the acute
+      treatment of migraine. This randomized, double-masked, double-dummy,
+      placebo-controlled study compared rizatriptan 10 mg to naratriptan (NARAMIG(TM), 
+      AMERGE(TM), both Glaxo Wellcome plc) 2.5 mg in 522 patients treating a single
+      migraine attack. Rizatriptan was more effective than naratriptan. Rizatriptan
+      provided earlier headache relief than naratriptan (hazard ratio 1.62, p < 0.001),
+      acting as early as 30 min. More patients were pain free at 2 h on rizatriptan
+      than on naratriptan (44.8 vs. 20.7%, p < 0.001). Rizatriptan also provided
+      earlier relief of associated migraine symptoms within 2 h than naratriptan and
+      more patients had normal function at 2 h (39.3 vs. 22.6%, p < 0. 001). Both
+      active treatments were effective compared to placebo. Both active treatments were
+      well tolerated. The most common side effects with rizatriptan were dizziness,
+      asthenia/fatigue, nausea and somnolence, while the most common side effects with 
+      naratriptan were dizziness and asthenia/fatigue.
+AD  - Ignatius Ziekenhuis, Breda, The Netherlands.
+FAU - Bomhof, M
+AU  - Bomhof M
+FAU - Paz, J
+AU  - Paz J
+FAU - Legg, N
+AU  - Legg N
+FAU - Allen, C
+AU  - Allen C
+FAU - Vandormael, K
+AU  - Vandormael K
+FAU - Patel, K
+AU  - Patel K
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - SWITZERLAND
+TA  - Eur Neurol
+JT  - European neurology
+JID - 0150760
+RN  - 0 (Indoles)
+RN  - 0 (Piperidines)
+RN  - 0 (Serotonin Receptor Agonists)
+RN  - 0 (Triazoles)
+RN  - 0 (Tryptamines)
+RN  - 121679-13-8 (naratriptan)
+RN  - 145202-66-0 (rizatriptan)
+SB  - IM
+MH  - Adult
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Indoles/administration & dosage/adverse effects/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/*drug therapy
+MH  - Piperidines/administration & dosage/adverse effects/*therapeutic use
+MH  - Recurrence
+MH  - Serotonin Receptor Agonists/administration & dosage/adverse effects/*therapeutic 
+      use
+MH  - Treatment Outcome
+MH  - Triazoles/administration & dosage/adverse effects/*therapeutic use
+MH  - Tryptamines
+EDAT- 1999/10/26
+MHDA- 1999/10/26 00:01
+CRDT- 1999/10/26 00:00
+AID - 8094 [pii]
+PST - ppublish
+SO  - Eur Neurol. 1999;42(3):173-9.
+
+PMID- 9754503
+OWN - NLM
+STAT- MEDLINE
+DA  - 19981006
+DCOM- 19981006
+LR  - 20051117
+IS  - 1069-6563 (Print)
+IS  - 1069-6563 (Linking)
+VI  - 5
+IP  - 9
+DP  - 1998 Sep
+TI  - Emergency management of migraine: is the headache really over?
+PG  - 899-905
+AB  - OBJECTIVES: To observe headache frequency after release for acute migraine
+      sufferers treated in an ED; to observe the impact after-release headaches and
+      associated symptoms have on quality of life; and to document the variability in
+      migraine management in an emergency setting. METHODS: Prospective observational
+      study, including 24- and 72-hour telephone follow-up. RESULTS: Over a 4-month
+      period, 143 patients with headaches (149 visits) were observed in the ED. Of 108 
+      patients successfully contacted, the incidence of headache in the first 24 hours 
+      after release was 49.1%. Forty-two patients left the ED without pain; 13 of these
+      subsequently had return of headache. Sixty-six left with some degree of pain,
+      with 40 having headache persistence at 24 hours. The difference in 24-hour
+      headache rate between the 2 groups is significant (p=0.008). Five patients still 
+      had headaches at 72 hours after release, but 54 of 70 contacted had taken
+      medication for their symptoms between 24 and 72 hours after release. Forty-five
+      percent were not back to normal function at 24 hours, while 21 of 70 were still
+      not sleeping well at 72 hours. Finally, 8 different classes of medications were
+      used in the ED for migraine headaches, with 20 patients receiving at least 3
+      types of medication. CONCLUSIONS: Treatment for acute migraine headache in this
+      emergency setting was variable. Patients not obtaining complete relief in the ED 
+      had a higher rate of headache after release than did those who left with no pain.
+      Migraine sufferers may have normal daily function affected for up to 72 hours or 
+      longer after ED treatment.
+AD  - Atlantic Health Sciences Corporation, Department of Emergency Medicine, Dalhousie
+      University, Halifax, Nova Scotia, Canada. jamesd@fundy.net
+FAU - Ducharme, J
+AU  - Ducharme J
+FAU - Beveridge, R C
+AU  - Beveridge RC
+FAU - Lee, J S
+AU  - Lee JS
+FAU - Beaulieu, S
+AU  - Beaulieu S
+LA  - eng
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Acad Emerg Med
+JT  - Academic emergency medicine : official journal of the Society for Academic
+      Emergency Medicine
+JID - 9418450
+SB  - IM
+MH  - Acute Disease
+MH  - Adult
+MH  - Aged
+MH  - Analysis of Variance
+MH  - *Emergency Service, Hospital
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/*drug therapy
+MH  - Multivariate Analysis
+MH  - Prospective Studies
+MH  - Quality of Life
+MH  - Recurrence
+EDAT- 1998/10/01
+MHDA- 1998/10/01 00:01
+CRDT- 1998/10/01 00:00
+PST - ppublish
+SO  - Acad Emerg Med. 1998 Sep;5(9):899-905.

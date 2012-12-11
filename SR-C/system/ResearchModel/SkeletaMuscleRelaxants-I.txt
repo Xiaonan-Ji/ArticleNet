@@ -1,0 +1,665 @@
+
+PMID- 12167135
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020808
+DCOM- 20021115
+LR  - 20090202
+IS  - 0017-8748 (Print)
+IS  - 0017-8748 (Linking)
+VI  - 42
+IP  - 6
+DP  - 2002 Jun
+TI  - Chronic daily headache prophylaxis with tizanidine: a double-blind,
+      placebo-controlled, multicenter outcome study.
+PG  - 470-82
+AB  - OBJECTIVE: To assess the efficacy of tizanidine hydrochloride versus placebo as
+      adjunctive prophylactic therapy for chronic daily headache (chronic migraine,
+      migrainous headache, or tension-type headache). BACKGROUND: Tizanidine is an
+      alpha2-adrenergic agonist that inhibits the release of norepinephrine at both the
+      spinal cord and brain, with antinociceptive effects that are independent of the
+      endogenous opioid system. Previous open-label studies have suggested the drug may
+      be effective for treatment of chronic daily headache. METHODS: Two hundred
+      patients completed a 4-week, single-blind, placebo baseline period, with 134
+      fulfilling selection criteria and then randomized to tizanidine or placebo.
+      Ninety-two patients completed at least 8 weeks of treatment (tizanidine, n = 45; 
+      placebo, n = 47), and 85 patients completed 12 weeks of treatment (tizanidine, n 
+      = 44; placebo, n = 41). Most patients (77%) met the diagnostic criteria for
+      migraine of the International Headache Society; 23% had either chronic migrainous
+      headache or chronic tension-type headache. Tizanidine was slowly titrated over 4 
+      weeks to 24 mg or the maximum dose tolerated (mean, 18 mg; SD, 6.4; median, 20.0;
+      range, 2 to 24), divided equally over three dose intervals per day. Overall
+      headache index ([headache days x average intensity x duration in hours]/28 days) 
+      was the primary end point. RESULTS: Tizanidine was shown to be superior to
+      placebo in reducing the overall headache index (P =.0025), as well as mean
+      headache days per week (P =.0193), severe headache days per week (P =.0211),
+      average headache intensity (P =.0108), peak headache intensity (P =.0020), and
+      mean headache duration (P =.0127). The mean percentage improvement during the
+      last 4 weeks of treatment with tizanidine versus placebo was 54% versus 19% for
+      the headache index (P =.0144), 55% versus 21% for severe headache days (P
+      =.0331), 35% versus 19% for headache duration (P =.0142), 35% versus 20% for peak
+      headache intensity (P =.0106), 33% versus 20% for average headache intensity (P
+      =.0281), and 30% versus 22% for total headache days (P =.0593). Patients
+      receiving tizanidine also scored higher ratings of overall headache improvement
+      on a visual analog scale (P =.0069). There was no statistically significant
+      difference in outcome for patients with chronic migraine versus those with only
+      migrainous or tension-type headache. Adverse effects reported by more than 10% of
+      the patients included somnolence (47%), dizziness (24%), dry mouth (23%), and
+      asthenia (19%). Dropouts due to adverse events did not differ significantly
+      between tizanidine and placebo. CONCLUSIONS: The results support tizanidine as an
+      effective prophylactic adjunct for chronic daily headache, including migraine,
+      migrainous headache, and tension-type headache. These results also suggest the
+      possible importance of an alpha2-adrenergic mechanism underlying the
+      pathophysiology of this spectrum of headache disorders.
+AD  - Michigan Head-Pain and Neurological Institute, Ann Arbor 48104, USA.
+FAU - Saper, Joel R
+AU  - Saper JR
+FAU - Lake, Alvin E 3rd
+AU  - Lake AE 3rd
+FAU - Cantrell, Deborah T
+AU  - Cantrell DT
+FAU - Winner, Paul K
+AU  - Winner PK
+FAU - White, Jeffery R
+AU  - White JR
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Headache
+JT  - Headache
+JID - 2985091R
+RN  - 0 (Adrenergic alpha-Agonists)
+RN  - 4205-90-7 (Clonidine)
+RN  - 51322-75-9 (tizanidine)
+SB  - IM
+CIN - Headache. 2003 Mar;43(3):296; author reply 296-7. PMID: 12603653
+MH  - Adolescent
+MH  - Adrenergic alpha-Agonists/*therapeutic use
+MH  - Adult
+MH  - Chronic Disease
+MH  - Clonidine/*analogs & derivatives/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Headache Disorders/classification/*prevention & control
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Treatment Outcome
+EDAT- 2002/08/09 10:00
+MHDA- 2002/11/26 04:00
+CRDT- 2002/08/09 10:00
+AID - hed02122 [pii]
+PST - ppublish
+SO  - Headache. 2002 Jun;42(6):470-82.
+
+PMID- 11372804
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010524
+DCOM- 20010628
+LR  - 20061115
+IS  - 0038-4348 (Print)
+IS  - 0038-4348 (Linking)
+VI  - 94
+IP  - 5
+DP  - 2001 May
+TI  - Abuse of combinations of carisoprodol and tramadol.
+PG  - 512-4
+AB  - Neither carisoprodol (Soma) nor tramadol (Ultram) is a controlled substance at
+      the federal level. However, evidence indicates that these medications may have
+      abuse potential, particularly in patients with a history of substance abuse. We
+      report three cases in which a combination of carisoprodol and tramadol was used
+      illicitly to obtain psychotropic effects. Carisoprodol or tramadol should be
+      prescribed with caution for patients at risk for substance abuse, and extreme
+      caution should be used when prescribing both drugs simultaneously for any
+      patient.
+AD  - Department of Psychiatry, G.V. (Sonny) Montgomery VA Medical Center and the
+      University of Mississippi School of Medicine, Jackson 39216, USA.
+FAU - Reeves, R R
+AU  - Reeves RR
+FAU - Liberto, V
+AU  - Liberto V
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - South Med J
+JT  - Southern medical journal
+JID - 0404522
+RN  - 0 (Analgesics, Opioid)
+RN  - 0 (Muscle Relaxants, Central)
+RN  - 27203-92-5 (Tramadol)
+RN  - 78-44-4 (Carisoprodol)
+SB  - AIM
+SB  - IM
+MH  - Adult
+MH  - *Analgesics, Opioid/pharmacology
+MH  - *Carisoprodol/pharmacology
+MH  - Drug Interactions
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - *Muscle Relaxants, Central/pharmacology
+MH  - *Substance-Related Disorders/diagnosis
+MH  - *Tramadol/pharmacology
+EDAT- 2001/05/25 10:00
+MHDA- 2001/06/29 10:01
+CRDT- 2001/05/25 10:00
+PST - ppublish
+SO  - South Med J. 2001 May;94(5):512-4.
+
+PMID- 10971659
+OWN - NLM
+STAT- MEDLINE
+DA  - 20001226
+DCOM- 20010104
+LR  - 20090202
+IS  - 0017-8748 (Print)
+IS  - 0017-8748 (Linking)
+VI  - 40
+IP  - 8
+DP  - 2000 Sep
+TI  - Modified-release formulation of tizanidine in chronic tension-type headache.
+PG  - 633-7
+AB  - The efficacy of the modified-release formulation of tizanidine (Sirdalud) was
+      compared with placebo in a randomized, double-blind, parallel-group study of 138 
+      women and 47 men, aged 18 to 79 years, with a history of chronic tension-type
+      headache (IHS categories 2.2 and 2.3). The treatment period was 6 weeks preceded 
+      by a 2-week prerandomization period. The patients were randomly assigned to
+      receive 6-mg Sirdalud, 12-mg Sirdalud MR, or placebo. The study medication was
+      taken once per day, orally in the evening. Efficacy was measured by visual analog
+      scale, the number of headache-free days, the daily duration of headache, and the 
+      use of paracetamol. The primary end point was the severity of daily headache
+      derived from visual analog scale scores covering the last 2 treatment weeks. One 
+      hundred sixty patients (56 in the 6-mg group, 49 in the 12-mg group, and 55 in
+      the placebo group) completed the study. The severity of the headache decreased
+      similarly in the treatment groups and the placebo group. The visual analog scale 
+      values decreased from the prerandomization values by 53% in the 6-mg group, 48%
+      in the 12-mg group, and 52% in the placebo group. The modified-release
+      formulation of tizanidine in doses up to 12 mg taken in the evening is not
+      superior to placebo in the treatment of chronic tension-type headache. The
+      placebo effect was unexpectedly strong in the present study, supporting the view 
+      that psychophysiological mechanisms are of considerable importance in sustaining 
+      chronic tension-type headache.
+AD  - Jorvi Hospital, Espoo, Finland.
+FAU - Murros, K
+AU  - Murros K
+FAU - Kataja, M
+AU  - Kataja M
+FAU - Hedman, C
+AU  - Hedman C
+FAU - Havanka, H
+AU  - Havanka H
+FAU - Sako, E
+AU  - Sako E
+FAU - Farkkila, M
+AU  - Farkkila M
+FAU - Peltola, J
+AU  - Peltola J
+FAU - Keranen, T
+AU  - Keranen T
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Headache
+JT  - Headache
+JID - 2985091R
+RN  - 0 (Adrenergic alpha-Agonists)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 4205-90-7 (Clonidine)
+RN  - 51322-75-9 (tizanidine)
+SB  - IM
+MH  - Adrenergic alpha-Agonists/*administration & dosage/therapeutic use
+MH  - Adult
+MH  - Aged
+MH  - Chronic Disease
+MH  - Clonidine/*administration & dosage/*analogs & derivatives/therapeutic use
+MH  - Delayed-Action Preparations
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Pain Measurement
+MH  - Tension-Type Headache/*drug therapy/physiopathology
+EDAT- 2000/09/06 11:00
+MHDA- 2001/02/28 10:01
+CRDT- 2000/09/06 11:00
+AID - hed00106 [pii]
+PST - ppublish
+SO  - Headache. 2000 Sep;40(8):633-7.
+
+PMID- 10770520
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000613
+DCOM- 20000613
+LR  - 20061115
+IS  - 0001-6314 (Print)
+IS  - 0001-6314 (Linking)
+VI  - 101
+IP  - 4
+DP  - 2000 Apr
+TI  - Effect of baclofen on gait in spastic MS patients.
+PG  - 244-8
+AB  - OBJECTIVES: To measure gait and postural stability by objective methods in
+      spastic MS patients and to evaluate the effect of baclofen on gait and postural
+      stability. PATIENTS AND METHODS: Fourteen spastic MS patients were examined in a 
+      placebo controlled double-blind, cross-over trial of oral baclofen treatment. The
+      gait was measured on a computerized treadmill and postural stability was measured
+      on a computer assisted force-plate. RESULTS: Only insignificant improvements in
+      the clinical measurements during baclofen treatment were found. At baseline gait 
+      was characterized by low speed, short steps and unsteadiness. Postural stability 
+      was severely impaired. During baclofen treatment only vertical unsteadiness of
+      gait diminished significantly. DISCUSSION: We conclude that patients primarily
+      with spasticity, concomitant with hampering or painful spasms and co-contractions
+      should be offered treatment with baclofen. Only some will experience improvement 
+      of their gait disorders, when treated with baclofen.
+AD  - Department of Neurology, Rigshospitalet, Copenhagen, Denmark.
+FAU - Orsnes, G B
+AU  - Orsnes GB
+FAU - Sorensen, P S
+AU  - Sorensen PS
+FAU - Larsen, T K
+AU  - Larsen TK
+FAU - Ravnborg, M
+AU  - Ravnborg M
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - DENMARK
+TA  - Acta Neurol Scand
+JT  - Acta neurologica Scandinavica
+JID - 0370336
+RN  - 0 (Muscle Relaxants, Central)
+RN  - 1134-47-0 (Baclofen)
+SB  - IM
+MH  - Adult
+MH  - Analysis of Variance
+MH  - Baclofen/administration & dosage/*therapeutic use
+MH  - Cross-Over Studies
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Female
+MH  - Gait/*drug effects
+MH  - Gait Disorders, Neurologic/*drug therapy/etiology
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Multiple Sclerosis/complications/*drug therapy
+MH  - Muscle Relaxants, Central/administration & dosage/*therapeutic use
+MH  - Muscle Spasticity/*drug therapy/etiology
+MH  - Posture
+MH  - Treatment Outcome
+EDAT- 2000/04/19 09:00
+MHDA- 2000/06/17 09:00
+CRDT- 2000/04/19 09:00
+PST - ppublish
+SO  - Acta Neurol Scand. 2000 Apr;101(4):244-8.
+
+PMID- 9715216
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980908
+DCOM- 19980908
+LR  - 20071115
+IS  - 0038-4348 (Print)
+IS  - 0038-4348 (Linking)
+VI  - 91
+IP  - 8
+DP  - 1998 Aug
+TI  - A review of carisoprodol deaths in Jefferson County, Alabama.
+PG  - 726-30
+AB  - BACKGROUND: Carisoprodol is a skeletal muscle relaxant with the potential for
+      abuse. A carisoprodol overdose is rarely considered fatal. Nevertheless, we
+      encountered carisoprodol in several cases, prompting review of our experience.
+      METHODS: We did a retrospective study of cases examined at the Jefferson County
+      Coroner/Medical Examiner Office from January 1, 1986, to October 31, 1997,
+      reviewing investigative reports and autopsy findings. RESULTS: Carisoprodol was
+      present in 24 cases. Seventeen decedents died of acute drug intoxication.
+      Carisoprodol was never the sole drug detected at autopsy, nor was it ever the
+      sole cause of death. Propoxyphene was a co-intoxicant in 8 of the 24 cases.
+      CONCLUSIONS: Carisoprodol causes respiratory depression. Since the mechanism of
+      death was respiratory depression in 82% of the decedents who died of acute
+      intoxication, we consider that carisoprodol was probably responsible, in part,
+      for those deaths. The simultaneous use of propoxyphene and carisoprodol seems to 
+      be especially dangerous.
+AD  - Department of Pathology, University of Alabama at Birmingham, USA.
+FAU - Davis, G G
+AU  - Davis GG
+FAU - Alexander, C B
+AU  - Alexander CB
+LA  - eng
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - South Med J
+JT  - Southern medical journal
+JID - 0404522
+RN  - 0 (Muscle Relaxants, Central)
+RN  - 469-62-5 (Dextropropoxyphene)
+RN  - 78-44-4 (Carisoprodol)
+SB  - AIM
+SB  - IM
+CIN - South Med J. 1999 Apr;92(4):441. PMID: 10219370
+MH  - Acute Disease
+MH  - Adult
+MH  - Alabama/epidemiology
+MH  - Carisoprodol/administration & dosage/*poisoning
+MH  - Cause of Death
+MH  - Coroners and Medical Examiners
+MH  - Dextropropoxyphene/administration & dosage/poisoning
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Muscle Relaxants, Central/*poisoning
+MH  - Overdose
+MH  - Poisoning/mortality
+MH  - Retrospective Studies
+EDAT- 1998/08/26
+MHDA- 1998/08/26 00:01
+CRDT- 1998/08/26 00:00
+PST - ppublish
+SO  - South Med J. 1998 Aug;91(8):726-30.
+
+PMID- 7964712
+OWN - NLM
+STAT- MEDLINE
+DA  - 19941220
+DCOM- 19941220
+LR  - 20061115
+IS  - 0195-2307 (Print)
+IS  - 0195-2307 (Linking)
+VI  - 17
+IP  - 3
+DP  - 1994 Jul
+TI  - A comparison of clonidine, cyproheptadine and baclofen in spastic spinal cord
+      injured patients.
+PG  - 150-6
+AB  - In twenty-five SCI subjects, antispasticity effects of three putative
+      antispasticity agents [clonidine (an alpha-2 noradrenergic agonist),
+      cyproheptadine (a 5-HT2 antagonist) and baclofen (a GABA-B agonist)] were tested 
+      in terms of changes in leg tone as graded by the Ashworth scale (AS), in terms of
+      the vibratory inhibition of the H-reflex (VII) and in terms of the ability of the
+      knee to swing passively in the pendulum test as quantified by video motion
+      analysis. When compared to the no drug period, all three drug treatments showed
+      an antispasticity effect on the AS, the VII and the amplitude of the first swing 
+      and the relaxation index of the pendulum test, p. < 0001. Surprisingly,
+      cyproheptadine and baclofen produced a greater reduction in the VII than
+      clonidine, p. < 01. The amplitude of the first swing in the pendulum test
+      correlated well with the AS, r = .88, and the antispasticity effects of the drugs
+      produced improvements in both measures, a reduced AS and increased amplitude of
+      knee swing in the pendulum test. Therefore, video motion analysis of the pendulum
+      test is as valid a measure of spasticity as the Ashworth scale and is not limited
+      by subjectivity of the examiner.
+AD  - Department of Medicine, University of Manitoba, Winnipeg, Canada.
+FAU - Nance, P W
+AU  - Nance PW
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - J Am Paraplegia Soc
+JT  - The Journal of the American Paraplegia Society
+JID - 8303486
+RN  - 1134-47-0 (Baclofen)
+RN  - 129-03-3 (Cyproheptadine)
+RN  - 4205-90-7 (Clonidine)
+SB  - IM
+MH  - Baclofen/*therapeutic use
+MH  - Clonidine/*therapeutic use
+MH  - Cyproheptadine/*therapeutic use
+MH  - Dose-Response Relationship, Drug
+MH  - Drug Administration Schedule
+MH  - H-Reflex/drug effects
+MH  - Humans
+MH  - Muscle Spasticity/*rehabilitation
+MH  - Muscle Tonus/drug effects
+MH  - Muscle, Skeletal/innervation
+MH  - Neural Inhibition/drug effects
+MH  - Neurologic Examination/drug effects
+MH  - Range of Motion, Articular/drug effects
+MH  - Spinal Cord Injuries/*rehabilitation
+MH  - Vibration
+EDAT- 1994/07/01
+MHDA- 1994/07/01 00:01
+CRDT- 1994/07/01 00:00
+PST - ppublish
+SO  - J Am Paraplegia Soc. 1994 Jul;17(3):150-6.
+
+PMID- 8290095
+OWN - NLM
+STAT- MEDLINE
+DA  - 19940222
+DCOM- 19940222
+LR  - 20101118
+IS  - 0028-3878 (Print)
+IS  - 0028-3878 (Linking)
+VI  - 44
+IP  - 1
+DP  - 1994 Jan
+TI  - Long-term botulinum toxin treatment of focal hand dystonia.
+PG  - 70-6
+AB  - We treated focal hand dystonia in 53 patients with botulinum toxin injections for
+      up to 6 years. Eighty-one percent of the patients improved with at least one
+      injection session. Sixty-five percent of the injections produced transient
+      weakness. We followed 37 of the patients for at least 2 years from the start of
+      treatment, 24 of whom discontinued treatment because of inadequate response, loss
+      of response, inaccessibility of a treatment provider, or the expense of the
+      toxin. Women, who had a greater extent and longer duration of benefit than men,
+      were more likely to continue treatment. The mean interval between injection
+      sessions was 6 months. In most patients, we injected the toxin into the same
+      combination of muscles at each session. The dose of toxin generally fluctuated
+      within a range of 20 units. Side effects were mild and transient and unrelated to
+      the long-term use of botulinum toxin. Botulinum toxin injection is safe and
+      effective for the long-term management of focal hand dystonia.
+AD  - Human Motor Control Section, NINDS, NIH, Bethesda, MD 20892.
+FAU - Karp, B I
+AU  - Karp BI
+FAU - Cole, R A
+AU  - Cole RA
+FAU - Cohen, L G
+AU  - Cohen LG
+FAU - Grill, S
+AU  - Grill S
+FAU - Lou, J S
+AU  - Lou JS
+FAU - Hallett, M
+AU  - Hallett M
+LA  - eng
+PT  - Journal Article
+PL  - UNITED STATES
+TA  - Neurology
+JT  - Neurology
+JID - 0401060
+RN  - EC 3.4.24.69 (Botulinum Toxins)
+SB  - AIM
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Botulinum Toxins/administration & dosage/*therapeutic use
+MH  - Dystonia/*drug therapy/etiology/physiopathology
+MH  - Female
+MH  - Hand
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Muscle Cramp/drug therapy/etiology/physiopathology
+MH  - Time Factors
+MH  - Treatment Outcome
+EDAT- 1994/01/01
+MHDA- 1994/01/01 00:01
+CRDT- 1994/01/01 00:00
+PST - ppublish
+SO  - Neurology. 1994 Jan;44(1):70-6.
+
+PMID- 8290087
+OWN - NLM
+STAT- MEDLINE
+DA  - 19940222
+DCOM- 19940222
+LR  - 20061115
+IS  - 0028-3878 (Print)
+IS  - 0028-3878 (Linking)
+VI  - 44
+IP  - 1
+DP  - 1994 Jan
+TI  - Epilepsy, psychosis, and schizophrenia: clinical and neuropathologic
+      correlations.
+PG  - 34-42
+AB  - This study examines the relationship between epilepsy and psychosis. It compares 
+      clinical, EEG, and neuropathologic data from a group of subjects who had both
+      epilepsy and psychosis with similar information from another group of patients
+      who had epilepsy but no evidence of psychotic illness. We examined, blind to
+      clinical diagnosis, gross and microscopic material from whole-brain specimens
+      from 10 patients diagnosed with epilepsy plus schizophrenia-like psychosis, nine 
+      subjects diagnosed with epilepsy plus "epileptic psychosis," and 36 individuals
+      with epilepsy (21 from an epileptic colony and 15 from the community at large)
+      who had no history of psychosis (n = 10 + 9 + 21 + 15 = 55). We abstracted case
+      histories without knowledge of pathologic findings. Epileptic colony patients had
+      an earlier age at onset of seizures, while epileptic colony and epileptic
+      psychosis patients had more frequent seizures. Epileptic individuals in the
+      community died at a younger age than did epileptic patients in long-stay hospital
+      care. Psychotic epileptic patients had larger cerebral ventricles, excess
+      periventricular gliosis, and more focal cerebral damage compared with epileptic
+      patients who had no psychotic illness. Epileptic patients with schizophrenia-like
+      psychosis were distinguished from all other groups by a significant excess of
+      pinpoint perivascular white-matter softenings. We found that mesial temporal
+      sclerosis and temporal lobe epilepsy occurred with equal frequency in the
+      psychotic and nonpsychotic groups; generalized seizures occurred more frequently 
+      in the psychotic epileptics and the epileptic colony epileptics than in the
+      community epileptic controls.
+AD  - MRC Department of Neuropathology, Runwell Hospital, Wickford, UK.
+FAU - Bruton, C J
+AU  - Bruton CJ
+FAU - Stevens, J R
+AU  - Stevens JR
+FAU - Frith, C D
+AU  - Frith CD
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Neurology
+JT  - Neurology
+JID - 0401060
+SB  - AIM
+SB  - IM
+MH  - Aged
+MH  - Brain/pathology/physiopathology
+MH  - Electroencephalography
+MH  - Epilepsy/*complications/*pathology/physiopathology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Psychotic Disorders/*complications/*pathology/physiopathology
+MH  - Schizophrenia/*complications/*pathology/physiopathology
+EDAT- 1994/01/01
+MHDA- 1994/01/01 00:01
+CRDT- 1994/01/01 00:00
+PST - ppublish
+SO  - Neurology. 1994 Jan;44(1):34-42.
+
+PMID- 8129762
+OWN - NLM
+STAT- MEDLINE
+DA  - 19940408
+DCOM- 19940408
+LR  - 20100412
+IS  - 0004-3591 (Print)
+IS  - 0004-3591 (Linking)
+VI  - 37
+IP  - 1
+DP  - 1994 Jan
+TI  - Comparison of amitriptyline, cyclobenzaprine, and placebo in the treatment of
+      fibromyalgia. A randomized, double-blind clinical trial.
+PG  - 32-40
+AB  - OBJECTIVE: To compare the relative efficacy and tolerability of amitriptyline,
+      cyclobenzaprine, and placebo in the treatment of fibromyalgia, and to identify
+      predictors of response to amitriptyline and cyclobenzaprine. METHODS: Two hundred
+      eight patients who fulfilled the American College of Rheumatology criteria for
+      the classification of fibromyalgia were entered into a 6-month prospective,
+      double-blind, multicenter trial and were randomized to 1 of 3 treatment groups:
+      amitriptyline, cyclobenzaprine, or placebo. RESULTS: After 1 month, 21%, 12%, and
+      0% of the amitriptyline, cyclobenzaprine, and placebo patients, respectively, had
+      significant clinical improvement (amitriptyline versus placebo P = 0.002,
+      cyclobenzaprine versus placebo P = 0.02, amitriptyline versus cyclobenzaprine P
+      not significant). These percentages increased to 36%, 33%, and 19%, respectively,
+      at the 6-month assessment (P not significant). The nature and frequency of side
+      effects reported by patients treated with amitriptyline and those reported by
+      patients treated with cyclobenzaprine were similar. A normal Minnesota
+      Multiphasic Personality Inventory (MMPI) profile at baseline was predictive of
+      clinical improvement at the 1-month evaluation (odds ratio 3.3, 95% confidence
+      interval 1.2-9.0). However, neither the MMPI profile nor any of the demographic, 
+      clinical, or functional parameters evaluated at baseline predicted long-term
+      response. CONCLUSION: Our data confirm the short-term efficacy of amitriptyline
+      and cyclobenzaprine in a small percentage of patients with fibromyalgia.
+      Long-term efficacy could not be demonstrated because of a higher-than-expected
+      placebo response. Predictors of response to these drugs could not be determined.
+AD  - Department of Medicine, Laval University, Quebec, Montreal, Canada.
+FAU - Carette, S
+AU  - Carette S
+FAU - Bell, M J
+AU  - Bell MJ
+FAU - Reynolds, W J
+AU  - Reynolds WJ
+FAU - Haraoui, B
+AU  - Haraoui B
+FAU - McCain, G A
+AU  - McCain GA
+FAU - Bykerk, V P
+AU  - Bykerk VP
+FAU - Edworthy, S M
+AU  - Edworthy SM
+FAU - Baron, M
+AU  - Baron M
+FAU - Koehler, B E
+AU  - Koehler BE
+FAU - Fam, A G
+AU  - Fam AG
+AU  - et al.
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Arthritis Rheum
+JT  - Arthritis and rheumatism
+JID - 0370605
+RN  - 0 (Antidepressive Agents, Tricyclic)
+RN  - 0 (Placebos)
+RN  - 303-53-7 (cyclobenzaprine)
+RN  - 50-48-6 (Amitriptyline)
+SB  - AIM
+SB  - IM
+MH  - Amitriptyline/adverse effects/*analogs & derivatives/*therapeutic use
+MH  - Antidepressive Agents, Tricyclic/*therapeutic use
+MH  - Double-Blind Method
+MH  - Fibromyalgia/*drug therapy
+MH  - Humans
+MH  - Pain Measurement
+MH  - Patient Compliance
+MH  - Placebos
+EDAT- 1994/01/01
+MHDA- 1994/01/01 00:01
+CRDT- 1994/01/01 00:00
+PST - ppublish
+SO  - Arthritis Rheum. 1994 Jan;37(1):32-40.

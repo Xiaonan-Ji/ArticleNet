@@ -1,0 +1,3534 @@
+
+PMID- 12962951
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030909
+DCOM- 20031015
+LR  - 20091026
+IS  - 0029-7844 (Print)
+IS  - 0029-7844 (Linking)
+VI  - 102
+IP  - 3
+DP  - 2003 Sep
+TI  - Reduced perception of urgency in treatment of overactive bladder with
+      extended-release tolterodine.
+PG  - 605-11
+AB  - OBJECTIVE: To evaluate the effect of once-daily, extended-release tolterodine on 
+      urinary urgency in patients with overactive bladder. METHODS: Patients with
+      urinary frequency (eight or more micturitions per 24 hours) and urge incontinence
+      (five or more episodes per week) were randomized to oral treatment with
+      tolterodine extended release 4 mg once daily (n=398) or placebo (n=374) for 12
+      weeks. Efficacy was assessed by use of patient perception evaluations. RESULTS:
+      The results presented are a secondary analysis of this double-blind,
+      placebo-controlled study. Of patients treated with tolterodine extended release, 
+      44% reported improved urgency symptoms (compared with 32% for placebo), and 62%
+      reported improved bladder symptoms (placebo, 48%) (both P<.001 compared with
+      placebo). The odds of reducing urgency and improving bladder symptoms were 1.68
+      and 1.78 times greater, respectively, for patients in the tolterodine extended
+      release group than for patients receiving placebo. In response to urgency, there 
+      was a more than six-fold increase in the proportion of patients able to finish a 
+      task before voiding in the tolterodine extended release group. The proportion of 
+      patients unable to hold urine upon experiencing urgency was also decreased by 58%
+      with tolterodine, compared with 32% with placebo (P<.001). The proportion of
+      patients reporting "much benefit" from treatment was greater for tolterodine
+      extended release than for placebo (43% versus 24%; P<.001). The only adverse
+      events with an incidence of greater than 5% were dry mouth, headache, and
+      constipation, with only dry mouth markedly more frequent with tolterodine than
+      with placebo. CONCLUSION: Tolterodine extended release has demonstrable efficacy 
+      in reducing the severity of urinary urgency and is associated with improvements
+      in overactive bladder symptoms that are meaningful to patients.
+AD  - Urogynaecology Unit, Derriford Hospital, Plymouth, United Kingdom.
+      robert.freeman@phnt.swest.nhs.uk
+FAU - Freeman, Robert
+AU  - Freeman R
+FAU - Hill, Simon
+AU  - Hill S
+FAU - Millard, Richard
+AU  - Millard R
+FAU - Slack, Mark
+AU  - Slack M
+FAU - Sutherst, John
+AU  - Sutherst J
+CN  - Tolterodine Study Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Obstet Gynecol
+JT  - Obstetrics and gynecology
+JID - 0401101
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cresols)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+SB  - AIM
+SB  - IM
+MH  - Administration, Oral
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Benzhydryl Compounds/*therapeutic use
+MH  - Confidence Intervals
+MH  - Cresols/*therapeutic use
+MH  - Delayed-Action Preparations/therapeutic use
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Muscarinic Antagonists
+MH  - Odds Ratio
+MH  - Patient Satisfaction
+MH  - *Phenylpropanolamine
+MH  - Probability
+MH  - Reference Values
+MH  - Severity of Illness Index
+MH  - Treatment Outcome
+MH  - Urinary Bladder Diseases/diagnosis/drug therapy
+MH  - Urinary Incontinence/diagnosis/*drug therapy
+MH  - Urination Disorders/diagnosis/*drug therapy
+EDAT- 2003/09/10 05:00
+MHDA- 2003/10/16 05:00
+CRDT- 2003/09/10 05:00
+AID - S0029784403006239 [pii]
+PST - ppublish
+SO  - Obstet Gynecol. 2003 Sep;102(3):605-11.
+
+PMID- 12811500
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030617
+DCOM- 20030922
+LR  - 20061115
+IS  - 0724-4983 (Print)
+IS  - 0724-4983 (Linking)
+VI  - 20
+IP  - 6
+DP  - 2003 May
+TI  - Controlled, double-blind, multicentre clinical trial to investigate long-term
+      tolerability and efficacy of trospium chloride in patients with detrusor
+      instability.
+PG  - 392-9
+AB  - Our objectives were to ascertain the tolerability and efficacy of trospium
+      chloride in doses of 20 mg twice daily for long-term therapy (52 weeks) in
+      patients with urge syndrome. The trial comprised a total of 358 patients with
+      urge syndrome or urge incontinence. After randomisation in the ratio of 3:1,
+      participants were treated continuously for 52 weeks with either trospium chloride
+      (20 mg twice daily) or oxybutynin (5 mg twice daily). At intervals of 4-8 weeks, 
+      patients were physically examined with measurements of blood pressure and pulse
+      rate, were questioned about any adverse events, checked for compliance and
+      underwent relevant laboratory tests. As an additional safety measure, an ECG was 
+      made at 26 and 52 weeks. Urodynamic measurements were performed at the beginning,
+      and at 26 and 52 weeks to determine the maximal cystometric bladder capacity.
+      Among others things, the frequencies of micturition, incontinence and number of
+      urgency events were recorded in patient diary protocols in weeks 0, 2, 26 and 52.
+      The evaluation of vital parameters, laboratory results and ECGs did not show any 
+      relevant changes attributable to the action of the anticholinergics. Analysis of 
+      the micturition diary clearly indicated a reduction of the micturition frequency,
+      incontinence frequency, and a reduction of the number of urgencies in both
+      treatment groups. Mean maximum cystometric bladder capacity increased during
+      treatment with trospium chloride by 92 ml after 26 weeks and 115 ml after 52
+      weeks (P=0.001). Further comparison with oxybutynin did not reveal any
+      statistically significant differences in urodynamic variables between the drugs. 
+      Adverse events occurred in 64.8% of the patients treated with trospium chloride
+      and 76.7% of those treated with oxybutynin. The main symptom encountered in both 
+      treatment group was dryness of the mouth. For patients on trospium chloride, the 
+      estimated risk of an unexpected adverse event was 0.027 per patient per week for 
+      all adverse events and 0.009 for dryness of the mouth, resulting in a
+      considerably lower risk during treatment given with trospium chloride than with
+      oxybutynin (0.045 and 0.021, respectively). An overall assessment for each of the
+      drugs reveals a comparable efficacy level and a better benefit-risk ratio for
+      trospium chloride than for oxybutynin due to better tolerability.
+AD  - Gynaekologicka-porodnicka Klinika, Unemocnice 2, 128008 Prague, Czech Reprublic.
+FAU - Halaska, M
+AU  - Halaska M
+FAU - Ralph, G
+AU  - Ralph G
+FAU - Wiedemann, A
+AU  - Wiedemann A
+FAU - Primus, G
+AU  - Primus G
+FAU - Ballering-Bruhl, B
+AU  - Ballering-Bruhl B
+FAU - Hofner, K
+AU  - Hofner K
+FAU - Jonas, U
+AU  - Jonas U
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+DEP - 20030328
+PL  - Germany
+TA  - World J Urol
+JT  - World journal of urology
+JID - 8307716
+RN  - 0 (Mandelic Acids)
+RN  - 0 (Nortropanes)
+RN  - 0 (Parasympatholytics)
+RN  - 10405-02-4 (trospium chloride)
+RN  - 5633-20-5 (oxybutynin)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Double-Blind Method
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Mandelic Acids/*adverse effects/*therapeutic use
+MH  - Middle Aged
+MH  - Nortropanes/*adverse effects/*therapeutic use
+MH  - Parasympatholytics/*adverse effects/*therapeutic use
+MH  - Prospective Studies
+MH  - Time Factors
+MH  - Urinary Bladder Diseases/*drug therapy/physiopathology
+MH  - Urinary Incontinence/*drug therapy/physiopathology
+MH  - Urodynamics/physiology
+EDAT- 2003/06/18 05:00
+MHDA- 2003/09/23 05:00
+CRDT- 2003/06/18 05:00
+PHST- 2002/01/08 [received]
+PHST- 2002/12/15 [accepted]
+PHST- 2003/03/28 [aheadofprint]
+AID - 10.1007/s00345-003-0321-8 [doi]
+PST - ppublish
+SO  - World J Urol. 2003 May;20(6):392-9. Epub 2003 Mar 28.
+
+PMID- 12187215
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020820
+DCOM- 20020918
+LR  - 20061115
+IS  - 0022-5347 (Print)
+IS  - 0022-5347 (Linking)
+VI  - 168
+IP  - 3
+DP  - 2002 Sep
+TI  - Does gender or age affect the efficacy and safety of tolterodine?
+PG  - 1027-31
+AB  - PURPOSE: We compared the importance of patient age and gender relative to the
+      intensity of baseline symptoms of overactive bladder in the therapeutic response 
+      to the muscarinic receptor antagonist tolterodine. MATERIALS AND METHODS: Data
+      from an open label, observational study of 2,250 patients with overactive bladder
+      treated for 12 weeks with tolterodine were analyzed for alterations in frequency,
+      urgency and urge incontinence, and for global efficacy and tolerability using
+      logistic regression analysis, stratifying for gender, age, baseline symptom
+      intensity and tolterodine dose. RESULTS: Gender or tolterodine dose were not
+      consistently associated with altered treatment efficacy. Greater age was
+      associated with a slight but statistically significant decrease in treatment
+      efficacy. Patients with great baseline symptom intensity had greater treatment
+      associated improvement but a lesser chance to become symptom-free. Even with a
+      large number of patients no statistically significant gender or age associated
+      alterations in the tolerability of tolterodine treatment were detected.
+      CONCLUSIONS: The extent of the therapeutic response to tolterodine is largely
+      determined by the extent of baseline symptoms. While gender does not affect the
+      efficacy or tolerability of tolterodine in a clinically relevant manner, advanced
+      age is associated with a slight decrease in efficacy but not in tolerability.
+AD  - Department of Medicine, University of Essen, Essen, Germany.
+FAU - Michel, Martin C
+AU  - Michel MC
+FAU - Schneider, Tim
+AU  - Schneider T
+FAU - Krege, Susanne
+AU  - Krege S
+FAU - Goepel, Mark
+AU  - Goepel M
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Urol
+JT  - The Journal of urology
+JID - 0376374
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cresols)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+SB  - AIM
+SB  - IM
+MH  - Age Factors
+MH  - Aged
+MH  - Benzhydryl Compounds/adverse effects/*therapeutic use
+MH  - Cresols/adverse effects/*therapeutic use
+MH  - Female
+MH  - Humans
+MH  - Logistic Models
+MH  - Male
+MH  - Middle Aged
+MH  - Muscarinic Antagonists/adverse effects/*therapeutic use
+MH  - *Phenylpropanolamine
+MH  - Sex Factors
+MH  - Treatment Outcome
+MH  - Urinary Incontinence/*drug therapy
+MH  - Urination Disorders/drug therapy
+EDAT- 2002/08/21 10:00
+MHDA- 2002/09/19 10:01
+CRDT- 2002/08/21 10:00
+AID - 10.1097/01.ju.0000027180.43797.0e [doi]
+AID - S0022-5347(05)64567-3 [pii]
+PST - ppublish
+SO  - J Urol. 2002 Sep;168(3):1027-31.
+
+PMID- 12175392
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020814
+DCOM- 20021007
+LR  - 20061115
+IS  - 1464-4096 (Print)
+IS  - 1464-4096 (Linking)
+VI  - 90
+IP  - 4
+DP  - 2002 Sep
+TI  - A randomized controlled trial of tolterodine and oxybutynin on tolerability and
+      clinical efficacy for treating Chinese women with an overactive bladder.
+PG  - 375-80
+AB  - Objective To compare the tolerability and clinical efficacy of tolterodine and
+      oxybutynin in the treatment of Hong Kong Chinese women with an overactive
+      bladder. Patients and methods A randomized controlled trial was conducted at two 
+      urogynaecology centres in Hong Kong. In all, 106 women with urodynamically
+      confirmed detrusor instability were recruited. Baseline severity assessments
+      included a visual analogue scale (VAS), urinary diary and urinary pad-test. The
+      women were randomized to receive either oral tolterodine 2 mg or oxybutynin 5 mg 
+      twice daily for 10 weeks. Treatment responses were assessed at 4 and 10 weeks
+      using the VAS and urinary diary. Treatment tolerability was assessed at baseline,
+      4 and 10 weeks using the Xerostomia Questionnaire. A urinary pad-test was
+      repeated at 10 weeks. Results The perceived change from baseline VAS was better
+      in the tolterodine than the oxybutynin group after 10 weeks of treatment
+      (per-protocol analysis, P = 0.043). The two drugs were effective in reducing the 
+      symptoms of frequency (P < 0.001). Tolterodine was significantly better than
+      oxybutynin in reducing urinary leakage (urinary pad-test; median change - 5.00 g 
+      vs 0 g, P = 0.019). Both drugs caused a significant worsening of dry mouth
+      (overall dryness, P < 0.005; discomfort, P < 0.005; sleep, P = 0.021; speaking, P
+      = 0.045; swallowing, P = 0.004; and liquid consumption, P = 0.017). Conclusions
+      Both oxybutynin and tolterodine were effective in ameliorating the severity of
+      the symptoms of detrusor instability. Tolterodine was better than oxybutynin in
+      both subjective and objective outcome measures, but both drugs caused similar
+      worsening of dry mouth that may limit the tolerability of these medications.
+AD  - Department of Obstetrics & Ginaecology, prince of Wales Hospital, The Chinese
+      University of Hong Kong, Shantin, New Territories, Hong Kong.
+      peterleung@cuhk.edu.hk
+FAU - Leung, H Y
+AU  - Leung HY
+FAU - Yip, S K
+AU  - Yip SK
+FAU - Cheon, C
+AU  - Cheon C
+FAU - Liu, Y S
+AU  - Liu YS
+FAU - Lau, J
+AU  - Lau J
+FAU - Wong, H K
+AU  - Wong HK
+FAU - Chung, K H
+AU  - Chung KH
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - BJU Int
+JT  - BJU international
+JID - 100886721
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cholinergic Antagonists)
+RN  - 0 (Cresols)
+RN  - 0 (Mandelic Acids)
+RN  - 0 (Muscarinic Agonists)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+RN  - 5633-20-5 (oxybutynin)
+SB  - IM
+MH  - Administration, Oral
+MH  - Adult
+MH  - Aged
+MH  - Benzhydryl Compounds/*administration & dosage
+MH  - Cholinergic Antagonists/*administration & dosage
+MH  - Cresols/*administration & dosage
+MH  - Female
+MH  - Humans
+MH  - Mandelic Acids/*administration & dosage
+MH  - Middle Aged
+MH  - Muscarinic Agonists/*administration & dosage
+MH  - Patient Compliance
+MH  - *Phenylpropanolamine
+MH  - Treatment Outcome
+MH  - Urinary Incontinence/*drug therapy
+EDAT- 2002/08/15 10:00
+MHDA- 2002/10/09 04:00
+CRDT- 2002/08/15 10:00
+AID - 2905 [pii]
+PST - ppublish
+SO  - BJU Int. 2002 Sep;90(4):375-80.
+
+PMID- 12074774
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020620
+DCOM- 20021025
+LR  - 20061115
+IS  - 0302-2838 (Print)
+IS  - 0302-2838 (Linking)
+VI  - 41
+IP  - 6
+DP  - 2002 Jun
+TI  - Long-term safety, tolerability and efficacy of extended-release tolterodine in
+      the treatment of overactive bladder.
+PG  - 588-95
+AB  - BACKGROUND: The objective of the present study was to examine the long-term
+      safety, tolerability and efficacy of tolterodine extended-release (ER) in
+      patients who had completed 12 weeks' treatment in a randomised, double-blind
+      study comparing tolterodine ER 4 mg once daily (qd), tolterodine
+      immediate-release (IR) 2mg twice daily and placebo. METHODS: Of the 1377 patients
+      completing the 12-week study, a total of 1077 (78%) chose to continue with 12
+      months' open-label treatment with tolterodine ER 4 mg once daily, irrespective of
+      their previous treatment. Safety was assessed after 3, 6, 9 and 12 months'
+      treatment in the study. Efficacy was evaluated from micturition diary variables
+      and patients' perception of bladder condition and urgency following 3 and 12
+      months' treatment. RESULTS: 71% of patients completed the 12-month study.
+      Tolterodine ER was safe and well tolerated. Adverse events of the general
+      (14.5%), autonomic (13.2%), gastrointestinal (11.4%), respiratory (9.8%) and
+      urinary (9.1%) systems were the most frequently reported. Dry mouth was the most 
+      common event, occurring in 12.9% of patients, and was generally mild in severity.
+      Other adverse events occurred in less than 5% of patients. There was no increase 
+      in the frequency of adverse events with long-term relative to short-term
+      treatment. The efficacy of tolterodine was maintained over the 12-month treatment
+      period; relative to baseline there were reductions in the number of incontinence 
+      episodes per week (median change -83%) and micturitions per 24 hours (median
+      change -21%) and an increase in volume voided (median change +25%) after 12
+      months' treatment. An improvement in patient perception of their bladder
+      condition was found in 75% of patients completing the study, and 51% had an
+      improvement in patient perception of urgency. CONCLUSIONS: Tolterodine ER 4mg qd 
+      displayed a favourable safety, tolerability and efficacy profile during 12
+      months' treatment of patients with overactive bladder.
+AD  - Department of Urology, University of Iowa Hospitals and Clinics, 200 Hawkins
+      Drive, 3120 RCP, Iowa City, IA 52242, USA. karl-kreder@uiowa.edu
+FAU - Kreder, K
+AU  - Kreder K
+FAU - Mayne, C
+AU  - Mayne C
+FAU - Jonas, U
+AU  - Jonas U
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - Netherlands
+TA  - Eur Urol
+JT  - European urology
+JID - 7512719
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cresols)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Benzhydryl Compounds/*administration & dosage
+MH  - Cresols/*administration & dosage
+MH  - Delayed-Action Preparations
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Muscarinic Antagonists/*administration & dosage
+MH  - *Phenylpropanolamine
+MH  - Time Factors
+MH  - Treatment Outcome
+MH  - Urinary Bladder, Neurogenic/*drug therapy
+EDAT- 2002/06/21 10:00
+MHDA- 2002/10/31 04:00
+CRDT- 2002/06/21 10:00
+AID - S030228380200177X [pii]
+PST - ppublish
+SO  - Eur Urol. 2002 Jun;41(6):588-95.
+
+PMID- 12060436
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020612
+DCOM- 20030203
+LR  - 20061115
+IS  - 0919-8172 (Print)
+IS  - 0919-8172 (Linking)
+VI  - 9
+IP  - 5
+DP  - 2002 May
+TI  - Tolterodine: as effective but better tolerated than oxybutynin in Asian patients 
+      with symptoms of overactive bladder.
+PG  - 247-52
+AB  - BACKGROUND: This double-blind, multicenter study compared the efficacy and
+      tolerability of tolterodine (Pharmacia, Los Angeles, USA) with that of oxybutynin
+      (Alza, Palo Alto, USA) in Asian patients with overactive bladder. METHODS:
+      Two-hundred-and-twenty-eight adults with overactive bladder symptoms were
+      randomized to receive tolterodine 2 mg twice daily (bid) (n = 112) or oxybutynin 
+      5 mg bid (n = 116). After 8 weeks' treatment, changes in micturition diary
+      variables, patients' perception of treatment benefit, and tolerability endpoints 
+      were determined. RESULTS: The mean (+/- SD) number of micturitions/24 h decreased
+      by 2.6 +/- 2.9 (-21%) with tolterodine and 1.8 +/- 4.2 (-15%) with oxybutynin
+      (both P = 0.0001 vs baseline). The mean number of incontinence episodes/24 h
+      decreased by 2.2 +/- 2.3 (-85%) in the tolterodine group and by 1.4 +/- 1.8
+      (-58%) in the oxybutynin group (both P = 0.0001 vs baseline). Patient perception 
+      of treatment benefit was over 70% in each treatment group. Adverse events were
+      significantly lower in the tolterodine group compared with oxybutynin-treated
+      patients (55% vs 82%; P = 0.001). Dry mouth was reported by significantly fewer
+      patients on tolterodine, compared with oxybutynin (35% vs 63%; P = 0.001) and
+      withdrawals due to adverse events were lower in the tolterodine group than with
+      those treated with oxybutynin (10% vs 16%). There were no safety concerns.
+      CONCLUSIONS: Tolterodine 2 mg bid is equally or more effective than oxybutynin 5 
+      mg bid in the treatment of Asian patients with overactive bladder, and shows
+      significantly better tolerability. This may enhance compliance during long-term
+      treatment.
+AD  - Department of Urology, Korea University, Seoul, Korea. jeongkl@kumc.or.kr
+FAU - Lee, Jeong Gu
+AU  - Lee JG
+FAU - Hong, Jae Yup
+AU  - Hong JY
+FAU - Choo, Myung-Soo
+AU  - Choo MS
+FAU - Kwon, Hun Young
+AU  - Kwon HY
+FAU - Chung, Do Young
+AU  - Chung DY
+FAU - Lee, Kyu Sung
+AU  - Lee KS
+FAU - Lee, Ji Youl
+AU  - Lee JY
+FAU - Lee, Tack
+AU  - Lee T
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - Australia
+TA  - Int J Urol
+JT  - International journal of urology : official journal of the Japanese Urological
+      Association
+JID - 9440237
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cholinergic Antagonists)
+RN  - 0 (Cresols)
+RN  - 0 (Mandelic Acids)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+RN  - 5633-20-5 (oxybutynin)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Asian Continental Ancestry Group
+MH  - Benzhydryl Compounds/*administration & dosage/adverse effects
+MH  - Cholinergic Antagonists/*administration & dosage/adverse effects
+MH  - Cresols/*administration & dosage/adverse effects
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mandelic Acids/*administration & dosage/adverse effects
+MH  - Middle Aged
+MH  - Muscarinic Antagonists/*administration & dosage/adverse effects
+MH  - *Phenylpropanolamine
+MH  - Treatment Outcome
+MH  - Urinary Incontinence/*drug therapy
+MH  - Urination/drug effects
+EDAT- 2002/06/13 10:00
+MHDA- 2003/02/04 04:00
+CRDT- 2002/06/13 10:00
+AID - 460 [pii]
+PST - ppublish
+SO  - Int J Urol. 2002 May;9(5):247-52.
+
+PMID- 12028256
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020524
+DCOM- 20020723
+LR  - 20080310
+IS  - 0002-8614 (Print)
+IS  - 0002-8614 (Linking)
+VI  - 50
+IP  - 1
+DP  - 2002 Jan
+TI  - Urinary antispasmodic use and the risks of ventricular arrhythmia and sudden
+      death in older patients.
+PG  - 117-24
+AB  - OBJECTIVES: The introduction of new medications to treat overactive bladder has
+      resulted in a significant increase in the number of individuals with this
+      condition who use medications for symptoms. Formal epidemiological studies of the
+      safety of these medications in typical patient populations are lacking,
+      particularly studies of serious events. We sought to determine whether the use of
+      urinary antispasmodics increases the risk of ventricular arrhythmias or sudden
+      death. DESIGN: Retrospective cohort study. SETTING: Retrospective analysis of
+      data of participants in community, hospital or nursing home setting.
+      PARTICIPANTS: Fourteen thousand six hundred thirty-eight subjects with a
+      diagnosis of urinary incontinence made between January 1, 1991, and June 30,
+      1995; all were aged 65 and older and enrolled in Medicare and Medicaid or the
+      Pharmacy Assistance for the Aged and Disabled programs of New Jersey.
+      MEASUREMENTS: Filled prescriptions for oxybutynin (Ditropan), flavoxate
+      (Urispas), hyoscyamine (Cystospas), and hyoscyamine sulfate (Cystospas-M) were
+      used to define days of exposure to these drugs. We also identified all use of
+      nonsedating antihistamines and cytochrome P450 3A4 inhibitors, and their
+      concurrent use, to serve as a positive control exposure. Two outcomes were then
+      defined: a new diagnosis of ventricular arrhythmia combined with initiation of an
+      antiarrhythmic medication and sudden death. Other covariates, including clinical,
+      demographic, medication use, and healthcare utilization variables, were also
+      assessed. Adjusted risk ratios of ventricular arrhythmia and sudden death were
+      derived from multivariable Cox proportional hazards models. RESULTS: There was no
+      significant association between periods of use of urinary antispasmodics and the 
+      development of ventricular arrhythmias (adjusted risk ratio (RR) = 1.23, 95
+      confidence interval (CI) = 0.87-1.75) or sudden death (adjusted RR = 0.70, 95% CI
+      = 0.28-1.74). A significantly increased risk of ventricular arrhythmia was
+      observed for the positive control regimen, concurrent use of nonsedating
+      antihistamines and cytochrome P450 3A4 inhibitors (adjusted RR = 5.47; 95% CI =
+      1.34-22.26), but not for use of either drug group alone. Concurrent use of
+      nonsedating antihistamines and cytochrome P450 3A4 inhibitors was also associated
+      with a significant increase in the risk of sudden death (adjusted RR = 21.50, 95%
+      CI = 5.23-88.37). Other variables significantly associated with ventricular
+      arrhythmia included ischemic heart disease and congestive heart failure, whereas 
+      nursing home use before the index date was associated with a decreased likelihood
+      of receiving a diagnosis of and treatment for ventricular arrhythmia. Other
+      variables significantly associated with sudden death included male gender, black 
+      race, and congestive heart failure. CONCLUSIONS: Antimuscarinic urinary
+      antispasmodics available before 1996 were not associated with an increased risk
+      of ventricular arrhythmias and sudden death. Additional study will be required to
+      confirm these results, exclude the possibility of unmeasured confounders
+      contributing to any lack of an observed relationship, and extend these findings
+      to newer agents such as tolterodine.
+AD  - Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine,
+      Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts
+      02115, USA.
+FAU - Wang, Philip S
+AU  - Wang PS
+FAU - Levin, Raisa
+AU  - Levin R
+FAU - Zhao, Sean Z
+AU  - Zhao SZ
+FAU - Avorn, Jerry
+AU  - Avorn J
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Am Geriatr Soc
+JT  - Journal of the American Geriatrics Society
+JID - 7503062
+RN  - 0 (Cholinergic Antagonists)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 0 (Parasympatholytics)
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Arrhythmias, Cardiac/*chemically induced/etiology
+MH  - Cholinergic Antagonists/*adverse effects/therapeutic use
+MH  - Cohort Studies
+MH  - Death, Sudden/*etiology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Muscarinic Antagonists/*adverse effects/therapeutic use
+MH  - Nursing Homes
+MH  - Parasympatholytics/*adverse effects/therapeutic use
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Urinary Incontinence/complications/*drug therapy
+EDAT- 2002/05/25 10:00
+MHDA- 2002/07/24 10:01
+CRDT- 2002/05/25 10:00
+AID - 50017 [pii]
+PST - ppublish
+SO  - J Am Geriatr Soc. 2002 Jan;50(1):117-24.
+
+PMID- 12028165
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020524
+DCOM- 20020612
+LR  - 20080310
+IS  - 0002-8614 (Print)
+IS  - 0002-8614 (Linking)
+VI  - 50
+IP  - 5
+DP  - 2002 May
+TI  - Urodynamic changes associated with behavioral and drug treatment of urge
+      incontinence in older women.
+PG  - 808-16
+AB  - OBJECTIVES: To describe changes in bladder function and voiding frequency
+      associated with behavioral and drug treatment for urge incontinence and to
+      examine whether these variables mediate the positive effects of treatment on the 
+      frequency of incontinence. DESIGN: Randomized, double-blinded,
+      placebo-controlled, clinical trial. Eligible patients were stratified according
+      to type of incontinence (urge only vs mixed urge and stress) and severity of
+      incontinence (frequency of accidents as documented in bladder diary). SETTING:
+      University-based outpatient geriatric medicine clinic. PARTICIPANTS: One hundred 
+      five ambulatory, nondemented, community-dwelling women; mean age 67.0 (range
+      55-91); 98% white, 2% African American. INTERVENTION: Four sessions (over 8
+      weeks) of biofeedback-assisted behavioral training, drug treatment with
+      individually-titrated oxybutynin chloride, or a placebo control condition.
+      MEASUREMENTS: Two-channel cystometry was performed to determine threshold volumes
+      for first desire to void (FDV), strong desire to void (SDV), bladder capacity,
+      and the volume at which detrusor instability (DI) or leakage occurred, before
+      randomization and after completion of treatment. Two-week bladder diaries were
+      used before and after treatment to document episodes of incontinence and voiding 
+      frequency. RESULTS: Bladder capacity increased by 68.9 mL in the oxybutynin group
+      (P <.001) and 17.3 mL in the behavior group and decreased 6.0 mL in the control
+      group. SDV increased 69.9 mL in the oxybutynin group (P <.001), 40.5 in the
+      behavior group (P <.05), and 7.8 mL in the control group. FDV increased by 44.4
+      mL in the oxybutynin group (P <.001), 18.8 mL in the behavior group, and 8.9 mL
+      in the control group. One of seven patients who presented with DI (12.0%)
+      resolved in the behavior group, seven of eight (87.5%) resolved in the oxybutynin
+      group, and seven of 12 (58.3%) resolved in the control group. These differences
+      were not statistically significant. Voiding frequency was significantly reduced
+      after treatment in both the behavior and the oxybutynin group. Behavioral
+      training resulted in a mean 82.3% reduction in frequency of accidents, oxybutynin
+      (final doses 2.5 mg daily to 5 mg three times a day) resulted in a mean 78.3%
+      reduction, and the control condition resulted in a mean 51.5% reduction (P
+      =.002). Although oxybutynin and behavioral treatment were both effective, and
+      oxybutynin increased SDV and bladder capacity, the structural equation modeling
+      did not demonstrate that the clinical improvement was mediated through the
+      effects of these treatments on urodynamic or voiding frequency measures.
+      CONCLUSIONS: Studies using more-complex urodynamics and studies with larger
+      sample sizes are needed to better characterize changes in bladder function and
+      explore other urodynamic changes that may accompany treatment. In addition, other
+      factors, both physiological and behavioral, need to be explored as mechanisms by 
+      which conservative therapies improve urge incontinence.
+AD  - School of Medicine, Center for Aging, School of Nursing, and School of Public
+      Health, University of Alabama at Birmingham, Birmingham, Alabama, USA.
+      pgoode@uab.edu
+FAU - Goode, Patricia S
+AU  - Goode PS
+FAU - Burgio, Kathryn L
+AU  - Burgio KL
+FAU - Locher, Julie L
+AU  - Locher JL
+FAU - Umlauf, Mary G
+AU  - Umlauf MG
+FAU - Lloyd, L Keith
+AU  - Lloyd LK
+FAU - Roth, David L
+AU  - Roth DL
+LA  - eng
+GR  - AG 08010/AG/NIA NIH HHS/United States
+GR  - K04 00431/PHS HHS/United States
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - J Am Geriatr Soc
+JT  - Journal of the American Geriatrics Society
+JID - 7503062
+RN  - 0 (Mandelic Acids)
+RN  - 0 (Parasympatholytics)
+RN  - 5633-20-5 (oxybutynin)
+SB  - IM
+MH  - Age Factors
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Behavior Therapy
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Mandelic Acids/*pharmacology/therapeutic use
+MH  - Middle Aged
+MH  - Parasympatholytics/*pharmacology/therapeutic use
+MH  - Severity of Illness Index
+MH  - Sex Factors
+MH  - Urinary Bladder/*drug effects/*physiopathology
+MH  - Urinary Incontinence/*physiopathology/*therapy
+MH  - Urodynamics/*drug effects/*physiology
+EDAT- 2002/05/25 10:00
+MHDA- 2002/06/13 10:01
+CRDT- 2002/05/25 10:00
+AID - jgs50204 [pii]
+PST - ppublish
+SO  - J Am Geriatr Soc. 2002 May;50(5):808-16.
+
+PMID- 12028164
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020524
+DCOM- 20020612
+LR  - 20080310
+IS  - 0002-8614 (Print)
+IS  - 0002-8614 (Linking)
+VI  - 50
+IP  - 5
+DP  - 2002 May
+TI  - Efficacy, safety, and tolerability of extended-release once-daily tolterodine
+      treatment for overactive bladder in older versus younger patients.
+PG  - 799-807
+AB  - OBJECTIVES: To evaluate the efficacy, safety, and tolerability of a new,
+      once-daily extended-release (ER) formulation of tolterodine in treating
+      overactive bladder in older (> or =65) and younger (<65) patients. DESIGN: A
+      12-week double-blind, placebo-controlled clinical trial. SETTING: An
+      international study conducted at 167 medical centers. PARTICIPANTS: One thousand 
+      fifteen patients (43.1% aged > or =65) with urge incontinence and urinary
+      frequency. INTERVENTION: Patients were randomized to treatment with tolterodine
+      ER 4 mg once daily (qd) (n = 507) or placebo (n = 508) for 12 weeks.
+      MEASUREMENTS: Efficacy, measured with micturition charts (incontinence episodes, 
+      micturitions, volume voided per micturition) and subjective patient assessments, 
+      safety, and tolerability endpoints were evaluated, relative to placebo, according
+      to two age cohorts: younger than 65 and 65 and older. RESULTS: Mean age in the
+      older and younger patient cohorts was 74 (range 65-93) and 51 (range 20-64),
+      respectively. Compared with placebo, significant improvements in micturition
+      chart variables with tolterodine ER showed no age-related differences.
+      Irrespective of age, significantly more tolterodine ER recipients than placebo
+      recipients reported an improvement in urgency symptoms. After 12 weeks of
+      treatment with tolterodine ER, a fivefold increase in the percentage of patients 
+      able to finish tasks before voiding in response to urgency was noted in both age 
+      groups (<65: from 6.5-32.8%, > or =65: from 5.1-26.2%). Tolterodine ER
+      recipients, irrespective of age, also had significant improvements in their
+      bladder condition than did placebo recipients. Overall, a greater percentage of
+      patients, irrespective of age, perceived any benefit with tolterodine ER than
+      with placebo (P <.001). Dry mouth (of any severity) was the most common adverse
+      event in both the tolterodine ER and placebo treatment arms, irrespective of age 
+      (<65: ER 22.7%, placebo 8.1%; > or =65: ER 24.3%, placebo 7.2%). Few patients
+      (<2%) experienced severe dry mouth. No central nervous system, visual, cardiac
+      (per electrocardiogram), or laboratory safety concerns were noted. Withdrawal
+      rates due to adverse events on tolterodine ER 4 mg qd were comparable in the two 
+      age cohorts (<65: 5.5%; > or =65: 5.1%; P =.87). CONCLUSIONS: The new, once-daily
+      ER formulation of tolterodine is efficacious, safe, and well tolerated in the
+      treatment of patients with symptoms of overactive bladder, irrespective of age.
+AD  - Doctors Urology Group, Torrance, California 90505, USA. wewedoc@aol.com
+FAU - Zinner, Norman R
+AU  - Zinner NR
+FAU - Mattiasson, Anders
+AU  - Mattiasson A
+FAU - Stanton, Stuart L
+AU  - Stanton SL
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Am Geriatr Soc
+JT  - Journal of the American Geriatrics Society
+JID - 7503062
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cresols)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+SB  - IM
+MH  - Adult
+MH  - Age Factors
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Benzhydryl Compounds/*administration & dosage/adverse effects/*therapeutic use
+MH  - Cohort Studies
+MH  - Cresols/*administration & dosage/adverse effects/*therapeutic use
+MH  - Delayed-Action Preparations/administration & dosage/adverse effects/therapeutic
+      use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Muscarinic Antagonists/*administration & dosage/adverse effects/*therapeutic use
+MH  - *Phenylpropanolamine
+MH  - Urinary Bladder Diseases/*drug therapy
+MH  - Urinary Incontinence/*drug therapy
+MH  - Xerostomia/chemically induced
+EDAT- 2002/05/25 10:00
+MHDA- 2002/06/13 10:01
+CRDT- 2002/05/25 10:00
+AID - jgs50203 [pii]
+PST - ppublish
+SO  - J Am Geriatr Soc. 2002 May;50(5):799-807.
+
+PMID- 12017406
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020517
+DCOM- 20021105
+LR  - 20061115
+IS  - 0149-2918 (Print)
+IS  - 0149-2918 (Linking)
+VI  - 24
+IP  - 4
+DP  - 2002 Apr
+TI  - A multicenter, prospective, open-label study of tolterodine extended-release 4 mg
+      for overactive bladder: the speed of onset of therapeutic assessment trial
+      (STAT).
+PG  - 616-28
+AB  - BACKGROUND: Antimuscarinic agents are the primary treatment for overactive
+      bladder (OAB), but there is a lack of information regarding when maximum symptom 
+      relief and maximum perceived patient benefit occur. OBJECTIVE: This study
+      assessed the speed of onset of therapeutic benefit with tolterodine
+      extended-release (ER) 4 mg. METHODS: This 12-week, multicenter, prospective,
+      open-label study enrolled patients with OAB who either had received no previous
+      pharmacologic treatment for OAB (drug naive) or were receiving such treatment at 
+      enrollment (previously treated). Efficacy was assessed at 1, 4, and 12 weeks
+      using a micturition diary and measures of patients' and physicians' perceptions
+      of improvement. Safety was assessed in terms of adverse events and study
+      withdrawals. RESULTS: The intent-to-treat population included 1138 patients (302 
+      men, 836 women; 88.4% white; age range, 18-91 years), 735 drug naive and 403
+      receiving treatment for OAB at enrollment. After 1 week, tolterodine ER 4 mg had 
+      produced a significant improvement in all efficacy variables in both groups of
+      patients (P < 0.01); 72% of the maximum effect on urge incontinence was observed 
+      in both groups; and 84.7% of drug-naive patients and 83.6% of previously treated 
+      patients perceived a benefit from treatment. After 4 weeks, drug-naive and
+      previously treated patients reported a respective 93% and 100% of the maximum
+      effect on episodes of urge incontinence. Tolterodine was well tolerated, with dry
+      mouth (mostly mild) the most commonly reported adverse event (15.5% in each
+      group). The 330 (81.9%) patients who had reported unacceptable efficacy and the
+      87 (21.6%) patients who had reported unacceptable tolerability of previous OAB
+      treatment responded favorably to tolterodine ER 4 mg. CONCLUSIONS: Tolterodine ER
+      4 mg was effective and well tolerated in both drug-naive and previously treated
+      patients with OAB. More than 80% of patients reported benefit from treatment
+      after 1 week, but maximum symptom relief was achieved with longer treatment.
+AD  - Welborn Clinic, Evansville, Indiana 47713, USA. siamip@welbornclinic.com
+FAU - Siami, Paul
+AU  - Siami P
+FAU - Seidman, Larry S
+AU  - Seidman LS
+FAU - Lama, Daniel
+AU  - Lama D
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Clin Ther
+JT  - Clinical therapeutics
+JID - 7706726
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cresols)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Benzhydryl Compounds/adverse effects/pharmacokinetics/*therapeutic use
+MH  - Cresols/adverse effects/pharmacokinetics/*therapeutic use
+MH  - Delayed-Action Preparations
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Muscarinic Antagonists/adverse effects/pharmacokinetics/*therapeutic use
+MH  - Patient Compliance
+MH  - *Phenylpropanolamine
+MH  - Prospective Studies
+MH  - Time Factors
+MH  - Urinary Bladder Diseases/*drug therapy/physiopathology
+MH  - Urination
+EDAT- 2002/05/23 10:00
+MHDA- 2002/11/26 04:00
+CRDT- 2002/05/23 10:00
+PST - ppublish
+SO  - Clin Ther. 2002 Apr;24(4):616-28.
+
+PMID- 11522122
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010827
+DCOM- 20020109
+LR  - 20061115
+IS  - 0114-5916 (Print)
+IS  - 0114-5916 (Linking)
+VI  - 24
+IP  - 9
+DP  - 2001
+TI  - Safety profile of tolterodine as used in general practice in England: results of 
+      prescription-event monitoring.
+PG  - 703-13
+AB  - BACKGROUND: Unstable bladder symptoms are a common problem in general practice.
+      Drug therapy with anticholinergic drugs is frequently used in the management of
+      this condition. However such drugs are associated with a high incidence of
+      anticholinergic adverse effects. Tolterodine is a competitive anticholinergic
+      agent, selective for the bladder as opposed to the salivary glands. OBJECTIVE: To
+      monitor the safety of tolterodine as used in general practice patients in England
+      for the treatment of urinary frequency, urgency and incontinence. DESIGN:
+      Prospective observational cohort study. Patients and participants: 14,526
+      patients [mean age 62.7 (SD 16.4) years; 68.6% female]. METHODS: Patients
+      prescribed tolterodine in general practice, soon after the release of the drug in
+      the UK, were followed up for a minimum of 6 months using the technique of
+      prescription-event monitoring (PEM). RESULTS: The most common adverse events
+      reported were dry mouth, headache, malaise, constipation, dyspepsia, nausea and
+      vomiting and pain in abdomen. We identified some uncommon events as possible
+      adverse drug reactions--notably hallucinations, tachycardia and palpitations. The
+      prevalence of these events was compared with that in patient cohorts for other
+      drugs on the PEM database. The age- and sex-adjusted relative risk of
+      hallucinations on tolterodine compared with 10 drugs of other therapeutic
+      classes, and with terodiline, another drug indicated for bladder instability, was
+      4.85 [95% confidence interval (CI) 2.72 to 8.66] and 1.25 (95% CI 0.62 to 2.53), 
+      respectively. There was no significant difference for tachycardia/palpitation in 
+      this comparison. CONCLUSIONS: Tolterodine is well tolerated in general practice
+      at the recommended daily dose. Hallucinations, tachycardia and palpitations are
+      infrequently associated with the drug.
+AD  - Drug Safety Research Unit, Southampton, England.
+FAU - Layton, D
+AU  - Layton D
+FAU - Pearce, G L
+AU  - Pearce GL
+FAU - Shakir, S A
+AU  - Shakir SA
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - New Zealand
+TA  - Drug Saf
+JT  - Drug safety : an international journal of medical toxicology and drug experience
+JID - 9002928
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cresols)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+SB  - IM
+MH  - Benzhydryl Compounds/adverse effects/*therapeutic use
+MH  - Cohort Studies
+MH  - Cresols/adverse effects/*therapeutic use
+MH  - Drug Monitoring/*methods
+MH  - England
+MH  - Family Practice
+MH  - Female
+MH  - Hallucinations/chemically induced
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Muscarinic Antagonists/adverse effects/*therapeutic use
+MH  - *Phenylpropanolamine
+MH  - Questionnaires
+MH  - Tachycardia/chemically induced
+MH  - Urologic Diseases/*drug therapy
+EDAT- 2001/08/28 10:00
+MHDA- 2002/01/10 10:01
+CRDT- 2001/08/28 10:00
+PST - ppublish
+SO  - Drug Saf. 2001;24(9):703-13.
+
+PMID- 11454106
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010716
+DCOM- 20010816
+LR  - 20080310
+IS  - 0002-8614 (Print)
+IS  - 0002-8614 (Linking)
+VI  - 49
+IP  - 6
+DP  - 2001 Jun
+TI  - Tolterodine: a safe and effective treatment for older patients with overactive
+      bladder.
+PG  - 700-5
+AB  - OBJECTIVE: To investigate the clinical safety and efficacy of two dosages of
+      tolterodine in older patients with symptoms attributable to overactive bladder.
+      DESIGN: Randomized, double-blind, placebo-controlled, parallel-group,
+      multinational, phase III study. SETTING: Incontinence, older care, urological,
+      and urogynecological clinics in the United Kingdom, France, and the Republic of
+      Ireland. PARTICIPANTS: One hundred and seventy-seven older patients (age > or =65
+      years) with symptoms of urinary urgency, increased frequency of micturition (> or
+      =8 micturitions/24 hours), and/or urge incontinence (> or =1 episode/24 hours).
+      INTERVENTION: Tolterodine 1 mg or 2 mg twice daily (bid), or placebo, for 4
+      weeks. MEASUREMENTS: Safety and tolerability were evaluated through spontaneously
+      reported adverse events, electrocardiogram, and blood pressure measurements.
+      Efficacy was assessed using micturition diary variables: mean change from
+      baseline in frequency of micturition and number of incontinence episodes/24
+      hours. RESULTS: The mean age of the patient population was 75 years. Overall, >
+      or =87% of patients completed the study. Neither dosage of tolterodine was
+      associated with serious drug-related adverse events during the study. No cardiac 
+      arrythmogenic events were noted. Dry mouth (mild to moderate intensity) was the
+      most common adverse event in both the placebo and tolterodine treatment groups.
+      Three percent of patients in the tolterodine 2 mg bid group discontinued
+      treatment because of dry mouth, compared with 2% of placebo-treated patients.
+      Compared with placebo, statistically significant decreases in micturition
+      frequency were apparent in both tolterodine treatment groups. Furthermore,
+      patients treated with tolterodine 2 mg bid had statistically significant
+      decreases in urge incontinence episodes/24 hours and increases in volume voided
+      per micturition compared with placebo. CONCLUSION: Tolterodine (taken for 4
+      weeks) is safe and shows efficacy, particularly at a dosage of 2 mg bid, in the
+      treatment of older patients with urinary symptoms attributable to overactive
+      bladder.
+AD  - Department of Medicine, Whittington Hospital, Royal Free and University College
+      Medical School, London, Great Britain.
+FAU - Malone-Lee, J G
+AU  - Malone-Lee JG
+FAU - Walsh, J B
+AU  - Walsh JB
+FAU - Maugourd, M F
+AU  - Maugourd MF
+LA  - eng
+PT  - Clinical Trial
+PT  - Clinical Trial, Phase III
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Am Geriatr Soc
+JT  - Journal of the American Geriatrics Society
+JID - 7503062
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cresols)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 0 (Placebos)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+SB  - IM
+CIN - J Am Geriatr Soc. 2001 Jun;49(6):829-30. PMID: 11454125
+CIN - J Am Geriatr Soc. 2002 Apr;50(4):775. PMID: 11982685
+CIN - J Am Geriatr Soc. 2002 Jun;50(6):1165-6. PMID: 12110086
+MH  - Age Factors
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Benzhydryl Compounds/pharmacology/*therapeutic use
+MH  - Cresols/pharmacology/*therapeutic use
+MH  - Double-Blind Method
+MH  - Drug Monitoring
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Muscarinic Antagonists/pharmacology/*therapeutic use
+MH  - *Phenylpropanolamine
+MH  - Placebos
+MH  - Safety
+MH  - Treatment Outcome
+MH  - Urinary Incontinence/diagnosis/*drug therapy/etiology/physiopathology
+MH  - Urination Disorders/diagnosis/*drug therapy/etiology/physiopathology
+MH  - Xerostomia/chemically induced
+EDAT- 2001/07/17 10:00
+MHDA- 2001/08/17 10:01
+CRDT- 2001/07/17 10:00
+AID - jgs49144 [pii]
+PST - ppublish
+SO  - J Am Geriatr Soc. 2001 Jun;49(6):700-5.
+
+PMID- 11435843
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010703
+DCOM- 20010809
+LR  - 20061115
+IS  - 0022-5347 (Print)
+IS  - 0022-5347 (Linking)
+VI  - 166
+IP  - 1
+DP  - 2001 Jul
+TI  - A crossover randomized trial of transcutaneous electrical nerve stimulation and
+      oxybutynin in patients with detrusor instability.
+PG  - 146-9
+AB  - PURPOSE: Management of idiopathic detrusor instability is difficult in most
+      patients mainly due to the lack of a complete understanding of the
+      pathophysiology. Oxybutynin and transcutaneous electrical nerve stimulation have 
+      been used but to our knowledge no direct comparisons have been made. MATERIALS
+      AND METHODS: Patients with frequency, urgency, urge incontinence and proved
+      detrusor instability were studied with urodynamics, quality of life instruments, 
+      and frequency and volume charts. Patients were randomized to transcutaneous
+      electrical nerve stimulation or oxybutynin. After 6 weeks of treatment, they were
+      reassessed and after a washout of 2 weeks, they were started on the second arm of
+      treatment and reassessed 6 weeks later. RESULTS: A total of 13 male and 30 female
+      patients were studied. Functional capacity had increased and number of voids
+      daily had decreased significantly compared with before treatment in both arms (p 
+      <0.005). There were significant improvements in symptom specific quality of life 
+      measures but no changes were found on the global Short Form 36 (SF-36) quality of
+      life questionnaire. The volume to first desire to void and first unstable
+      contraction had increased significantly with oxybutynin but not with
+      transcutaneous electrical nerve stimulation. Of 23 patients 7 were stabilized
+      with treatment, including 2 with oxybutynin only, 2 with either nerve stimulation
+      or oxybutynin and the remaining 3 with only nerve stimulation. Total bladder
+      capacity did not change significantly with either treatment but patients noticed 
+      side effects more commonly with oxybutynin. CONCLUSIONS: Both treatments clearly 
+      improved subjective parameters. However, only oxybutynin showed significant
+      improvements in objective urodynamic parameters. Transcutaneous electrical nerve 
+      stimulation can be used in patients who cannot take oxybutynin. Further studies
+      are needed to show the long-term efficacy and cost analyses of nerve stimulation.
+AD  - Department of Urology, Freeman Hospital, Newcastle upon Tyne, United Kingdom.
+FAU - Soomro, N A
+AU  - Soomro NA
+FAU - Khadra, M H
+AU  - Khadra MH
+FAU - Robson, W
+AU  - Robson W
+FAU - Neal, D E
+AU  - Neal DE
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - United States
+TA  - J Urol
+JT  - The Journal of urology
+JID - 0376374
+RN  - 0 (Mandelic Acids)
+RN  - 5633-20-5 (oxybutynin)
+SB  - AIM
+SB  - IM
+CIN - J Urol. 2001 Jul;166(1):150-1. PMID: 11435844
+MH  - Adult
+MH  - Aged
+MH  - Cross-Over Studies
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Mandelic Acids/*administration & dosage
+MH  - Middle Aged
+MH  - Muscle Hypertonia/complications/*diagnosis/*therapy
+MH  - Muscle, Smooth/*physiopathology
+MH  - Patient Satisfaction
+MH  - Probability
+MH  - Reference Values
+MH  - Transcutaneous Electric Nerve Stimulation/*methods
+MH  - Treatment Outcome
+MH  - Urination Disorders/etiology/*therapy
+MH  - Urodynamics
+EDAT- 2001/07/04 10:00
+MHDA- 2001/08/10 10:01
+CRDT- 2001/07/04 10:00
+AID - S0022-5347(05)66096-X [pii]
+PST - ppublish
+SO  - J Urol. 2001 Jul;166(1):146-9.
+
+PMID- 11374317
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010525
+DCOM- 20011011
+LR  - 20061115
+IS  - 0724-4983 (Print)
+IS  - 0724-4983 (Linking)
+VI  - 19
+IP  - 2
+DP  - 2001 Apr
+TI  - Treatment of overactive bladder: long-term tolerability and efficacy of
+      tolterodine.
+PG  - 141-7
+AB  - Previously available antimuscarinic therapies for overactive bladder are poorly
+      tolerated due to a high incidence of adverse events, notably dry mouth.
+      Tolterodine is a bladder-selective, antimuscarinic agent for the treatment of
+      frequency, urgency, and urge incontinence that characterize overactive bladder.
+      In a 9-month open-label study, the safety, tolerability, and clinical efficacy of
+      tolterodine 2 mg twice daily was evaluated in 854 patients with overactive
+      bladder symptoms who had completed one of four 12 week randomized, controlled
+      trials of tolterodine. Safety and tolerability were assessed in terms of adverse 
+      events and clinical/laboratory variables. Efficacy was assessed using micturition
+      diaries and patient perception of their bladder condition. In all, 70% of
+      patients remained on treatment for 9 months. Dry mouth was the most frequently
+      reported adverse event, occurring in 28% of patients (intensity: 19% mild, 7%
+      moderate, 2% severe). A total of 9% of patients withdrew due to adverse events.
+      Dosage reduction occurred in 13% of patients. Significant improvements (P <
+      0.0001) in micturitions per 24 h (-22%), urge incontinence episodes per 24 h
+      (-76%) and volume voided per micturition (+22%) were observed after 9 months of
+      treatment, with 65% of patients reporting an improvement in perception of their
+      bladder problems. The incidence of adverse events and improvements in micturition
+      diary variables during open-label treatment were comparable with those observed
+      during a 12 week randomized treatment. It was concluded that tolterodine is well 
+      tolerated and maintains its clinical efficacy during 9 months of treatment. The
+      high proportion of patients remaining on treatment indicates that tolterodine is 
+      an effective long-term treatment for overactive bladder.
+AD  - Section of Voiding Dysfunction and Female Urology, Department of Urology, Baylor 
+      College of Medicine, Fannin St 6560, Suite #2100, 77030 Houston, TX, USA.
+FAU - Appell, R A
+AU  - Appell RA
+FAU - Abrams, P
+AU  - Abrams P
+FAU - Drutz, H P
+AU  - Drutz HP
+FAU - Van Kerrebroeck, P E
+AU  - Van Kerrebroeck PE
+FAU - Millard, R
+AU  - Millard R
+FAU - Wein, A
+AU  - Wein A
+LA  - eng
+PT  - Clinical Trial
+PT  - Clinical Trial, Phase III
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - Germany
+TA  - World J Urol
+JT  - World journal of urology
+JID - 8307716
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cresols)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Benzhydryl Compounds/*administration & dosage/adverse effects
+MH  - Cresols/*administration & dosage/adverse effects
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Muscarinic Antagonists/*administration & dosage/adverse effects
+MH  - *Phenylpropanolamine
+MH  - Treatment Outcome
+MH  - Urination Disorders/*drug therapy
+EDAT- 2001/05/26 10:00
+MHDA- 2001/10/12 10:01
+CRDT- 2001/05/26 10:00
+PST - ppublish
+SO  - World J Urol. 2001 Apr;19(2):141-7.
+
+PMID- 11342895
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010508
+DCOM- 20010524
+LR  - 20061115
+IS  - 0022-5347 (Print)
+IS  - 0022-5347 (Linking)
+VI  - 165
+IP  - 5
+DP  - 2001 May
+TI  - Tolterodine: superior tolerability than and comparable efficacy to oxybutynin in 
+      individuals 50 years old or older with overactive bladder: a randomized
+      controlled trial.
+PG  - 1452-6
+AB  - PURPOSE: We compared the tolerability and clinical efficacy of tolterodine with
+      those of oxybutynin in patients with an overactive bladder using an upward
+      oxybutynin dose titration strategy analogous to that used in routine clinical
+      practice in the United Kingdom and Republic of Ireland. MATERIALS AND METHODS: In
+      a randomized double-blind trial 378 male and female patients 50 years old or
+      older with symptoms of overactive bladder (a urinary frequency of 8 or more voids
+      per 24 hours with urgency and/or urge incontinence, that is 1 or more urge
+      incontinence episodes per 24 hours) received 10 weeks of treatment with 2 mg.
+      tolterodine twice daily/or an initial dose of 2.5 mg. oxybutynin twice daily,
+      increasing to 5 mg. twice daily after 2 weeks of treatment. The main outcome
+      measures were changes in voiding diary variables combined with detailed
+      tolerability-safety assessments. RESULTS: Patients treated with tolterodine had
+      significantly fewer adverse events (69% versus 81%, p = 0.01), notably dry mouth 
+      (37% versus 61%, p <0.0001), as well as a lower incidence of dose reduction (6%
+      versus 25%, p <0.0001) than those in the oxybutynin group. Each agent had
+      comparable efficacy for improving urinary symptoms. Tolterodine and oxybutynin
+      caused a significant decrease (p = 0.0001) in the mean number of voids per 24
+      hours (-1.7 or -15% and -1.7 or -15%, respectively), urge incontinence episodes
+      per 24 hours (-1.3 or -54% and -1.8 or -62%, respectively) and mean voided volume
+      per void (33 ml. or 22% and 34 ml. or 23%) after 10 weeks of treatment.
+      CONCLUSIONS: Tolterodine is as effective as oxybutynin for improving the symptoms
+      of overactive bladder but it has superior tolerability. The combination of these 
+      qualities makes tolterodine the preferred pharmacological therapy for the
+      long-term treatment of this condition.
+AD  - Department of Medicine, St Pancras Hospital, London, United Kingdom.
+FAU - Malone-Lee, J
+AU  - Malone-Lee J
+FAU - Shaffu, B
+AU  - Shaffu B
+FAU - Anand, C
+AU  - Anand C
+FAU - Powell, C
+AU  - Powell C
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Urol
+JT  - The Journal of urology
+JID - 0376374
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cresols)
+RN  - 0 (Mandelic Acids)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+RN  - 5633-20-5 (oxybutynin)
+SB  - AIM
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Benzhydryl Compounds/adverse effects/*therapeutic use
+MH  - Cresols/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mandelic Acids/adverse effects/*therapeutic use
+MH  - Middle Aged
+MH  - Muscarinic Antagonists/adverse effects/*therapeutic use
+MH  - *Phenylpropanolamine
+MH  - Urinary Bladder, Neurogenic/*drug therapy
+MH  - Urination/drug effects
+EDAT- 2001/05/09 10:00
+MHDA- 2001/05/26 10:01
+CRDT- 2001/05/09 10:00
+AID - S0022-5347(05)66326-4 [pii]
+PST - ppublish
+SO  - J Urol. 2001 May;165(5):1452-6.
+
+PMID- 11322350
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010426
+DCOM- 20010521
+LR  - 20071029
+IS  - 0025-6196 (Print)
+IS  - 0025-6196 (Linking)
+VI  - 76
+IP  - 4
+DP  - 2001 Apr
+TI  - Prospective randomized controlled trial of extended-release oxybutynin chloride
+      and tolterodine tartrate in the treatment of overactive bladder: results of the
+      OBJECT Study.
+PG  - 358-63
+AB  - OBJECTIVE: To compare the efficacy and tolerability of extended-release
+      oxybutynin chloride and tolterodine tartrate at 12 weeks in participants with
+      overactive bladder. SUBJECTS AND METHODS: The OBJECT (Overactive Bladder: Judging
+      Effective Control and Treatment) study was a prospective, randomized,
+      double-blind, parallel-group study conducted between March and October 2000 at 37
+      US study sites. Participants who had between 7 and 50 episodes of urge
+      incontinence per week and 10 or more voids in 24 hours received extended-release 
+      oxybutynin, 10 mg/d, or tolterodine, 2 mg twice daily. The outcome measures were 
+      the number of episodes of urge incontinence, total incontinence, and micturition 
+      frequency at 12 weeks adjusted for baseline. RESULTS: A total of 315 women and 63
+      men were randomized and treated, and 332 participants (276 women, 56 men)
+      completed the study. At the end of the study, extended-release oxybutynin was
+      significantly more effective than tolterodine in each of the main outcome
+      measures: weekly urge incontinence (P=.03), total incontinence (P=.02), and
+      micturition frequency episodes (P=.02) adjusted for baseline. Both drugs improved
+      symptoms of overactive bladder significantly from baseline to the end of the
+      study as assessed by the 3 main outcome measures (P<.001). Dry mouth, the most
+      common adverse event, was reported by 28.1% and 33.2% of participants taking
+      extended-release oxybutynin and tolterodine, respectively (P=.32). Rates of
+      central nervous system and other adverse events were low and similar in both
+      groups. CONCLUSIONS: Extended-release oxybutynin was more effective than
+      tolterodine as measured by end-of-study urge incontinence, total incontinence,
+      and micturition frequency episodes. Both groups had similar rates of dry mouth
+      and other adverse events.
+AD  - Cleveland Clinic Foundation, Ohio, USA. rappell@www.urol.bcm.tmc.edu
+FAU - Appell, R A
+AU  - Appell RA
+FAU - Sand, P
+AU  - Sand P
+FAU - Dmochowski, R
+AU  - Dmochowski R
+FAU - Anderson, R
+AU  - Anderson R
+FAU - Zinner, N
+AU  - Zinner N
+FAU - Lama, D
+AU  - Lama D
+FAU - Roach, M
+AU  - Roach M
+FAU - Miklos, J
+AU  - Miklos J
+FAU - Saltzstein, D
+AU  - Saltzstein D
+FAU - Boone, T
+AU  - Boone T
+FAU - Staskin, D R
+AU  - Staskin DR
+FAU - Albrecht, D
+AU  - Albrecht D
+CN  - Overactive Bladder: Judging Effective Control and Treatment Study Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Mayo Clin Proc
+JT  - Mayo Clinic proceedings. Mayo Clinic
+JID - 0405543
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cresols)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Mandelic Acids)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 0 (Tartrates)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+RN  - 5633-20-5 (oxybutynin)
+SB  - AIM
+SB  - IM
+CIN - Mayo Clin Proc. 2001 Nov;76(11):1179-80. PMID: 11702910
+CIN - Mayo Clin Proc. 2001 Apr;76(4):353-5. PMID: 11322348
+MH  - Aged
+MH  - Benzhydryl Compounds/*administration & dosage/adverse effects
+MH  - Cresols/*administration & dosage/adverse effects
+MH  - Delayed-Action Preparations
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Mandelic Acids/*administration & dosage/adverse effects
+MH  - Middle Aged
+MH  - Muscarinic Antagonists/*administration & dosage/adverse effects
+MH  - Nervous System Diseases/chemically induced
+MH  - *Phenylpropanolamine
+MH  - Probability
+MH  - Prospective Studies
+MH  - Reference Values
+MH  - Severity of Illness Index
+MH  - Statistics, Nonparametric
+MH  - Tartrates/*administration & dosage/adverse effects
+MH  - Treatment Outcome
+MH  - Urinary Bladder, Neurogenic/complications/diagnosis/*drug therapy
+MH  - Urinary Incontinence, Stress/diagnosis/*drug therapy/etiology
+MH  - Urination Disorders/diagnosis/drug therapy/etiology
+MH  - Xerostomia/chemically induced
+EDAT- 2001/04/27 10:00
+MHDA- 2001/05/25 10:01
+CRDT- 2001/04/27 10:00
+PST - ppublish
+SO  - Mayo Clin Proc. 2001 Apr;76(4):358-63.
+
+PMID- 11248608
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010315
+DCOM- 20010426
+LR  - 20061115
+IS  - 1527-9995 (Electronic)
+IS  - 0090-4295 (Linking)
+VI  - 57
+IP  - 3
+DP  - 2001 Mar
+TI  - Tolterodine once-daily: superior efficacy and tolerability in the treatment of
+      the overactive bladder.
+PG  - 414-21
+AB  - OBJECTIVES: To evaluate the efficacy and tolerability of a new extended-release
+      (ER), once-daily, capsule formulation of tolterodine, relative to placebo and the
+      existing immediate-release (IR), twice-daily, tablet formulation, for treatment
+      of the overactive bladder. METHODS: This was a double-blind, multicenter,
+      randomized, placebo-controlled trial. One thousand five hundred twenty-nine
+      patients (81% women) with urinary frequency (eight or more micturitions every 24 
+      hours) and urge incontinence (five or more episodes per week) were randomized to 
+      oral therapy with tolterodine ER 4 mg once daily (n = 507), tolterodine IR 2 mg
+      twice daily (n = 514), or placebo (n = 508) for 12 weeks. Efficacy was assessed
+      at the end of the treatment period on the basis of the micturition diary
+      variables. Tolerability and safety were assessed by evaluating the adverse
+      events, electrocardiogram parameters, laboratory values, and treatment
+      withdrawals. RESULTS: Tolterodine ER 4 mg once daily (P = 0.0001) and tolterodine
+      IR 2 mg twice daily (P = 0.0005) both significantly reduced the mean number of
+      urge incontinence episodes per week compared with placebo. The median reduction
+      in these episodes as a percentage of the baseline values was 71% for tolterodine 
+      ER, 60% for tolterodine IR, and 33% for placebo. The ER formulation was 18% more 
+      effective than the IR formulation (P <0.05). Treatment with both formulations of 
+      tolterodine was also associated with statistically significant improvements in
+      all other micturition diary variables compared with placebo. For both
+      formulations, the mean decreases in micturition frequency (P <0.0079) and pad
+      usage (P <0.0145) were significant, and the mean volume voided per micturition
+      increased (P = 0.0001). The rate of dry mouth (of any severity) was 23% for
+      tolterodine ER, 30% for tolterodine IR, and 8% for placebo. The overall dry mouth
+      rate for patients taking tolterodine ER was 23% lower than for tolterodine IR (P 
+      <0.02), and the rate of severe dry mouth in the ER group was only 1.8%. The rates
+      of withdrawal were comparable for the two active groups and the placebo group. No
+      safety concerns were noted. CONCLUSIONS: Tolterodine ER 4 mg once daily is
+      effective and well tolerated in the treatment of overactive bladder with no
+      safety concerns. Tolterodine ER demonstrated an improved efficacy for reducing
+      urge incontinence episodes and a lower frequency of dry mouth compared with the
+      existing IR twice-daily formulation.
+AD  - Department of Urology, University Hospital Maastricht, Maastricht, The
+      Netherlands
+FAU - Van Kerrebroeck, P
+AU  - Van Kerrebroeck P
+FAU - Kreder, K
+AU  - Kreder K
+FAU - Jonas, U
+AU  - Jonas U
+FAU - Zinner, N
+AU  - Zinner N
+FAU - Wein, A
+AU  - Wein A
+CN  - Tolterodine Study Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Urology
+JT  - Urology
+JID - 0366151
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cresols)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+SB  - IM
+MH  - Administration, Oral
+MH  - Adult
+MH  - Benzhydryl Compounds/*administration & dosage/adverse effects
+MH  - Cresols/*administration & dosage/adverse effects
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Muscarinic Antagonists/*administration & dosage/adverse effects
+MH  - *Phenylpropanolamine
+MH  - Urinary Bladder Diseases/*drug therapy
+MH  - Urinary Incontinence/drug therapy
+MH  - Urination Disorders/*drug therapy
+EDAT- 2001/03/15 10:00
+MHDA- 2001/05/11 10:01
+CRDT- 2001/03/15 10:00
+AID - S0090-4295(00)01113-4 [pii]
+PST - ppublish
+SO  - Urology. 2001 Mar;57(3):414-21.
+
+PMID- 11207885
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010312
+DCOM- 20010329
+LR  - 20081121
+IS  - 0002-8614 (Print)
+IS  - 0002-8614 (Linking)
+VI  - 49
+IP  - 2
+DP  - 2001 Feb
+TI  - Association between oxybutynin and neuropsychiatric adverse effects not confirmed
+      in daily practice.
+PG  - 234-5
+FAU - Movig, K L
+AU  - Movig KL
+FAU - Egberts, A C
+AU  - Egberts AC
+FAU - Lenderink, A W
+AU  - Lenderink AW
+FAU - Leufkens, H G
+AU  - Leufkens HG
+LA  - eng
+PT  - Letter
+PL  - United States
+TA  - J Am Geriatr Soc
+JT  - Journal of the American Geriatrics Society
+JID - 7503062
+RN  - 0 (Antipsychotic Agents)
+RN  - 0 (Cholinergic Antagonists)
+RN  - 0 (Mandelic Acids)
+RN  - 0 (Parasympatholytics)
+RN  - 15301-69-6 (Flavoxate)
+RN  - 5633-20-5 (oxybutynin)
+SB  - IM
+CIN - J Am Geriatr Soc. 2002 Feb;50(2):399; author reply 399. PMID: 12028232
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Antipsychotic Agents/therapeutic use
+MH  - Cholinergic Antagonists/*adverse effects
+MH  - Drug Prescriptions/statistics & numerical data
+MH  - Drug Utilization
+MH  - Flavoxate/therapeutic use
+MH  - Humans
+MH  - Mandelic Acids/*adverse effects
+MH  - Mental Disorders/*chemically induced
+MH  - Middle Aged
+MH  - Nervous System Diseases/*chemically induced
+MH  - Netherlands
+MH  - Parasympatholytics/*adverse effects
+MH  - Pharmacies
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Urination Disorders/drug therapy
+EDAT- 2001/02/24 11:00
+MHDA- 2001/04/03 10:01
+CRDT- 2001/02/24 11:00
+AID - jgs4949 [pii]
+PST - ppublish
+SO  - J Am Geriatr Soc. 2001 Feb;49(2):234-5.
+
+PMID- 11152906
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010126
+DCOM- 20010222
+LR  - 20091026
+IS  - 0029-7844 (Print)
+IS  - 0029-7844 (Linking)
+VI  - 97
+IP  - 1
+DP  - 2001 Jan
+TI  - Neonatal outcome of infants born at 23 weeks' gestation.
+PG  - 49-52
+AB  - OBJECTIVE: To determine the neonatal outcome in accurately dated 23-week
+      deliveries. METHODS: We reviewed the records of consecutive births between 23 0/7
+      and 23 6/7 weeks at Brigham & Women's Hospital, Boston, Massachusetts, from
+      January 1995 to December 1999. Women were excluded if they presented for elective
+      termination or had known fetal death or poor dating criteria. Neonatal records
+      were abstracted for mortality and short-term morbidity, including the respiratory
+      distress syndrome (RDS), intraventricular hemorrhage, chronic lung disease,
+      necrotizing enterocolitis, periventricular leukomalacia, and retinopathy of
+      prematurity. Survival was defined as discharge from neonatal intensive care.
+      RESULTS: Thirty-three singleton pregnancies met criteria for inclusion, 11 of
+      whom survived to discharge (survival rate 0.33; 95% CI 0.18, 0.52). More advanced
+      gestational age was associated with increased likelihood of survival: 0 of 12 at 
+      23 0/7 to 23 2/7 weeks, 4 of 10 at 23 3/7 to 23 4/7 weeks, and 7 of 11 at 23 5/7 
+      to 23 6/7 weeks (P =.02). All 11 survivors developed RDS and chronic lung
+      disease. One of 11 survivors had necrotizing enterocolitis, and 2 of 11 had
+      severe retinopathy of prematurity. One survivor had periventricular leukomalacia 
+      on head ultrasonography, compared with 7 of the nonsurvivors who had head
+      ultrasonography (P =.03). One survivor developed severe intraventricular
+      hemorrhage (grade 3 or 4) compared with 8 of the 12 at-risk nonsurvivors who had 
+      head ultrasonography (P =.01). CONCLUSION: About one third of infants delivered
+      at 23 weeks' gestation survived to be discharged from neonatal intensive care.
+      More advanced gestational age was associated with increased likelihood of
+      survival. No neonates survived free of substantial morbidity.
+AD  - Departments of Obstetrics, Gynecology and Reproductive Biology, Brigham and
+      Women's Hospital, Harvard Medical School, Boston, Massachusetts 02115, USA.
+      tmcelrath@partners.org
+FAU - McElrath, T F
+AU  - McElrath TF
+FAU - Robinson, J N
+AU  - Robinson JN
+FAU - Ecker, J L
+AU  - Ecker JL
+FAU - Ringer, S A
+AU  - Ringer SA
+FAU - Norwitz, E R
+AU  - Norwitz ER
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Obstet Gynecol
+JT  - Obstetrics and gynecology
+JID - 0401101
+SB  - AIM
+SB  - IM
+MH  - Enterocolitis, Necrotizing
+MH  - Female
+MH  - Gestational Age
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Infant, Premature
+MH  - *Infant, Premature, Diseases/mortality
+MH  - Morbidity
+MH  - Pregnancy
+MH  - *Pregnancy Outcome
+MH  - Proportional Hazards Models
+MH  - Retinopathy of Prematurity
+MH  - Retrospective Studies
+MH  - Survival Analysis
+EDAT- 2001/01/12 11:00
+MHDA- 2001/03/03 10:01
+CRDT- 2001/01/12 11:00
+AID - S0029-7844(00)01086-3 [pii]
+PST - ppublish
+SO  - Obstet Gynecol. 2001 Jan;97(1):49-52.
+
+PMID- 10792154
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000608
+DCOM- 20000608
+LR  - 20061115
+IS  - 1464-4096 (Print)
+IS  - 1464-4096 (Linking)
+VI  - 85
+IP  - 7
+DP  - 2000 May
+TI  - A randomized controlled trial comparing the efficacy of controlled-release
+      oxybutynin tablets (10 mg once daily) with conventional oxybutynin tablets (5 mg 
+      twice daily) in patients whose symptoms were stabilized on 5 mg twice daily of
+      oxybutynin.
+PG  - 793-8
+AB  - OBJECTIVE: To compare the efficacy of a controlled-release (CR) formulation of
+      oxybutynin with that of conventional oxybutynin in patients with detrusor
+      instability or detrusor hyper-reflexia whose symptoms were stabilized on
+      conventional oral oxybutynin tablets. PATIENTS AND METHODS: The study comprised a
+      randomized, double-blind, parallel-group trial involving 130 patients drawn from 
+      15 centres in the UK. The study was of 6 weeks' duration, i.e. 2 weeks of
+      screening whilst taking conventional oxybutynin tablets (5 mg twice daily)
+      followed by 4 weeks of double-blind treatment with either CR oxybutynin tablets
+      (10 mg once daily) or conventional oxybutynin tablets (5 mg twice daily). Outcome
+      measures were changes in 24-h frequency and 24-h incontinence episodes recorded
+      throughout the study on diary charts. Adverse events were recorded by patients in
+      their diary charts and serum concentrations of oxybutynin and its active
+      metabolite, N-desethyloxybutynin, were measured at baseline and at completion of 
+      the study to detect possible drug accumulation. RESULTS: The treatments did not
+      differ significantly in any of the outcome measures. The primary efficacy
+      criterion was the daytime continence at completion of the study; 53% and 58% of
+      patients were continent on CR and conventional oxybutynin treatments,
+      respectively (the 95% confidence interval of the difference in the proportion
+      being - 22% to 13%; P = 0.62). The total number of side-effects experienced by
+      those patients receiving treatment with the CR formulation was 57% of that for
+      patients receiving treatment with conventional oxybutynin. Individual
+      side-effects showed a similar distribution within treatment groups. There was no 
+      evidence of the accumulation of oxybutynin or N-desethyloxybutynin during the
+      multiple dosing of CR or conventional oxybutynin tablets. CONCLUSION: The CR and 
+      conventional formulations of oxybutynin did not differ in their efficacy, and the
+      CR formulation was associated with fewer side-effects. In addition, CR oxybutynin
+      appeared to maintain therapeutic blood levels over the 24 h dosing interval with 
+      no accumulation of oxybutynin or its active metabolite. Once-daily dosing with a 
+      CR tablet is seen as convenient for the patient and is expected to result in
+      improved compliance in patients already stabilized on conventional oxybutynin
+      treatment.
+AD  - Department of Medicine, University College London Hospital, Leiras Oy Clinical
+      Research, Helsinki, Finland.
+FAU - Birns, J
+AU  - Birns J
+FAU - Lukkari, E
+AU  - Lukkari E
+FAU - Malone-Lee, J G
+AU  - Malone-Lee JG
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - BJU Int
+JT  - BJU international
+JID - 100886721
+RN  - 0 (Cholinergic Antagonists)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Mandelic Acids)
+RN  - 0 (Parasympatholytics)
+RN  - 0 (Tablets)
+RN  - 5633-20-5 (oxybutynin)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Cholinergic Antagonists/*administration & dosage/adverse effects
+MH  - Delayed-Action Preparations
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mandelic Acids/*administration & dosage/adverse effects
+MH  - Middle Aged
+MH  - Parasympatholytics/*administration & dosage/adverse effects
+MH  - Tablets
+EDAT- 2000/05/03 09:00
+MHDA- 2000/06/10 09:00
+CRDT- 2000/05/03 09:00
+AID - bju623 [pii]
+PST - ppublish
+SO  - BJU Int. 2000 May;85(7):793-8.
+
+PMID- 10775736
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000522
+DCOM- 20000522
+LR  - 20091026
+IS  - 0029-7844 (Print)
+IS  - 0029-7844 (Linking)
+VI  - 95
+IP  - 5
+DP  - 2000 May
+TI  - Dry mouth with conventional and controlled-release oxybutynin in urinary
+      incontinence. The Ditropan XL Study Group.
+PG  - 718-21
+AB  - OBJECTIVE: To compare the efficacy and safety of controlled-release oxybutynin
+      with conventional, immediate-release oxybutynin and determine rates of dry mouth.
+      METHODS: Patients (n = 226) who were known to be responsive to anticholinergic
+      therapy and who had seven or more urge incontinence episodes per week were
+      randomized to receive controlled-release oxybutynin or immediate-release
+      oxybutynin. After an initial placebo run-in period, dosing in each began at 5 mg 
+      per day and increased weekly by 5 mg per day to a maximum of 20 mg per day or
+      when a balance between improvement of incontinence symptoms and tolerability of
+      side effects was achieved. Rates of urge incontinence and dry mouth were
+      compared. Post hoc Kaplan-Meier survival analysis was used to describe
+      elimination of incontinence episodes by dose and to analyze dry mouth risk by
+      dose. RESULTS: Reductions in urge urinary incontinence episodes from baseline to 
+      the end of treatment were 18.6 to 2.9 per week (83% mean decrease) and 19.8 to
+      4.4 per week (76% mean decrease) in the controlled- and immediate-release
+      oxybutynin groups (P =.36), respectively. At equal doses, comparable proportions 
+      of patients in both groups reported the absence of urge incontinence (P =.85).
+      The incidence of dry mouth increased with dose in both groups, but there was no
+      difference in dry mouth rates between the groups: 47.7% and 59.1% for the
+      controlled- and immediate-release oxybutynin (P =.09), respectively. However,
+      Kaplan-Meier analysis to examine first report of dry mouth at a given dose
+      revealed that a significantly lower proportion of patients taking
+      controlled-release oxybutynin had moderate to severe dry mouth (P =.007) or any
+      dry mouth (P =.003) compared with those taking immediate-release oxybutynin.
+      CONCLUSION: At the same daily dose, controlled- and immediate-release oxybutynin 
+      demonstrated comparable efficacy in reduction of urge incontinence episodes. The 
+      incidence of dry mouth was dose dependent but equal in both groups; first report 
+      of moderate to severe dry mouth was significantly lower in the controlled-release
+      group.
+AD  - Division of Urogynecology, Brigham and Women's Hospital, Boston, Massachusetts,
+      USA.
+FAU - Versi, E
+AU  - Versi E
+FAU - Appell, R
+AU  - Appell R
+FAU - Mobley, D
+AU  - Mobley D
+FAU - Patton, W
+AU  - Patton W
+FAU - Saltzstein, D
+AU  - Saltzstein D
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - Obstet Gynecol
+JT  - Obstetrics and gynecology
+JID - 0401101
+RN  - 0 (Cholinergic Antagonists)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Mandelic Acids)
+RN  - 5633-20-5 (oxybutynin)
+SB  - AIM
+SB  - IM
+MH  - Chemistry, Pharmaceutical
+MH  - Cholinergic Antagonists/administration & dosage/*adverse effects
+MH  - Delayed-Action Preparations
+MH  - Dose-Response Relationship, Drug
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mandelic Acids/administration & dosage/*adverse effects
+MH  - Middle Aged
+MH  - Treatment Outcome
+MH  - Urinary Incontinence/*drug therapy
+MH  - Xerostomia/*chemically induced
+EDAT- 2000/04/25 09:00
+MHDA- 2000/06/08 09:00
+CRDT- 2000/04/25 09:00
+AID - S0029784499006614 [pii]
+PST - ppublish
+SO  - Obstet Gynecol. 2000 May;95(5):718-21.
+
+PMID- 10772377
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000531
+DCOM- 20000531
+LR  - 20081121
+IS  - 0277-0008 (Print)
+IS  - 0277-0008 (Linking)
+VI  - 20
+IP  - 4
+DP  - 2000 Apr
+TI  - Immediate-release oxybutynin versus tolterodine in detrusor overactivity: a
+      population analysis.
+PG  - 470-5
+AB  - We evaluated adherence to treatment with immediate-release (IR) oxybutynin (515
+      patients) and tolterodine (505 patients) for detrusor overactivity through
+      retrospective analysis of a pharmacy claims database. Outcomes included
+      percentage of patients continuing therapy for 6 months, medication possession
+      ratios, and time to discontinuation of therapy. The proportion of patients
+      continuing therapy for 6 months was statistically superior for tolterodine (32%) 
+      compared with IR oxybutynin (22%, p<0.001). Medication possession ratios were
+      also superior for patients in the tolterodine group (medians 0.83 and 0.64,
+      ranges 0.11-1.15 and 0.07-1.13, respectively, p<0.001). Oxybutynin was
+      discontinued significantly earlier (mean 45 days) than tolterodine (mean 59 days,
+      p<0.001) and was switched to another therapy more commonly than tolterodine (19% 
+      and 14%, respectively). Tolterodine was favored over oxybutynin for several
+      measurements of patient adherence. However, less than one-third of patients
+      continued therapy with either agent for 6 months. The clinical relevance of these
+      differences is unknown.
+AD  - Express Scripts Inc., Bloomington, Minnesota 55439-0842, USA.
+FAU - Lawrence, M
+AU  - Lawrence M
+FAU - Guay, D R
+AU  - Guay DR
+FAU - Benson, S R
+AU  - Benson SR
+FAU - Anderson, M J
+AU  - Anderson MJ
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Pharmacotherapy
+JT  - Pharmacotherapy
+JID - 8111305
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cresols)
+RN  - 0 (Mandelic Acids)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 0 (Parasympatholytics)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+RN  - 5633-20-5 (oxybutynin)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Benzhydryl Compounds/*therapeutic use
+MH  - Cohort Studies
+MH  - Cresols/*therapeutic use
+MH  - Drug Prescriptions/statistics & numerical data
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mandelic Acids/*therapeutic use
+MH  - Middle Aged
+MH  - Muscarinic Antagonists/*therapeutic use
+MH  - Parasympatholytics/*therapeutic use
+MH  - Pharmaceutical Services/statistics & numerical data
+MH  - *Phenylpropanolamine
+MH  - Retrospective Studies
+MH  - Time Factors
+MH  - Urinary Incontinence/*drug therapy
+EDAT- 2000/04/20 09:00
+MHDA- 2000/06/03 09:00
+CRDT- 2000/04/20 09:00
+PST - ppublish
+SO  - Pharmacotherapy. 2000 Apr;20(4):470-5.
+
+PMID- 10759661
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000508
+DCOM- 20000508
+LR  - 20061115
+IS  - 1464-4096 (Print)
+IS  - 1464-4096 (Linking)
+VI  - 85
+IP  - 6
+DP  - 2000 Apr
+TI  - Efficacy of trospium chloride in patients with detrusor instability: a
+      placebo-controlled, randomized, double-blind, multicentre clinical trial.
+PG  - 659-64
+AB  - OBJECTIVES: To assess the efficacy and safety of trospium chloride (TCl, 20 mg
+      twice daily) in the treatment of detrusor instability, compared with placebo.
+      PATIENTS AND METHODS: In all, 208 patients were allocated at random to either TCl
+      or placebo in a double-blind clinical study; the patients were treated for 3
+      weeks. Urodynamic values were measured at the beginning and end of the treatment 
+      period. Adverse events were recorded on patient diary cards. A confirmatory
+      adaptive procedure with one planned interim analysis was used to evaluate
+      efficacy. RESULTS: Trospium chloride produced significant improvements in maximum
+      cystometric bladder capacity (median treatment effect 22.0 mL, mean 37.3 mL,
+      one-sided P = 0. 0054) and urinary volume at first unstable contraction (median
+      treatment effect 45.0 mL, mean 63.6 mL, one-sided P = 0.0015). The patients'
+      assessment of efficacy showed significantly greater clinical improvement in the
+      TCl group than in the placebo group (two-sided P = 0.0047). Furthermore, TCl was 
+      well tolerated, with similar frequencies of adverse events reported in both
+      groups (68% in the TCl and 62% in the placebo group). CONCLUSION: Trospium
+      chloride (20 mg twice daily) is an effective and safe option for the treatment of
+      detrusor instability.
+AD  - King's College Hospital, London, Royal Hallamshire Hospital, Sheffield, UK.
+FAU - Cardozo, L
+AU  - Cardozo L
+FAU - Chapple, C R
+AU  - Chapple CR
+FAU - Toozs-Hobson, P
+AU  - Toozs-Hobson P
+FAU - Grosse-Freese, M
+AU  - Grosse-Freese M
+FAU - Bulitta, M
+AU  - Bulitta M
+FAU - Lehmacher, W
+AU  - Lehmacher W
+FAU - Strosser, W
+AU  - Strosser W
+FAU - Ballering-Bruhl, B
+AU  - Ballering-Bruhl B
+FAU - Schafer, M
+AU  - Schafer M
+LA  - eng
+PT  - Clinical Trial
+PT  - Clinical Trial, Phase III
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - BJU Int
+JT  - BJU international
+JID - 100886721
+RN  - 0 (Nortropanes)
+RN  - 0 (Parasympatholytics)
+RN  - 10405-02-4 (trospium chloride)
+SB  - IM
+MH  - Adult
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Nortropanes/*therapeutic use
+MH  - Parasympatholytics/*therapeutic use
+MH  - Urinary Bladder/physiopathology
+MH  - Urinary Bladder, Neurogenic/*drug therapy/physiopathology
+MH  - Urodynamics/drug effects
+EDAT- 2000/04/12 09:00
+MHDA- 2000/05/16 09:00
+CRDT- 2000/04/12 09:00
+AID - bju575 [pii]
+PST - ppublish
+SO  - BJU Int. 2000 Apr;85(6):659-64.
+
+PMID- 10636496
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000207
+DCOM- 20000207
+LR  - 20091026
+IS  - 0029-7844 (Print)
+IS  - 0029-7844 (Linking)
+VI  - 95
+IP  - 1
+DP  - 2000 Jan
+TI  - Pregnancy outcomes in healthy nulliparas who developed hypertension. Calcium for 
+      Preeclampsia Prevention Study Group.
+PG  - 24-8
+AB  - OBJECTIVE: To determine maternal and perinatal outcomes in nulliparas with
+      pregnancy-associated hypertension or preeclampsia. METHODS: We conducted (and
+      reported elsewhere) a randomized, double-masked, placebo-controlled trial calcium
+      supplementation of 4589 healthy nulliparas assigned at 13-21 weeks' gestation.
+      This well-defined and characterized data set provided an opportunity to detail
+      more precisely adverse maternal, fetal, and newborn outcomes in women who
+      developed hypertension among a prospective series of healthy nulliparas. RESULTS:
+      Of 4302 women observed to or beyond 20 weeks' gestation, 1073 (24.9%) developed
+      mild or severe pregnancy-associated hypertension or preeclampsia. One hundred
+      sixteen women of the 1073 with hypertension (10.8%) and 336 of the 3229 without
+      hypertension (10.4%) were delivered before 37 weeks' gestation. Fetal and
+      neonatal mortality were similar in those groups; however, selected maternal and
+      newborn morbidities were significantly greater in women with hypertension.
+      Significantly increased maternal morbidities included increased cesarean
+      deliveries, abruptio placentae, and acute renal dysfunction; and significantly
+      increased perinatal morbidities included respiratory distress syndrome,
+      ventilatory support, and fetal growth restriction. Adverse outcomes were highest 
+      in women with severe pregnancy-associated hypertension or preeclampsia.
+      CONCLUSION: Hypertension, especially severe hypertension, was associated with an 
+      appreciable increase in important maternal and perinatal morbidity but not
+      perinatal mortality.
+AD  - Department of Obstetrics and Gynecology, University of Alabama at Birmingham,
+      USA.
+FAU - Hauth, J C
+AU  - Hauth JC
+FAU - Ewell, M G
+AU  - Ewell MG
+FAU - Levine, R J
+AU  - Levine RJ
+FAU - Esterlitz, J R
+AU  - Esterlitz JR
+FAU - Sibai, B
+AU  - Sibai B
+FAU - Curet, L B
+AU  - Curet LB
+FAU - Catalano, P M
+AU  - Catalano PM
+FAU - Morris, C D
+AU  - Morris CD
+LA  - eng
+GR  - N01-HD-1-3121/HD/NICHD NIH HHS/United States
+GR  - N01-HD-1-3122/HD/NICHD NIH HHS/United States
+GR  - N01-HD-1-3123/HD/NICHD NIH HHS/United States
+GR  - etc.
+PT  - Clinical Trial
+PT  - Controlled Clinical Trial
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - UNITED STATES
+TA  - Obstet Gynecol
+JT  - Obstetrics and gynecology
+JID - 0401101
+SB  - AIM
+SB  - IM
+MH  - Adult
+MH  - Female
+MH  - Humans
+MH  - *Hypertension
+MH  - *Pre-Eclampsia
+MH  - Pregnancy
+MH  - *Pregnancy Complications, Cardiovascular
+MH  - *Pregnancy Outcome
+EDAT- 2000/01/15
+MHDA- 2000/01/15 00:01
+CRDT- 2000/01/15 00:00
+AID - S0029784499004627 [pii]
+PST - ppublish
+SO  - Obstet Gynecol. 2000 Jan;95(1):24-8.
+
+PMID- 10583027
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991216
+DCOM- 19991216
+LR  - 20091118
+IS  - 0306-5251 (Print)
+IS  - 0306-5251 (Linking)
+VI  - 48
+IP  - 4
+DP  - 1999 Oct
+TI  - Ketoconazole inhibits the metabolism of tolterodine in subjects with deficient
+      CYP2D6 activity.
+PG  - 564-72
+AB  - AIMS: To investigate the pharmacokinetics and safety of tolterodine and
+      tolterodine metabolites after single-and multiple-dose administration in the
+      absence and presence of ketoconazole, an inhibitor of cytochrome P450 (CYP) 3A4, 
+      in healthy volunteers with deficient CYP2D6 activity, i.e. poor metabolisers of
+      debrisoquine. METHODS: Eight healthy volunteers received single oral doses (2 mg)
+      of tolterodine l-tartrate. Following a wash-out period of about 3 months, six of 
+      the subjects participated in a multiple-dose (1 mg twice daily) phase of the
+      study. Ketoconazole 200 mg was given once daily for 4-4.5 days during both the
+      single and multiple dose tolterodine administration phases. Blood samples were
+      drawn and the pharmacokinetics of tolterodine and its metabolites were
+      determined. RESULTS: A decrease (P<0.01) in apparent oral clearance of
+      tolterodine, from 10- 12 l h-1 to 4.3-4.7 l h-1, was obtained during concomitant 
+      administration of ketoconazole, yielding at least a two-fold increase in the area
+      under the serum concentration-time curve after single as well as after multiple
+      doses following single dose administration of tolterodine. The mean (+/-s.d.)
+      terminal half-life increased by 50% from 9.7+/-2.7 h to 15+/-5.4 h in the
+      presence of ketoconazole. CONCLUSIONS: CYP3A4 is the major enzyme involved in the
+      elimination of tolterodine in individuals with deficient CYP2D6 activity (poor
+      metabolisers), since oral clearance of tolterodine decreased by 60% during
+      ketoconazole coadministration. This inhibition resulted in 2.1-fold increase in
+      AUC.
+AD  - Department of Clinical Pharmacology, Pharmacia & Upjohn AB, Stockholm, Sweden.
+      niclas.brynne@eu.pnu.com
+FAU - Brynne, N
+AU  - Brynne N
+FAU - Forslund, C
+AU  - Forslund C
+FAU - Hallen, B
+AU  - Hallen B
+FAU - Gustafsson, L L
+AU  - Gustafsson LL
+FAU - Bertilsson, L
+AU  - Bertilsson L
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Br J Clin Pharmacol
+JT  - British journal of clinical pharmacology
+JID - 7503323
+RN  - 0 (Antifungal Agents)
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cresols)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+RN  - 65277-42-1 (Ketoconazole)
+RN  - 9035-51-2 (Cytochrome P-450 Enzyme System)
+RN  - EC 1.- (Mixed Function Oxygenases)
+RN  - EC 1.14.13.67 (CYP3A4 protein, human)
+RN  - EC 1.14.14.1 (CYP3A protein, human)
+RN  - EC 1.14.14.1 (Cytochrome P-450 CYP2D6)
+RN  - EC 1.14.14.1 (Cytochrome P-450 CYP3A)
+SB  - IM
+MH  - Adult
+MH  - Antifungal Agents/*pharmacology
+MH  - Benzhydryl Compounds/administration & dosage/adverse effects/blood/*metabolism
+MH  - Cresols/administration & dosage/adverse effects/blood/*metabolism
+MH  - Cross-Over Studies
+MH  - Cytochrome P-450 CYP2D6/*deficiency/genetics
+MH  - Cytochrome P-450 CYP3A
+MH  - Cytochrome P-450 Enzyme System/antagonists & inhibitors
+MH  - Drug Interactions
+MH  - Female
+MH  - Humans
+MH  - Ketoconazole/*pharmacology
+MH  - Male
+MH  - Mixed Function Oxygenases/antagonists & inhibitors
+MH  - Muscarinic Antagonists/administration & dosage/adverse effects/blood/*metabolism
+MH  - Phenotype
+MH  - *Phenylpropanolamine
+MH  - Time Factors
+PMC - PMC2014365
+OID - NLM: PMC2014365
+EDAT- 1999/12/03
+MHDA- 1999/12/03 00:01
+CRDT- 1999/12/03 00:00
+AID - bcp053 [pii]
+PST - ppublish
+SO  - Br J Clin Pharmacol. 1999 Oct;48(4):564-72.
+
+PMID- 10583026
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991216
+DCOM- 19991216
+LR  - 20091118
+IS  - 0306-5251 (Print)
+IS  - 0306-5251 (Linking)
+VI  - 48
+IP  - 4
+DP  - 1999 Oct
+TI  - Fluoxetine inhibits the metabolism of tolterodine-pharmacokinetic implications
+      and proposed clinical relevance.
+PG  - 553-63
+AB  - AIMS: To investigate the change in disposition of tolterodine during
+      coadministration of the potent cytochrome P450 2D6 (CYP2D6) inhibitor fluoxetine.
+      METHODS: Thirteen patients received tolterodine l-tartrate 2 mg twice daily for
+      2.5 days, followed by fluoxetine 20 mg once daily for 3 weeks and then
+      concomitant administration for an additional 2.5 days. They were characterized as
+      extensive metabolizers (EM1 with one functional CYP2D6 gene, EM2 with two
+      functional genes) or poor metabolizers (PM). RESULTS: Nine patients, three EM2
+      and four EM1 and two PM, completed the trial. Following tolterodine
+      administration, the area under the serum concentration-time curve (AUC) of
+      tolterodine was 4.4-times and 30-times higher among EM1 and PM, respectively,
+      compared with EM2. The AUC of the 5-hydroxymethyl metabolite (5-HM) was not
+      quantifiable in PM. Fluoxetine significantly decreased (P<0.002) the oral
+      clearance of tolterodine by 93% in EM2 and by 80% in EM1. The AUC of 5-HM
+      increased in EM2 and decreased in EM1. However, the exposure to the active moiety
+      (unbound tolterodine +5-HM) was not significantly increased in the two
+      phenotypes. The subdivision of the EM group showed a 2.1-fold increase in active 
+      moiety in EM2 but the exposure was still similar to EM1 compared with before the 
+      interaction. CONCLUSIONS: The study suggests a difference in the pharmacokinetics
+      of tolterodine and its 5-hydroxymethyl metabolite depending on the number of
+      functional CYP2D6 genes. Fluoxetine significantly inhibited the hydroxylation of 
+      tolterodine. Despite the effect on the pharmacokinetics of tolterodine in
+      extensive metabolizers, the clinical effect is expected to be within normal
+      variation.
+AD  - Department of Clinical Pharmacology, Pharmacia & Upjohn AB, SE-112 87 Stockham,
+      Sweden. niclas.brynne@eu.pnu.com
+FAU - Brynne, N
+AU  - Brynne N
+FAU - Svanstrom, C
+AU  - Svanstrom C
+FAU - Aberg-Wistedt, A
+AU  - Aberg-Wistedt A
+FAU - Hallen, B
+AU  - Hallen B
+FAU - Bertilsson, L
+AU  - Bertilsson L
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Br J Clin Pharmacol
+JT  - British journal of clinical pharmacology
+JID - 7503323
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cresols)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 0 (Serotonin Uptake Inhibitors)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+RN  - 54910-89-3 (Fluoxetine)
+RN  - EC 1.14.14.1 (Cytochrome P-450 CYP2D6)
+SB  - IM
+MH  - Benzhydryl Compounds/blood/*metabolism/pharmacokinetics
+MH  - Cresols/blood/*metabolism/pharmacokinetics
+MH  - Cross-Over Studies
+MH  - Cytochrome P-450 CYP2D6/antagonists & inhibitors/deficiency/genetics
+MH  - Drug Interactions
+MH  - Drug Therapy, Combination
+MH  - Female
+MH  - Fluoxetine/*pharmacology
+MH  - Humans
+MH  - Hydroxylation
+MH  - Middle Aged
+MH  - Muscarinic Antagonists/blood/*metabolism/pharmacokinetics
+MH  - Patient Dropouts
+MH  - Phenotype
+MH  - *Phenylpropanolamine
+MH  - Serotonin Uptake Inhibitors/*pharmacology
+MH  - Time Factors
+PMC - PMC2014382
+OID - NLM: PMC2014382
+EDAT- 1999/12/03
+MHDA- 1999/12/03 00:01
+CRDT- 1999/12/03 00:00
+AID - bcp051 [pii]
+PST - ppublish
+SO  - Br J Clin Pharmacol. 1999 Oct;48(4):553-63.
+
+PMID- 10543335
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991124
+DCOM- 19991124
+LR  - 20110818
+VI  - 10
+IP  - 5
+DP  - 1999
+TI  - Clinical efficacy and safety of tolterodine compared to oxybutynin and placebo in
+      patients with overactive bladder.
+PG  - 283-9
+AB  - This study compared the clinical efficacy (determined from micturition diaries)
+      and safety of 12 weeks' treatment with either tolterodine 2 mg twice daily,
+      oxybutynin 5 mg three times daily or placebo in patients with an overactive
+      bladder. A total of 277 patients were randomized and treated at 25 centers. Both 
+      tolterodine and oxybutynin significantly increased volume voided/micturition
+      compared to placebo. Both treatment groups evoked greater decreases in
+      micturitions per 24 hours and incontinence episodes per 24 hours compared to
+      placebo; however, only tolterodine was significantly better than placebo in
+      reducing micturition frequency. Tolterodine and oxybutynin were equivalent in
+      their effectiveness. Tolterodine was significantly better tolerated than
+      oxybutynin when adverse events (particularly frequency and intensity of dry
+      mouth), dose reduction and patient withdrawals were considered. Oxybutynin is an 
+      effective drug whose frequent adverse effects limit its clinical usefulness.
+      Tolterodine has equivalent efficacy to oxybutynin, but with less severe adverse
+      effects. This will allow patients to receive more effective treatment for their
+      condition, with better compliance.
+AD  - University of Toronto, Mount Sinai Hospital, Ontario, Canada.
+FAU - Drutz, H P
+AU  - Drutz HP
+FAU - Appell, R A
+AU  - Appell RA
+FAU - Gleason, D
+AU  - Gleason D
+FAU - Klimberg, I
+AU  - Klimberg I
+FAU - Radomski, S
+AU  - Radomski S
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Int Urogynecol J Pelvic Floor Dysfunct
+JT  - International urogynecology journal and pelvic floor dysfunction
+JID - 9514583
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cholinergic Antagonists)
+RN  - 0 (Cresols)
+RN  - 0 (Mandelic Acids)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+RN  - 5633-20-5 (oxybutynin)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Benzhydryl Compounds/adverse effects/*therapeutic use
+MH  - Cholinergic Antagonists/adverse effects/*therapeutic use
+MH  - Cresols/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mandelic Acids/adverse effects/*therapeutic use
+MH  - Middle Aged
+MH  - Muscarinic Antagonists/adverse effects/*therapeutic use
+MH  - *Phenylpropanolamine
+MH  - Treatment Outcome
+MH  - Urinary Bladder, Neurogenic/*drug therapy/pathology
+MH  - Urinary Incontinence/*drug therapy/pathology
+MH  - Urination/drug effects
+EDAT- 1999/10/30
+MHDA- 1999/10/30 00:01
+CRDT- 1999/10/30 00:00
+PST - ppublish
+SO  - Int Urogynecol J Pelvic Floor Dysfunct. 1999;10(5):283-9.
+
+PMID- 10510109
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991215
+DCOM- 19991215
+LR  - 20060718
+IS  - 1464-4096 (Print)
+IS  - 1464-4096 (Linking)
+VI  - 84
+IP  - 6
+DP  - 1999 Oct
+TI  - A placebo-controlled, multicentre study comparing the tolerability and efficacy
+      of propiverine and oxybutynin in patients with urgency and urge incontinence.
+PG  - 646-51
+AB  - OBJECTIVE: To assess the tolerability and efficacy of propiverine and oxybutynin 
+      in patients with urgency and urge incontinence in a randomized, double-blind
+      placebo-controlled clinical trial. PATIENTS AND METHODS: In all, 366 patients
+      (149 on propiverine, 145 oxybutynin and 72 placebo, ratio 2:2:1) with urgency and
+      urge incontinence were recruited in 32 study centres. Propiverine (group 1, 15 mg
+      three times daily), oxybutynin (group 2, 5 mg twice daily) or placebo (group 3)
+      were administered for 4 weeks, using the double-dummy technique. The dosages were
+      selected specifically to compare the tolerability profile of propiverine with the
+      commonly used therapeutic dosage of oxybutynin. Tolerability was assessed by
+      directly questioning the patients about adverse events at four visits (V-1 before
+      and V0 after a 1-week 'washout' period, V1 after 1 week and V4 after 4 weeks of
+      treatment) during a 5-week surveillance period, and by tolerability ratings of
+      the physicians. Efficacy was assessed using urodynamics at V0 and V4, evaluating 
+      the cystometric bladder capacity at maximal and first desire to void, and
+      postvoid residual urine, according to the criteria of the International
+      Continence Society. Additionally, a voiding protocol, overall assessment of
+      clinical symptomatology and efficacy ratings by the physicians were documented.
+      RESULTS: A remarkably high percentage of adverse events was reported in the
+      washout period (VO: 13%, 16% and 18% in groups 1-3, respectively). At V4, the
+      clinically most relevant symptom (dry mouth) occurred in 53% of patients in group
+      1, in 67% of group 2 and in 28% of group 3. Furthermore, dry mouth was less
+      severe in group 1 than group 2. In contrast to groups 2 and 3, only patients in
+      group 1 showed increasing tolerability during the treatment (from V1 to V4).
+      These tolerability results were further supported by the overall tolerability
+      assessment ('very good' or 'good' tolerability in 67% of group 1, in 59% of group
+      2 and in 83% of group 3). The urodynamic assessment of efficacy (comparing V0 and
+      V4) showed a statistically significant increase in the mean (sd) maximal
+      cystometric bladder capacity in group 1, being 222 (77) mL at V0 and 311 (125) mL
+      at V4, an increase of 89 (108) mL, and in group 2, at 226 (75) mL and 322 (123)
+      mL, an increase of 96 (106) mL, compared with group 3, at 211 (77) mL and 263
+      (93) mL, an increase of only 52 (92) mL. The cystometric bladder capacity at
+      first desire to void also increased in group 1 (93 to 160 mL) and group 2 (89 to 
+      160 mL), whereas in group 3 there were only minor changes (93 to 120 mL). Changes
+      in the residual urine volume within and between the treatment groups were minimal
+      and clinically irrelevant. The overall assessment of efficacy showed significant 
+      differences between the drugs when compared with placebo. CONCLUSION: Propiverine
+      is a safe and effective drug in the treatment of urgency and urge incontinence;
+      it is as effective as oxybutynin, but the incidence of dry mouth and its severity
+      is less with propiverine than with oxybutynin. The availability of alternative
+      pharmacotherapeutics such as propiverine should reduce the therapeutic failure
+      rate and improves the success rate in the treatment of patients suffering from
+      urgency and urge incontinence.
+AD  - Neuro-Urology Unit, University Hospital Innsbruck, Austria.
+FAU - Madersbacher, H
+AU  - Madersbacher H
+FAU - Halaska, M
+AU  - Halaska M
+FAU - Voigt, R
+AU  - Voigt R
+FAU - Alloussi, S
+AU  - Alloussi S
+FAU - Hofner, K
+AU  - Hofner K
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - BJU Int
+JT  - BJU international
+JID - 100886721
+RN  - 0 (Benzilates)
+RN  - 0 (Mandelic Acids)
+RN  - 0 (Parasympatholytics)
+RN  - 5633-20-5 (oxybutynin)
+RN  - 60569-19-9 (propiverine)
+SB  - IM
+MH  - Benzilates/administration & dosage/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mandelic Acids/administration & dosage/*therapeutic use
+MH  - Middle Aged
+MH  - Parasympatholytics/administration & dosage/*therapeutic use
+MH  - Prospective Studies
+MH  - Treatment Outcome
+MH  - Urinary Incontinence/*drug therapy
+EDAT- 1999/10/06
+MHDA- 1999/10/06 00:01
+CRDT- 1999/10/06 00:00
+AID - bju251 [pii]
+PST - ppublish
+SO  - BJU Int. 1999 Oct;84(6):646-51.
+
+PMID- 10475346
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991004
+DCOM- 19991004
+LR  - 20061115
+IS  - 1527-9995 (Electronic)
+IS  - 0090-4295 (Linking)
+VI  - 54
+IP  - 3
+DP  - 1999 Sep
+TI  - Evaluation of a new once-daily formulation of oxbutynin for the treatment of
+      urinary urge incontinence. Ditropan XL Study Group.
+PG  - 420-3
+AB  - OBJECTIVES: To evaluate in a 1 6-center, single-treatment study once-daily
+      controlled-release oxybutynin (Ditropan XL) for urinary urge incontinence.
+      METHODS: Two hundred fifty-six participants with urge incontinence or mixed
+      incontinence with a significant urge component were treated. After baseline
+      measurements, participants converting from conventional oxybutynin started
+      Ditropan XL at their previous oxybutynin dose; others started at 5 mg/day. Doses 
+      were adjusted until participants reached a maintenance dose that produced
+      continence or the best balance between continence and side effects. This dose was
+      continued for 12 weeks. Effectiveness was assessed by urinary diaries. RESULTS:
+      Effectiveness was achieved across all doses studied (5 to 30 mg/day), with 70.8% 
+      of participants using maintenance doses of 5 to 15 mg/day. Mean urge incontinence
+      episodes per week decreased from 18.8 at baseline to 3.9 in maintenance week 1,
+      2.7 in week 4, and 2.8 at the end of the study. For those participants who
+      reported urge incontinence episodes at baseline but were free of urge
+      incontinence at maintenance week 1, 31% remained free of urge incontinence at
+      every subsequent assessment. Participants who converted from other medications
+      showed symptomatic improvement after conversion. At some time during the study,
+      58.6% of participants reported dry mouth, with 23.0% of participants rating it
+      moderate or severe. Only 1.6% of participants discontinued the medication because
+      of dry mouth. CONCLUSIONS: Ditropan XL treatment reduced the number of
+      incontinence episodes. Maximum benefit was demonstrated by maintenance week 4 and
+      was sustained through 12 weeks of maintenance therapy.
+AD  - Advanced Clinical Therapeutics, Tucson, Arizona 85712, USA.
+FAU - Gleason, D M
+AU  - Gleason DM
+FAU - Susset, J
+AU  - Susset J
+FAU - White, C
+AU  - White C
+FAU - Munoz, D R
+AU  - Munoz DR
+FAU - Sand, P K
+AU  - Sand PK
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Urology
+JT  - Urology
+JID - 0366151
+RN  - 0 (Cholinergic Antagonists)
+RN  - 0 (Mandelic Acids)
+RN  - 5633-20-5 (oxybutynin)
+SB  - IM
+MH  - Aged
+MH  - Cholinergic Antagonists/*administration & dosage
+MH  - Drug Administration Schedule
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mandelic Acids/*administration & dosage
+MH  - Urinary Incontinence/*drug therapy
+EDAT- 1999/09/04
+MHDA- 1999/09/04 00:01
+CRDT- 1999/09/04 00:00
+AID - S0090429599002599 [pii]
+PST - ppublish
+SO  - Urology. 1999 Sep;54(3):420-3.
+
+PMID- 10350044
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990727
+DCOM- 19990727
+LR  - 20041117
+IS  - 0271-0749 (Print)
+IS  - 0271-0749 (Linking)
+VI  - 19
+IP  - 3
+DP  - 1999 Jun
+TI  - Oxybutynin enhances the metabolism of clomipramine and dextrorphan possibly by
+      induction of a cytochrome P450 isoenzyme.
+PG  - 287-9
+FAU - Grozinger, M
+AU  - Grozinger M
+FAU - Hartter, S
+AU  - Hartter S
+FAU - Hiemke, C
+AU  - Hiemke C
+FAU - Roschke, J
+AU  - Roschke J
+LA  - eng
+PT  - Case Reports
+PT  - Letter
+PL  - UNITED STATES
+TA  - J Clin Psychopharmacol
+JT  - Journal of clinical psychopharmacology
+JID - 8109496
+RN  - 0 (Cholinergic Antagonists)
+RN  - 0 (Isoenzymes)
+RN  - 0 (Mandelic Acids)
+RN  - 125-73-5 (Dextrorphan)
+RN  - 303-49-1 (Clomipramine)
+RN  - 5633-20-5 (oxybutynin)
+RN  - 9035-51-2 (Cytochrome P-450 Enzyme System)
+SB  - IM
+MH  - Aged
+MH  - Cholinergic Antagonists/*pharmacology
+MH  - Clomipramine/*metabolism
+MH  - Cytochrome P-450 Enzyme System/*biosynthesis
+MH  - Dextrorphan/*metabolism
+MH  - Drug Interactions
+MH  - Enzyme Induction
+MH  - Female
+MH  - Humans
+MH  - Isoenzymes/*biosynthesis
+MH  - Mandelic Acids/*pharmacology
+EDAT- 1999/06/01
+MHDA- 1999/06/01 00:01
+CRDT- 1999/06/01 00:00
+PST - ppublish
+SO  - J Clin Psychopharmacol. 1999 Jun;19(3):287-9.
+
+PMID- 10332441
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990623
+DCOM- 19990623
+LR  - 20041117
+IS  - 0022-5347 (Print)
+IS  - 0022-5347 (Linking)
+VI  - 161
+IP  - 6
+DP  - 1999 Jun
+TI  - Once daily controlled versus immediate release oxybutynin chloride for urge
+      urinary incontinence. OROS Oxybutynin Study Group.
+PG  - 1809-12
+AB  - PURPOSE: We compared the efficacy and safety of once daily controlled and
+      immediate release oxybutynin for incontinence. MATERIALS AND METHODS: This
+      multicenter, randomized, double-blind, active control, parallel study was
+      designed to evaluate urge urinary incontinence episodes using a 7-day diary.
+      RESULTS: A total of 97 women and 8 men 34 to 76 years old with urge incontinence 
+      or mixed incontinence with a clinically significant urge component were enrolled 
+      in the study. The number of weekly urge incontinence episodes decreased from 27.4
+      to 4.8 after controlled and from 23.4 to 3.1 after immediate release oxybutynin
+      (p = 0.56), and total incontinence episodes decreased from 29.3 to 6 and from
+      26.3 to 3.8, respectively (p = 0.6). Weekly urge incontinence episodes from
+      baseline to end of study also decreased to 84% after controlled and 88% after
+      immediate release oxybutynin (p = 0.7). Continence was achieved in 41% of the
+      controlled and 40% of the immediate release group (p = 0.9). Dry mouth of any
+      severity was reported by 68 and 87% of the controlled and immediate release
+      groups, respectively (p = 0.04), and moderate or severe dry mouth occurred in 25 
+      and 46%, respectively (p = 0.03). CONCLUSIONS: Participants taking a single daily
+      does of controlled release oxybutynin had similar reductions in urge incontinence
+      and total incontinence episodes compared to those taking oxybutynin 1 to 4 times 
+      daily. A lower incidence of dry mouth was reported for controlled release
+      oxybutynin.
+AD  - Department of Urology, Stanford University Medical Center, California, USA.
+FAU - Anderson, R U
+AU  - Anderson RU
+FAU - Mobley, D
+AU  - Mobley D
+FAU - Blank, B
+AU  - Blank B
+FAU - Saltzstein, D
+AU  - Saltzstein D
+FAU - Susset, J
+AU  - Susset J
+FAU - Brown, J S
+AU  - Brown JS
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - J Urol
+JT  - The Journal of urology
+JID - 0376374
+RN  - 0 (Cholinergic Antagonists)
+RN  - 0 (Mandelic Acids)
+RN  - 5633-20-5 (oxybutynin)
+SB  - AIM
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Cholinergic Antagonists/*administration & dosage
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mandelic Acids/*administration & dosage
+MH  - Middle Aged
+MH  - Urinary Incontinence/*drug therapy
+EDAT- 1999/05/20
+MHDA- 1999/05/20 00:01
+CRDT- 1999/05/20 00:00
+PST - ppublish
+SO  - J Urol. 1999 Jun;161(6):1809-12.
+
+PMID- 10210394
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990518
+DCOM- 19990518
+LR  - 20061115
+IS  - 0022-5347 (Print)
+IS  - 0022-5347 (Linking)
+VI  - 161
+IP  - 5
+DP  - 1999 May
+TI  - Clinical efficacy and safety of tolterodine compared to placebo in detrusor
+      overactivity.
+PG  - 1551-5
+AB  - PURPOSE: We evaluated the efficacy, patient acceptability and side effect profile
+      of tolterodine, a new antimuscarinic agent for treating bladder overactivity.
+      MATERIALS AND METHODS: In our randomized, placebo controlled, parallel group
+      study 123, 129 and 64 patients 18 years old or older with proved detrusor
+      overactivity (idiopathic detrusor instability or detrusor hyperreflexia) were
+      randomized to receive 1 or 2 mg. tolterodine, or placebo, respectively, twice
+      daily for 12 weeks. Main outcome measures were number of voids per 24 hours,
+      urine volume per void and episodes of urge incontinence per 24 hours on a
+      frequency-volume chart with detailed recording of side effects. RESULTS: After 12
+      weeks of treatment mean number of voids per 24 hours plus or minus standard
+      deviation decreased from 11.2 +/- 3.1 to 9.0 +/- 2.6 with the 2 mg. dosage (p =
+      0.0045 versus placebo). At this dose mean urine volume per void increased from
+      155 +/- 52 to 190 +/- 70 ml. (p <0.0001 versus placebo), while mean number of
+      incontinence episodes per 24 hours decreased from 3.6 +/- 4.0 to 1.8 +/- 3.1 (p =
+      0.19 versus placebo). Similar efficacy was observed in patients receiving the 1
+      mg. dose. Severe dry mouth was reported by only 2, 1 and 2% of patients given the
+      1 and 2 mg. dose, and placebo, respectively. There was no clinical or
+      electrocardiographic evidence of significant cardiac adverse events. CONCLUSIONS:
+      Tolterodine administration resulted in a significant decrease in the frequency of
+      voiding and improved voided volume but it was seldom associated with troublesome 
+      or severe side effects.
+AD  - Department of Urology, University of New South Wales, Royal Women's Hospital,
+      Brisbane, Australia.
+FAU - Millard, R
+AU  - Millard R
+FAU - Tuttle, J
+AU  - Tuttle J
+FAU - Moore, K
+AU  - Moore K
+FAU - Susset, J
+AU  - Susset J
+FAU - Clarke, B
+AU  - Clarke B
+FAU - Dwyer, P
+AU  - Dwyer P
+FAU - Davis, B E
+AU  - Davis BE
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - J Urol
+JT  - The Journal of urology
+JID - 0376374
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cresols)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+SB  - AIM
+SB  - IM
+CIN - J Urol. 1999 May;161(5):1556. PMID: 10210395
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Benzhydryl Compounds/*therapeutic use
+MH  - Cresols/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Muscarinic Antagonists/*therapeutic use
+MH  - *Phenylpropanolamine
+MH  - Urinary Incontinence/*drug therapy
+EDAT- 1999/04/21
+MHDA- 1999/04/21 00:01
+CRDT- 1999/04/21 00:00
+AID - S0022-5347(05)68951-3 [pii]
+PST - ppublish
+SO  - J Urol. 1999 May;161(5):1551-5.
+
+PMID- 9666761
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980730
+DCOM- 19980730
+LR  - 20061115
+IS  - 0007-1331 (Print)
+IS  - 0007-1331 (Linking)
+VI  - 81
+IP  - 6
+DP  - 1998 Jun
+TI  - Tolterodine, a new antimuscarinic agent: as effective but better tolerated than
+      oxybutynin in patients with an overactive bladder.
+PG  - 801-10
+AB  - OBJECTIVE: To compare the efficacy and tolerability of tolterodine with that of
+      oxybutynin in patients with an overactive bladder. PATIENTS AND METHODS: A
+      randomized, double-blind, placebo-controlled, parallel group, multinational
+      phase-III study was conducted in urology and gynaecology clinics in the UK,
+      Republic of Ireland and Sweden. The study enrolled 293 patients with
+      urodynamically confirmed bladder overactivity, increased frequency of micturition
+      (> or = micturitions/24 h) and symptoms of urgency and/or urge incontinence (> or
+      = 1 episode/24 h). Patients received either tolterodine (2 mg twice daily) or
+      oxybutynin (5 mg three times daily) or placebo. Doses could be reduced, to
+      prevent withdrawal, to 1 mg or 2.5 mg, respectively. The main outcome measures
+      were the mean change from baseline in frequency of micturition/24 h, the number
+      of incontinent episodes/24 h and volume voided per micturition. RESULTS: After 12
+      weeks' treatment, the mean frequency of micturition decreased by 21% and 19.5% in
+      those receiving tolterodine (n = 118) and oxybutynin (n = 118), respectively, and
+      by 10.5% in those on placebo (n = 57). Among those with urge incontinence at
+      baseline (75% of patients), the mean number of incontinent episodes decreased by 
+      47%, 71% and 19%, respectively, in those receiving tolterodine, oxybutynin and
+      placebo. The effect of tolterodine and oxybutynin on these two micturition
+      variables was statistically equivalent. There was also a comparable increase in
+      mean volume voided per micturition in the tolterodine (27%) and oxybutynin groups
+      (31%), compared with 7% in the placebo group. Dry mouth was the most common
+      adverse event and was reported with greater frequency and intensity among
+      patients receiving oxybutynin than among those receiving either tolterodine or
+      placebo. In the oxybutynin group, more patients also withdrew because of adverse 
+      events and a greater proportion required dose reduction as a result of adverse
+      events. Despite dose reduction, the frequency of adverse events and the intensity
+      of dry mouth remained higher among those receiving oxybutynin (2.5 mg three times
+      daily) than in patients who remained on tolterodine 2 mg twice daily. CONCLUSION:
+      Tolterodine 2 mg twice daily is effective and well tolerated in the treatment of 
+      bladder overactivity. Tolterodine was better tolerated than oxybutynin,
+      particularly with respect to the frequency and intensity of dry mouth, but had
+      comparable clinical efficacy. The superior tolerability of tolterodine therefore 
+      allows more patients to remain on effective therapy than the current most
+      commonly prescribed agent for the treatment of the overactive bladder.
+AD  - Bristol Urological Institute, Southmead Hospital, Bristol, UK.
+FAU - Abrams, P
+AU  - Abrams P
+FAU - Freeman, R
+AU  - Freeman R
+FAU - Anderstrom, C
+AU  - Anderstrom C
+FAU - Mattiasson, A
+AU  - Mattiasson A
+LA  - eng
+PT  - Clinical Trial
+PT  - Clinical Trial, Phase III
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - Br J Urol
+JT  - British journal of urology
+JID - 15740090R
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cholinergic Antagonists)
+RN  - 0 (Cresols)
+RN  - 0 (Mandelic Acids)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+RN  - 5633-20-5 (oxybutynin)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Benzhydryl Compounds/adverse effects/*therapeutic use
+MH  - Cholinergic Antagonists/*therapeutic use
+MH  - Cresols/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mandelic Acids/adverse effects/*therapeutic use
+MH  - Middle Aged
+MH  - Muscarinic Antagonists/adverse effects/*therapeutic use
+MH  - *Phenylpropanolamine
+MH  - Urination/physiology
+MH  - Urination Disorders/*drug therapy/physiopathology
+EDAT- 1998/07/17
+MHDA- 1998/07/17 00:01
+CRDT- 1998/07/17 00:00
+PST - ppublish
+SO  - Br J Urol. 1998 Jun;81(6):801-10.
+
+PMID- 9516036
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980430
+DCOM- 19980430
+LR  - 20041117
+IS  - 0031-6970 (Print)
+IS  - 0031-6970 (Linking)
+VI  - 53
+IP  - 5
+DP  - 1998 Jan
+TI  - The pharmacokinetics of oxybutynin is unaffected by gender and contraceptive
+      steroids.
+PG  - 351-4
+AB  - OBJECTIVE AND METHODS: The effect of gender and concomitant use of contraceptive 
+      steroids on the absorption and metabolism of oxybutynin was investigated in 49
+      healthy volunteers, 24 females and 25 males. Serum concentrations of oxybutynin
+      and its active metabolite, N-desethyloxybutynin, were measured for up to 48 h
+      after ingestion of a single dose of 10 mg oxybutynin. RESULTS: Intake of oral
+      contraceptive steroids had no significant effect on the pharmacokinetic
+      parameters of oxybutynin or its metabolite. Both in males and females, the mean
+      area under the curve (AUC0-t) of N-desethyloxybutynin was about 13 times higher
+      and the peak concentration (Cmax) 15 to 19 times higher than the AUC0-t and Cmax 
+      of the parent oxybutynin, with no significant differences between males and
+      females. CONCLUSIONS: The pharmacokinetics of orally administered oxybutynin
+      shows a considerable interindividual variability, but is unaffected by gender and
+      use of contraceptive steroids.
+AD  - Department of Clinical Pharmacology, University of Helsinki, Haartmaninkatu,
+      Finland.
+FAU - Lukkari, E
+AU  - Lukkari E
+FAU - Hakonen, T
+AU  - Hakonen T
+FAU - Neuvonen, P J
+AU  - Neuvonen PJ
+LA  - eng
+PT  - Journal Article
+PL  - GERMANY
+TA  - Eur J Clin Pharmacol
+JT  - European journal of clinical pharmacology
+JID - 1256165
+RN  - 0 (Cholinergic Antagonists)
+RN  - 0 (Contraceptives, Oral, Hormonal)
+RN  - 0 (Mandelic Acids)
+RN  - 5633-20-5 (oxybutynin)
+SB  - IM
+SB  - J
+MH  - Administration, Oral
+MH  - Adult
+MH  - Area Under Curve
+MH  - Cholinergic Antagonists/metabolism/*pharmacokinetics
+MH  - Contraceptives, Oral, Hormonal/*pharmacology
+MH  - Drug Interactions
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mandelic Acids/metabolism/*pharmacokinetics
+MH  - Sex Factors
+OID - PIP: 141328
+OID - POP: 00286892
+OAB - PIP: This is a study of the effect of gender and concomitant use of contraceptive
+      steroids on the absorption and metabolism of oxybutynin, a commonly used
+      anticholinergic agent. 49 healthy volunteers--25 males and 24 females (13 using
+      contraceptive steroids)--were given a single dose of 10 mg oxybutynin, which was 
+      ingested under standardized conditions. The serum concentrations of oxybutynin
+      and its active metabolite, N-desethyloxybutynin, were then measured for up to 48 
+      hours after ingestion. Results showed that concomitant use of contraceptive
+      steroids had no significant effect on the pharmacokinetic parameters of
+      oxybutynin or its metabolite. Neither was there any significant difference in its
+      concentration between the male and female participants. Therefore, the
+      pharmacokinetics of orally administered oxybutynin are unaffected by either
+      gender or contraceptive steroids.
+OTO - PIP
+OT  - *Clinical Research
+OT  - Contraception
+OT  - *Contraceptive Agents
+OT  - Demographic Factors
+OT  - Developed Countries
+OT  - Europe
+OT  - Family Planning
+OT  - Finland
+OT  - *Human Volunteers
+OT  - Northern Europe
+OT  - Population
+OT  - Population Characteristics
+OT  - Research Methodology
+OT  - *Research Report
+OT  - Scandinavia
+OT  - *Sex Factors
+GN  - PIP: TJ: EUROPEAN JOURNAL OF CLINICAL PHARMACOLOGY.
+EDAT- 1998/03/27
+MHDA- 1998/03/27 00:01
+CRDT- 1998/03/27 00:00
+PST - ppublish
+SO  - Eur J Clin Pharmacol. 1998 Jan;53(5):351-4.
+
+PMID- 9467475
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980303
+DCOM- 19980303
+LR  - 20061115
+IS  - 0007-1331 (Print)
+IS  - 0007-1331 (Linking)
+VI  - 81
+IP  - 1
+DP  - 1998 Jan
+TI  - Efficacy and safety of tolterodine in patients with detrusor instability: a
+      dose-ranging study.
+PG  - 42-8
+AB  - OBJECTIVE: To investigate the efficacy and safety of tolterodine, a new
+      antimuscarinic agent, and define the optimum dosage in patients with symptoms of 
+      detrusor instability (urgency, increased frequency of micturition and/or urge
+      incontinence). PATIENTS AND METHODS: A double-blind, placebo-controlled,
+      multicentre study was carried out; after a 1-week run-in period to establish
+      baseline values, 81 patients were randomized to receive placebo or tolterodine
+      0.5, 1, 2 or 4 mg twice daily for 2 weeks. Micturition (diary) variables,
+      urodynamics and subjective urinary symptoms were assessed after 2 weeks'
+      treatment. RESULTS: A per-protocol analysis of efficacy in 64 patients showed
+      dose-related improvements in recorded micturition and urodynamic variables, e.g. 
+      at a dosage of 2 mg twice daily, the frequency of micturition, episodes of
+      incontinence and pad use were reduced by 20%, 46% and 29%, respectively, while
+      the volume at first contraction increased by 89 mL. The 4 mg dosage was
+      associated with a large increase in residual urinary volume and an increased
+      incidence of dry mouth. The incidence of adverse events (mainly mild or moderate 
+      antimuscarinic effects) was comparable with placebo at tolterodine dosages of <
+      or = 2 mg. No serious adverse events were observed and tolterodine had no
+      clinically significant impact on electrocardiographic or laboratory findings.
+      CONCLUSION: The results indicate that tolterodine offers an effective treatment
+      for the symptoms of detrusor instability. The optimum dosage appears to be 1-2 mg
+      twice daily.
+AD  - Sundsvall Hospital, Sweden.
+FAU - Rentzhog, L
+AU  - Rentzhog L
+FAU - Stanton, S L
+AU  - Stanton SL
+FAU - Cardozo, L
+AU  - Cardozo L
+FAU - Nelson, E
+AU  - Nelson E
+FAU - Fall, M
+AU  - Fall M
+FAU - Abrams, P
+AU  - Abrams P
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Br J Urol
+JT  - British journal of urology
+JID - 15740090R
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cresols)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Benzhydryl Compounds/*administration & dosage/adverse effects/blood
+MH  - Cresols/*administration & dosage/adverse effects/blood
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Female
+MH  - Heart Rate/drug effects
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Muscarinic Antagonists/*administration & dosage/adverse effects/blood
+MH  - *Phenylpropanolamine
+MH  - Urination/drug effects
+MH  - Urination Disorders/blood/*drug therapy
+MH  - Urodynamics
+EDAT- 1998/02/19
+MHDA- 1998/02/19 00:01
+CRDT- 1998/02/19 00:00
+PST - ppublish
+SO  - Br J Urol. 1998 Jan;81(1):42-8.
+
+PMID- 9434659
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980127
+DCOM- 19980127
+LR  - 20080310
+IS  - 0002-8614 (Print)
+IS  - 0002-8614 (Linking)
+VI  - 46
+IP  - 1
+DP  - 1998 Jan
+TI  - Identification of medications that cause cognitive impairment in older people:
+      the case of oxybutynin chloride.
+PG  - 8-13
+AB  - OBJECTIVES: To evaluate the cognitive effects of acute challenges with the
+      antispasmodic agent oxybutynin hydrochloride in normal older volunteers and to
+      compare these effects with those attributable to diphenhydramine, another
+      commonly used medication with anticholinergic (muscarinic-blocking) activity.
+      DESIGN: A double-blind, placebo-controlled cross-over study. SETTING: Laboratory 
+      evaluations of community subjects. PARTICIPANTS: A convenience sample of 12
+      volunteers, average age 69.17 years. INTERVENTION: Baseline assessment was
+      followed by randomized administration of a placebo, oxybutynin hydrochloride (5
+      and 10 mg), and diphenhydramine hydrochloride (50 mg) in test sessions separated 
+      by 1 week. MEASUREMENTS: Evaluation of cognitive performance with a 1-hour
+      battery of pencil and paper, interviewer-administered, and computer-administered 
+      tests beginning 90 minutes after drug (or placebo) administration. RESULTS:
+      Random regression analyses demonstrated that oxybutynin caused significant
+      cognitive decrements on seven of 15 cognitive measures, and diphenhydramine
+      caused decrements on five measures. The most sensitive measures for detecting the
+      effects of oxybutynin hydrochloride were the Buschke Selective Reminding Test and
+      Reaction Time. CONCLUSIONS: These findings demonstrate that oxybutynin can cause 
+      cognitive impairment and suggest that physicians prescribing it should monitor
+      their patients to facilitate the early recognition of those who experience
+      drug-related cognitive deficits. More generally, the findings demonstrate that
+      systematic research with normal volunteers can identify cognitive toxicity not
+      recognized during the process of drug development or postmarketing surveillance.
+AD  - Section of Geriatric Psychiatry, University of Pennsylvania Philadelphia 19104,
+      USA.
+FAU - Katz, I R
+AU  - Katz IR
+FAU - Sands, L P
+AU  - Sands LP
+FAU - Bilker, W
+AU  - Bilker W
+FAU - DiFilippo, S
+AU  - DiFilippo S
+FAU - Boyce, A
+AU  - Boyce A
+FAU - D'Angelo, K
+AU  - D'Angelo K
+LA  - eng
+GR  - AG11234/AG/NIA NIH HHS/United States
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - UNITED STATES
+TA  - J Am Geriatr Soc
+JT  - Journal of the American Geriatrics Society
+JID - 7503062
+RN  - 0 (Cholinergic Antagonists)
+RN  - 0 (Histamine H1 Antagonists)
+RN  - 0 (Mandelic Acids)
+RN  - 5633-20-5 (oxybutynin)
+RN  - 58-73-1 (Diphenhydramine)
+SB  - IM
+MH  - Aged
+MH  - Analysis of Variance
+MH  - Cholinergic Antagonists/*adverse effects
+MH  - Cognition Disorders/*chemically induced
+MH  - Cross-Over Studies
+MH  - Diphenhydramine/*adverse effects
+MH  - Double-Blind Method
+MH  - Histamine H1 Antagonists/*adverse effects
+MH  - Humans
+MH  - Mandelic Acids/*adverse effects
+MH  - Neuropsychological Tests
+MH  - Regression Analysis
+EDAT- 1998/01/22
+MHDA- 1998/01/22 00:01
+CRDT- 1998/01/22 00:00
+PST - ppublish
+SO  - J Am Geriatr Soc. 1998 Jan;46(1):8-13.
+
+PMID- 9144906
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970710
+DCOM- 19970710
+LR  - 20061115
+IS  - 0724-4983 (Print)
+IS  - 0724-4983 (Linking)
+VI  - 15
+IP  - 2
+DP  - 1997
+TI  - Efficacy and safety of two doses of tolterodine versus placebo in patients with
+      detrusor overactivity and symptoms of frequency, urge incontinence, and urgency: 
+      urodynamic evaluation. The International Study Group.
+PG  - 144-51
+AB  - Tolterodine is a new competitive muscarinic receptor antagonist developed for the
+      treatment of the unstable bladder. A total of 242 patients were enrolled in a
+      multicenter, multinational, randomized, double-blind, placebo-controlled study
+      conducted over a period of 4 weeks in patients with detrusor overactivity and
+      symptoms of frequency, urgency, and urge incontinence. The objective of the study
+      was to compare the efficacy and safety of tolterodine given at 1 or 2 mg b.i.d.
+      versus placebo. At week 4 a statistically significant increase in the volume at
+      first contraction (p = 0.030) and maximal cystometric capacity (p = 0.034) was
+      only in the tolterodine 2 mg b.i.d. group. Tolterodine was safe and generally
+      well tolerated. The incidence of dry mouth, as the most commonly reported adverse
+      event, was only 9% and of mild to moderate intensity.
+AD  - Department of Urology, Hannover Medical School, Germany.
+FAU - Jonas, U
+AU  - Jonas U
+FAU - Hofner, K
+AU  - Hofner K
+FAU - Madersbacher, H
+AU  - Madersbacher H
+FAU - Holmdahl, T H
+AU  - Holmdahl TH
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - GERMANY
+TA  - World J Urol
+JT  - World journal of urology
+JID - 8307716
+RN  - 0 (Benzhydryl Compounds)
+RN  - 0 (Cresols)
+RN  - 0 (Muscarinic Antagonists)
+RN  - 0 (Placebos)
+RN  - 124937-51-5 (tolterodine)
+RN  - 14838-15-4 (Phenylpropanolamine)
+SB  - IM
+EIN - World J Urol 1997;15(3):210
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Benzhydryl Compounds/*administration & dosage/adverse effects/therapeutic use
+MH  - Cresols/*administration & dosage/adverse effects/therapeutic use
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Muscarinic Antagonists/*administration & dosage/adverse effects/therapeutic use
+MH  - *Phenylpropanolamine
+MH  - Placebos
+MH  - Urinary Bladder Diseases/*drug therapy/*physiopathology
+MH  - Urinary Incontinence/*drug therapy/*physiopathology
+MH  - *Urodynamics
+EDAT- 1997/01/01
+MHDA- 1997/01/01 00:01
+CRDT- 1997/01/01 00:00
+PST - ppublish
+SO  - World J Urol. 1997;15(2):144-51.
+
+PMID- 7484484
+OWN - NLM
+STAT- MEDLINE
+DA  - 19951208
+DCOM- 19951208
+LR  - 20061115
+IS  - 0002-0729 (Print)
+IS  - 0002-0729 (Linking)
+VI  - 24
+IP  - 4
+DP  - 1995 Jul
+TI  - Oxybutynin with bladder retraining for detrusor instability in elderly people: a 
+      randomized controlled trial.
+PG  - 287-91
+AB  - The aim of this study was to examine the efficacy of oxybutynin plus bladder
+      training in the treatment of detrusor instability in frail elderly patients
+      living independently in the community. It was a randomized, double-blind,
+      placebo-controlled parallel-group trial of oxybutynin in 57 elderly patients
+      (mean age 82.2, SD 6.06), with frequency and incontinence due to detrusor
+      instability. After a 2-week run-in period patients received a bladder training
+      and drug or placebo for the next 6 weeks. Outcome measures were changes in
+      frequency and incontinence, recorded throughout on diary charts, and subjective
+      evaluation of symptoms ('better'/'not better', and using a four-point scale
+      'cure' to 'no change'). Oxybutynin was superior to placebo in reducing daytime
+      frequency [95% confidence interval (CI) of difference in change in frequencies
+      totalled over 14 days was -27.0, -6.0; p = 0.003] and in producing subjective
+      benefit (at day 29 only), when 24/28 (86%) patients on oxybutynin described
+      benefit compared with 16/29 (55%) on placebo (p = 0.02). There was no difference 
+      between the groups in reduction of incontinent episodes. The median dose of
+      oxybutynin titrated for therapeutic effect was 5 mg/day, and for placebo 10
+      mg/day (CI of difference 0.001, 5.001; p = 0.05). Side-effects reported were of
+      similar frequency (50%) in the two groups. We conclude that oxybutynin with
+      bladder training is superior to bladder training alone in reducing frequency due 
+      to detrusor instability in very elderly people living at home.
+AD  - Department of Medicine, University College London Medical School, St Pancras
+      Hospital.
+FAU - Szonyi, G
+AU  - Szonyi G
+FAU - Collas, D M
+AU  - Collas DM
+FAU - Ding, Y Y
+AU  - Ding YY
+FAU - Malone-Lee, J G
+AU  - Malone-Lee JG
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Age Ageing
+JT  - Age and ageing
+JID - 0375655
+RN  - 0 (Mandelic Acids)
+RN  - 0 (Parasympatholytics)
+RN  - 5633-20-5 (oxybutynin)
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - *Exercise Therapy
+MH  - Female
+MH  - Geriatric Assessment
+MH  - Humans
+MH  - Male
+MH  - Mandelic Acids/*administration & dosage/adverse effects
+MH  - Parasympatholytics/*administration & dosage/adverse effects
+MH  - Treatment Outcome
+MH  - Urinary Incontinence/etiology/*rehabilitation
+MH  - Urodynamics/drug effects
+EDAT- 1995/07/01
+MHDA- 1995/07/01 00:01
+CRDT- 1995/07/01 00:00
+PST - ppublish
+SO  - Age Ageing. 1995 Jul;24(4):287-91.
+
+PMID- 7775717
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950707
+DCOM- 19950707
+LR  - 20080310
+IS  - 0002-8614 (Print)
+IS  - 0002-8614 (Linking)
+VI  - 43
+IP  - 6
+DP  - 1995 Jun
+TI  - Does oxybutynin add to the effectiveness of prompted voiding for urinary
+      incontinence among nursing home residents? A placebo-controlled trial.
+PG  - 610-7
+AB  - OBJECTIVE: To determine if oxybutynin, a bladder relaxant medication, adds to the
+      effectiveness of prompted voiding (PV) in the management of urinary incontinence 
+      among nursing home residents. DESIGN: Randomized, placebo-controlled,
+      double-blinded, dose-adjusted, crossover trial of oxybutynin added along with PV.
+      SETTING: Seven nursing homes in Los Angeles County, California. PARTICIPANTS:
+      Seventy-five nursing home residents with predominantly urge incontinence, whose
+      incontinence did not respond well to a trial of PV. MAIN OUTCOME MEASURES: The
+      frequency of incontinence, measured as the percentage of hourly (7 AM to 7 PM)
+      physical checks over a 3-day period at which the resident was found wet. RESULTS:
+      Sixty-three (84%) of the residents completed the study. Among those completing
+      the trial, the percent of checks wet went from 26.5% to 23.7% on placebo to 20.2%
+      on active drug. These changes were statistically significant but not clinically
+      meaningful. A clinically significant decrease in the frequency of incontinence,
+      which we defined as a relative reduction in the percent of checks wet of > 33%,
+      occurred in 20 subjects (32%) while on active drug and in 12 subjects (19%) while
+      on placebo (P = .48 by chi-square). Twenty-five subjects (40%) met our
+      "continence criteria" of an average of one or less wet per day while on active
+      drug, and 11 subjects (18%) achieved this goal on placebo (P = .005 by
+      chi-square). CONCLUSION: Oxybutynin does not add to the clinical effectiveness of
+      PV in the majority of nursing home residents with urge type urinary incontinence.
+      Selected residents may, however, become more responsive to PV while on
+      oxybutynin. Our data are consistent with other studies of bladder relaxant
+      medications in functionally impaired populations. New drugs and/or other
+      interventions are needed for the large number of incontinent nursing home
+      residents who do not respond well to PV.
+AD  - UCLA Multicampus Program in Geriatric Medicine and Gerontology, USA.
+FAU - Ouslander, J G
+AU  - Ouslander JG
+FAU - Schnelle, J F
+AU  - Schnelle JF
+FAU - Uman, G
+AU  - Uman G
+FAU - Fingold, S
+AU  - Fingold S
+FAU - Nigam, J G
+AU  - Nigam JG
+FAU - Tuico, E
+AU  - Tuico E
+FAU - Jensen, B B
+AU  - Jensen BB
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - J Am Geriatr Soc
+JT  - Journal of the American Geriatrics Society
+JID - 7503062
+RN  - 0 (Mandelic Acids)
+RN  - 0 (Parasympatholytics)
+RN  - 0 (Placebos)
+RN  - 5633-20-5 (oxybutynin)
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Analysis of Variance
+MH  - *Behavior Therapy
+MH  - Cognition
+MH  - Combined Modality Therapy
+MH  - Cross-Over Studies
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mandelic Acids/administration & dosage/*therapeutic use
+MH  - *Nursing Homes
+MH  - Parasympatholytics/administration & dosage/*therapeutic use
+MH  - Placebos
+MH  - Treatment Outcome
+MH  - Urinary Incontinence/*drug therapy/*therapy
+MH  - *Urination/drug effects
+EDAT- 1995/06/01
+MHDA- 1995/06/01 00:01
+CRDT- 1995/06/01 00:00
+PST - ppublish
+SO  - J Am Geriatr Soc. 1995 Jun;43(6):610-7.
+
+PMID- 7788255
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950725
+DCOM- 19950725
+LR  - 20061115
+IS  - 0007-1331 (Print)
+IS  - 0007-1331 (Linking)
+VI  - 75
+IP  - 4
+DP  - 1995 Apr
+TI  - Trospium chloride versus oxybutynin: a randomized, double-blind, multicentre
+      trial in the treatment of detrusor hyper-reflexia.
+PG  - 452-6
+AB  - OBJECTIVE: To compare trospium chloride (TCl), a quaternary ammonium derivative
+      with atropine-like effects and predominantly antispasmodic activity, with
+      oxybutynin (Oxy) in terms of efficacy and adverse effects. PATIENTS AND METHODS: 
+      In a randomized, double-blind, multicentre trial, 95 patients with spinal cord
+      injuries and detrusor hyper-reflexia were studied. Treatment consisted of three
+      doses per day over a 2 week period, with either Oxy (5 mg three times daily) or
+      with TCl (20 mg twice daily) with an additional placebo at midday. The results
+      were evaluated with regard to changes in objective (urodynamic) data and
+      subjective symptoms as well as the incidence/severity of adverse effects.
+      RESULTS: With both drugs there was a significant increase in maximum bladder
+      capacity, a significant decrease in maximum voiding detrusor pressure and a
+      significant increase in compliance and residual urine; there were no
+      statistically significant differences between the treatment groups. The
+      percentage of patients who reported severe dryness of the mouth was considerably 
+      lower (4%) in those receiving TCl 2 x 20 mg/day than in those receiving Oxy (23%)
+      3 x 5 mg/day. Withdrawal from treatment was also less frequent in those receiving
+      TCl (6%) than in those receiving Oxy (16%). CONCLUSION: Trospium chloride and
+      oxybutynin, judged in terms of objective urodynamic parameters, are of
+      substantially equal value as parasympathetic antagonists. However, assessment of 
+      tolerance in terms of adverse drug effects showed that TCl had certain
+      advantages.
+AD  - Rehab-Centre, Bad Haring, Austria.
+FAU - Madersbacher, H
+AU  - Madersbacher H
+FAU - Stohrer, M
+AU  - Stohrer M
+FAU - Richter, R
+AU  - Richter R
+FAU - Burgdorfer, H
+AU  - Burgdorfer H
+FAU - Hachen, H J
+AU  - Hachen HJ
+FAU - Murtz, G
+AU  - Murtz G
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - Br J Urol
+JT  - British journal of urology
+JID - 15740090R
+RN  - 0 (Mandelic Acids)
+RN  - 0 (Nortropanes)
+RN  - 0 (Parasympatholytics)
+RN  - 10405-02-4 (trospium chloride)
+RN  - 5633-20-5 (oxybutynin)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mandelic Acids/*therapeutic use
+MH  - Middle Aged
+MH  - Nortropanes/adverse effects/*therapeutic use
+MH  - Parasympatholytics/adverse effects/*therapeutic use
+MH  - Pressure
+MH  - Reflex, Abnormal/*drug effects
+MH  - Treatment Outcome
+MH  - Urinary Bladder/*drug effects
+MH  - Urination/drug effects
+MH  - Urodynamics
+EDAT- 1995/04/01
+MHDA- 1995/04/01 00:01
+CRDT- 1995/04/01 00:00
+PST - ppublish
+SO  - Br J Urol. 1995 Apr;75(4):452-6.

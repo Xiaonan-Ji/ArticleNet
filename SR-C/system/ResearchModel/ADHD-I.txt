@@ -1,0 +1,1720 @@
+
+PMID- 12895137
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030804
+DCOM- 20031218
+LR  - 20091103
+IS  - 1174-5878 (Print)
+IS  - 1174-5878 (Linking)
+VI  - 5
+IP  - 8
+DP  - 2003
+TI  - Comparative efficacy of two once daily methylphenidate formulations (Ritalin LA
+      and Concerta) and placebo in children with attention deficit hyperactivity
+      disorder across the school day.
+PG  - 545-55
+AB  - OBJECTIVES: The primary objective was to compare the differences in clinical
+      efficacy of the starting dose of Ritalin LA (20mg) to the starting dose of
+      Concerta (18mg), in a laboratory school setting for the duration of an entire
+      school day. Secondary objectives were to compare Ritalin LA 20mg with Concerta
+      36mg, and Ritalin LA and both Concerta doses versus placebo across the school
+      day. METHODS: Thirty-six children (29 males, 7 females), aged 6-12 years, with
+      attention deficit hyperactivity disorder, previously stabilized on
+      methylphenidate (MPH), completed this four-way, randomized, single-blind
+      crossover, analog classroom study. Patients were evaluated on day 0 and
+      randomized to receive treatment on days 7, 14, 21, and 28 (Ritalin LA 20mg,
+      Concerta 18mg, Concerta 36mg, or placebo). RESULTS: Swanson, Kotkin, Agler,
+      M-Flynn and Pelham Rating Scale (SKAMP)-attention: The effect of Ritalin LA 20mg 
+      across the morning was statistically different from that of Concerta 18mg and
+      36mg, as demonstrated by the change in the area under the curve (AUC) during the 
+      first 4 hours (0-4) from pre-dose. AUC((0-4)) for RitalinLA was -2.48 versus
+      -1.36 for Concerta 18mg (p = 0.015), and -1.55 for Concerta 36mg (p = 0.043).
+      AUC((0-8)) change from pre-dose for Ritalin LA was -4.48 versus -2.72 for
+      Concerta 18mg (p = 0.074), and -3.24 for Concerta 36mg (p =
+      0.208).SKAMP-deportment: AUC((0-4)) for Ritalin LA was -1.67 compared with -0.28 
+      for Concerta 18mg (p < 0.001), and -0.55 for Concerta 36mg (p = 0.004).
+      AUC((0-8)) change from pre-dose for Ritalin LA was -2.81 compared with -0.82 for 
+      Concerta 18mg (p = 0.018), and -1.34 for Concerta 36mg (p = 0.078).Combined: Mean
+      AUC((0-4)) change from pre-dose for Ritalin LA was -2.05 compared with -0.78 for 
+      Concerta 18mg (p < 0.001), -1.01 for Concerta 36mg (p = 0.003). The mean
+      AUC((0-8)) change from pre-dose for Ritalin LA was -3.58 compared with -1.70 for 
+      Concerta 18mg (p = 0.010), -2.22 for Concerta 36mg (p = 0.061). Math
+      test-attempted: Mean pre-dose score for Ritalin LA was about 73 compared with 74,
+      90, and 81 for Concerta 18mg, 36mg, and placebo, respectively. Mean AUC((0-8))
+      change from pre-dose for Ritalin LA was 202 compared with 115 for Concerta 18mg
+      (p = 0.135), 137 for Concerta 36mg (p = 0.265). Math test-correct: Mean pre-dose 
+      score for Ritalin LA was 68 compared with 64, 78, and 76 for Concerta 18mg, 36mg,
+      and placebo, respectively. Mean AUC((0-8)) change from pre-dose for Ritalin LA
+      was 183 compared with 100 for Concerta 18mg (p = 0.144), and 117 for Concerta
+      36mg (p = 0.245).Safety: One patient from each treatment group experienced a
+      single mild adverse event that included abdominal pain, nausea, and dyspnea.
+      CONCLUSION: While both Ritalin LA and Concerta were shown to be effective, the
+      different release profiles of each formulation can result in distinct differences
+      between the effects on measures of attention and deportment.
+AD  - Children's Developmental Center, Maitland, Florida, USA.
+FAU - Lopez, Frank
+AU  - Lopez F
+FAU - Silva, Raul
+AU  - Silva R
+FAU - Pestreich, Linda
+AU  - Pestreich L
+FAU - Muniz, Rafael
+AU  - Muniz R
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - New Zealand
+TA  - Paediatr Drugs
+JT  - Paediatric drugs
+JID - 100883685
+RN  - 0 (Dopamine Uptake Inhibitors)
+RN  - 113-45-1 (Methylphenidate)
+SB  - IM
+EIN - Paediatr Drugs. 2003;5(10):661
+EIN - Paediatr Drugs. 2003;5(12):832
+MH  - Attention Deficit Disorder with Hyperactivity/*drug therapy
+MH  - Child
+MH  - Cross-Over Studies
+MH  - Dopamine Uptake Inhibitors/*administration & dosage/therapeutic use
+MH  - Dose-Response Relationship, Drug
+MH  - Drug Administration Schedule
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Methylphenidate/*administration & dosage/therapeutic use
+MH  - Single-Blind Method
+MH  - Time Factors
+EDAT- 2003/08/05 05:00
+MHDA- 2003/12/19 05:00
+CRDT- 2003/08/05 05:00
+AID - 585 [pii]
+PST - ppublish
+SO  - Paediatr Drugs. 2003;5(8):545-55.
+
+PMID- 12862507
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030716
+DCOM- 20031120
+LR  - 20100323
+IS  - 0114-5916 (Print)
+IS  - 0114-5916 (Linking)
+VI  - 26
+IP  - 10
+DP  - 2003
+TI  - Cardiovascular effects of atomoxetine in children, adolescents, and adults.
+PG  - 729-40
+AB  - BACKGROUND: Atomoxetine is a highly specific presynaptic inhibitor of the
+      noradrenaline (norepinephrine) transporter that was recently approved in the US
+      for the treatment of patients with attention-deficit/hyperactivity disorder
+      (ADHD). Adverse effects on the cardiovascular system, including abnormalities in 
+      heart rate, blood pressure, or cardiac rhythm have been associated with several
+      noradrenergic medications. OBJECTIVE: To further elucidate the magnitude and
+      impact of blood pressure and pulse elevations in patients taking atomoxetine.
+      STUDY DESIGN: Short-term cardiovascular safety in children, adolescents, and
+      adults with ADHD was assessed in five randomised, double-blind trials (duration
+      up to 10 weeks) with atomoxetine (n = 612) or placebo (n = 474). Long-term
+      cardiovascular safety in children and adolescents (n = 169) was assessed in
+      patients who entered an open-label extension or a blinded continuation following 
+      short-term treatment. METHODS: Adverse events, blood pressure, sitting pulse, and
+      electrocardiograms (ECGs) were collected throughout the trials. QT intervals were
+      corrected for heart rate by a data-specific correction factor (QTcD; derived from
+      baseline ECGs) as well as standard methods. RESULTS: Atomoxetine treatment was
+      associated with small but statistically significant increases in mean systolic
+      blood pressure in adults and diastolic blood pressure in children and
+      adolescents. Mean pulse rate increased for all atomoxetine treatment groups. The 
+      increases in blood pressure and pulse tended to occur early in therapy,
+      stabilised, and returned toward baseline upon drug discontinuation. There was no 
+      significant difference between atomoxetine and placebo treatment groups in change
+      in QTcD interval for all study populations. Palpitations in the adult patient
+      population were the only significant cardiovascular adverse event (p = 0.037)
+      occurring more frequently in the atomoxetine treatment group (3.7%) than in the
+      placebo group (0.8%). Discontinuations due to cardiovascular-related events were 
+      very uncommon in the adult group, and did not occur in the child/adolescent
+      group. CONCLUSION: While atomoxetine has noradrenergic activity, increases in
+      pulse and blood pressure were small and of little, if any, clinical significance.
+      Atomoxetine was not associated with QT interval prolongation. Cardiovascular
+      effects of atomoxetine were minimal, and atomoxetine was well tolerated in short-
+      and long-term studies.
+AD  - Lilly Research Laboratories, Indianapolis, Indiana, USA. jfwernicke@lilly.com
+FAU - Wernicke, Joachim F
+AU  - Wernicke JF
+FAU - Faries, Douglas
+AU  - Faries D
+FAU - Girod, Donald
+AU  - Girod D
+FAU - Brown, Jeffrey
+AU  - Brown J
+FAU - Gao, Haitao
+AU  - Gao H
+FAU - Kelsey, Douglas
+AU  - Kelsey D
+FAU - Quintana, Humberto
+AU  - Quintana H
+FAU - Lipetz, Robert
+AU  - Lipetz R
+FAU - Michelson, David
+AU  - Michelson D
+FAU - Heiligenstein, John
+AU  - Heiligenstein J
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - New Zealand
+TA  - Drug Saf
+JT  - Drug safety : an international journal of medical toxicology and drug experience
+JID - 9002928
+RN  - 0 (Propylamines)
+RN  - 83015-26-3 (atomoxetine)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Attention Deficit Disorder with Hyperactivity/drug therapy
+MH  - Blood Pressure/drug effects
+MH  - Child
+MH  - Double-Blind Method
+MH  - Electrocardiography/drug effects
+MH  - Female
+MH  - Heart Conduction System/drug effects
+MH  - Hemodynamics/*drug effects
+MH  - Humans
+MH  - Male
+MH  - Propylamines/*pharmacology
+MH  - Randomized Controlled Trials as Topic
+RF  - 4
+EDAT- 2003/07/17 05:00
+MHDA- 2003/12/03 05:00
+CRDT- 2003/07/17 05:00
+AID - 26106 [pii]
+PST - ppublish
+SO  - Drug Saf. 2003;26(10):729-40.
+
+PMID- 12563049
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030203
+DCOM- 20030220
+LR  - 20081121
+IS  - 1098-4275 (Electronic)
+IS  - 0031-4005 (Linking)
+VI  - 111
+IP  - 2
+DP  - 2003 Feb
+TI  - Childhood behavior disorders and injuries among children and youth: a
+      population-based study.
+PG  - 262-9
+AB  - CONTEXT: While an association between pediatric behavioral disorders and injuries
+      is generally acknowledged, no studies have measured the risk for injury in the
+      context of a large, population-based study that is free of cohort biases.
+      OBJECTIVES: To examine the association between childhood behavior disorders
+      ([CBDs] as indicated by prescription for methylphenidate [MPH]) and a variety of 
+      injury outcomes, and to evaluate the risk for injury among these children after
+      controlling for known demographic correlates. DESIGN: Population-based database
+      analysis of all children in British Columbia (BC) under the age of 19 as of
+      December 31, 1996; comparison of those who had been prescribed MPH and therefore 
+      placed in the CBD group (n = 16, 806) and those who were not (n = 1,010,067).
+      Demographic information collected was as follows: age, sex, measures of
+      socioeconomic status, and region of residence. OUTCOME MEASURES: Common types of 
+      childhood injury in BC: International Classification of Diseases, Ninth Revision 
+      N-codes (fractures, open wounds, poisoning/toxic effect, concussion,
+      intracranial, burns) and E-codes (falls, postoperative complications, motor
+      vehicle accidents, struck by object, adverse effects of drugs, suffocation,
+      drowning). DATA SOURCE: BC Linked Health Data Set and the BC Triplicate
+      Prescription Program. RESULTS: After controlling for known demographic
+      correlates, odds for injury was greater among those treated with MPH and presumed
+      to have a behavioral disorder, when injury was characterized either by type
+      (1.67; 99% confidence interval: 1.54-1.81) or cause (1.52; 99% confidence
+      interval: 1.40-1.66) of injury. This increased risk extended to unexpected
+      categories of injury such as postoperative complications and adverse effects of
+      drugs. CONCLUSIONS: Children with CBDs have >1.5 times the odds of sustaining
+      injuries of a variety of types from a variety of causes, even after controlling
+      for known demographic correlates, than those without behavioral disorders. The
+      risks for these children extend beyond those that might be directly associated
+      with impulsivity and overactivity. Injury prevention strategies aimed at this
+      group of children and youth would be beneficial. Policy-makers should account for
+      increased risk of a wide variety of injuries in this group of children and youth.
+AD  - Ottawa Health Research Institute, Ottawa Hospital, Ottawa, Ontario, Canada.
+      jbrehaut@ohri.ca
+FAU - Brehaut, Jamie C
+AU  - Brehaut JC
+FAU - Miller, Anton
+AU  - Miller A
+FAU - Raina, Parminder
+AU  - Raina P
+FAU - McGrail, Kimberlyn M
+AU  - McGrail KM
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Pediatrics
+JT  - Pediatrics
+JID - 0376422
+RN  - 113-45-1 (Methylphenidate)
+SB  - AIM
+SB  - IM
+MH  - Adolescent
+MH  - Canada/epidemiology
+MH  - Child
+MH  - Child Behavior Disorders/drug therapy/*epidemiology
+MH  - Child, Preschool
+MH  - Databases, Factual
+MH  - Drug Prescriptions/statistics & numerical data
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Methylphenidate/therapeutic use
+MH  - Population Surveillance
+MH  - Prevalence
+MH  - Sex Factors
+MH  - Wounds and Injuries/*epidemiology
+EDAT- 2003/02/04 04:00
+MHDA- 2003/02/21 04:00
+CRDT- 2003/02/04 04:00
+PST - ppublish
+SO  - Pediatrics. 2003 Feb;111(2):262-9.
+
+PMID- 12547466
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030127
+DCOM- 20030430
+LR  - 20080713
+IS  - 0006-3223 (Print)
+IS  - 0006-3223 (Linking)
+VI  - 53
+IP  - 2
+DP  - 2003 Jan 15
+TI  - Atomoxetine in adults with ADHD: two randomized, placebo-controlled studies.
+PG  - 112-20
+AB  - BACKGROUND: [corrected] Attention-deficit/hyperactivity disorder (ADHD) has been 
+      less studied in adults than in children, and the treatment studies reported to
+      date have been small, single-center trials. To assess the efficacy of
+      atomoxetine, a new and highly selective inhibitor of the norepinephrine
+      transporter, we conducted two large, multicenter treatment trials. METHODS: Two
+      identical studies using randomized, double-blind, placebo-controlled designs and 
+      a 10-week treatment period were conducted in adults with DSM-IV-defined ADHD as
+      assessed by clinical history and confirmed by a structured interview (study I, n 
+      = 280; study II, n = 256). The primary outcome measure was a comparison of
+      atomoxetine and placebo using repeated measures mixed model analysis of
+      postbaseline values of the Conners' Adult ADHD Rating Scale. RESULTS: In each
+      study, atomoxetine was statistically superior to placebo in reducing both
+      inattentive and hyperactive and impulsive symptoms as assessed by primary and
+      secondary measures. Discontinuations for adverse events among atomoxetine
+      patients were under 10% in both studies. CONCLUSION: Atomoxetine appears to be an
+      efficacious treatment for adult ADHD. Its lack of abuse potential may be an
+      advantage for many patients.
+AD  - Lilly Research Laboratories, Indianapolis, Indiana 46285, USA.
+FAU - Michelson, David
+AU  - Michelson D
+FAU - Adler, Lenard
+AU  - Adler L
+FAU - Spencer, Thomas
+AU  - Spencer T
+FAU - Reimherr, Frederick W
+AU  - Reimherr FW
+FAU - West, Scott A
+AU  - West SA
+FAU - Allen, Albert J
+AU  - Allen AJ
+FAU - Kelsey, Douglas
+AU  - Kelsey D
+FAU - Wernicke, Joachim
+AU  - Wernicke J
+FAU - Dietrich, Anthony
+AU  - Dietrich A
+FAU - Milton, Denai
+AU  - Milton D
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Biol Psychiatry
+JT  - Biological psychiatry
+JID - 0213264
+RN  - 0 (Antidepressive Agents)
+RN  - 0 (Propylamines)
+RN  - 83015-26-3 (atomoxetine)
+SB  - IM
+MH  - Adult
+MH  - Antidepressive Agents/*therapeutic use
+MH  - Attention Deficit Disorder with Hyperactivity/*drug therapy
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Propylamines/*therapeutic use
+MH  - Treatment Outcome
+EDAT- 2003/01/28 04:00
+MHDA- 2003/05/06 05:00
+CRDT- 2003/01/28 04:00
+AID - S0006322302016712 [pii]
+PST - ppublish
+SO  - Biol Psychiatry. 2003 Jan 15;53(2):112-20.
+
+PMID- 12523874
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030113
+DCOM- 20030205
+LR  - 20061115
+IS  - 0160-6689 (Print)
+IS  - 0160-6689 (Linking)
+VI  - 63
+IP  - 12
+DP  - 2002 Dec
+TI  - Results from 2 proof-of-concept, placebo-controlled studies of atomoxetine in
+      children with attention-deficit/hyperactivity disorder.
+PG  - 1140-7
+AB  - BACKGROUND: Atomoxetine is a nonstimulant drug being studied for the treatment of
+      attention-deficit/hyperactivity disorder (ADHD). Atomoxetine is a highly specific
+      inhibitor of the presynaptic norepinephrine transporter with minimal affinity for
+      other noradrenergic receptors or other neurotransmitter transporters or
+      receptors. Results of 2 proof-of-concept studies are reported that tested the
+      hypothesis that a selective inhibitor of presynaptic norepinephrine uptake would 
+      be effective for the treatment of ADHD in school-aged children. METHOD: Two
+      identical 12-week, stratified, randomized, double-blind, placebo-controlled
+      trials were conducted in children who met DSM-IV criteria for ADHD. The primary
+      efficacy outcome measure was the mean change from baseline to endpoint in the
+      Attention-Deficit/Hyperactivity Disorder Rating Scale (ADHD RS) total score.
+      Secondary efficacy measures included the Clinical Global
+      Impressions-ADHD-Severity (CGI-ADHD-S) and the Conners' Parent Rating
+      Scale-Revised: Short Form (CPRS-R:S). RESULTS: A total of 291 patients were
+      randomized in the 2 trials combined (Study 1, N = 147; Study 2, N = 144).
+      Stimulant-naive patients were randomized to atomoxetine, placebo, or
+      methylphenidate. Patients with prior stimulant exposure were randomized to
+      atomoxetine or placebo. Atomoxetine significantly reduced ADHD RS total scores
+      compared with placebo in each study (p <.001). Changes in the CGI-ADHD-S (Study
+      1: p =.003; Study 2: p =.001) and CPRS-ADHD Index (Study 1: p =.023; Study 2: p
+      <.001) also showed atomoxetine to be statistically significantly superior to
+      placebo in reducing ADHD symptoms. Atomoxetine was found to be well tolerated in 
+      this population of pediatric patients. CONCLUSION: Two studies of atomoxetine
+      early in its development confirmed that atomoxetine, a specific and selective
+      inhibitor of noradrenergic uptake, was effective for the treatment of children
+      with ADHD. In addition, atomoxetine was found to be well tolerated.
+AD  - Massachusetts General Hospital, Boston, USA.
+FAU - Spencer, Thomas
+AU  - Spencer T
+FAU - Heiligenstein, John H
+AU  - Heiligenstein JH
+FAU - Biederman, Joseph
+AU  - Biederman J
+FAU - Faries, Douglas E
+AU  - Faries DE
+FAU - Kratochvil, Christopher J
+AU  - Kratochvil CJ
+FAU - Conners, C Keith
+AU  - Conners CK
+FAU - Potter, William Z
+AU  - Potter WZ
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - J Clin Psychiatry
+JT  - The Journal of clinical psychiatry
+JID - 7801243
+RN  - 0 (Antidepressive Agents)
+RN  - 0 (Propylamines)
+RN  - 83015-26-3 (atomoxetine)
+SB  - IM
+MH  - Antidepressive Agents/adverse effects/*therapeutic use
+MH  - Attention Deficit Disorder with Hyperactivity/*drug therapy
+MH  - Child
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Propylamines/adverse effects/*therapeutic use
+MH  - Treatment Outcome
+EDAT- 2003/01/14 04:00
+MHDA- 2003/02/06 04:00
+CRDT- 2003/01/14 04:00
+PST - ppublish
+SO  - J Clin Psychiatry. 2002 Dec;63(12):1140-7.
+
+PMID- 12411225
+OWN - NLM
+STAT- MEDLINE
+DA  - 20021104
+DCOM- 20021204
+LR  - 20061115
+IS  - 0002-953X (Print)
+IS  - 0002-953X (Linking)
+VI  - 159
+IP  - 11
+DP  - 2002 Nov
+TI  - Once-daily atomoxetine treatment for children and adolescents with attention
+      deficit hyperactivity disorder: a randomized, placebo-controlled study.
+PG  - 1896-901
+AB  - OBJECTIVE: The authors assessed the efficacy of once-daily atomoxetine
+      administration in the treatment of children and adolescents with attention
+      deficit hyperactivity disorder (ADHD). METHOD: In a double-blind study, children 
+      and adolescents with ADHD (N=171, age range=6-16 years) were randomly assigned to
+      receive 6 weeks of treatment with either atomoxetine (administered once daily) or
+      placebo. RESULTS: Outcomes among atomoxetine-treated patients were superior to
+      those of the placebo treatment group as assessed by investigator, parent, and
+      teacher ratings. The treatment effect size (0.71) was similar to those observed
+      in previous atomoxetine studies that used twice-daily dosing. Parent diary
+      ratings suggested that drug-specific effects were sustained late in the day.
+      Discontinuations due to adverse events were low (less than 3%) for both treatment
+      groups, and no serious safety concerns were observed. CONCLUSIONS: Once-daily
+      administration of atomoxetine is an effective treatment for children and
+      adolescents with ADHD.
+AD  - Lilly Research Laboratories, Indianapolis, IN 46285, USA. dmichelson@lilly.com
+FAU - Michelson, David
+AU  - Michelson D
+FAU - Allen, Albert J
+AU  - Allen AJ
+FAU - Busner, Joan
+AU  - Busner J
+FAU - Casat, Charles
+AU  - Casat C
+FAU - Dunn, David
+AU  - Dunn D
+FAU - Kratochvil, Christopher
+AU  - Kratochvil C
+FAU - Newcorn, Jeffrey
+AU  - Newcorn J
+FAU - Sallee, F Randy
+AU  - Sallee FR
+FAU - Sangal, R Bart
+AU  - Sangal RB
+FAU - Saylor, Keith
+AU  - Saylor K
+FAU - West, Scott
+AU  - West S
+FAU - Kelsey, Douglas
+AU  - Kelsey D
+FAU - Wernicke, Joachim
+AU  - Wernicke J
+FAU - Trapp, Nancy J
+AU  - Trapp NJ
+FAU - Harder, Donald
+AU  - Harder D
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Am J Psychiatry
+JT  - The American journal of psychiatry
+JID - 0370512
+RN  - 0 (Antidepressive Agents)
+RN  - 0 (Propylamines)
+RN  - 83015-26-3 (atomoxetine)
+SB  - AIM
+SB  - IM
+CIN - Evid Based Ment Health. 2003 May;6(2):42. PMID: 12719349
+MH  - Adolescent
+MH  - Antidepressive Agents/*administration & dosage/adverse effects
+MH  - Attention Deficit Disorder with Hyperactivity/diagnosis/*drug therapy/psychology
+MH  - Child
+MH  - Drug Administration Schedule
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Personality Assessment
+MH  - Propylamines/*administration & dosage/adverse effects
+MH  - Treatment Outcome
+EDAT- 2002/11/02 04:00
+MHDA- 2002/12/05 04:00
+CRDT- 2002/11/02 04:00
+PST - ppublish
+SO  - Am J Psychiatry. 2002 Nov;159(11):1896-901.
+
+PMID- 12142861
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020726
+DCOM- 20021210
+LR  - 20061115
+IS  - 1087-0547 (Print)
+IS  - 1087-0547 (Linking)
+VI  - 6
+IP  - 2
+DP  - 2002 Sep
+TI  - An experimental comparison of Pycnogenol and methylphenidate in adults with
+      Attention-Deficit/Hyperactivity Disorder (ADHD).
+PG  - 49-60
+AB  - Twenty-four adults (24 to 53 years old) with Attention-Deficit/Hyperactivity
+      Disorder (ADHD), Combined Type, were studied in a double-blind,
+      placebo-controlled, crossover study of Pycnogenol and methylphenidate. Pycnogenol
+      is an antioxidant derived from the bark of the French maritime pine tree.
+      Methylphenidate is a standard pharmaceutical intervention for ADHD. Anecdotal
+      reports suggest that Pycnogenol improves concentration in adults with ADHD
+      without adverse side effects. Participants received Pycnogenol, methylphenidate, 
+      and placebo, each for three weeks, in a randomized and counterbalanced order.
+      Although ADHD symptoms improved during treatment, neither methylphenidate nor
+      Pycnogenol outperformed the placebo control, as measured by self-report rating
+      scales, rating scales completed by the individual's significant other, and a
+      computerized continuous performance test. The conservative dosage levels and
+      relatively brief length of treatment may have contributed to the absence of
+      significant differences among treatment conditions. Implications for future
+      research are noted.
+AD  - The Attention Deficit Center in St. Louis 63141, MO.
+FAU - Tenenbaum, S
+AU  - Tenenbaum S
+FAU - Paull, J C
+AU  - Paull JC
+FAU - Sparrow, E P
+AU  - Sparrow EP
+FAU - Dodd, D K
+AU  - Dodd DK
+FAU - Green, L
+AU  - Green L
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - Canada
+TA  - J Atten Disord
+JT  - Journal of attention disorders
+JID - 9615686
+RN  - 0 (Adjuvants, Immunologic)
+RN  - 0 (Central Nervous System Stimulants)
+RN  - 0 (Flavonoids)
+RN  - 0 (pycnogenols)
+RN  - 113-45-1 (Methylphenidate)
+SB  - IM
+MH  - Adjuvants, Immunologic/*therapeutic use
+MH  - Adult
+MH  - Attention Deficit Disorder with Hyperactivity/diagnosis/*drug therapy
+MH  - Central Nervous System Stimulants/*therapeutic use
+MH  - Flavonoids/*therapeutic use
+MH  - Humans
+MH  - Male
+MH  - Methylphenidate/*therapeutic use
+MH  - Middle Aged
+MH  - Severity of Illness Index
+EDAT- 2002/07/27 10:00
+MHDA- 2002/12/11 04:00
+CRDT- 2002/07/27 10:00
+PST - ppublish
+SO  - J Atten Disord. 2002 Sep;6(2):49-60.
+
+PMID- 12135536
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020723
+DCOM- 20031121
+LR  - 20061115
+IS  - 1461-1457 (Print)
+IS  - 1461-1457 (Linking)
+VI  - 5
+IP  - 2
+DP  - 2002 Jun
+TI  - Efficacy of Adderall and methylphenidate in attention deficit hyperactivity
+      disorder: a drug-placebo and drug-drug response curve analysis of a naturalistic 
+      study.
+PG  - 121-9
+AB  - Stimulant medication has, for many years, been the pharmacological treatment of
+      choice for children and adults with attention deficit hyperactivity disorder
+      (ADHD). Recently, several studies have documented the efficacy of a new
+      stimulant, Adderall. Although these initial studies provide useful information
+      for clinicians treating ADHD children, their method of data presentation has
+      provided limited information about the clinical significance of drug effects.
+      Thus, to address the issue of clinical significance, we completed drug-placebo
+      response curve analyses of a blinded, placebo-controlled study of Adderall and
+      methylphenidate (MPH). Our results show that the efficacy of Adderall and MPH to 
+      improve functioning is seen throughout the full range of improvement scores. Both
+      drugs prevent worsening and, for a majority of patients, lead to improvements
+      that are well into the normal range. The analyses also highlight an important
+      subgroup of placebo responders, which suggests that future research should focus 
+      on how to predict robust placebo response in ADHD patients.
+AD  - Pediatric Psychopharmacology Unit of the Child Psychiatry Service, Massachusetts 
+      General Hospital, Boston, MA 02114, USA. sfaraone@hms.harvard.edu
+FAU - Faraone, Stephen V
+AU  - Faraone SV
+FAU - Short, Elizabeth J
+AU  - Short EJ
+FAU - Biederman, Joseph
+AU  - Biederman J
+FAU - Findling, Robert L
+AU  - Findling RL
+FAU - Roe, Christine
+AU  - Roe C
+FAU - Manos, Michael J
+AU  - Manos MJ
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Int J Neuropsychopharmacol
+JT  - The international journal of neuropsychopharmacology / official scientific
+      journal of the Collegium Internationale Neuropsychopharmacologicum (CINP)
+JID - 9815893
+RN  - 0 (Adderall)
+RN  - 0 (Amphetamines)
+RN  - 0 (Central Nervous System Stimulants)
+RN  - 113-45-1 (Methylphenidate)
+SB  - IM
+MH  - Amphetamines/*therapeutic use
+MH  - Attention Deficit Disorder with Hyperactivity/*drug therapy/psychology
+MH  - Behavior/drug effects
+MH  - Central Nervous System Stimulants/*therapeutic use
+MH  - Child
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Methylphenidate/*therapeutic use
+MH  - Parents
+MH  - Psychiatric Status Rating Scales
+MH  - Questionnaires
+MH  - Schools
+MH  - Treatment Outcome
+EDAT- 2002/07/24 10:00
+MHDA- 2003/12/03 05:00
+CRDT- 2002/07/24 10:00
+PHST- 3000/06/24 [received]
+PHST- 2001/12/16 [revised]
+AID - doi:10.1017/S1461145702002845 [doi]
+AID - S1461145702002845 [pii]
+PST - ppublish
+SO  - Int J Neuropsychopharmacol. 2002 Jun;5(2):121-9.
+
+PMID- 11865128
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020226
+DCOM- 20020415
+LR  - 20071114
+IS  - 0028-3878 (Print)
+IS  - 0028-3878 (Linking)
+VI  - 58
+IP  - 4
+DP  - 2002 Feb 26
+TI  - Treatment of ADHD in children with tics: a randomized controlled trial.
+PG  - 527-36
+AB  - BACKGROUND: The treatment of children with attention deficit hyperactivity
+      disorder (ADHD) and Tourette syndrome (TS) has been problematic because
+      methylphenidate (MPH)--the most commonly used drug to treat ADHD--has been
+      reported to worsen tics and because clonidine (CLON)--the most commonly
+      prescribed alternative--has unproven efficacy. METHODS: The authors conducted a
+      multicenter, randomized, double-blind clinical trial in which 136 children with
+      ADHD and a chronic tic disorder were randomly administered CLON alone, MPH alone,
+      combined CLON + MPH, or placebo (2 x 2 factorial design). Each subject
+      participated for 16 weeks (weeks 1-4 CLON/placebo dose titration, weeks 5-8 added
+      MPH/placebo dose titration, weeks 9-16 maintenance therapy). RESULTS:
+      Thirty-seven children were administered MPH alone, 34 were administered CLON
+      alone, 33 were administered CLON + MPH, and 32 were administered placebo. For our
+      primary outcome measure of ADHD (Conners Abbreviated Symptom
+      Questionnaire--Teacher), significant improvement occurred for subjects assigned
+      to CLON (p < 0.002) and those assigned to MPH (p < 0.003). Compared with placebo,
+      the greatest benefit occurred with combined CLON + MPH (p < 0.0001). CLON
+      appeared to be most helpful for impulsivity and hyperactivity; MPH appeared to be
+      most helpful for inattention. The proportion of individual subjects reporting a
+      worsening of tics as an adverse effect was no higher in those treated with MPH
+      (20%) than those being administered CLON alone (26%) or placebo (22%). Compared
+      with placebo, measured tic severity lessened in all active treatment groups in
+      the following order: CLON + MPH, CLON alone, MPH alone. Sedation was common with 
+      CLON treatment (28% reported moderate or severe sedation), but otherwise the
+      drugs were tolerated well, including absence of any evident cardiac toxicity.
+      CONCLUSIONS: Methylphenidate and clonidine (particularly in combination) are
+      effective for ADHD in children with comorbid tics. Prior recommendations to avoid
+      methylphenidate in these children because of concerns of worsening tics are
+      unsupported by this trial.
+CN  - Tourette's Syndrome Study Group
+LA  - eng
+GR  - 1R01NS33654/NS/NINDS NIH HHS/United States
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Neurology
+JT  - Neurology
+JID - 0401060
+RN  - 0 (Adrenergic alpha-Agonists)
+RN  - 0 (Central Nervous System Stimulants)
+RN  - 113-45-1 (Methylphenidate)
+RN  - 4205-90-7 (Clonidine)
+SB  - AIM
+SB  - IM
+CIN - Neurology. 2002 Feb 26;58(4):513-4. PMID: 11865123
+CIN - ACP J Club. 2002 Sep-Oct;137(2):70. PMID: 12207448
+CIN - Evid Based Ment Health. 2002 Nov;5(4):122. PMID: 12440463
+MH  - Adolescent
+MH  - Adrenergic alpha-Agonists/therapeutic use
+MH  - Attention Deficit Disorder with Hyperactivity/complications/*drug therapy
+MH  - Central Nervous System Stimulants/therapeutic use
+MH  - Child
+MH  - Clonidine/therapeutic use
+MH  - Confidence Intervals
+MH  - Double-Blind Method
+MH  - Drug Therapy, Combination
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Methylphenidate/therapeutic use
+MH  - Questionnaires
+MH  - Tic Disorders/complications/*drug therapy
+MH  - Treatment Outcome
+EDAT- 2002/02/28 10:00
+MHDA- 2002/04/16 10:01
+CRDT- 2002/02/28 10:00
+PST - ppublish
+SO  - Neurology. 2002 Feb 26;58(4):527-36.
+
+PMID- 11791949
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020115
+DCOM- 20020405
+LR  - 20061115
+IS  - 1040-1237 (Print)
+IS  - 1040-1237 (Linking)
+VI  - 13
+IP  - 3
+DP  - 2001 Sep
+TI  - Bupropion SR vs. methylphenidate vs. placebo for attention deficit hyperactivity 
+      disorder in adults.
+PG  - 129-34
+AB  - Despite the increasing recognition of attention-deficit hyperactivity disorder
+      (ADHD) in adults, there are few controlled trials demonstrating the effectiveness
+      of pharmacological treatments, particularly with nonstimulants. One controlled
+      trial found bupropion SR more effective than placebo in the treatment of ADHD
+      adults. We conducted a controlled study to contrast the effectiveness of
+      bupropion SR and methylphenidate to placebo in ADHD adults. A randomized,
+      double-blind, parallel design was used in this study. Following a 7-day placebo
+      lead-in, 30 ADHD (DSM-IV) subjects (18-60 years old) were randomized to
+      bupropion, methylphenidate, or placebo for 7 weeks. Methylphenidate was titrated 
+      over 1 week to a maximum dose of 0.9 mg/kg/d divided into 3 doses while bupropion
+      was titrated over 2 weeks to a maximum dose of 200 mg A.M. and 100 mg P.M.
+      Response rates based on Clinical Global Impression improvement ratings in
+      patients receiving bupropion, methylphenidate, and placebo were 64, 50, and 27%, 
+      respectively. The difference in response rates between active treatment and
+      placebo was not statistically significant (p = 0.14). Neuropsychological testing 
+      demonstrated trends favoring drug treatment on measures of immediate recall and
+      verbal fluency. While bupropion SR may be a viable clinical alternative for
+      adults with ADHD, further investigation is needed.
+AD  - Department of Psychiatry, College of Medicine, University of Iowa, Iowa City
+      52242, USA.
+FAU - Kuperman, S
+AU  - Kuperman S
+FAU - Perry, P J
+AU  - Perry PJ
+FAU - Gaffney, G R
+AU  - Gaffney GR
+FAU - Lund, B C
+AU  - Lund BC
+FAU - Bever-Stille, K A
+AU  - Bever-Stille KA
+FAU - Arndt, S
+AU  - Arndt S
+FAU - Holman, T L
+AU  - Holman TL
+FAU - Moser, D J
+AU  - Moser DJ
+FAU - Paulsen, J S
+AU  - Paulsen JS
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Ann Clin Psychiatry
+JT  - Annals of clinical psychiatry : official journal of the American Academy of
+      Clinical Psychiatrists
+JID - 8911021
+RN  - 0 (Adrenergic Agents)
+RN  - 0 (Dopamine Uptake Inhibitors)
+RN  - 113-45-1 (Methylphenidate)
+RN  - 34841-39-9 (Bupropion)
+SB  - IM
+MH  - Adrenergic Agents/*therapeutic use
+MH  - Adult
+MH  - Attention Deficit Disorder with Hyperactivity/*drug therapy/psychology
+MH  - Bupropion/*therapeutic use
+MH  - Dopamine Uptake Inhibitors/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Methylphenidate/*therapeutic use
+MH  - Neuropsychological Tests
+MH  - Severity of Illness Index
+MH  - Time Factors
+MH  - Treatment Outcome
+EDAT- 2002/01/17 10:00
+MHDA- 2002/04/06 10:01
+CRDT- 2002/01/17 10:00
+PST - ppublish
+SO  - Ann Clin Psychiatry. 2001 Sep;13(3):129-34.
+
+PMID- 11483144
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010802
+DCOM- 20010906
+LR  - 20071114
+IS  - 0003-990X (Print)
+IS  - 0003-990X (Linking)
+VI  - 58
+IP  - 8
+DP  - 2001 Aug
+TI  - Efficacy of a mixed amphetamine salts compound in adults with
+      attention-deficit/hyperactivity disorder.
+PG  - 775-82
+AB  - BACKGROUND: We report on a controlled trial of a mixed amphetamine salts compound
+      (Adderall, dextroamphetamine sulfate, dextro-, levoamphetamine sulfate,
+      dextroamphetamine aspartate, levoamphetamine aspartate, and dextroamphetamine
+      saccharate) in the treatment of adult attention-deficit/hyperactivity disorder
+      (ADHD). METHODS: This was a 7-week, randomized, double-blind, placebo-controlled,
+      crossover study of Adderall in 27 well-characterized adults satisfying full
+      DSM-IV criteria for ADHD of childhood onset and persistent symptoms into
+      adulthood. Medication was titrated up to 30 mg twice a day. Outcome measures
+      included the ADHD Rating Scale and the Clinical Global Impression Score. Comorbid
+      psychiatric disorders were assessed to test for potential effects on treatment
+      outcome. RESULTS: Treatment with Adderall at an average oral dose of 54 mg
+      (administered in 2 daily doses) was effective and well tolerated. Drug-specific
+      improvement in ADHD symptoms was highly significant overall (42% decrease on the 
+      ADHD Rating Scale, P<.001), and sufficiently robust to be detectable in a
+      parallel groups comparison restricted to the first 3 weeks of the protocol
+      (P<.001). The percentage of subjects who improved (reduction in the ADHD rating
+      scale of > or =30%) was significantly higher with Adderall treatment than with a 
+      placebo (70% vs 7%; P =.001). CONCLUSIONS: Adderall was effective and well
+      tolerated in the short-term treatment of adults with ADHD. More work is needed to
+      evaluate the long-term effects of Adderall, or other amphetamine compounds, in
+      the treatment of adults with ADHD.
+AD  - Pediatric Psychopharmacology Unit (ACC-725), Massachusetts General Hospital,
+      Fruit Street, Boston, MA 02114, USA.
+FAU - Spencer, T
+AU  - Spencer T
+FAU - Biederman, J
+AU  - Biederman J
+FAU - Wilens, T
+AU  - Wilens T
+FAU - Faraone, S
+AU  - Faraone S
+FAU - Prince, J
+AU  - Prince J
+FAU - Gerard, K
+AU  - Gerard K
+FAU - Doyle, R
+AU  - Doyle R
+FAU - Parekh, A
+AU  - Parekh A
+FAU - Kagan, J
+AU  - Kagan J
+FAU - Bearman, S K
+AU  - Bearman SK
+LA  - eng
+GR  - R29MH57511/MH/NIMH NIH HHS/United States
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Arch Gen Psychiatry
+JT  - Archives of general psychiatry
+JID - 0372435
+RN  - 0 (Adderall)
+RN  - 0 (Amphetamines)
+RN  - 0 (Placebos)
+SB  - AIM
+SB  - IM
+CIN - Arch Gen Psychiatry. 2001 Aug;58(8):784-5. PMID: 11483145
+MH  - Adult
+MH  - Age Factors
+MH  - Amphetamines/administration & dosage/adverse effects/*therapeutic use
+MH  - Attention Deficit Disorder with Hyperactivity/diagnosis/*drug
+      therapy/epidemiology
+MH  - Cross-Over Studies
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mental Disorders/diagnosis/epidemiology/genetics
+MH  - Middle Aged
+MH  - Neuropsychological Tests/statistics & numerical data
+MH  - Placebos
+MH  - Psychiatric Status Rating Scales
+MH  - Treatment Outcome
+EDAT- 2001/09/06 10:00
+MHDA- 2001/09/08 10:01
+CRDT- 2001/09/06 10:00
+AID - yoa9442 [pii]
+PST - ppublish
+SO  - Arch Gen Psychiatry. 2001 Aug;58(8):775-82.
+
+PMID- 11462747
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010720
+DCOM- 20010906
+LR  - 20051116
+IS  - 0077-8923 (Print)
+IS  - 0077-8923 (Linking)
+VI  - 931
+DP  - 2001 Jun
+TI  - Adult ADHD. Controlled medication assessment.
+PG  - 287-96
+AB  - Many adults with ADHD respond to stimulant therapy, but controlled medication
+      assessments have not been reported. We administered an effortful working memory
+      task in four half-day sessions, double blind, at methylphenidate levels of 0, 5, 
+      10 and 20 mg. Dose-response curves were established individually. Fifteen of 17
+      patients displayed a favorable response to one or more levels of medication; that
+      is, they achieved more correct responses and less variability than on placebo.
+      Each dose level elicited optimal performance from some of the patients. Unlike
+      monitoring by self-report, the objective medication assessment offers an
+      expeditious approximation to the ultimate optimal dose, potentially saving the
+      patient weeks on an ineffective and/or excessive dosage regime.
+AD  - New School University, 65 Fifth Avenue, New York, NY 10003, USA.
+      kinsbourne@aol.com
+FAU - Kinsbourne, M
+AU  - Kinsbourne M
+FAU - De Quiros, G B
+AU  - De Quiros GB
+FAU - Tocci Rufo, D
+AU  - Tocci Rufo D
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Ann N Y Acad Sci
+JT  - Annals of the New York Academy of Sciences
+JID - 7506858
+RN  - 0 (Central Nervous System Stimulants)
+SB  - IM
+MH  - Association Learning/drug effects
+MH  - Attention Deficit Disorder with Hyperactivity/*drug therapy
+MH  - Central Nervous System Stimulants/pharmacology/*therapeutic use
+MH  - Dose-Response Relationship, Drug
+MH  - Humans
+MH  - Treatment Outcome
+RF  - 38
+EDAT- 2001/07/21 10:00
+MHDA- 2001/09/08 10:01
+CRDT- 2001/07/21 10:00
+PST - ppublish
+SO  - Ann N Y Acad Sci. 2001 Jun;931:287-96.
+
+PMID- 11431228
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010629
+DCOM- 20010726
+LR  - 20071114
+IS  - 0002-953X (Print)
+IS  - 0002-953X (Linking)
+VI  - 158
+IP  - 7
+DP  - 2001 Jul
+TI  - A placebo-controlled study of guanfacine in the treatment of children with tic
+      disorders and attention deficit hyperactivity disorder.
+PG  - 1067-74
+AB  - OBJECTIVE: This study evaluated the efficacy and safety of guanfacine in treating
+      children with tic disorders and attention deficit hyperactivity disorder (ADHD). 
+      METHOD: Subjects from a specialty tic disorders clinic were randomly assigned to 
+      receive 8 weeks of treatment with guanfacine or placebo under double-blind
+      conditions. Follow-up visits occurred every 2 weeks for safety monitoring and
+      dose adjustment. RESULTS: Thirty-four medication-free subjects (31 boys and three
+      girls with a mean age of 10.4 years) with ADHD, combined type, and a tic disorder
+      participated. After 8 weeks of treatment, guanfacine was associated with a mean
+      improvement of 37% in the total score on the teacher-rated ADHD Rating Scale,
+      compared to 8% improvement for placebo. Nine of 17 subjects who received
+      guanfacine were blindly rated on the Clinical Global Improvement scale as either 
+      much improved or very much improved, compared with none of 17 subjects who
+      received placebo. The mean score on the parent-rated hyperactivity index improved
+      by 27% in the guanfacine group and 21% in the placebo group, not a significant
+      difference. On the Continuous Performance Test, commission errors decreased by
+      22% and omission errors by 17% in the guanfacine group, compared with increases
+      of 29% in commission errors and of 31% in omission errors in the placebo group.
+      Tic severity decreased by 31% in the guanfacine group, compared to 0% in the
+      placebo group. One guanfacine subject with sedation withdrew at week 4.
+      Guanfacine was associated with insignificant decreases in blood pressure and
+      pulse. CONCLUSIONS: Guanfacine appears to be a safe and effective treatment for
+      children with tic disorders and ADHD.
+AD  - Yale Child Study Center, New Haven, CT 06520, USA. lawrence.scahill@yale.edu
+FAU - Scahill, L
+AU  - Scahill L
+FAU - Chappell, P B
+AU  - Chappell PB
+FAU - Kim, Y S
+AU  - Kim YS
+FAU - Schultz, R T
+AU  - Schultz RT
+FAU - Katsovich, L
+AU  - Katsovich L
+FAU - Shepherd, E
+AU  - Shepherd E
+FAU - Arnsten, A F
+AU  - Arnsten AF
+FAU - Cohen, D J
+AU  - Cohen DJ
+FAU - Leckman, J F
+AU  - Leckman JF
+LA  - eng
+GR  - MH-30929/MH/NIMH NIH HHS/United States
+GR  - MO1-RR-06022/RR/NCRR NIH HHS/United States
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Am J Psychiatry
+JT  - The American journal of psychiatry
+JID - 0370512
+RN  - 0 (Adrenergic alpha-Agonists)
+RN  - 0 (Placebos)
+RN  - 29110-47-2 (Guanfacine)
+SB  - AIM
+SB  - IM
+MH  - Adolescent
+MH  - Adrenergic alpha-Agonists/administration & dosage/*therapeutic use
+MH  - Attention Deficit Disorder with Hyperactivity/diagnosis/*drug
+      therapy/epidemiology
+MH  - Child
+MH  - Comorbidity
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Female
+MH  - Guanfacine/administration & dosage/*therapeutic use
+MH  - Humans
+MH  - Male
+MH  - Placebos
+MH  - Psychiatric Status Rating Scales/statistics & numerical data
+MH  - Severity of Illness Index
+MH  - Teaching
+MH  - Tic Disorders/diagnosis/*drug therapy/epidemiology
+MH  - Treatment Outcome
+EDAT- 2001/06/30 10:00
+MHDA- 2001/07/28 10:01
+CRDT- 2001/06/30 10:00
+PST - ppublish
+SO  - Am J Psychiatry. 2001 Jul;158(7):1067-74.
+
+PMID- 11270920
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010328
+DCOM- 20010719
+LR  - 20041117
+IS  - 0271-0749 (Print)
+IS  - 0271-0749 (Linking)
+VI  - 21
+IP  - 2
+DP  - 2001 Apr
+TI  - Comparing guanfacine and dextroamphetamine for the treatment of adult
+      attention-deficit/hyperactivity disorder.
+PG  - 223-8
+AB  - The objective of this study was to compare the efficacy of the alpha-2a agonist
+      guanfacine with that of dextroamphetamine for the treatment of adult
+      attention-deficit/hyperactivity disorder (ADHD). Seventeen adult outpatients who 
+      met DSM-IV criteria for ADHD participated in a double-blind, placebo-controlled, 
+      crossover study comparing drug effects on ADHD symptoms. Measures of change
+      included the DSM-IV ADHD Behavior Checklist for Adults and the Copeland Symptom
+      Checklist for Adult Attention Deficit Disorders. Cognitive measures of attention 
+      included the Stroop and Controlled Oral Word Association Test using the letters
+      "C," "F," and "L" (COWAT, CFL version). For each trial, the drug was administered
+      daily and titered up to optimal doses of maximum efficacy but with a minimum of
+      side effects, and then data were collected. Both drugs significantly reduced ADHD
+      symptoms on the DSM-IV Adult Behavior Checklist for Adults over placebo (p <
+      0.05). The Stroop Color subscale showed significant improvement for both drugs (p
+      < 0.05), but the Color-Word measures showed significant improvement for
+      guanfacine only (p < 0.01). The average dose of guanfacine was 1.10 (SD = 0.60), 
+      and the most common side effect of guanfacine was fatigue. No subjects
+      discontinued drug trials. This preliminary study indicates that guanfacine may be
+      a well-tolerated treatment option for adult ADHD.
+AD  - Rainier Associates, Tacoma, Washington 98467, USA.
+FAU - Taylor, F B
+AU  - Taylor FB
+FAU - Russo, J
+AU  - Russo J
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - United States
+TA  - J Clin Psychopharmacol
+JT  - Journal of clinical psychopharmacology
+JID - 8109496
+RN  - 0 (Adrenergic Uptake Inhibitors)
+RN  - 0 (Adrenergic alpha-Agonists)
+RN  - 29110-47-2 (Guanfacine)
+RN  - 51-64-9 (Dextroamphetamine)
+SB  - IM
+MH  - Adrenergic Uptake Inhibitors/*therapeutic use
+MH  - Adrenergic alpha-Agonists/*therapeutic use
+MH  - Adult
+MH  - Analysis of Variance
+MH  - Attention Deficit Disorder with Hyperactivity/*drug therapy/psychology
+MH  - Cross-Over Studies
+MH  - Dextroamphetamine/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Guanfacine/*therapeutic use
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - *Psychological Tests
+EDAT- 2001/03/29 10:00
+MHDA- 2001/07/20 10:01
+CRDT- 2001/03/29 10:00
+PST - ppublish
+SO  - J Clin Psychopharmacol. 2001 Apr;21(2):223-8.
+
+PMID- 11156812
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010222
+DCOM- 20010308
+LR  - 20071114
+IS  - 0002-953X (Print)
+IS  - 0002-953X (Linking)
+VI  - 158
+IP  - 2
+DP  - 2001 Feb
+TI  - A controlled clinical trial of bupropion for attention deficit hyperactivity
+      disorder in adults.
+PG  - 282-8
+AB  - OBJECTIVE: Despite the increasing recognition of attention deficit hyperactivity 
+      disorder (ADHD) in adults, there is a paucity of controlled pharmacological
+      trials demonstrating the effectiveness of compounds used in treatment,
+      particularly nonstimulants. The authors report results from a controlled
+      investigation to determine the anti-ADHD efficacy of bupropion in adult patients 
+      with DSM-IV ADHD. METHOD: This was a double-blind, placebo-controlled,
+      randomized, parallel, 6-week trial comparing patients receiving sustained-release
+      bupropion (up to 200 mg b.i.d.) (N=21) to patients receiving placebo (N=19). The 
+      authors used standardized structured psychiatric instruments for diagnosis of
+      ADHD. To measure improvement, they used separate assessments of ADHD, depression,
+      and anxiety symptoms at baseline and each weekly visit. RESULTS: Of the 40
+      subjects (55% male) enrolled in the study, 38 completed the study. Bupropion
+      treatment was associated with a significant change in ADHD symptoms at the week-6
+      endpoint (42% reduction), which exceeded the effects of placebo (24% reduction). 
+      In analyses using a cutoff of 30% or better reduction to denote response, 76% of 
+      the subjects receiving bupropion improved, compared to 37% of the subjects
+      receiving placebo. Similarly, in analyses using Clinical Global Impression scale 
+      scores, 52% of the subjects receiving bupropion reported being "much improved" to
+      "very improved," compared to 11% of the subjects receiving placebo. CONCLUSIONS: 
+      These results indicate a clinically and statistically significant effect of
+      bupropion in improving ADHD in adults. The results suggest a therapeutic role for
+      bupropion in the armamentarium of agents for ADHD in adults, while further
+      validating the continuity of pharmacological responsivity of ADHD across the
+      lifespan.
+AD  - Pediatric Psychopharmacology Clinic, Massachusetts General Hospital, Boston, MA
+      02114, USA. wilens@helix.mgh.harvard.edu
+FAU - Wilens, T E
+AU  - Wilens TE
+FAU - Spencer, T J
+AU  - Spencer TJ
+FAU - Biederman, J
+AU  - Biederman J
+FAU - Girard, K
+AU  - Girard K
+FAU - Doyle, R
+AU  - Doyle R
+FAU - Prince, J
+AU  - Prince J
+FAU - Polisner, D
+AU  - Polisner D
+FAU - Solhkhah, R
+AU  - Solhkhah R
+FAU - Comeau, S
+AU  - Comeau S
+FAU - Monuteaux, M C
+AU  - Monuteaux MC
+FAU - Parekh, A
+AU  - Parekh A
+LA  - eng
+GR  - DA-11315/DA/NIDA NIH HHS/United States
+GR  - MH-011175/MH/NIMH NIH HHS/United States
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Am J Psychiatry
+JT  - The American journal of psychiatry
+JID - 0370512
+RN  - 0 (Antidepressive Agents, Second-Generation)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Placebos)
+RN  - 34841-39-9 (Bupropion)
+SB  - AIM
+SB  - IM
+MH  - Adult
+MH  - Age Factors
+MH  - Antidepressive Agents, Second-Generation/administration & dosage/*therapeutic use
+MH  - Attention Deficit Disorder with Hyperactivity/*drug
+      therapy/epidemiology/psychology
+MH  - Bupropion/administration & dosage/*therapeutic use
+MH  - Comorbidity
+MH  - Delayed-Action Preparations
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mental Disorders/epidemiology
+MH  - Middle Aged
+MH  - Placebos
+MH  - Treatment Outcome
+EDAT- 2001/02/07 11:00
+MHDA- 2001/03/10 10:01
+CRDT- 2001/02/07 11:00
+PST - ppublish
+SO  - Am J Psychiatry. 2001 Feb;158(2):282-8.
+
+PMID- 10350032
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990727
+DCOM- 19990727
+LR  - 20071114
+IS  - 0271-0749 (Print)
+IS  - 0271-0749 (Linking)
+VI  - 19
+IP  - 3
+DP  - 1999 Jun
+TI  - Controlled trial of high doses of pemoline for adults with
+      attention-deficit/hyperactivity disorder.
+PG  - 257-64
+AB  - Despite the increasing awareness of attention-deficit/hyperactivity disorder
+      (ADHD) in adults, there are a limited number of controlled pharmacologic studies 
+      of this disorder. Because the stimulant medication magnesium pemoline (Cylert,
+      Abbott Laboratories, Abbott Park, IL) has been found effective in treating ADHD
+      in pediatric groups, we tested its efficacy in adults with ADHD using higher
+      daily doses than those previously studied. We conducted a 10-week, double-blind, 
+      placebo-controlled, crossover design study of pemoline at a target daily dose of 
+      3 mg/kg per day in 35 adult patients with DSM-III-R and -IV ADHD. We used
+      standardized structured psychiatric instruments for diagnosis. To measure
+      improvement, we used separate assessments of ADHD, depressive, and anxiety
+      symptoms at baseline and at each biweekly visit. ADHD outcome was determined
+      using the ADHD symptom checklist and Clinical Global Impression scales of
+      Severity and Improvement. Of the 35 adults with ADHD who were randomized in the
+      trial, 27 (77%) completed the protocol. Treatment with pemoline in the final week
+      of the 4-week active phase was best tolerated at doses substantially lower than
+      the target dose of 3 mg/kg per day (mean dose, 2.2 mg/kg per day; mean+/-SD,
+      148+/-95 mg). Pemoline was significantly better at reducing ADHD symptoms
+      compared with placebo (z = 2.4,p < 0.02). Using a predefined 30% reduction in
+      symptoms as an indication of improvement, 50% of pemoline-treated subjects and
+      17% of subjects in the placebo group were considered positive responders (chi2 = 
+      7.1, p = 0.008). These results indicate that pemoline is moderately effective in 
+      the treatment of ADHD in adults. Although robust doses were targeted, most adults
+      preferred more moderate dosing (120-160 mg/day). Given the limited efficacy,
+      tolerability, and concerns of hepatic dysfunction, pemoline should be considered 
+      as second-line medication for treating ADHD in adults.
+AD  - Pediatric Psychopharmacology Unit, Massachusetts General Hospital, and Harvard
+      Medical School, Boston 02114, USA.
+FAU - Wilens, T E
+AU  - Wilens TE
+FAU - Biederman, J
+AU  - Biederman J
+FAU - Spencer, T J
+AU  - Spencer TJ
+FAU - Frazier, J
+AU  - Frazier J
+FAU - Prince, J
+AU  - Prince J
+FAU - Bostic, J
+AU  - Bostic J
+FAU - Rater, M
+AU  - Rater M
+FAU - Soriano, J
+AU  - Soriano J
+FAU - Hatch, M
+AU  - Hatch M
+FAU - Sienna, M
+AU  - Sienna M
+FAU - Millstein, R B
+AU  - Millstein RB
+FAU - Abrantes, A
+AU  - Abrantes A
+LA  - eng
+GR  - K20 MH011175A03/MH/NIMH NIH HHS/United States
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - UNITED STATES
+TA  - J Clin Psychopharmacol
+JT  - Journal of clinical psychopharmacology
+JID - 8109496
+RN  - 0 (Central Nervous System Stimulants)
+RN  - 2152-34-3 (Pemoline)
+SB  - IM
+MH  - Adult
+MH  - Attention Deficit Disorder with Hyperactivity/*drug therapy
+MH  - Central Nervous System Stimulants/*administration & dosage/adverse
+      effects/therapeutic use
+MH  - Cross-Over Studies
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Pemoline/*administration & dosage/adverse effects/therapeutic use
+MH  - Treatment Outcome
+EDAT- 1999/06/01
+MHDA- 1999/06/01 00:01
+CRDT- 1999/06/01 00:00
+PST - ppublish
+SO  - J Clin Psychopharmacol. 1999 Jun;19(3):257-64.
+
+PMID- 10197827
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990414
+DCOM- 19990414
+LR  - 20071114
+IS  - 0003-990X (Print)
+IS  - 0003-990X (Linking)
+VI  - 56
+IP  - 4
+DP  - 1999 Apr
+TI  - Long-term methylphenidate therapy in children with comorbid attention-deficit
+      hyperactivity disorder and chronic multiple tic disorder.
+PG  - 330-6
+AB  - BACKGROUND: This study examined changes in attention-deficit hyperactivity (ADHD)
+      behaviors and motor and vocal tics during long-term treatment with
+      methylphenidate. METHODS: Thirty-four prepubertal children with ADHD and chronic 
+      multiple tic disorder (who had participated in an 8-week, double-blind,
+      placebo-controlled methylphenidate evaluation) were evaluated at 6-month
+      intervals for 2 years as part of a prospective, nonblind, follow-up study.
+      Treatment effects were assessed using direct observations of child behavior in a 
+      simulated (clinic-based) classroom and behavior rating scales completed by
+      parents and physician. Videotapes of the simulated classroom were scored by
+      coders who were blind to treatment status. RESULTS: There was no evidence (group 
+      data) that motor tics or vocal tics changed in frequency or severity during
+      maintenance therapy compared with diagnostic or initial double-blind placebo
+      evaluations. Behavioral improvements demonstrated during the acute drug trial
+      were maintained during follow-up. There was no evidence (group data) of
+      clinically significant adverse drug effects on cardiovascular function or growth 
+      at the end of 2 years of treatment. CONCLUSIONS: Long-term treatment with
+      methylphenidate seems to be safe and effective for the management of ADHD
+      behaviors in many (but not necessarily all) children with mild to moderate tic
+      disorder. Nevertheless, careful clinical monitoring is mandatory to rule out the 
+      possibility of drug-induced tic exacerbation in individual patients.
+AD  - Department of Psychiatry and Behavioral Science, State University of New York at 
+      Stony Brook, 11794-8790, USA.
+FAU - Gadow, K D
+AU  - Gadow KD
+FAU - Sverd, J
+AU  - Sverd J
+FAU - Sprafkin, J
+AU  - Sprafkin J
+FAU - Nolan, E E
+AU  - Nolan EE
+FAU - Grossman, S
+AU  - Grossman S
+LA  - eng
+GR  - MH45358/MH/NIMH NIH HHS/United States
+PT  - Clinical Trial
+PT  - Controlled Clinical Trial
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - UNITED STATES
+TA  - Arch Gen Psychiatry
+JT  - Archives of general psychiatry
+JID - 0372435
+RN  - 0 (Central Nervous System Stimulants)
+RN  - 113-45-1 (Methylphenidate)
+SB  - AIM
+SB  - IM
+CIN - Arch Gen Psychiatry. 1999 Apr;56(4):337-8. PMID: 10197828
+MH  - Attention Deficit Disorder with Hyperactivity/*drug
+      therapy/epidemiology/prevention & control
+MH  - Central Nervous System Stimulants/administration & dosage/*therapeutic use
+MH  - Child
+MH  - Chronic Disease
+MH  - Comorbidity
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Drug Evaluation
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Methylphenidate/administration & dosage/*therapeutic use
+MH  - Prospective Studies
+MH  - Severity of Illness Index
+MH  - Tic Disorders/*drug therapy/epidemiology/prevention & control
+EDAT- 1999/04/10
+MHDA- 1999/04/10 00:01
+CRDT- 1999/04/10 00:00
+PST - ppublish
+SO  - Arch Gen Psychiatry. 1999 Apr;56(4):330-6.
+
+PMID- 9432523
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980112
+DCOM- 19980112
+LR  - 20061115
+IS  - 0022-3476 (Print)
+IS  - 0022-3476 (Linking)
+VI  - 130
+IP  - 4
+DP  - 1997 Apr
+TI  - Epilepsy and attention deficit hyperactivity disorder: is methylphenidate safe
+      and effective?
+PG  - 670-4
+AB  - OBJECTIVE: To study the safety and efficacy of methylphenidate in children with
+      the dual diagnosis of epilepsy and attention deficit hyperactivity disorder
+      (ADHD). STUDY DESIGN: Thirty children, aged 6.4 to 16.4 years, with epilepsy and 
+      ADHD were studied during a 4-month period. During the initial 2 months of the
+      study, the children were treated with antiepileptic drugs (AEDs) only, and for
+      the remaining 2 months, methylphenidate was added at a morning dose of 0.3 mg/kg.
+      They underwent neurologic assessment, brain computed tomography, IQ testing, and 
+      assessment with the Childhood Behavior Checklist at baseline before
+      methylphenidate therapy. Electroencephalography, AED determinations, and the
+      continuous-performance task (CPT) test were done at baseline and after 2 months
+      of methylphenidate therapy. A double-blind, crossover design was used to compare 
+      the effects of methylphenidate versus placebo on an electroencephalogram, AED
+      levels, and the CPT. On the 2 days of testing, the child received AEDs and a
+      capsule containing either placebo or methylphenidate. RESULTS: None of the 25
+      children of this sample who were seizure free had attacks while taking
+      methylphenidate. Of the 5 children with seizures, 3 had an increase in attacks,
+      whereas the other 2 showed no change or a reduction. There were no significant
+      changes in AED levels or electroencephalographic findings. Methylphenidate
+      benefited 70% of children according to parental report; methylphenidate also
+      enhanced performance on the CPT. Side effects of methylphenidate were mild and
+      transient. CONCLUSION: Methylphenidate is effective in treating children with
+      epilepsy and ADHD and safe in children who are seizure free. Caution is warranted
+      for those still having seizures while receiving AED therapy.
+AD  - Pediatric Neurobehavioral Unit, Shaare Zedek Medical Center, Jerusalem, Israel.
+FAU - Gross-Tsur, V
+AU  - Gross-Tsur V
+FAU - Manor, O
+AU  - Manor O
+FAU - van der Meere, J
+AU  - van der Meere J
+FAU - Joseph, A
+AU  - Joseph A
+FAU - Shalev, R S
+AU  - Shalev RS
+LA  - eng
+PT  - Clinical Trial
+PT  - Comment
+PT  - Controlled Clinical Trial
+PT  - Corrected and Republished Article
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - J Pediatr
+JT  - The Journal of pediatrics
+JID - 0375410
+RN  - 0 (Anticonvulsants)
+RN  - 113-45-1 (Methylphenidate)
+SB  - AIM
+SB  - IM
+CON - J Pediatr. 1997 Jan;130(1):6-9. PMID: 9003843
+CRF - J Pediatr. 1997 Jan;130(1):40-4. PMID: 9003849
+MH  - Adolescent
+MH  - Anticonvulsants/blood/*therapeutic use
+MH  - Attention Deficit Disorder with Hyperactivity/complications/*drug therapy
+MH  - Child
+MH  - Cross-Over Studies
+MH  - Double-Blind Method
+MH  - Epilepsy/complications/*drug therapy
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Methylphenidate/adverse effects/*therapeutic use
+MH  - Task Performance and Analysis
+MH  - Treatment Outcome
+EDAT- 1997/04/01 00:00
+MHDA- 1998/02/12 00:01
+CRDT- 1997/04/01 00:00
+AID - S0022-3476(97)70258-0 [pii]
+PST - ppublish
+SO  - J Pediatr. 1997 Apr;130(4):670-4.
+
+PMID- 9003849
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970214
+DCOM- 19970214
+LR  - 20061115
+IS  - 0022-3476 (Print)
+IS  - 0022-3476 (Linking)
+VI  - 130
+IP  - 1
+DP  - 1997 Jan
+TI  - Epilepsy and attention deficit hyperactivity disorder: is methylphenidate safe
+      and effective?
+PG  - 40-4
+AB  - OBJECTIVE: To study the safety and efficacy of methylphenidate in children with
+      the dual diagnosis of epilepsy and attention deficit hyperactivity disorder
+      (ADHD). STUDY DESIGN: Thirty children, aged 6.4 to 16.4 years, with epilepsy and 
+      ADHD were studied during a 4-month period. During the initial 2 months of the
+      study, the children were treated with antiepileptic drugs (AEDs) only, and for
+      the remaining 2 months, methylphenidate was added at a morning dose of 0.3 mg/kg.
+      They underwent neurologic assessment, brain computed tomography, IQ testing, and 
+      assessment with the Childhood Behavior Checklist at baseline before
+      methylphenidate therapy. Electroencephalography, AED determinations, and the
+      continuous-performance task (CPT) test were done at baseline and after 2 months
+      of methylphenidate therapy. A double-blind, crossover design was used to compare 
+      the effects of methylphenidate versus placebo on an electroencephalogram, AED
+      levels, and the CPT. On the 2 days of testing, the child received AEDs and a
+      capsule containing either placebo or methylphenidate. RESULTS: None of the 25
+      children of this sample who were seizure free had attacks while taking
+      methylphenidate. Of the 5 children with seizures, 3 had an increase in attacks,
+      whereas the other 2 showed no change or a reduction. There were no significant
+      changes in AED levels or electroencephalographic findings. Methylphenidate
+      benefited 70% of children according to parental report; methylphenidate also
+      enhanced performance on the CPT. Side effects of methylphenidate were mild and
+      transient. CONCLUSION: Methylphenidate is effective in treating children with
+      epilepsy and ADHD and safe in children who are seizure free. Caution is warranted
+      for those still having seizures while receiving AED therapy.
+AD  - Pediatric Neurobehavioral Unit, Shaare Zedek Medical Center and Braun School of
+      Public Health and Community Medicine, Hadassah-Hebrew University, Jerusalem,
+      Israel.
+FAU - Gross-Tsur, V
+AU  - Gross-Tsur V
+FAU - Manor, O
+AU  - Manor O
+FAU - van der Meere, J
+AU  - van der Meere J
+FAU - Joseph, A
+AU  - Joseph A
+FAU - Shalev, R S
+AU  - Shalev RS
+LA  - eng
+PT  - Clinical Trial
+PT  - Controlled Clinical Trial
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - J Pediatr
+JT  - The Journal of pediatrics
+JID - 0375410
+RN  - 0 (Anticonvulsants)
+RN  - 113-45-1 (Methylphenidate)
+SB  - AIM
+SB  - IM
+CIN - J Pediatr. 1997 Jan;130(1):164-6. PMID: 9003873
+CIN - J Pediatr. 1997 Apr;130(4):665-9. PMID: 9108871
+CIN - J Pediatr. 1997 Jan;130(1):6-9. PMID: 9003843
+CRI - J Pediatr. 1997 Apr;130(4):670-4. PMID: 9432523
+MH  - Adolescent
+MH  - Anticonvulsants/blood/*therapeutic use
+MH  - Attention Deficit Disorder with Hyperactivity/complications/*drug therapy
+MH  - Child
+MH  - Cross-Over Studies
+MH  - Double-Blind Method
+MH  - Epilepsy/complications/*drug therapy
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Methylphenidate/adverse effects/*therapeutic use
+MH  - Task Performance and Analysis
+MH  - Treatment Outcome
+EDAT- 1997/01/01
+MHDA- 1997/01/01 00:01
+CRDT- 1997/01/01 00:00
+AID - S0022-3476(97)70308-1 [pii]
+PST - ppublish
+SO  - J Pediatr. 1997 Jan;130(1):40-4.
+
+PMID- 7771913
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950630
+DCOM- 19950630
+LR  - 20061115
+IS  - 0003-990X (Print)
+IS  - 0003-990X (Linking)
+VI  - 52
+IP  - 6
+DP  - 1995 Jun
+TI  - A double-blind, crossover comparison of methylphenidate and placebo in adults
+      with childhood-onset attention-deficit hyperactivity disorder.
+PG  - 434-43
+AB  - BACKGROUND: There are few controlled studies of methylphenidate hydrochloride in 
+      adults with attention-deficit hyperactivity disorder (ADHD), and their results
+      have been equivocal. The discrepancies among these studies may be related to low 
+      doses, diagnostic uncertainties, and lack of attention to comorbid disorders.
+      METHODS: We conducted a randomized, 7-week, placebo-controlled, crossover study
+      of methylphenidate in 23 adult patients with DSM-III-R ADHD using standardized
+      instruments for diagnosis, separate assessments of ADHD and depressive and
+      anxiety symptoms, and a robust daily dose of methylphenidate hydrochloride, 1.0
+      mg/kg per day. RESULTS: We found a marked therapeutic response for
+      methylphenidate treatment of ADHD symptoms that exceeded the placebo response
+      (78% vs 4%, P < .0001). Response to methylphenidate was independent of gender,
+      psychiatric comorbidity with anxiety or moderate depression, or family history of
+      psychiatric disorders. CONCLUSION: Robust doses of methylphenidate are effective 
+      in the treatment of adult ADHD.
+AD  - Pediatric Psychopharmacology Unit, Massachusetts General Hospital, Boston, USA.
+FAU - Spencer, T
+AU  - Spencer T
+FAU - Wilens, T
+AU  - Wilens T
+FAU - Biederman, J
+AU  - Biederman J
+FAU - Faraone, S V
+AU  - Faraone SV
+FAU - Ablon, J S
+AU  - Ablon JS
+FAU - Lapey, K
+AU  - Lapey K
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - Arch Gen Psychiatry
+JT  - Archives of general psychiatry
+JID - 0372435
+RN  - 0 (Placebos)
+RN  - 113-45-1 (Methylphenidate)
+SB  - AIM
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Age Factors
+MH  - Ambulatory Care
+MH  - Anxiety Disorders/epidemiology
+MH  - Attention Deficit Disorder with Hyperactivity/*drug
+      therapy/epidemiology/psychology
+MH  - Comorbidity
+MH  - Cross-Over Studies
+MH  - Depressive Disorder/epidemiology
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Family
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mental Disorders/epidemiology
+MH  - Methylphenidate/administration & dosage/*therapeutic use
+MH  - Middle Aged
+MH  - Placebos
+MH  - Treatment Outcome
+EDAT- 1995/06/01
+MHDA- 1995/06/01 00:01
+CRDT- 1995/06/01 00:00
+PST - ppublish
+SO  - Arch Gen Psychiatry. 1995 Jun;52(6):434-43.

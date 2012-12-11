@@ -1,0 +1,102 @@
+anaprox
+ankylosing
+ansaid
+arthritis
+cardiovascular
+cataflam
+celebrex
+celecoxib
+choline
+clinoril
+daypro
+diclofenac
+diflunisal
+disalcid
+dolobid
+etodolac
+feldene
+fenoprofen
+flurbiprofen
+gastrointestinal
+ibuprofen
+indocin
+indomethacin
+ketoprofen
+ketorolac
+lodine
+magnesium
+meclofenamate
+mefenamic
+meloxicam
+mobic
+motrin
+nabumetone
+nalfon
+naprelan
+naproxen
+oruvail
+osteoarthritis
+oxaprozin
+piroxicam
+relafen
+rheumatoid
+salsalate
+pain
+pains
+spondylitis
+sulindac
+tenoxicam
+tiaprofenic
+tolectin
+tolmetin
+toradol
+trisalicylate
+voltaren
+myocardial
+angina
+stroke
+strokes
+stroking
+ischemic
+hypertension
+congestive
+renal
+creatinine
+edema
+transaminases
+adverse
+itches
+itch
+itching
+poison
+poisonous
+toxic
+functional
+withdrawal
+withdrawals
+safety
+mortality
+hospitalization
+emergency
+emergencies
+discontinuation
+employment
+employ
+nausea
+vomit
+headache
+tolerability
+tolerance
+death
+dead
+placebo
+quality of life
+life quality
+dry mouth
+mental state
+soft tissue pain
+soft-tissue pain
+low backpain
+functional status
+adverse effect
+adverse effects

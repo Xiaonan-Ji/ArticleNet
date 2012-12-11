@@ -1,0 +1,4158 @@
+
+PMID- 14613272
+OWN - NLM
+STAT- MEDLINE
+DA  - 20031112
+DCOM- 20031202
+LR  - 20061115
+IS  - 0004-3591 (Print)
+IS  - 0004-3591 (Linking)
+VI  - 48
+IP  - 11
+DP  - 2003 Nov
+TI  - Comparing the efficacy of cyclooxygenase 2-specific inhibitors in treating
+      osteoarthritis: appropriate trial design considerations and results of a
+      randomized, placebo-controlled trial.
+PG  - 3102-11
+AB  - OBJECTIVE: To compare the efficacy of the cyclooxygenase 2 (COX-2)-specific
+      inhibitors celecoxib and rofecoxib in treating the signs and symptoms of
+      osteoarthritis (OA). METHODS: In this randomized, placebo-controlled,
+      double-blind, multicenter study, 475 patients with OA of the knee received either
+      celecoxib 200 mg/day (n = 189), rofecoxib 25 mg/day (n = 190), or placebo (n =
+      96) for 6 weeks. Arthritis assessments were performed at baseline, week 3, and
+      week 6 (or at the time of early termination). RESULTS: In primary measures of
+      efficacy (OA pain score on a 100-mm visual analog scale [VAS] and total domain
+      score on the Western Ontario and McMaster Universities Osteoarthritis Index),
+      celecoxib 200 mg/day and rofecoxib 25 mg/day demonstrated similar efficacy. At
+      week 6, celecoxib was associated with a 34-mm mean improvement on the VAS for OA 
+      pain, compared with 31.6 mm for rofecoxib and 21.2 mm for placebo. The difference
+      between celecoxib and rofecoxib was -2.5 mm, with an upper limit of the 95%
+      confidence interval of 2.7 mm and within the prespecified definition of
+      noninferiority. Secondary measures of efficacy showed similar results. All
+      differences in primary and secondary measures of efficacy between the 2 active
+      treatments and placebo were statistically significant (P < 0.02), whereas all of 
+      the comparisons of efficacy between celecoxib and rofecoxib met the predefined
+      criteria for noninferiority. All treatments were well tolerated throughout the
+      study, with similar proportions of patients withdrawing due to adverse events.
+      CONCLUSION: Celecoxib 200 mg/day and rofecoxib 25 mg/day are equally efficacious 
+      in treating the signs and symptoms of OA.
+AD  - Hospital for Special Surgery-Weill Medical College of Cornell University, New
+      York, New York 10021, USA. gibofskya@hss.edu
+FAU - Gibofsky, Allan
+AU  - Gibofsky A
+FAU - Williams, Gary W
+AU  - Williams GW
+FAU - McKenna, Frank
+AU  - McKenna F
+FAU - Fort, John G
+AU  - Fort JG
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Arthritis Rheum
+JT  - Arthritis and rheumatism
+JID - 0370605
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Lactones)
+RN  - 0 (Pyrazoles)
+RN  - 0 (Sulfonamides)
+RN  - 0 (Sulfones)
+RN  - 0 (rofecoxib)
+RN  - 169590-42-5 (celecoxib)
+SB  - AIM
+SB  - IM
+CIN - Arthritis Rheum. 2003 Nov;48(11):3001-3. PMID: 14613258
+MH  - Cyclooxygenase Inhibitors/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Lactones/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Osteoarthritis/*drug therapy/physiopathology
+MH  - Pain Measurement
+MH  - Pyrazoles
+MH  - Severity of Illness Index
+MH  - Sulfonamides/*therapeutic use
+MH  - Sulfones
+MH  - Treatment Outcome
+EDAT- 2003/11/13 05:00
+MHDA- 2003/12/03 05:00
+CRDT- 2003/11/13 05:00
+AID - 10.1002/art.11330 [doi]
+PST - ppublish
+SO  - Arthritis Rheum. 2003 Nov;48(11):3102-11.
+
+PMID- 14530224
+OWN - NLM
+STAT- MEDLINE
+DA  - 20031007
+DCOM- 20031027
+LR  - 20061115
+IS  - 1539-3704 (Electronic)
+IS  - 0003-4819 (Linking)
+VI  - 139
+IP  - 7
+DP  - 2003 Oct 7
+TI  - Gastrointestinal tolerability and effectiveness of rofecoxib versus naproxen in
+      the treatment of osteoarthritis: a randomized, controlled trial.
+PG  - 539-46
+AB  - BACKGROUND: Gastrointestinal (GI) toxicity mediated by dual cyclooxygenase
+      (COX)-1 and COX-2 inhibition of nonsteroidal anti-inflammatory drugs (NSAIDs) can
+      cause serious alterations of mucosal integrity or, more commonly, intolerable GI 
+      symptoms that may necessitate discontinuation of therapy. Unlike NSAIDs,
+      rofecoxib targets only the COX-2 isoform. OBJECTIVE: To assess the tolerability
+      of rofecoxib compared with naproxen for treatment of osteoarthritis. DESIGN:
+      Randomized, controlled trial. SETTING: 600 office and clinical research sites.
+      PATIENTS: 5557 patients (mean age, 63 years) with a baseline diagnosis of
+      osteoarthritis of the knee, hip, hand, or spine. INTERVENTION: Rofecoxib, 25
+      mg/d, or naproxen, 500 mg twice daily. Use of routine medications, including
+      aspirin, was permitted. MEASUREMENTS: Discontinuation due to GI adverse events
+      (primary end point) and use of concomitant medication to treat GI symptoms
+      (secondary end point). Efficacy was determined by patient-reported global
+      assessment of disease status and the Australian/Canadian Osteoarthritis Hand
+      Index, as well as discontinuations due to lack of efficacy. Patients were
+      evaluated at baseline and at weeks 6 and 12. RESULTS: Rates of cumulative
+      discontinuation due to GI adverse events were statistically significantly lower
+      in the rofecoxib group than in the naproxen group (5.9% vs. 8.1%; relative risk, 
+      0.74 [95% CI, 0.60 to 0.92]; P = 0.005), as were rates of cumulative use of
+      medication to treat GI symptoms (9.1% vs. 11.2%; relative risk, 0.79 [CI, 0.66 to
+      0.96]; P = 0.014]). Subgroup analysis of patients who used low-dose aspirin (13%)
+      and those who previously discontinued using arthritis medication because of GI
+      symptoms (15%) demonstrated a relative risk similar to the overall sample for
+      discontinuation due to GI adverse events (relative risk, 0.56 [CI, 0.31 to 1.01] 
+      and 0.53 [CI, 0.34 to 0.84], respectively). No statistically significant
+      difference was observed between treatments for efficacy in treating
+      osteoarthritis or for occurrence of other adverse events. CONCLUSIONS: In
+      patients with osteoarthritis treated for 12 weeks, rofecoxib, 25 mg/d, was as
+      effective as naproxen, 500 mg twice daily, but had statistically significantly
+      superior GI tolerability and led to less use of concomitant GI medications.
+      Benefits of rofecoxib in subgroup analyses were consistent with findings in the
+      overall sample.
+AD  - University of Arizona, Tuscon, USA.
+FAU - Lisse, Jeffrey R
+AU  - Lisse JR
+FAU - Perlman, Monica
+AU  - Perlman M
+FAU - Johansson, Gunnar
+AU  - Johansson G
+FAU - Shoemaker, James R
+AU  - Shoemaker JR
+FAU - Schechtman, Joy
+AU  - Schechtman J
+FAU - Skalky, Carol S
+AU  - Skalky CS
+FAU - Dixon, Mary E
+AU  - Dixon ME
+FAU - Polis, Adam B
+AU  - Polis AB
+FAU - Mollen, Arthur J
+AU  - Mollen AJ
+FAU - Geba, Gregory P
+AU  - Geba GP
+CN  - ADVANTAGE Study Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Ann Intern Med
+JT  - Annals of internal medicine
+JID - 0372351
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Lactones)
+RN  - 0 (Sulfones)
+RN  - 0 (rofecoxib)
+RN  - 22204-53-1 (Naproxen)
+RN  - 50-78-2 (Aspirin)
+SB  - AIM
+SB  - IM
+CIN - Ann Intern Med. 2005 Jul 19;143(2):158-9. PMID: 15968005
+CIN - Ann Intern Med. 2005 Oct 18;143(8):611-2. PMID: 16230729
+CIN - Ann Intern Med. 2006 May 16;144(10):781. PMID: 16702599
+CIN - Ann Intern Med. 2004 Jun 15;140(12):1059-60; author reply 1060. PMID: 15197027
+CIN - Ann Intern Med. 2004 Jun 15;140(12):1059; author reply 1060. PMID: 15197026
+CIN - Ann Intern Med. 2004 Jun 15;140(12):1059; author reply 1060. PMID: 15197028
+CIN - Ann Intern Med. 2003 Oct 7;139(7):I29. PMID: 14530248
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*adverse effects/therapeutic use
+MH  - Aspirin/therapeutic use
+MH  - Cardiovascular Diseases/complications
+MH  - Cyclooxygenase Inhibitors/*adverse effects/therapeutic use
+MH  - Double-Blind Method
+MH  - Drug Therapy, Combination
+MH  - Female
+MH  - Gastrointestinal Diseases/*chemically induced
+MH  - Humans
+MH  - Hypertension/complications
+MH  - Lactones/*adverse effects/therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Naproxen/*adverse effects/therapeutic use
+MH  - Osteoarthritis/complications/*drug therapy
+MH  - Prospective Studies
+MH  - Sulfones
+EDAT- 2003/10/08 05:00
+MHDA- 2003/10/28 05:00
+CRDT- 2003/10/08 05:00
+AID - 139/7/539 [pii]
+PST - ppublish
+SO  - Ann Intern Med. 2003 Oct 7;139(7):539-46.
+
+PMID- 14506910
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030924
+DCOM- 20031119
+LR  - 20051117
+IS  - 0012-6667 (Print)
+IS  - 0012-6667 (Linking)
+VI  - 63 Suppl 1
+DP  - 2003
+TI  - A randomised, double-blind, clinical trial comparing the efficacy of nimesulide, 
+      celecoxib and rofecoxib in osteoarthritis of the knee.
+PG  - 37-46
+AB  - Joint pain is the main complaint in patients affected by osteoarthritis (OA), and
+      NSAIDs are commonly used to treat pain associated with OA. Over the past few
+      years, cyclo-oxygenase (COX)-2-selective inhibitors have been proved to have
+      certain advantages over non-selective NSAIDs and have been increasingly used for 
+      pain management in patients with OA. OBJECTIVE: The main objective of this
+      randomised, double-blind, within-patient study was to compare the analgesic
+      efficacy of three COX-2 inhibitors in 30 patients affected by symptomatic OA of
+      the knee. We evaluated the effects of oral nimesulide (100mg), celecoxib (200mg) 
+      and rofecoxib (25mg). Each drug was administered for 7 days. METHODS: Analgesic
+      efficacy was determined using the patient's assessment of pain on a visual
+      analogue scale (VAS) and by total pain relief over 3 hours (TOPAR3) on the first 
+      and last days of treatment. In addition, the overall analgesic efficacy and
+      tolerability were determined by a global assessment by the patient at the end of 
+      each week of treatment, using 5-point categorical scales. At the end of the
+      study, each patient was asked about which of the three forms of treatment they
+      would choose as a continuation of the pain therapy. RESULTS: Taking all the
+      results into consideration, nimesulide proved to be significantly more effective 
+      in providing symptomatic relief than did celecoxib and rofecoxib. Furthermore,
+      nimesulide provided more rapid relief of pain associated with walking than did
+      the other two drugs tested. Patients expressed similar preference for nimesulide 
+      and rofecoxib, but a lesser preference for celecoxib treatment. No patient
+      withdrew from the study because of adverse events and the three different forms
+      of treatment were generally safe and well tolerated. CONCLUSION: The present data
+      confirm our previous observations in patients with rheumatoid arthritis, further 
+      suggesting that nimesulide represents an effective agent for the treatment of
+      joint pain, with particular reference to the rapid onset of its analgesic effect.
+AD  - Department of Pharmacology, School of Medicine, University of Milan, Italy.
+      mauro.bianchi@unimi.it
+FAU - Bianchi, M
+AU  - Bianchi M
+FAU - Broggini, M
+AU  - Broggini M
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - New Zealand
+TA  - Drugs
+JT  - Drugs
+JID - 7600076
+RN  - 0 (Lactones)
+RN  - 0 (Pyrazoles)
+RN  - 0 (Sulfonamides)
+RN  - 0 (Sulfones)
+RN  - 0 (rofecoxib)
+RN  - 169590-42-5 (celecoxib)
+RN  - 51803-78-2 (nimesulide)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Analysis of Variance
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Knee/physiopathology
+MH  - Lactones/*pharmacology/therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Osteoarthritis/*drug therapy
+MH  - Osteoarthritis, Knee/*drug therapy
+MH  - Pain/*drug therapy
+MH  - Pain Measurement/*methods/*utilization
+MH  - Pyrazoles
+MH  - Sulfonamides/*pharmacology/therapeutic use
+MH  - Sulfones
+MH  - Time Factors
+EDAT- 2003/09/26 05:00
+MHDA- 2003/12/03 05:00
+CRDT- 2003/09/26 05:00
+PST - ppublish
+SO  - Drugs. 2003;63 Suppl 1:37-46.
+
+PMID- 12914871
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030813
+DCOM- 20030828
+LR  - 20071115
+IS  - 0002-9149 (Print)
+IS  - 0002-9149 (Linking)
+VI  - 92
+IP  - 4
+DP  - 2003 Aug 15
+TI  - Cardiovascular thrombotic events in arthritis trials of the cyclooxygenase-2
+      inhibitor celecoxib.
+PG  - 411-8
+AB  - To determine whether the cyclooxygenase-2 (COX-2) inhibitor celecoxib affects
+      cardiovascular thrombotic risk, we analyzed the incidence of cardiovascular
+      events for celecoxib, placebo, and nonsteroidal anti-inflammatory drugs (NSAIDs) 
+      in the entire controlled, arthritis clinical trial database for celecoxib. The
+      primary analysis used the Antiplatelet Trialists' Collaboration end points, which
+      include: (1) cardiovascular, hemorrhagic, and unknown deaths, (2) nonfatal
+      myocardial infarction, and (3) nonfatal stroke. Other secondary thrombotic events
+      were also examined. Separate analyses were performed for all patients and for
+      those not taking aspirin. Data from all controlled, completed arthritis trials of
+      > or =4 weeks duration, including 13 new drug application studies and 2 large
+      post-marketing trials (CLASS and SUCCESS) were included for analyses. Patients
+      were randomized to celecoxib at doses from 100 to 400 mg twice daily (18,942
+      patients; 5,668.2 patient-years of exposure), diclofenac 50 to 75 mg twice daily,
+      ibuprofen 800 mg thrice daily, naproxen 500 mg twice daily (combined NSAID
+      exposure of 11,143 patients; 3,612.2 patient-years), or placebo (1,794 subjects; 
+      199.9 subject-years). Data from a long-term uncontrolled trial with 5,209
+      patients (6,950 patients-years) treated with celecoxib were included in a
+      supplemental analysis. The entire 15-trial database was searched for possible
+      serious thrombotic events as well as to identify all deaths. For these patients, 
+      detailed clinical data were obtained and reviewed by 2 of the investigators (WBW 
+      and JSB), who were independently and blinded to exposure, to classify the event
+      as primary, secondary, or neither. All analyses were done using the
+      intent-to-treat population, and time-to-event analyses were performed using
+      per-patient data. To examine heterogeneity of results among studies, tests of
+      interaction were performed using the Cox model. Incidences of the primary and
+      secondary events were not significantly different between the celecoxib and
+      placebo groups, nor for the celecoxib group compared with the NSAIDs group,
+      regardless of aspirin use and NSAID type. The relative risks comparing celecoxib 
+      with the NSAIDs for the primary events were 1.06 (95% confidence interval 0.70 to
+      1.61, p = 0.79) for all patients, and 0.86 (95% confidence interval 0.48 to 1.56,
+      p = 0.62) for the subgroup not taking aspirin. Similarly, for secondary
+      cardiovascular end points, all relative risks were < or =1 for celecoxib compared
+      with either placebo or NSAIDs. These comparative analyses demonstrate no evidence
+      of increased risk of cardiovascular thrombotic events associated with celecoxib
+      compared with either conventional NSAIDs or placebo.
+AD  - Division of Hypertension and Clinical Pharmacology, Department of Medicine,
+      University of Connecticut School of Medicine, Farmington, Connecticut 06030-3940,
+      USA. wwhite@nso1.uchc.edu
+FAU - White, William B
+AU  - White WB
+FAU - Faich, Gerald
+AU  - Faich G
+FAU - Borer, Jeffrey S
+AU  - Borer JS
+FAU - Makuch, Robert W
+AU  - Makuch RW
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Am J Cardiol
+JT  - The American journal of cardiology
+JID - 0207277
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Pyrazoles)
+RN  - 0 (Sulfonamides)
+RN  - 169590-42-5 (celecoxib)
+SB  - AIM
+SB  - IM
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*adverse effects
+MH  - Arthritis/*drug therapy
+MH  - Cyclooxygenase Inhibitors/*adverse effects/therapeutic use
+MH  - Humans
+MH  - Pyrazoles
+MH  - Randomized Controlled Trials as Topic
+MH  - Sulfonamides/*adverse effects/therapeutic use
+MH  - Thrombosis/*chemically induced
+EDAT- 2003/08/14 05:00
+MHDA- 2003/08/29 05:00
+CRDT- 2003/08/14 05:00
+AID - S0002914903006593 [pii]
+PST - ppublish
+SO  - Am J Cardiol. 2003 Aug 15;92(4):411-8.
+
+PMID- 12901032
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030806
+DCOM- 20031106
+LR  - 20051117
+IS  - 1079-2082 (Print)
+IS  - 1079-2082 (Linking)
+VI  - 60
+IP  - 13
+DP  - 2003 Jul 1
+TI  - Interaction of rofecoxib and celecoxib with warfarin.
+PG  - 1319-23
+AB  - The interaction of celecoxib and rofecoxib with warfarin was studied. Patients
+      stable on warfarin therapy and concurrently taking a cyclooxygenase-2 (COX-2)
+      inhibitor comparator (traditional nonsteroidal antiinflammatory medications,
+      salsalate, or acetaminophen) randomly received celecoxib 200 mg/day or rofecoxib 
+      25 mg/day for three weeks. After a one-week washout period, the patients were
+      crossed over to treatment with the opposite COX-2 inhibitor for three more weeks.
+      The International Normalized Ratio (INR) was measured at baseline and at weeks 1,
+      2, and 3 of therapy with each COX-2 inhibitor by testing blood samples obtained
+      by finger stick. Data for 16 patients were analyzed. The INR increased by 13%,
+      6%, and 5% on average in patients taking celecoxib at weeks 1, 2, and 3,
+      respectively, and by 5%, 9%, and 5% in patients taking rofecoxib. Changes in the 
+      INR were statistically significant at week 1 for celecoxib and at week 2 for
+      rofecoxib. Of the 12 subjects who had a clinically significant > or = 15% change 
+      in the INR while receiving either COX-2 inhibitor, 4 showed this change for both 
+      agents. Adverse drug reactions were similar for each COX-2 inhibitor, but the
+      rate of edema requiring medical intervention was higher in the rofecoxib group.
+      Significant increases in the INR were observed in patients who were stable on
+      warfarin therapy after the addition of therapy with rofecoxib or celecoxib.
+AD  - VA San Diego Healthcare System, Pharmacy (119), 3350 La Jolla Village Drive, San 
+      Diego, CA 92161, USA. monica.schaefer@med.va.gov
+FAU - Schaefer, Monica G
+AU  - Schaefer MG
+FAU - Plowman, Brian K
+AU  - Plowman BK
+FAU - Morreale, Anthony P
+AU  - Morreale AP
+FAU - Egan, Melissa
+AU  - Egan M
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - United States
+TA  - Am J Health Syst Pharm
+JT  - American journal of health-system pharmacy : AJHP : official journal of the
+      American Society of Health-System Pharmacists
+JID - 9503023
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Anticoagulants)
+RN  - 0 (Cyclooxygenase 2 Inhibitors)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Isoenzymes)
+RN  - 0 (Lactones)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Pyrazoles)
+RN  - 0 (Sulfonamides)
+RN  - 0 (Sulfones)
+RN  - 0 (rofecoxib)
+RN  - 169590-42-5 (celecoxib)
+RN  - 81-81-2 (Warfarin)
+RN  - EC 1.14.99.1 (Cyclooxygenase 2)
+RN  - EC 1.14.99.1 (PTGS2 protein, human)
+RN  - EC 1.14.99.1 (Prostaglandin-Endoperoxide Synthases)
+SB  - IM
+MH  - Aged
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*adverse effects/pharmacology
+MH  - Anticoagulants/*adverse effects
+MH  - Cross-Over Studies
+MH  - Cyclooxygenase 2
+MH  - Cyclooxygenase 2 Inhibitors
+MH  - Cyclooxygenase Inhibitors/*adverse effects/pharmacology
+MH  - Drug Synergism
+MH  - Female
+MH  - Humans
+MH  - International Normalized Ratio
+MH  - Isoenzymes/antagonists & inhibitors
+MH  - Lactones/*adverse effects/pharmacology
+MH  - Male
+MH  - Membrane Proteins
+MH  - Prospective Studies
+MH  - Prostaglandin-Endoperoxide Synthases
+MH  - Pyrazoles
+MH  - Sulfonamides/*adverse effects/pharmacology
+MH  - Sulfones
+MH  - Warfarin/*adverse effects
+EDAT- 2003/08/07 05:00
+MHDA- 2003/11/07 05:00
+CRDT- 2003/08/07 05:00
+PST - ppublish
+SO  - Am J Health Syst Pharm. 2003 Jul 1;60(13):1319-23.
+
+PMID- 12810937
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030925
+DCOM- 20031112
+LR  - 20070906
+IS  - 1462-0324 (Print)
+IS  - 1462-0324 (Linking)
+VI  - 42
+IP  - 10
+DP  - 2003 Oct
+TI  - Valdecoxib is as effective as diclofenac in the management of rheumatoid
+      arthritis with a lower incidence of gastroduodenal ulcers: results of a 26-week
+      trial.
+PG  - 1207-15
+AB  - OBJECTIVE: To compare the efficacy and upper gastrointestinal (GI) safety of
+      valdecoxib 20 and 40 mg daily with those of diclofenac 75 mg slow release (SR)
+      twice daily in treating rheumatoid arthritis (RA). METHODS: Seven hundred and
+      twenty-two patients with adult-onset RA were enrolled into this 26-week,
+      randomized, multicentre, double-blind, parallel-group study (246 in the
+      valdecoxib 20 mg daily arm, 237 in the valdecoxib 40 mg daily arm and 239 in the 
+      diclofenac 75 mg SR daily arm). Acetylsalicylic acid use (< or =325 mg per day)
+      was similar across all groups: 5.4% in the diclofenac group, 5.7% in the
+      valdecoxib 20 mg group and 5.9% in the valdecoxib 40 mg group. Efficacy was
+      measured by the Patient's Assessment of Arthritis Pain [visual analogue scale
+      (VAS)] and the modified Health Assessment Questionnaire (mHAQ) at baseline and at
+      weeks 2, 6, 8, 12, 18 and 26 of treatment, or at early termination. Upper GI
+      safety was evaluated by endoscopy at the end of treatment, which took place no
+      more than 2 days after the last dose of study medication or at early termination.
+      RESULTS: Valdecoxib 20 and 40 mg daily were comparable to diclofenac 75 mg SR
+      twice daily in treating the signs and symptoms of RA. No significant differences 
+      were observed between treatment groups with respect to mean changes from baseline
+      in the Patient's Assessment of Arthritis Pain (VAS) or mHAQ. The incidence of
+      gastroduodenal ulcers in patients receiving valdecoxib 20 mg daily (6%) and
+      valdecoxib 40 mg daily (4%) was significantly lower (P < 0.001) than in patients 
+      receiving diclofenac 75 mg SR twice daily (16%). Valdecoxib 20 mg daily was also 
+      associated with significantly improved GI tolerability (P = 0.035) compared with 
+      diclofenac. CONCLUSIONS: Single daily doses of valdecoxib 20 and 40 mg provided
+      efficacy comparable to that of diclofenac, with a superior upper GI safety
+      profile in the long-term treatment of RA patients.
+AD  - Institute of Rheumatology, Prague, Czech Republic.
+FAU - Pavelka, K
+AU  - Pavelka K
+FAU - Recker, D P
+AU  - Recker DP
+FAU - Verburg, K M
+AU  - Verburg KM
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20030616
+PL  - England
+TA  - Rheumatology (Oxford)
+JT  - Rheumatology (Oxford, England)
+JID - 100883501
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Cyclooxygenase 2 Inhibitors)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Isoenzymes)
+RN  - 0 (Isoxazoles)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Sulfonamides)
+RN  - 0 (valdecoxib)
+RN  - 15307-86-5 (Diclofenac)
+RN  - EC 1.14.99.1 (Cyclooxygenase 2)
+RN  - EC 1.14.99.1 (PTGS2 protein, human)
+RN  - EC 1.14.99.1 (Prostaglandin-Endoperoxide Synthases)
+SB  - AIM
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Anti-Inflammatory Agents, Non-Steroidal/adverse effects/*therapeutic use
+MH  - Arthritis, Rheumatoid/*drug therapy
+MH  - Cyclooxygenase 2
+MH  - Cyclooxygenase 2 Inhibitors
+MH  - Cyclooxygenase Inhibitors/adverse effects/*therapeutic use
+MH  - Diclofenac/adverse effects/therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Isoenzymes/antagonists & inhibitors
+MH  - Isoxazoles/adverse effects/*therapeutic use
+MH  - Male
+MH  - Membrane Proteins
+MH  - Middle Aged
+MH  - Pain Measurement
+MH  - Peptic Ulcer/*chemically induced
+MH  - Prostaglandin-Endoperoxide Synthases
+MH  - Sulfonamides/adverse effects/*therapeutic use
+MH  - Treatment Outcome
+EDAT- 2003/06/18 05:00
+MHDA- 2003/11/13 05:00
+CRDT- 2003/06/18 05:00
+PHST- 2003/06/16 [aheadofprint]
+AID - 10.1093/rheumatology/keg359 [doi]
+AID - keg359 [pii]
+PST - ppublish
+SO  - Rheumatology (Oxford). 2003 Oct;42(10):1207-15. Epub 2003 Jun 16.
+
+PMID- 12740337
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030512
+DCOM- 20030624
+LR  - 20091118
+IS  - 0017-5749 (Print)
+IS  - 0017-5749 (Linking)
+VI  - 52
+IP  - 6
+DP  - 2003 Jun
+TI  - Incidence of gastroduodenal ulcers in patients with rheumatoid arthritis after 12
+      weeks of rofecoxib, naproxen, or placebo: a multicentre, randomised, double blind
+      study.
+PG  - 820-6
+AB  - BACKGROUND: Previous studies in patients with osteoarthritis have suggested that 
+      the selective cyclooxygenase (COX)-2 inhibitor rofecoxib results in less
+      gastrointestinal damage than non-selective non-steroidal antiinflammatory drugs
+      (NSAIDs). This study compared the incidence of endoscopically detected
+      gastroduodenal ulcers in rheumatoid arthritis patients treated with rofecoxib or 
+      a non-selective NSAID. METHODS: In this multicentre, randomised, double blind, 12
+      week study, patients with rheumatoid arthritis were allocated to rofecoxib 50 mg 
+      once daily (n=219), naproxen 500 mg twice daily (n=220), or placebo (n=221).
+      Endoscopy was performed at baseline and at six and 12 weeks. Lifetable analysis
+      and log rank tests were used to analyse the incidence of gastroduodenal ulcers > 
+      or =3 mm. Gastric or duodenal ulcers > or =5 mm and erosions were also evaluated 
+      as secondary end points. Tolerability was assessed by adverse events. RESULTS:
+      The cumulative incidence of ulcers > or =3 mm at 12 weeks was significantly
+      higher in patients on naproxen (25.5%) than in patients receiving rofecoxib
+      (6.8%; difference 18.7% (95% confidence interval (CI) 11.7%, 25.7%); p<0.001) or 
+      placebo (2.9%; difference 22.6% (95% CI 16.1%, 29.1%); p<0.001). The difference
+      between rofecoxib (6.8%) and placebo (2.9%) did not reach statistical
+      significance (p=0.066). Results were similar for ulcers > or =5 mm and for mean
+      changes from baseline in the number of gastroduodenal erosions. The overall
+      incidence of clinical adverse events was similar among treatment groups (61% of
+      patients on placebo, 62% in patients on rofecoxib, and 66% in patients on
+      naproxen). CONCLUSIONS: Rofecoxib 50 mg daily (twice the dose recommended for
+      this patient population) resulted in a lower incidence of endoscopically detected
+      gastroduodenal ulcers and erosions than treatment with naproxen 500 mg twice
+      daily.
+AD  - University Hospital, Nottingham, United Kingdom. cj.hawkey@nottingham.ac.uk
+FAU - Hawkey, C J
+AU  - Hawkey CJ
+FAU - Laine, L
+AU  - Laine L
+FAU - Simon, T
+AU  - Simon T
+FAU - Quan, H
+AU  - Quan H
+FAU - Shingo, S
+AU  - Shingo S
+FAU - Evans, J
+AU  - Evans J
+CN  - Rofecoxib Rheumatoid Arthritis Endoscopy Study Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - England
+TA  - Gut
+JT  - Gut
+JID - 2985108R
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Lactones)
+RN  - 0 (Sulfones)
+RN  - 0 (rofecoxib)
+RN  - 22204-53-1 (Naproxen)
+SB  - AIM
+SB  - IM
+EIN - Gut. 2003 Dec;52(12):1800
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*adverse effects/therapeutic use
+MH  - Arthritis, Rheumatoid/drug therapy
+MH  - Cyclooxygenase Inhibitors/adverse effects/therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Lactones/*adverse effects/therapeutic use
+MH  - Life Tables
+MH  - Male
+MH  - Middle Aged
+MH  - Naproxen/*adverse effects/therapeutic use
+MH  - Peptic Ulcer/*chemically induced
+MH  - Risk Factors
+MH  - Sulfones
+PMC - PMC1773685
+OID - NLM: PMC1773685
+EDAT- 2003/05/13 05:00
+MHDA- 2003/06/25 05:00
+CRDT- 2003/05/13 05:00
+PST - ppublish
+SO  - Gut. 2003 Jun;52(6):820-6.
+
+PMID- 12501222
+OWN - NLM
+STAT- MEDLINE
+DA  - 20021226
+DCOM- 20030102
+LR  - 20061115
+IS  - 1533-4406 (Electronic)
+IS  - 0028-4793 (Linking)
+VI  - 347
+IP  - 26
+DP  - 2002 Dec 26
+TI  - Celecoxib versus diclofenac and omeprazole in reducing the risk of recurrent
+      ulcer bleeding in patients with arthritis.
+PG  - 2104-10
+AB  - BACKGROUND: Current guidelines recommend that patients at risk for ulcer disease 
+      who require treatment for arthritis receive nonsteroidal antiinflammatory drugs
+      (NSAIDs) that are selective for cyclooxygenase-2 or the combination of a
+      nonselective NSAID with a proton-pump inhibitor. We assessed whether celecoxib
+      would be similar to diclofenac plus omeprazole in reducing the risk of recurrent 
+      ulcer bleeding in patients at high risk for bleeding. METHODS: We studied
+      patients who used NSAIDs for arthritis and who presented with ulcer bleeding.
+      After their ulcers had healed, we randomly assigned patients who were negative
+      for Helicobacter pylori to receive either 200 mg of celecoxib twice daily plus
+      daily placebo or 75 mg of diclofenac twice daily plus 20 mg of omeprazole daily
+      for six months. The end point was recurrent ulcer bleeding. RESULTS: In the
+      intention-to-treat analysis, which included 287 patients (144 receiving celecoxib
+      and 143 receiving diclofenac plus omeprazole), recurrent ulcer bleeding occurred 
+      in 7 patients receiving celecoxib and 9 receiving diclofenac plus omeprazole. The
+      probability of recurrent bleeding during the six-month period was 4.9 percent (95
+      percent confidence interval, 3.1 to 6.7) for patients who received celecoxib and 
+      6.4 percent (95 percent confidence interval, 4.3 to 8.4) for patients who
+      received diclofenac plus omeprazole (difference, -1.5 percentage points; 95
+      percent confidence interval for the difference, -6.8 to 3.8). Renal adverse
+      events, including hypertension, peripheral edema, and renal failure, occurred in 
+      24.3 percent of the patients receiving celecoxib and 30.8 percent of those
+      receiving diclofenac plus omeprazole. CONCLUSIONS: Among patients with a recent
+      history of ulcer bleeding, treatment with celecoxib was as effective as treatment
+      with diclofenac plus omeprazole, with respect to the prevention of recurrent
+      bleeding. Renal toxic effects are common in high-risk patients receiving
+      celecoxib or diclofenac plus omeprazole.
+CI  - Copyright 2002 Massachusetts Medical Society
+AD  - Department of Medicine and Therapeutics, Prince of Wales Hospital, Chinese
+      University of Hong Kong, Hong Kong, China. fklchan@cuhk.edu.hk
+FAU - Chan, Francis K L
+AU  - Chan FK
+FAU - Hung, Lawrence C T
+AU  - Hung LC
+FAU - Suen, Bing Y
+AU  - Suen BY
+FAU - Wu, Justin C Y
+AU  - Wu JC
+FAU - Lee, Kenneth C
+AU  - Lee KC
+FAU - Leung, Vincent K S
+AU  - Leung VK
+FAU - Hui, Aric J
+AU  - Hui AJ
+FAU - To, Ka F
+AU  - To KF
+FAU - Leung, Wai K
+AU  - Leung WK
+FAU - Wong, Vincent W S
+AU  - Wong VW
+FAU - Chung, S C Sydney
+AU  - Chung SC
+FAU - Sung, Joseph J Y
+AU  - Sung JJ
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Cyclooxygenase 2 Inhibitors)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Isoenzymes)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Pyrazoles)
+RN  - 0 (Sulfonamides)
+RN  - 15307-86-5 (Diclofenac)
+RN  - 169590-42-5 (celecoxib)
+RN  - 73590-58-6 (Omeprazole)
+RN  - EC 1.14.99.1 (Cyclooxygenase 2)
+RN  - EC 1.14.99.1 (PTGS2 protein, human)
+RN  - EC 1.14.99.1 (Prostaglandin-Endoperoxide Synthases)
+SB  - AIM
+SB  - IM
+CIN - J Fam Pract. 2003 May;52(5):363-4. PMID: 12737768
+CIN - N Engl J Med. 2003 Jun 12;348(24):2464-6; author reply 2464-6. PMID: 12803213
+CIN - ACP J Club. 2003 Jul-Aug;139(1):12. PMID: 12841716
+CIN - Z Gastroenterol. 2003 Aug;41(8):883-4. PMID: 12910429
+CIN - N Engl J Med. 2002 Dec 26;347(26):2162-4. PMID: 12501230
+CIN - N Engl J Med. 2003 Jun 12;348(24):2464-6; author reply 2464-6. PMID: 12802035
+MH  - Anti-Inflammatory Agents, Non-Steroidal/adverse effects/*therapeutic use
+MH  - Anti-Ulcer Agents/therapeutic use
+MH  - Arthritis/*drug therapy
+MH  - Cyclooxygenase 2
+MH  - Cyclooxygenase 2 Inhibitors
+MH  - Cyclooxygenase Inhibitors/adverse effects/*therapeutic use
+MH  - Diclofenac/adverse effects/therapeutic use
+MH  - Double-Blind Method
+MH  - Drug Therapy, Combination
+MH  - Duodenal Ulcer/chemically induced/prevention & control
+MH  - Helicobacter pylori/isolation & purification
+MH  - Humans
+MH  - Isoenzymes/antagonists & inhibitors
+MH  - Membrane Proteins
+MH  - Omeprazole/therapeutic use
+MH  - Peptic Ulcer Hemorrhage/chemically induced/*prevention & control
+MH  - Probability
+MH  - Prospective Studies
+MH  - Prostaglandin-Endoperoxide Synthases
+MH  - Pyrazoles
+MH  - Recurrence/prevention & control
+MH  - Risk Factors
+MH  - Stomach Ulcer/chemically induced/prevention & control
+MH  - Sulfonamides/adverse effects/*therapeutic use
+EDAT- 2002/12/27 04:00
+MHDA- 2003/01/03 04:00
+CRDT- 2002/12/27 04:00
+AID - 10.1056/NEJMoa021907 [doi]
+AID - 347/26/2104 [pii]
+PST - ppublish
+SO  - N Engl J Med. 2002 Dec 26;347(26):2104-10.
+
+PMID- 12492248
+OWN - NLM
+STAT- MEDLINE
+DA  - 20021220
+DCOM- 20030102
+LR  - 20061115
+IS  - 0300-9742 (Print)
+IS  - 0300-9742 (Linking)
+VI  - 31
+IP  - 6
+DP  - 2002
+TI  - Comparison of low-dose rofecoxib versus 1000 mg naproxen in patients with
+      osteoarthritis. Results of two randomized treatment trials of six weeks duration.
+PG  - 337-44
+AB  - OBJECTIVE: To compare the efficacy and safety of rofecoxib 12.5 mg once daily to 
+      naproxen 500 mg twice daily in patients > or = 40 years of age with knee or hip
+      osteoarthritis (OA). METHOD: Two identical 6-week, randomized, double-blind
+      studies were conducted (1 in Africa, Australia, Europe, Canada, Mexico, & South
+      America; 1 in Asia). Primary endpoints were pain walking on a flat surface,
+      patient global assessment of response to therapy, and investigator global
+      assessment of disease status. RESULTS: Overall, 944 patients participated. For
+      all efficacy endpoints, treatment effects for rofecoxib and naproxen were
+      comparable and seen at the first measures of efficacy. Both compounds were
+      generally well-tolerated, with an improved gastrointestinal safety profile for
+      rofecoxib versus naproxen. CONCLUSIONS In these studies, rofecoxib 12.5 mg once
+      daily (the lowest indicated dose) and naproxen 500 mg twice daily showed similar 
+      treatment effects in OA patients. Rofecoxib and naproxen were generally well
+      tolerated.
+AD  - Kuopio University Hospital, Kuopio, Finland.
+FAU - Myllykangas-Luosujarvi, R
+AU  - Myllykangas-Luosujarvi R
+FAU - Lu, H S
+AU  - Lu HS
+FAU - Chen, S L
+AU  - Chen SL
+FAU - Choon, D
+AU  - Choon D
+FAU - Amante, C
+AU  - Amante C
+FAU - Chow, C T
+AU  - Chow CT
+FAU - Pasero, G
+AU  - Pasero G
+FAU - Genti, Gy
+AU  - Genti G
+FAU - Sarembock, B
+AU  - Sarembock B
+FAU - Zerbini, C A F
+AU  - Zerbini CA
+FAU - Vrijens, F
+AU  - Vrijens F
+FAU - Moan, A
+AU  - Moan A
+FAU - Rodgers, D B
+AU  - Rodgers DB
+FAU - De Tora, L
+AU  - De Tora L
+FAU - Laurenzi, M
+AU  - Laurenzi M
+CN  - Naproxen 901 OF study group Naproxen 901 OC study group
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - Norway
+TA  - Scand J Rheumatol
+JT  - Scandinavian journal of rheumatology
+JID - 0321213
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Lactones)
+RN  - 0 (Sulfones)
+RN  - 0 (rofecoxib)
+RN  - 22204-53-1 (Naproxen)
+SB  - IM
+MH  - Aged
+MH  - Cyclooxygenase Inhibitors/*administration & dosage/*pharmacology
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Female
+MH  - Humans
+MH  - Lactones/*administration & dosage/*pharmacology
+MH  - Male
+MH  - Middle Aged
+MH  - Naproxen/*administration & dosage/*pharmacology
+MH  - Osteoarthritis, Hip/*drug therapy/pathology
+MH  - Osteoarthritis, Knee/*drug therapy/pathology
+MH  - Sulfones
+MH  - Treatment Outcome
+EDAT- 2002/12/21 04:00
+MHDA- 2003/01/03 04:00
+CRDT- 2002/12/21 04:00
+PST - ppublish
+SO  - Scand J Rheumatol. 2002;31(6):337-44.
+
+PMID- 12398962
+OWN - NLM
+STAT- MEDLINE
+DA  - 20021025
+DCOM- 20021209
+LR  - 20071115
+IS  - 0002-9149 (Print)
+IS  - 0002-9149 (Linking)
+VI  - 90
+IP  - 9
+DP  - 2002 Nov 1
+TI  - Effects of celecoxib and rofecoxib on blood pressure and edema in patients > or
+      =65 years of age with systemic hypertension and osteoarthritis.
+PG  - 959-63
+AB  - Concomitant use of nonsteroidal anti-inflammatory drugs (NSAIDs), including the
+      cyclooxygenase-2 (COX-2) specific inhibitors, with antihypertensive medication is
+      common practice for many patients with arthritis. This study evaluated the
+      effects of celecoxib 200 mg/day and rofecoxib 25 mg/day on blood pressure (BP)
+      and edema in a 6-week, randomized, parallel-group, double-blind study in patients
+      > or =65 years of age with osteoarthritis who were treated with fixed
+      antihypertensive regimens. One thousand ninety-two patients received study
+      medication (celecoxib, n = 549; rofecoxib, n = 543). Significantly more patients 
+      in the rofecoxib group compared with the celecoxib group developed increased
+      systolic BP (change >20 mm Hg plus absolute value > or =140 mm Hg) at any time
+      point (14.9% vs 6.9%, p <0.01). Rofecoxib caused the greatest increase in
+      systolic BP in patients receiving angiotensin-converting enzyme inhibitors or
+      beta blockers, whereas those on calcium channel antagonists or diuretic
+      monotherapy receiving either celecoxib or rofecoxib showed no significant
+      increases in BP. Clinically significant new-onset or worsening edema associated
+      with weight gain developed in a greater percentage of patients in the rofecoxib
+      group (7.7%) compared with the celecoxib group (4.7%) (p <0.05). Thus, in
+      patients with controlled hypertension on a fixed antihypertensive regimen,
+      careful monitoring of BP is warranted after the initiation of celecoxib or
+      rofecoxib therapy.
+AD  - Universal Clinical Research Center, Inc., and The Johns Hopkins University School
+      of Medicine, Baltimore, Maryland 21030-1603, USA. huntvalley@col.com
+FAU - Whelton, Andrew
+AU  - Whelton A
+FAU - White, William B
+AU  - White WB
+FAU - Bello, Alfonso E
+AU  - Bello AE
+FAU - Puma, Joseph A
+AU  - Puma JA
+FAU - Fort, John G
+AU  - Fort JG
+CN  - SUCCESS-VII Investigators
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Am J Cardiol
+JT  - The American journal of cardiology
+JID - 0207277
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Antihypertensive Agents)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Lactones)
+RN  - 0 (Pyrazoles)
+RN  - 0 (Sulfonamides)
+RN  - 0 (Sulfones)
+RN  - 0 (rofecoxib)
+RN  - 169590-42-5 (celecoxib)
+SB  - AIM
+SB  - IM
+CIN - Am J Cardiol. 2003 Apr 1;91(7):924. PMID: 12667595
+CIN - Am J Cardiol. 2003 May 15;91(10):1291-2. PMID: 12745131
+MH  - Age Factors
+MH  - Aged
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*therapeutic use
+MH  - Antihypertensive Agents/*therapeutic use
+MH  - Blood Pressure/*drug effects
+MH  - Cyclooxygenase Inhibitors/therapeutic use
+MH  - Double-Blind Method
+MH  - Drug Evaluation
+MH  - Edema/*complications/*drug therapy
+MH  - Female
+MH  - Heart Failure/complications/drug therapy
+MH  - Humans
+MH  - Hypertension/*complications/*drug therapy
+MH  - Lactones/*therapeutic use
+MH  - Male
+MH  - North America
+MH  - Osteoarthritis/*complications/*drug therapy
+MH  - Pyrazoles
+MH  - Sulfonamides/*therapeutic use
+MH  - Sulfones
+MH  - Systole/drug effects
+MH  - Treatment Outcome
+MH  - Weight Gain/drug effects
+EDAT- 2002/10/26 04:00
+MHDA- 2002/12/10 04:00
+CRDT- 2002/10/26 04:00
+AID - S0002914902026619 [pii]
+PST - ppublish
+SO  - Am J Cardiol. 2002 Nov 1;90(9):959-63.
+
+PMID- 12362101
+OWN - NLM
+STAT- MEDLINE
+DA  - 20021003
+DCOM- 20030228
+LR  - 20091016
+IS  - 0954-691X (Print)
+IS  - 0954-691X (Linking)
+VI  - 14
+IP  - 10
+DP  - 2002 Oct
+TI  - Incidence of gastroduodenal ulcers associated with valdecoxib compared with that 
+      of ibuprofen and diclofenac in patients with osteoarthritis.
+PG  - 1101-11
+AB  - OBJECTIVE: To determine whether valdecoxib, at chronic arthritis doses, has the
+      characteristics of a cyclo-oxygenase 2 (COX-2) specific inhibitor, as measured by
+      a reduced incidence of upper-gastrointestinal ulceration compared with
+      conventional nonsteroidal anti-inflammatory drugs (NSAIDs). METHODS: This
+      double-blind, multicentre, placebo-controlled, parallel-group study compared the 
+      incidence of gastroduodenal ulcers associated with valdecoxib 10 mg daily (q.d.) 
+      and 20 mg q.d. with that of ibuprofen 800 mg three times daily (t.i.d.) or
+      diclofenac 75 mg twice daily (b.i.d.) when administered over a 12-week period.
+      The incidence of gastroduodenal ulcers was assessed by upper-gastrointestinal
+      endoscopy, performed at baseline and again at the end of week 12 (or at early
+      study termination). Efficacy assessments were performed at baseline and at weeks 
+      2, 6 and 12 using Patient's and Physician's Global Assessments of Arthritis.
+      RESULTS: A total of 1052 osteoarthritis patients were enrolled into the trial.
+      The incidence of gastroduodenal ulcers over 12 weeks was 5% in patients receiving
+      valdecoxib 10 mg q.d., 4% in patients receiving valdecoxib 20 mg q.d., 7% in
+      patients receiving placebo, 16% in patients receiving ibuprofen 800 mg t.i.d. (P 
+      <0.05 v. placebo), and 17% in patients receiving diclofenac 75 mg b.i.d. (P <0.05
+      v. placebo). The incidence of gastroduodenal ulcers at week 12 seen in the
+      ibuprofen 800 mg t.i.d. and diclofenac 75 mg b.i.d. groups was significantly
+      higher than that in the valdecoxib 10 mg q.d. and valdecoxib 20 mg q.d. groups (P
+      <0.05). The incidence rates of gastroduodenal ulcers were not significantly
+      different between the valdecoxib treatment groups or between valdecoxib- and
+      placebo-treated patients. Efficacy responses to valdecoxib 10 mg and 20 mg q.d.
+      were significantly greater than placebo and comparable with both ibuprofen 800 mg
+      t.i.d. and diclofenac 75 mg b.i.d. CONCLUSIONS: The results of the study
+      demonstrate that valdecoxib has an upper-gastrointestinal safety profile typical 
+      of a COX-2 specific inhibitor. Overall, the data indicate that administration of 
+      valdecoxib offers similar efficacy for the treatment of osteoarthritis but
+      improved upper-gastrointestinal safety compared with the conventional NSAIDs,
+      ibuprofen and diclofenac, based on the significantly lower incidence of
+      gastroduodenal ulcers detected by endoscopy.
+AD  - Division of Rheumatology, School of Medicine, University of South Florida, Tampa,
+      Florida, USA.
+FAU - Sikes, David H
+AU  - Sikes DH
+FAU - Agrawal, Naurang M
+AU  - Agrawal NM
+FAU - Zhao, William W
+AU  - Zhao WW
+FAU - Kent, Jeffrey D
+AU  - Kent JD
+FAU - Recker, David P
+AU  - Recker DP
+FAU - Verburg, Kenneth M
+AU  - Verburg KM
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - England
+TA  - Eur J Gastroenterol Hepatol
+JT  - European journal of gastroenterology & hepatology
+JID - 9000874
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Isoenzymes)
+RN  - 0 (Isoxazoles)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Sulfonamides)
+RN  - 0 (valdecoxib)
+RN  - 15307-86-5 (Diclofenac)
+RN  - 15687-27-1 (Ibuprofen)
+RN  - EC 1.14.99.1 (Cyclooxygenase 2)
+RN  - EC 1.14.99.1 (PTGS2 protein, human)
+RN  - EC 1.14.99.1 (Prostaglandin-Endoperoxide Synthases)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Analysis of Variance
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*adverse effects
+MH  - Cyclooxygenase 2
+MH  - Diclofenac/*adverse effects
+MH  - Double-Blind Method
+MH  - Duodenal Ulcer/chemically induced/microbiology
+MH  - Female
+MH  - Helicobacter Infections/complications
+MH  - Helicobacter pylori
+MH  - Humans
+MH  - Ibuprofen/*adverse effects
+MH  - Isoenzymes/antagonists & inhibitors
+MH  - Isoxazoles/*adverse effects
+MH  - Male
+MH  - Membrane Proteins
+MH  - Middle Aged
+MH  - Osteoarthritis/*drug therapy
+MH  - Peptic Ulcer/*chemically induced/microbiology
+MH  - Prostaglandin-Endoperoxide Synthases
+MH  - Stomach Ulcer/chemically induced/microbiology
+MH  - Sulfonamides/*adverse effects
+MH  - Treatment Outcome
+EDAT- 2002/10/04 04:00
+MHDA- 2003/03/01 04:00
+CRDT- 2002/10/04 04:00
+PST - ppublish
+SO  - Eur J Gastroenterol Hepatol. 2002 Oct;14(10):1101-11.
+
+PMID- 12209034
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020904
+DCOM- 20021028
+LR  - 20070906
+IS  - 1462-0324 (Print)
+IS  - 1462-0324 (Linking)
+VI  - 41
+IP  - 9
+DP  - 2002 Sep
+TI  - Efficacy and safety of valdecoxib in treating the signs and symptoms of
+      rheumatoid arthritis: a randomized, controlled comparison with placebo and
+      naproxen.
+PG  - 1008-16
+AB  - OBJECTIVE: To compare the efficacy of the COX-2 specific inhibitor valdecoxib
+      with the conventional NSAID naproxen and placebo in treating rheumatoid arthritis
+      (RA). METHODS: This multi-centre, randomized, double-blind, placebo-controlled
+      trial compared the efficacy and safety of valdecoxib 10 mg (n=209), 20 mg (n=212)
+      or 40 mg once daily (q.d.) (n=221) with naproxen 500 mg b.i.d. (n=226) or placebo
+      (n=222), in treating the signs and symptoms of RA. Efficacy was assessed by the
+      number of patients responding to treatment according to the American College of
+      Rheumatology-Responder Index (ACR-20). RESULTS: ACR-20 response was recorded for 
+      all randomized patients who received a single dose of study medication (above).
+      Valdecoxib, at all administered doses, produced significant improvements in the
+      ACR-20 Responder Index at weeks 2, 6 and 12 compared with placebo (P<or=0.01).
+      Valdecoxib and naproxen did not differ in terms of ACR-20 response rate and the
+      three doses of valdecoxib were similar to one another. All three doses of
+      valdecoxib were well tolerated. CONCLUSIONS: Single daily doses of valdecoxib 10,
+      20 and 40 mg demonstrated efficacy that was superior to placebo and similar to
+      naproxen in treating the signs and symptoms of RA. All three doses provided
+      similar levels of efficacy.
+AD  - St Joseph's Hospital and McMaster University, Hamilton, ON, Canada.
+FAU - Bensen, W
+AU  - Bensen W
+FAU - Weaver, A
+AU  - Weaver A
+FAU - Espinoza, L
+AU  - Espinoza L
+FAU - Zhao, W W
+AU  - Zhao WW
+FAU - Riley, W
+AU  - Riley W
+FAU - Paperiello, B
+AU  - Paperiello B
+FAU - Recker, D P
+AU  - Recker DP
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Rheumatology (Oxford)
+JT  - Rheumatology (Oxford, England)
+JID - 100883501
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Isoxazoles)
+RN  - 0 (Sulfonamides)
+RN  - 0 (valdecoxib)
+RN  - 22204-53-1 (Naproxen)
+SB  - AIM
+SB  - IM
+MH  - Administration, Oral
+MH  - Arthritis, Rheumatoid/*drug therapy/physiopathology
+MH  - Cyclooxygenase Inhibitors/*therapeutic use
+MH  - Disability Evaluation
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Female
+MH  - Health Status
+MH  - Humans
+MH  - Isoxazoles/administration & dosage/*therapeutic use
+MH  - Joints/drug effects/physiopathology
+MH  - Male
+MH  - Middle Aged
+MH  - Naproxen/administration & dosage/*therapeutic use
+MH  - Pain Measurement/drug effects
+MH  - Self-Examination
+MH  - Severity of Illness Index
+MH  - Sulfonamides/administration & dosage/*therapeutic use
+MH  - Treatment Outcome
+EDAT- 2002/09/05 10:00
+MHDA- 2002/10/29 04:00
+CRDT- 2002/09/05 10:00
+PST - ppublish
+SO  - Rheumatology (Oxford). 2002 Sep;41(9):1008-16.
+
+PMID- 12100776
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020708
+DCOM- 20020816
+LR  - 20061115
+IS  - 0094-3509 (Print)
+IS  - 0094-3509 (Linking)
+VI  - 51
+IP  - 6
+DP  - 2002 Jun
+TI  - Randomized placebo-controlled trial comparing efficacy and safety of valdecoxib
+      with naproxen in patients with osteoarthritis.
+PG  - 530-7
+AB  - OBJECTIVE: We compared the efficacy and upper gastrointestinal safety of the
+      cyclooxygenase-2-specific inhibitor valdecoxib with naproxen and placebo in
+      treating moderate to severe osteoarthritis of the knee. STUDY DESIGN: This
+      multicenter, randomized, double-blind, placebo-controlled study compared the
+      efficacy and upper gastrointestinal tract safety of valdecoxib at dosages of 5,
+      10, and 20 mg once daily with placebo and naproxen at the dosage of 500 mg twice 
+      daily. POPULATION: We included patients who had been diagnosed with moderate to
+      severe osteoarthritis of the knee according to the modified criteria of the
+      American College of Rheumatology. OUTCOMES MEASURED: The Patient's and
+      Physician's Global Assessment of Arthritis (PaGAA, PhGAA), Patient's Assessment
+      of Arthritis Pain-Visual Analog Scale (PAAP-VAS), and Western Ontario and
+      McMaster's Universities (WOMAC) Osteoarthritis indices were assessed at baseline 
+      and at weeks 2, 6, and 12. Upper gastrointestinal ulceration was assessed by pre-
+      and posttreatment endoscopies. RESULTS: Valdecoxib 10 and 20 mg once daily (but
+      not 5 mg once daily) demonstrated similar efficacy to naproxen at 500 mg twice
+      daily, and all 3 dosages were superior to placebo for the PaGAA, PhGAA, PAAP-VAS,
+      and WOMAC Osteoarthritis indices at most assessments throughout the 12-week study
+      (P <.05). The incidence of endoscopically proven ulcers was significantly higher 
+      in the naproxen group than in the 5- and 10-mg valdecoxib groups, but not in the 
+      20-mg valdecoxib group. All 3 valdecoxib doses were comparable to placebo in
+      ulcer incidence. CONCLUSIONS: Valdecoxib (10 and 20 mg once daily) is
+      significantly superior to placebo and as effective as naproxen (500 mg twice
+      daily) in improving moderate to severe osteoarthritis of the knee. Upper
+      gastrointestinal tract safety of valdecoxib (5 and 10 mg) was comparable to that 
+      of placebo and significantly better than that of naproxen.
+AD  - Altoona Center for Clinical Research, Duncansville, PA, USA.
+FAU - Kivitz, Alan
+AU  - Kivitz A
+FAU - Eisen, Glenn
+AU  - Eisen G
+FAU - Zhao, William W
+AU  - Zhao WW
+FAU - Bevirt, Terry
+AU  - Bevirt T
+FAU - Recker, David P
+AU  - Recker DP
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Fam Pract
+JT  - The Journal of family practice
+JID - 7502590
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Isoxazoles)
+RN  - 0 (Sulfonamides)
+RN  - 0 (valdecoxib)
+RN  - 22204-53-1 (Naproxen)
+SB  - AIM
+SB  - IM
+CIN - J Fam Pract. 2002 Jun;51(6):538. PMID: 12100777
+MH  - Aged
+MH  - Anti-Inflammatory Agents, Non-Steroidal/adverse effects/pharmacology/*therapeutic
+      use
+MH  - Digestive System/*drug effects
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Isoxazoles/adverse effects/pharmacology/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Naproxen/adverse effects/pharmacology/*therapeutic use
+MH  - Osteoarthritis/*drug therapy
+MH  - Pain Measurement
+MH  - Sulfonamides/adverse effects/pharmacology/*therapeutic use
+MH  - Treatment Outcome
+EDAT- 2002/07/09 10:00
+MHDA- 2002/08/17 10:01
+CRDT- 2002/07/09 10:00
+AID - jfp_0602_00530 [pii]
+PST - ppublish
+SO  - J Fam Pract. 2002 Jun;51(6):530-7.
+
+PMID- 11950252
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020412
+DCOM- 20020513
+LR  - 20061115
+IS  - 1063-4584 (Print)
+IS  - 1063-4584 (Linking)
+VI  - 10
+IP  - 4
+DP  - 2002 Apr
+TI  - Efficacy and safety of the COX-2 specific inhibitor valdecoxib in the management 
+      of osteoarthritis of the hip: a randomized, double-blind, placebo-controlled
+      comparison with naproxen.
+PG  - 290-6
+AB  - OBJECTIVE: Non-steroidal antiinflammatory agents are commonly used to treat pain 
+      and inflammation associated with osteoarthritis (OA), but have poor
+      gastrointestinal (GI) tolerability. This study compared the efficacy of the COX-2
+      specific inhibitor valdecoxib with naproxen and placebo, in treating symptomatic 
+      OA of the hip. DESIGN: This multicenter, randomized, double-blind 12-week study
+      compared the efficacy and tolerability of single daily doses of valdecoxib 5 mg
+      and 10 mg with placebo or naproxen 500 mg BID. Efficacy was assessed by Patient's
+      and Physician's Global Assessment of Arthritis, and the WOMAC (Western Ontario
+      and McMasters) OA Individual and Composite Indices. The incidence of adverse
+      events was monitored throughout the study. RESULTS: Valdecoxib was clinically and
+      statistically superior to placebo for Patient's and Physician's Global Assessment
+      of Arthritis and for all WOMAC OA Indices over the 12 week study period (P<or=
+      0.05). Valdecoxib 10 mg was similar to naproxen in terms of efficacy, and
+      demonstrated greater numerical improvements compared with valdecoxib 5 mg.
+      Valdecoxib 5 mg and 10 mg demonstrated similar tolerability compared to placebo
+      and a lower incidence of GI-related adverse effects compared with naproxen.
+      CONCLUSIONS: Single daily doses of valdecoxib 5 mg and 10 mg were similar to
+      naproxen and superior to placebo, in treating symptomatic OA of the hip. Both
+      doses of valdecoxib were well tolerated and demonstrated improved GI tolerability
+      compared to naproxen.
+CI  - Copyright 2002 Published by Elsevier Science Ltd on behalf of OsteoArthritis
+      Research Society International.
+AD  - Rheumatology Associates of NW Pennsylvania, Erie, Pennsylvania, USA.
+FAU - Makarowski, W
+AU  - Makarowski W
+FAU - Zhao, William W
+AU  - Zhao WW
+FAU - Bevirt, Terry
+AU  - Bevirt T
+FAU - Recker, David P
+AU  - Recker DP
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Osteoarthritis Cartilage
+JT  - Osteoarthritis and cartilage / OARS, Osteoarthritis Research Society
+JID - 9305697
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Cyclooxygenase 2 Inhibitors)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Isoenzymes)
+RN  - 0 (Isoxazoles)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Sulfonamides)
+RN  - 0 (valdecoxib)
+RN  - 22204-53-1 (Naproxen)
+RN  - EC 1.14.99.1 (Cyclooxygenase 2)
+RN  - EC 1.14.99.1 (PTGS2 protein, human)
+RN  - EC 1.14.99.1 (Prostaglandin-Endoperoxide Synthases)
+SB  - IM
+MH  - Aged
+MH  - Anti-Inflammatory Agents, Non-Steroidal/adverse effects/therapeutic use
+MH  - Chi-Square Distribution
+MH  - Constipation/chemically induced
+MH  - Cyclooxygenase 2
+MH  - Cyclooxygenase 2 Inhibitors
+MH  - Cyclooxygenase Inhibitors/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Dyspepsia/chemically induced
+MH  - Humans
+MH  - Isoenzymes/*antagonists & inhibitors
+MH  - Isoxazoles/adverse effects/*therapeutic use
+MH  - Membrane Proteins
+MH  - Middle Aged
+MH  - Naproxen/adverse effects/therapeutic use
+MH  - Osteoarthritis, Hip/*drug therapy
+MH  - Prostaglandin-Endoperoxide Synthases
+MH  - Sulfonamides/adverse effects/*therapeutic use
+EDAT- 2002/04/13 10:00
+MHDA- 2002/05/15 10:01
+CRDT- 2002/04/13 10:00
+AID - 10.1053/joca.2001.0510 [doi]
+AID - S1063458401905102 [pii]
+PST - ppublish
+SO  - Osteoarthritis Cartilage. 2002 Apr;10(4):290-6.
+
+PMID- 11908554
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020322
+DCOM- 20020924
+LR  - 20061115
+IS  - 0315-162X (Print)
+IS  - 0315-162X (Linking)
+VI  - 29
+IP  - 3
+DP  - 2002 Mar
+TI  - Dose response and safety study of meloxicam up to 22.5 mg daily in rheumatoid
+      arthritis: a 12 week multicenter, double blind, dose response study versus
+      placebo and diclofenac.
+PG  - 436-46
+AB  - OBJECTIVE: This Phase III, placebo and active controlled, multicenter trial
+      evaluated the efficacy and safety of meloxicam 7.5, 15, and 22.5 mg daily for the
+      treatment of rheumatoid arthritis (RA). METHODS: A 12 week, randomized, double
+      blind, double dummy, parallel group trial compared daily oral meloxicam 7.5, 15, 
+      and 22.5 mg to placebo (negative control) and diclofenac 75 mg BID (positive
+      control). A total of 894 patients (18 years of age with confirmed RA who flared
+      following an NSAID-free period) were randomized to be treated. Baseline scores
+      for all endpoints were similar among the treatment groups. Patient assessments
+      were at 0, 2, 4, 8, and 12 weeks or early termination. RESULTS: All treatment
+      groups demonstrated significant improvement from baseline (p < 0.001). Meloxicam 
+      7.5 and 22.5 mg was significantly superior to placebo in all 5 primary efficacy
+      endpoints (swollen joint count, tender joint count, patient pain, patient and
+      physician global; all p < 0.05). Diclofenac 150 mg was superior to placebo for 4 
+      of 5 primary efficacy measures (all but swollen joint count; p < 0.05) and
+      meloxicam 15 mg was superior for 3 of 5 primary endpoints (patient pain and
+      patient and physician global). AUC of patient global, patient pain, and modified 
+      Health Assessment Questionnaire demonstrated dose-response (p < 0.04), while AUC 
+      ACR20 showed a qualitative trend in the same direction. The rate of
+      gastrointestinal (GI) events during the 12 week trial for all doses of meloxicam 
+      and diclofenac did not differ significantly from placebo (23.2-32.0%). GI
+      withdrawals were comparable and not significantly different across all treatment 
+      groups (4.3-5.7%). CONCLUSION: This trial demonstrated a dose response
+      relationship for meloxicam 7.5, 15, and 22.5 mg using AUC measurement of response
+      for the treatment of RA. All 3 doses of meloxicam. and positive control, were
+      effective in the treatment of RA. The overall incidence rate of GI events did not
+      differ significantly from placebo in either the meloxicam treatment groups or the
+      positive control.
+AD  - Virginia Mason Research Center Seattle, Washington 98101, USA. crg.def@vmmc.org
+FAU - Furst, Daniel E
+AU  - Furst DE
+FAU - Kolba, Karen S
+AU  - Kolba KS
+FAU - Fleischmann, Roy
+AU  - Fleischmann R
+FAU - Silverfield, Joel
+AU  - Silverfield J
+FAU - Greenwald, Maria
+AU  - Greenwald M
+FAU - Roth, Sanford
+AU  - Roth S
+FAU - Hall, David B
+AU  - Hall DB
+FAU - Roszko, Paul J
+AU  - Roszko PJ
+CN  - Meloxicam Rheumatoid Arthritis Investigators
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - Canada
+TA  - J Rheumatol
+JT  - The Journal of rheumatology
+JID - 7501984
+RN  - 0 (Cyclooxygenase 2 Inhibitors)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Isoenzymes)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Placebos)
+RN  - 0 (Thiazines)
+RN  - 0 (Thiazoles)
+RN  - 15307-86-5 (Diclofenac)
+RN  - 71125-38-7 (meloxicam)
+RN  - EC 1.14.99.1 (Cyclooxygenase 2)
+RN  - EC 1.14.99.1 (PTGS2 protein, human)
+RN  - EC 1.14.99.1 (Prostaglandin-Endoperoxide Synthases)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Arthritis, Rheumatoid/*drug therapy
+MH  - Cyclooxygenase 2
+MH  - Cyclooxygenase 2 Inhibitors
+MH  - Cyclooxygenase Inhibitors/*administration & dosage/adverse effects
+MH  - Diclofenac/*administration & dosage/adverse effects
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Isoenzymes/antagonists & inhibitors
+MH  - Liver Function Tests
+MH  - Male
+MH  - Membrane Proteins
+MH  - Middle Aged
+MH  - Placebos
+MH  - Prostaglandin-Endoperoxide Synthases
+MH  - Thiazines/*administration & dosage/adverse effects
+MH  - Thiazoles/*administration & dosage/adverse effects
+MH  - Treatment Outcome
+EDAT- 2002/03/23 10:00
+MHDA- 2002/09/25 06:00
+CRDT- 2002/03/23 10:00
+PST - ppublish
+SO  - J Rheumatol. 2002 Mar;29(3):436-46.
+
+PMID- 11802750
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020122
+DCOM- 20020212
+LR  - 20061115
+IS  - 0003-9926 (Print)
+IS  - 0003-9926 (Linking)
+VI  - 162
+IP  - 2
+DP  - 2002 Jan 28
+TI  - Ulcer prevention in long-term users of nonsteroidal anti-inflammatory drugs:
+      results of a double-blind, randomized, multicenter, active- and
+      placebo-controlled study of misoprostol vs lansoprazole.
+PG  - 169-75
+AB  - BACKGROUND: Studies that report prevention of ulcer recurrence among long-term
+      users of nonsteroidal anti-inflammatory drugs (NSAIDs) that do not stratify for
+      Helicobacter pylori status may not be generalizable to the large population of
+      individuals without H pylori. METHODS: This was a prospective, double-blind,
+      multicenter, active- and placebo-controlled study among 537 patients without H
+      pylori who were long-term users of NSAIDs and who had a history of endoscopically
+      documented gastric ulcer. Patients were randomized to receive placebo, 200 microg
+      of misoprostol 4 times a day, or 15 or 30 mg of lansoprazole once daily for 12
+      weeks. Ulcer status was determined by endoscopy at 4, 8, and 12 weeks. RESULTS:
+      Patients receiving lansoprazole (15 or 30 mg) remained free from gastric ulcer
+      longer than those who received placebo (P<.001) but for a shorter time than those
+      who received misoprostol. By week 12, the percentages of gastric ulcer-free
+      patients were as follows: placebo, 51% (95% confidence interval [CI],
+      41.1%-61.3%); misoprostol, 93% (95% CI, 87.2%-97.9%); 15-mg lansoprazole, 80%
+      (95% CI, 72.5%-87.3%); and 30-mg lansoprazole, 82% (95% CI, 75.0%-89.6%). A
+      significantly higher proportion of patients in the misoprostol group reported
+      treatment-related adverse events and early withdrawal from the study. When the
+      impact of withdrawals on ulcer development was considered (as failures), therapy 
+      was successful for 69% for each of the active treatment groups and 35% for the
+      placebo group. CONCLUSIONS: Proton pump inhibitors such as lansoprazole are
+      superior to placebo for the prevention of NSAID-induced gastric ulcers but not
+      superior to misoprostol, 800 microg/d. When the poor compliance and potential
+      adverse effects associated with misoprostol are considered, proton pump
+      inhibitors and full-dose misoprostol are clinically equivalent.
+AD  - Veterans Affairs Medical Center (111D), 2002 Holcombe Blvd, Room 3A-320, Houston,
+      TX 77030-4211, USA. dgraham@bcm.tmc.edu
+FAU - Graham, David Y
+AU  - Graham DY
+FAU - Agrawal, Naurang M
+AU  - Agrawal NM
+FAU - Campbell, Donald R
+AU  - Campbell DR
+FAU - Haber, Marian M
+AU  - Haber MM
+FAU - Collis, Cyndy
+AU  - Collis C
+FAU - Lukasik, Nancy L
+AU  - Lukasik NL
+FAU - Huang, Bidan
+AU  - Huang B
+CN  - NSAID-Associated Gastric Ulcer Prevention Study Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Arch Intern Med
+JT  - Archives of internal medicine
+JID - 0372440
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 59122-46-2 (Misoprostol)
+RN  - 73590-58-6 (Omeprazole)
+RN  - EC 3.6.1.10 (H(+)-K(+)-Exchanging ATPase)
+SB  - AIM
+SB  - IM
+CIN - Arch Intern Med. 2002 Oct 28;162(19):2248. PMID: 12390073
+CIN - Arch Intern Med. 2002 Oct 28;162(19):2248-9. PMID: 12390074
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Aged
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*adverse effects
+MH  - Anti-Ulcer Agents/*therapeutic use
+MH  - Double-Blind Method
+MH  - Enzyme Inhibitors/*therapeutic use
+MH  - Female
+MH  - H(+)-K(+)-Exchanging ATPase/*antagonists & inhibitors
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Misoprostol/*therapeutic use
+MH  - Omeprazole/*analogs & derivatives/*therapeutic use
+MH  - Prospective Studies
+MH  - Stomach Ulcer/*chemically induced/drug therapy/*prevention & control
+EDAT- 2002/02/13 10:00
+MHDA- 2002/02/13 10:01
+CRDT- 2002/02/13 10:00
+AID - ioi10042 [pii]
+PST - ppublish
+SO  - Arch Intern Med. 2002 Jan 28;162(2):169-75.
+
+PMID- 11803730
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020123
+DCOM- 20020625
+LR  - 20061115
+IS  - 0300-0605 (Print)
+IS  - 0300-0605 (Linking)
+VI  - 29
+IP  - 6
+DP  - 2001 Nov-Dec
+TI  - Comparative efficacy and safety of celecoxib and naproxen in the treatment of
+      osteoarthritis of the hip.
+PG  - 467-79
+AB  - Osteoarthritis (OA) is responsible for more disability of the lower extremities
+      in the elderly than any other disease in the US. The pain associated with OA is
+      the primary symptom leading to disability in these patients. Current ACR
+      guidelines recommend consideration of acetaminophen for mild-to-moderate pain and
+      conventional non-steroidal anti-inflammatory drugs (NSAIDs) or COX-2 specific
+      inhibitors for moderate-to-severe OA symptoms. The aim of this study was to
+      compare the efficacy and safety of the COX-1 sparing, COX-2 specific inhibitor,
+      celecoxib, with the conventional NSAID naproxen, and placebo, in the treatment of
+      OA of the hip. In this multicenter, randomized, placebo-controlled trial, 1061
+      patients with symptomatic OA of the hip were randomized to receive celecoxib at
+      doses of 100 mg, 200 mg, or 400 mg/day; naproxen 1000 mg/day; or placebo, for 12 
+      weeks. Patients were evaluated using standard measures of efficacy at baseline,
+      2-4 days after discontinuing previous NSAID or analgesic therapy, and after 2, 6,
+      and 12 weeks of treatment. All doses of celecoxib and naproxen significantly
+      improved the symptoms of OA, at all time points compared with placebo. This
+      sustained treatment effect of celecoxib was dose dependent. In terms of pain
+      relief and improvement in functional capacity, celecoxib 200 mg/day and 400
+      mg/day were similarly efficacious and were comparable to naproxen. Both drugs
+      were generally well tolerated. Celecoxib at a dose of 200 mg/day is as effective 
+      as a standard therapeutic dose of the conventional NSAID, naproxen, in reducing
+      the pain associated with OA of the hip.
+AD  - Altoona Center for Clinical Research, Altoona, PA, USA. akivitz@prodigy.net
+FAU - Kivitz, A J
+AU  - Kivitz AJ
+FAU - Moskowitz, R W
+AU  - Moskowitz RW
+FAU - Woods, E
+AU  - Woods E
+FAU - Hubbard, R C
+AU  - Hubbard RC
+FAU - Verburg, K M
+AU  - Verburg KM
+FAU - Lefkowith, J B
+AU  - Lefkowith JB
+FAU - Geis, G S
+AU  - Geis GS
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - J Int Med Res
+JT  - The Journal of international medical research
+JID - 0346411
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Placebos)
+RN  - 0 (Pyrazoles)
+RN  - 0 (Sulfonamides)
+RN  - 169590-42-5 (celecoxib)
+RN  - 22204-53-1 (Naproxen)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Inflammatory Agents, Non-Steroidal/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Hip Joint/*pathology
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Naproxen/adverse effects/*therapeutic use
+MH  - Osteoarthritis/*drug therapy
+MH  - Placebos
+MH  - Pyrazoles
+MH  - Sulfonamides/adverse effects/*therapeutic use
+EDAT- 2002/01/24 10:00
+MHDA- 2002/06/26 10:01
+CRDT- 2002/01/24 10:00
+PST - ppublish
+SO  - J Int Med Res. 2001 Nov-Dec;29(6):467-79.
+
+PMID- 11754710
+OWN - NLM
+STAT- MEDLINE
+DA  - 20011228
+DCOM- 20020118
+LR  - 20061115
+IS  - 0098-7484 (Print)
+IS  - 0098-7484 (Linking)
+VI  - 287
+IP  - 1
+DP  - 2002 Jan 2
+TI  - Efficacy of rofecoxib, celecoxib, and acetaminophen in osteoarthritis of the
+      knee: a randomized trial.
+PG  - 64-71
+AB  - CONTEXT: Osteoarthritis (OA) is often treated with nonsteroidal anti-inflammatory
+      drugs (NSAIDs), acetaminophen, or specific inhibitors of cyclooxygenase 2
+      (COX-2). OBJECTIVE: To assess the relative therapeutic efficacy of rofecoxib,
+      celecoxib, and acetaminophen in adults with OA. DESIGN AND SETTING: Randomized,
+      parallel-group, double-blind trial, conducted from June 1999 to February 2000, in
+      29 clinical centers in the United States. PATIENTS: Three hundred eighty-two
+      patients aged at least 40 years who had OA of the knee that was previously
+      treated with NSAIDs or acetaminophen. INTERVENTIONS: Patients were randomly
+      assigned to receive rofecoxib, 12.5 mg/d (n = 96); rofecoxib, 25 mg/d (n = 95);
+      celecoxib, 200 mg/d (n = 97); or acetaminophen, 4000 mg/d (n = 94) for 6 weeks.
+      MAIN OUTCOME MEASURES: Assessments over days 1 to 6 and over 6 weeks included
+      pain on walking, night pain, pain at rest, and morning stiffness as measured on a
+      Western Ontario McMaster Universities Osteoarthritis Index (100-mm visual analog 
+      scale [VAS]) and global response to therapy compared among 4 treatment groups.
+      RESULTS: 79% of patients completed the study. More patients treated with
+      acetaminophen discontinued early due to lack of efficacy than patients treated
+      with COX-2 inhibitors (31% vs 18%-19%). Efficacy assessed in the first 6 days of 
+      therapy showed greatest response to rofecoxib, 25 mg/d, followed by rofecoxib,
+      12.5 mg/d, celecoxib, and acetaminophen, respectively, in terms of relief of pain
+      on walking (-32.2, - 29.0, - 26.4, and -20.6 mm change on the VAS; P</=.04 for
+      all others vs acetaminophen; P =.05 for 25-mg rofecoxib vs celecoxib), rest pain 
+      (-21.8, - 18.6, - 15.5, and - 12.5 mm; P</=.02 for either dose of rofecoxib vs
+      acetaminophen and P =.02 for rofecoxib, 25 mg/d, vs celecoxib), night pain
+      (-25.2, - 22.0, - 18.7, and - 18.8 mm; P =.04 for rofecoxib, 25 mg/d, vs both
+      acetaminophen and celecoxib), and morning stiffness (-30.4, - 28.4, - 25.7, and -
+      20.9 mm; P</=.02 for either dose of rofecoxib vs acetaminophen). Over 6 weeks,
+      rofecoxib, 25 mg/d, provided greatest response for night pain (P<.002 vs
+      celecoxib and P =.006 vs acetaminophen and P =.02 vs rofecoxib, 12.5 mg/d),
+      composite pain subscale (P</=.03 vs all other treatments), stiffness subscale
+      (P</=.04 vs celecoxib and acetaminophen), and physical function subscale (P =.001
+      vs acetaminophen). Global responses over 6 weeks showed a similar pattern (good
+      or excellent response at week 6: 60%, 56%, 46%, and 39%, respectively; P</=.03
+      for rofecoxib, 25 mg/d, vs celecoxib and acetaminophen; P =.02 for rofecoxib,
+      12.5 mg/d, vs acetaminophen). All treatments were generally safe and well
+      tolerated. CONCLUSION: Rofecoxib, 25 mg/d, provided efficacy advantages over
+      acetaminophen, 4000 mg/d, celecoxib, 200 mg/d, and rofecoxib, 12.5 mg, for
+      symptomatic knee OA.
+AD  - Merck & Co Inc, US Human Health, PO Box 4, West Point, PA 19486-0004, USA.
+      gregory_geba@merck.com
+FAU - Geba, Gregory P
+AU  - Geba GP
+FAU - Weaver, Arthur L
+AU  - Weaver AL
+FAU - Polis, Adam B
+AU  - Polis AB
+FAU - Dixon, Mary E
+AU  - Dixon ME
+FAU - Schnitzer, Thomas J
+AU  - Schnitzer TJ
+CN  - Vioxx, Acetaminophen, Celecoxib Trial (VACT) Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - JAMA
+JT  - JAMA : the journal of the American Medical Association
+JID - 7501160
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Cyclooxygenase 2 Inhibitors)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Isoenzymes)
+RN  - 0 (Lactones)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Pyrazoles)
+RN  - 0 (Sulfonamides)
+RN  - 0 (Sulfones)
+RN  - 0 (rofecoxib)
+RN  - 103-90-2 (Acetaminophen)
+RN  - 169590-42-5 (celecoxib)
+RN  - EC 1.14.99.1 (Cyclooxygenase 2)
+RN  - EC 1.14.99.1 (PTGS2 protein, human)
+RN  - EC 1.14.99.1 (Prostaglandin-Endoperoxide Synthases)
+SB  - AIM
+SB  - IM
+CIN - JAMA. 2002 Apr 10;287(14):1799; author reply 1799-800. PMID: 11939847
+CIN - J Fam Pract. 2002 Apr;51(4):307. PMID: 11978248
+CIN - JAMA. 2002 Apr 10;287(14):1799; author reply 1799-800. PMID: 11939848
+EIN - JAMA 2002 Feb 27;287(8):989
+MH  - Acetaminophen/*therapeutic use
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*therapeutic use
+MH  - Cyclooxygenase 2
+MH  - Cyclooxygenase 2 Inhibitors
+MH  - Cyclooxygenase Inhibitors/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Isoenzymes/antagonists & inhibitors
+MH  - Lactones/*therapeutic use
+MH  - Male
+MH  - Membrane Proteins
+MH  - Middle Aged
+MH  - Osteoarthritis, Knee/*drug therapy
+MH  - Pain Measurement
+MH  - Prostaglandin-Endoperoxide Synthases
+MH  - Pyrazoles
+MH  - Sulfonamides/*therapeutic use
+MH  - Sulfones
+EDAT- 2002/01/12 10:00
+MHDA- 2002/01/19 10:01
+CRDT- 2002/01/12 10:00
+AID - joc02224 [pii]
+PST - ppublish
+SO  - JAMA. 2002 Jan 2;287(1):64-71.
+
+PMID- 11316141
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010423
+DCOM- 20010628
+LR  - 20061115
+IS  - 0002-9270 (Print)
+IS  - 0002-9270 (Linking)
+VI  - 96
+IP  - 4
+DP  - 2001 Apr
+TI  - Reduced incidence of gastroduodenal ulcers with celecoxib, a novel
+      cyclooxygenase-2 inhibitor, compared to naproxen in patients with arthritis.
+PG  - 1019-27
+AB  - OBJECTIVE: Nonsteroidal anti-inflammatory drugs (NSAIDs) block prostaglandin
+      production by inhibiting cyclooxygenase (COX); they are believed to cause
+      gastroduodenal damage by inhibiting the COX-1 isoform and to have analgesic and
+      anti-inflammatory effects by inhibiting the COX-2 isoform. As compared to
+      conventional NSAIDs, celecoxib, a COX-2 specific inhibitor, has been shown in
+      previous single posttreatment endoscopy studies to be associated with lower
+      gastroduodenal ulcer rates. In response to concerns that such studies may
+      under-represent ulceration rates, the present serial endoscopy study was designed
+      to compare cumulative gastroduodenal ulcer rates associated with the use of
+      celecoxib to those of naproxen, a conventional NSAID. METHODS: In this
+      double-blind, parallel-group, multicenter study, 537 patients with osteoarthritis
+      (OA) or rheumatoid arthritis (RA) were randomized to treatment with celecoxib 200
+      mg b.i.d. (n = 270) or naproxen 500 mg b.i.d. (n = 267) for 12 wk. Gastroduodenal
+      damage was determined from esophagogastroduodenoscopy after 4, 8, and 12 wk of
+      therapy. Arthritis efficacy was evaluated with Patient's and Physician's Global
+      Assessments. RESULTS: Gastroduodenal ulcer rates after celecoxib and naproxen
+      treatment were 4% versus 19% in the 0-4 wk interval (p < 0.001), 2% versus 14% in
+      the 4-8 wk interval (p < 0.001), and 2% versus 10% in the 8-12 wk interval (p <
+      0.001), respectively. After 12 wk of treatment, the cumulative incidence of
+      gastroduodenal ulcers was 9% with celecoxib and 41% with naproxen. In the
+      celecoxib group, gastroduodenal ulcers were significantly associated with
+      Helicobacter pylori status (p < 0.05), concurrent aspirin usage (p = 0.001), and 
+      a history of ulcer (p = 0.010), but not with disease type (OA/RA), age, gender,
+      other relevant medical histories, or concurrent corticosteroid or
+      disease-modifying antirheumatic drugs usage (p > 0.05). Celecoxib produced a
+      significantly lower incidence rate of both gastric (p < 0.001) and duodenal (p < 
+      0.030) ulcers. The two agents produced similar improvements in Patient's and
+      Physician's Global Assessments of arthritis efficacy. The incidence of adverse
+      events and withdrawal rates did not differ significantly between treatments.
+      CONCLUSIONS: As compared to naproxen (500 mg b.i.d.), use of celecoxib (200 mg
+      b.i.d.), a COX-2 specific agent, at the recommended RA dose and twice the most
+      frequently prescribed OA dose, was associated with lower rates of gastric,
+      duodenal, and gastroduodenal ulcers but had comparable efficacy, in patients with
+      OA and RA.
+AD  - Section of Digestive and Liver Diseases, University of Illinois at Chicago,
+      60612-7323, USA.
+FAU - Goldstein, J L
+AU  - Goldstein JL
+FAU - Correa, P
+AU  - Correa P
+FAU - Zhao, W W
+AU  - Zhao WW
+FAU - Burr, A M
+AU  - Burr AM
+FAU - Hubbard, R C
+AU  - Hubbard RC
+FAU - Verburg, K M
+AU  - Verburg KM
+FAU - Geis, G S
+AU  - Geis GS
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Am J Gastroenterol
+JT  - The American journal of gastroenterology
+JID - 0421030
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Pyrazoles)
+RN  - 0 (Sulfonamides)
+RN  - 169590-42-5 (celecoxib)
+RN  - 22204-53-1 (Naproxen)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*adverse effects
+MH  - Arthritis/*drug therapy
+MH  - Cyclooxygenase Inhibitors/*adverse effects
+MH  - Double-Blind Method
+MH  - Endoscopy, Gastrointestinal
+MH  - Female
+MH  - Humans
+MH  - Incidence
+MH  - Male
+MH  - Middle Aged
+MH  - Naproxen/*adverse effects
+MH  - Peptic Ulcer/*epidemiology
+MH  - Pyrazoles
+MH  - Risk Factors
+MH  - Sulfonamides/*adverse effects
+EDAT- 2001/04/24 10:00
+MHDA- 2001/06/29 10:01
+CRDT- 2001/04/24 10:00
+AID - S0002-9270(01)02303-6 [pii]
+AID - 10.1111/j.1572-0241.2001.03740.x [doi]
+PST - ppublish
+SO  - Am J Gastroenterol. 2001 Apr;96(4):1019-27.
+
+PMID- 11304662
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010417
+DCOM- 20010614
+LR  - 20100323
+IS  - 1075-2765 (Print)
+IS  - 1075-2765 (Linking)
+VI  - 8
+IP  - 2
+DP  - 2001 Mar-Apr
+TI  - Cyclooxygenase-2--specific inhibitors and cardiorenal function: a randomized,
+      controlled trial of celecoxib and rofecoxib in older hypertensive osteoarthritis 
+      patients.
+PG  - 85-95
+AB  - BACKGROUND: Arthritis and hypertension are common comorbid conditions affecting
+      elderly adults. Use of nonsteroidal anti-inflammatory drugs in patients treated
+      with antihypertensive medication can lead to destabilization of blood pressure
+      control and other cardiorenal events. The potential for similar interactions with
+      cyclooxygenase-2-specific inhibitors has not been fully explored. The authors
+      evaluated the cardiorenal safety of two new cyclooxygenase-2-specific inhibitors,
+      celecoxib and rofecoxib. METHODS: This study was a 6-week, randomized,
+      parallel-group, double-blind trial in patients with osteoarthritis who were > or 
+      =65 years of age and were taking antihypertensive agents. Patients received
+      once-daily celecoxib 200 mg or rofecoxib 25 mg. The primary endpoints were the
+      development of edema, changes in systolic blood pressure, and changes in
+      diastolic blood pressure as measured at any time point in the study. Measurements
+      occurred at baseline and after 1, 2, and 6 weeks of treatment. FINDINGS: Eight
+      hundred ten patients received study medication (celecoxib, n = 411; rofecoxib, n 
+      = 399). Nearly twice as many rofecoxib- compared with celecoxib-treated patients 
+      experienced edema (9.5% vs. 4.9%, P = 0.014). Systolic blood pressure increased
+      significantly in 17% of rofecoxib- compared with 11% of celecoxib-treated
+      patients (P = 0.032) at any study time point. Diastolic blood pressure increased 
+      in 2.3% of rofecoxib- compared with 1.5% of celecoxib-treated patients (P =
+      0.44). At week 6, the change from baseline in mean systolic blood pressure was
+      +2.6 mmHg for rofecoxib compared with -0.5 mmHg for celecoxib (P = 0.007).
+      CONCLUSIONS: Patients taking antihypertensive therapy and receiving
+      cyclooxygenase-2-specific inhibitors should be monitored for the development of
+      cardiorenal events. Patients receiving celecoxib experienced less edema and less 
+      destabilization of blood pressure control compared with those receiving
+      rofecoxib.
+AD  - Universal Clinical Research Center, Inc., Baltimore, MD, USA.
+FAU - Whelton, A
+AU  - Whelton A
+FAU - Fort, J G
+AU  - Fort JG
+FAU - Puma, J A
+AU  - Puma JA
+FAU - Normandin, D
+AU  - Normandin D
+FAU - Bello, A E
+AU  - Bello AE
+FAU - Verburg, K M
+AU  - Verburg KM
+CN  - SUCCESS VI Study Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Am J Ther
+JT  - American journal of therapeutics
+JID - 9441347
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Antihypertensive Agents)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Lactones)
+RN  - 0 (Prostaglandins)
+RN  - 0 (Pyrazoles)
+RN  - 0 (Sulfonamides)
+RN  - 0 (Sulfones)
+RN  - 0 (rofecoxib)
+RN  - 169590-42-5 (celecoxib)
+SB  - IM
+EIN - Am J Ther 2001 May-Jun;8(3):220
+MH  - Aged
+MH  - Anti-Inflammatory Agents, Non-Steroidal/adverse effects/therapeutic use
+MH  - Antihypertensive Agents/therapeutic use
+MH  - Cardiovascular System/drug effects
+MH  - Cyclooxygenase Inhibitors/*adverse effects/therapeutic use
+MH  - Drug Interactions
+MH  - Edema/chemically induced
+MH  - Female
+MH  - Humans
+MH  - Hypertension/complications/*drug therapy
+MH  - Kidney/drug effects
+MH  - Lactones/*adverse effects/therapeutic use
+MH  - Male
+MH  - Osteoarthritis/*drug therapy
+MH  - Prostaglandins/biosynthesis
+MH  - Pyrazoles
+MH  - Sulfonamides/*adverse effects/therapeutic use
+MH  - Sulfones
+EDAT- 2001/04/17 10:00
+MHDA- 2001/06/23 10:01
+CRDT- 2001/04/17 10:00
+PST - ppublish
+SO  - Am J Ther. 2001 Mar-Apr;8(2):85-95.
+
+PMID- 11252687
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010316
+DCOM- 20010329
+LR  - 20061115
+IS  - 0300-9742 (Print)
+IS  - 0300-9742 (Linking)
+VI  - 30
+IP  - 1
+DP  - 2001
+TI  - Tolerability profiles of rofecoxib (Vioxx) and Arthrotec. A comparison of six
+      weeks treatment in patients with osteoarthritis.
+PG  - 19-24
+AB  - OBJECTIVE: To compare the incidence of selected spontaneously reported adverse
+      events (AEs) in patients with osteoarthritis (OA) treated with rofecoxib (VIOXX, 
+      12.5 mg qd) or Arthrotec (diclofenac 50 mg/misoprostol 200 mcg bid). METHODS:
+      Double-blind, parallel-group, 6-week study of patients aged > or = 40 years with 
+      a clinical diagnosis of OA treated with rofecoxib or Arthrotec. Primary endpoint:
+      self-reported diarrhea; secondary endpoints: abdominal pain, discontinuations due
+      to AEs, GI AEs and NSAID-type GI AEs (ie., acid reflux, dyspepsia, epigastric
+      discomfort, heartburn, nausea, vomiting). RESULTS: Among 483 patients (80.3%
+      females, mean age 62.1), the rofecoxib group vs the Arthrotec group respectively 
+      reported diarrhea 6.2% vs 16.2% (p<0.001); drug-related diarrhea 3.7% vs 16.2%
+      (p<0.001); one or more clinical AEs 52.9% vs 73.0% (p<0.001); GI AEs 28.9% vs
+      48.5% (p<0.001); NSAID-type GI AEs 18.6% vs 29.9% (p=0.004); discontinuations due
+      to abdominal pain 0.4% vs 3.7% (p<0.05); and discontinuations due to any AE 4.1% 
+      vs 9.1% (p=0.029). No significant differences were observed in efficacy.
+      CONCLUSION: Rofecoxib 12.5 mg qd has improved GI tolerability and similar
+      efficacy compared to Arthrotec (diclofenac 50 mg/misoprostol 200 mcg bid).
+AD  - Clinica San Felipe, Lima, Peru.
+FAU - Acevedo, E
+AU  - Acevedo E
+FAU - Castaneda, O
+AU  - Castaneda O
+FAU - Ugaz, M
+AU  - Ugaz M
+FAU - Beaulieu, A D
+AU  - Beaulieu AD
+FAU - Pons-Estel, B
+AU  - Pons-Estel B
+FAU - Caeiro, F
+AU  - Caeiro F
+FAU - Casas, N
+AU  - Casas N
+FAU - Garza-Elizondo, M
+AU  - Garza-Elizondo M
+FAU - Irazoque, F
+AU  - Irazoque F
+FAU - Hinojosa, W
+AU  - Hinojosa W
+FAU - Gutierrez-Urena, S
+AU  - Gutierrez-Urena S
+FAU - Vandormael, K
+AU  - Vandormael K
+FAU - Rodgers, D B
+AU  - Rodgers DB
+FAU - Laurenzi, M
+AU  - Laurenzi M
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - Norway
+TA  - Scand J Rheumatol
+JT  - Scandinavian journal of rheumatology
+JID - 0321213
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Arthrotec)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Drug Combinations)
+RN  - 0 (Lactones)
+RN  - 0 (Sulfones)
+RN  - 0 (rofecoxib)
+RN  - 15307-86-5 (Diclofenac)
+RN  - 59122-46-2 (Misoprostol)
+SB  - IM
+MH  - Abdominal Pain/chemically induced
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*adverse effects
+MH  - Cyclooxygenase Inhibitors/*adverse effects
+MH  - Diarrhea/chemically induced
+MH  - Diclofenac/*adverse effects
+MH  - Double-Blind Method
+MH  - Drug Combinations
+MH  - Female
+MH  - Humans
+MH  - Lactones/*adverse effects
+MH  - Male
+MH  - Middle Aged
+MH  - Misoprostol/*adverse effects
+MH  - Osteoarthritis/*drug therapy/physiopathology
+MH  - Severity of Illness Index
+MH  - Sulfones
+MH  - Treatment Outcome
+EDAT- 2001/03/17 10:00
+MHDA- 2001/04/03 10:01
+CRDT- 2001/03/17 10:00
+PST - ppublish
+SO  - Scand J Rheumatol. 2001;30(1):19-24.
+
+PMID- 11252686
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010316
+DCOM- 20010329
+LR  - 20061115
+IS  - 0300-9742 (Print)
+IS  - 0300-9742 (Linking)
+VI  - 30
+IP  - 1
+DP  - 2001
+TI  - Celecoxib versus diclofenac in the management of osteoarthritis of the knee.
+PG  - 11-8
+AB  - OBJECTIVE: A clinical trial was conducted in 600 patients with OA of the knee to 
+      test the hypothesis that the specific COX-2 inhibitor, celecoxib, has equivalent 
+      efficacy and a superior tolerability/safety profile when compared to diclofenac, 
+      the current worldwide standard of care. METHODS: Patients were administered
+      celecoxib 100 mg BID, diclofenac 50 mg TID or placebo for 6 weeks in a
+      multicentre, double-blind. placebo-controlled trial. RESULTS: Primary efficacy
+      measures (index joint pain by VAS, WOMAC index) indicated statistically
+      significant improvement versus placebo for both celecoxib and diclofenac and no
+      statistically significant differences between celecoxib and diclofenac. American 
+      Pain Society (APS) measures to assess the rapidity of onset of action showed
+      statistically significant and comparable pain relief versus placebo within 24 h
+      for both celecoxib and diclofenac. More diclofenac patients reported GI side
+      effects than patients treated with either placebo or celecoxib.
+      Diclofenac-treated patients experienced statistically significant elevations in
+      mean hepatic transaminases and serum creatinine and reductions in haemoglobin
+      concentration when compared to placebo, events not observed with celecoxib.
+      CONCLUSION: Celecoxib 200 mg daily is as effective as diclofenac 150 mg daily for
+      relieving signs and symptoms of OA of the knee, including pain, and has a rapid
+      onset of action. However, celecoxib appears to have a superior safety and
+      tolerability profile.
+AD  - Rheumatic Diseases Unit, Trafford General Hospital, Manchester, UK.
+FAU - McKenna, F
+AU  - McKenna F
+FAU - Borenstein, D
+AU  - Borenstein D
+FAU - Wendt, H
+AU  - Wendt H
+FAU - Wallemark, C
+AU  - Wallemark C
+FAU - Lefkowith, J B
+AU  - Lefkowith JB
+FAU - Geis, G S
+AU  - Geis GS
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - Norway
+TA  - Scand J Rheumatol
+JT  - Scandinavian journal of rheumatology
+JID - 0321213
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Hemoglobins)
+RN  - 0 (Pyrazoles)
+RN  - 0 (Sulfonamides)
+RN  - 15307-86-5 (Diclofenac)
+RN  - 169590-42-5 (celecoxib)
+RN  - 60-27-5 (Creatinine)
+RN  - EC 2.6.1.1 (Aspartate Aminotransferases)
+RN  - EC 2.6.1.2 (Alanine Transaminase)
+SB  - IM
+MH  - Activities of Daily Living
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Alanine Transaminase/blood
+MH  - Aspartate Aminotransferases/blood
+MH  - Creatinine/blood
+MH  - Cyclooxygenase Inhibitors/*therapeutic use
+MH  - Diclofenac/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Gastrointestinal Diseases/chemically induced
+MH  - Hemoglobins/drug effects
+MH  - Humans
+MH  - Knee Joint/drug effects/physiopathology
+MH  - Male
+MH  - Middle Aged
+MH  - Osteoarthritis, Knee/blood/*drug therapy/physiopathology
+MH  - Pain Measurement/drug effects
+MH  - Pyrazoles
+MH  - Severity of Illness Index
+MH  - Sulfonamides/*therapeutic use
+MH  - Treatment Outcome
+EDAT- 2001/03/17 10:00
+MHDA- 2001/04/03 10:01
+CRDT- 2001/03/17 10:00
+PST - ppublish
+SO  - Scand J Rheumatol. 2001;30(1):11-8.
+
+PMID- 11212158
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010209
+DCOM- 20010308
+LR  - 20061115
+IS  - 0004-3591 (Print)
+IS  - 0004-3591 (Linking)
+VI  - 44
+IP  - 1
+DP  - 2001 Jan
+TI  - Efficacy of celecoxib, a cyclooxygenase 2-specific inhibitor, in the treatment of
+      ankylosing spondylitis: a six-week controlled study with comparison against
+      placebo and against a conventional nonsteroidal antiinflammatory drug.
+PG  - 180-5
+AB  - OBJECTIVE: To evaluate the short-term efficacy of celecoxib, a cyclooxygenase
+      2-specific inhibitor, in the treatment of ankylosing spondylitis (AS). METHODS:
+      The study was a 6-week randomized, double-blind, placebo-controlled trial with 3 
+      treatment arms: placebo, ketoprofen 100 mg twice daily, and celecoxib 100 mg
+      twice daily. Patients who had AS according to the modified New York criteria,
+      without peripheral synovitis and with active disease (pain > or =40 mm on a
+      100-mm visual analog scale [VAS] and an increase in pain of at least 30% after
+      nonsteroidal antiinflammatory drug withdrawal) were eligible for study. Primary
+      outcome measures were change in pain intensity (VAS) and change in functional
+      impairment (Bath Ankylosing Spondylitis Functional Index [BASFI]). RESULTS: Of
+      the 246 randomized patients, 76 were allocated to receive placebo, 90 ketoprofen,
+      and 80 celecoxib. There were no statistically significant differences between
+      treatment groups at study entry. During the 6 weeks of the study, the decrease in
+      pain and functional impairment was greater in the active treatment groups than in
+      the placebo group, with a trend in favor of celecoxib when the 2 active
+      treatments were compared. The mean changes were -13 mm, -21 mm, and -27 mm (P =
+      0.006) for pain and 1, -6, and -12 (P = 0.0008) for BASFI score in the placebo,
+      ketoprofen, and celecoxib groups, respectively. During treatment, the number of
+      patients reporting epigastric pain was 6 (8%), 13 (14%), and 10 (13%) in the
+      placebo, ketoprofen, and celecoxib groups, respectively. CONCLUSION: The results 
+      of this study confirm the clinically relevant antiinflammatory effect of
+      celecoxib at a 200-mg daily dosage, with significant improvement of both pain and
+      function in patients with AS.
+AD  - Rene Descartes University, Cochin Hospital, Paris, France.
+FAU - Dougados, M
+AU  - Dougados M
+FAU - Behier, J M
+AU  - Behier JM
+FAU - Jolchine, I
+AU  - Jolchine I
+FAU - Calin, A
+AU  - Calin A
+FAU - van der Heijde, D
+AU  - van der Heijde D
+FAU - Olivieri, I
+AU  - Olivieri I
+FAU - Zeidler, H
+AU  - Zeidler H
+FAU - Herman, H
+AU  - Herman H
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Arthritis Rheum
+JT  - Arthritis and rheumatism
+JID - 0370605
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Hemoglobins)
+RN  - 0 (Placebos)
+RN  - 0 (Pyrazoles)
+RN  - 0 (Sulfonamides)
+RN  - 169590-42-5 (celecoxib)
+SB  - AIM
+SB  - IM
+MH  - Adult
+MH  - Anti-Inflammatory Agents, Non-Steroidal/adverse effects/*therapeutic use
+MH  - Cyclooxygenase Inhibitors/adverse effects/*therapeutic use
+MH  - Female
+MH  - Gastrointestinal Diseases/chemically induced
+MH  - Hemoglobins/metabolism
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Placebos/therapeutic use
+MH  - Pyrazoles
+MH  - Spondylitis, Ankylosing/*drug therapy
+MH  - Sulfonamides/adverse effects/*therapeutic use
+MH  - Therapeutic Equivalency
+EDAT- 2001/02/24 12:00
+MHDA- 2001/03/10 10:01
+CRDT- 2001/02/24 12:00
+AID - 10.1002/1529-0131(200101)44:1<180::AID-ANR24>3.0.CO;2-K [doi]
+PST - ppublish
+SO  - Arthritis Rheum. 2001 Jan;44(1):180-5.
+
+PMID- 11115219
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010108
+DCOM- 20010118
+LR  - 20061115
+IS  - 1063-3987 (Print)
+IS  - 1063-3987 (Linking)
+VI  - 9
+IP  - 10
+DP  - 2000 Nov-Dec
+TI  - Rofecoxib, a new cyclooxygenase 2 inhibitor, shows sustained efficacy, comparable
+      with other nonsteroidal anti-inflammatory drugs: a 6-week and a 1-year trial in
+      patients with osteoarthritis. Osteoarthritis Studies Group.
+PG  - 1124-34
+AB  - INTRODUCTION: Rofecoxib, a cyclooxygenase 2 inhibitor (sometimes known as a
+      specific cyclooxygenase 2 inhibitor or Coxib), is used in osteoarthritis (OA).
+      Published information indicates rofecoxib's improved gastrointestinal safety
+      profile over nonselective nonsteroidal anti-inflammatory agents (NSAIDs).
+      OBJECTIVE: To evaluate the efficacy and safety of rofecoxib in treating OA in 2
+      studies. METHODS: Two randomized, double-blind, parallel-group studies in
+      patients with OA of the knee or hip were conducted using identical entry criteria
+      and end points. A 6-week placebo-controlled trial in 736 patients compared 12.5
+      and 25 mg of rofecoxib once daily with 800 mg of ibuprofen 3 times daily, and a
+      1-year study compared 12.5 and 25 mg of rofecoxib once daily with 50 mg of
+      diclofenac 3 times daily in 693 patients. RESULTS: Rofecoxib, at 12.5 and 25 mg, 
+      demonstrated efficacy clinically comparable with ibuprofen, assessed by 3 primary
+      end points according to predefined comparability criteria. Both rofecoxib doses
+      and ibuprofen provided significantly greater efficacy than placebo on all primary
+      end points at 6 weeks. Both rofecoxib doses and diclofenac showed similar
+      efficacy over 1 year. All treatments were well tolerated. CONCLUSIONS: Rofecoxib 
+      is effective in treating OA with once-daily dosing for 6 weeks and 1 year.
+      Rofecoxib was generally safe and well-tolerated in OA patients for 6 weeks and 1 
+      year. Arch Fam Med. 2000;9:1124-1134
+AD  - Division of Clinical Immunology and Rheumatology, University of Alabama,
+      Birmingham, USA.
+FAU - Saag, K
+AU  - Saag K
+FAU - van der Heijde, D
+AU  - van der Heijde D
+FAU - Fisher, C
+AU  - Fisher C
+FAU - Samara, A
+AU  - Samara A
+FAU - DeTora, L
+AU  - DeTora L
+FAU - Bolognese, J
+AU  - Bolognese J
+FAU - Sperling, R
+AU  - Sperling R
+FAU - Daniels, B
+AU  - Daniels B
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Arch Fam Med
+JT  - Archives of family medicine
+JID - 9300357
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Lactones)
+RN  - 0 (Sulfones)
+RN  - 0 (rofecoxib)
+RN  - 15307-86-5 (Diclofenac)
+RN  - 15687-27-1 (Ibuprofen)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Inflammatory Agents, Non-Steroidal/adverse effects/*therapeutic use
+MH  - Diclofenac/therapeutic use
+MH  - Double-Blind Method
+MH  - Enzyme Inhibitors/adverse effects/*therapeutic use
+MH  - Female
+MH  - Humans
+MH  - Ibuprofen/therapeutic use
+MH  - Lactones/adverse effects/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Osteoarthritis/*drug therapy
+MH  - Sulfones
+MH  - Treatment Outcome
+EDAT- 2000/12/15 11:00
+MHDA- 2001/02/28 10:01
+CRDT- 2000/12/15 11:00
+AID - fdt0002 [pii]
+PST - ppublish
+SO  - Arch Fam Med. 2000 Nov-Dec;9(10):1124-34.
+
+PMID- 11087881
+OWN - NLM
+STAT- MEDLINE
+DA  - 20001108
+DCOM- 20001130
+LR  - 20061115
+IS  - 0028-4793 (Print)
+IS  - 0028-4793 (Linking)
+VI  - 343
+IP  - 21
+DP  - 2000 Nov 23
+TI  - Comparison of upper gastrointestinal toxicity of rofecoxib and naproxen in
+      patients with rheumatoid arthritis. VIGOR Study Group.
+PG  - 1520-8, 2 p following 1528
+AB  - BACKGROUND: Each year, clinical upper gastrointestinal events occur in 2 to 4
+      percent of patients who are taking nonselective nonsteroidal antiinflammatory
+      drugs (NSAIDs). We assessed whether rofecoxib, a selective inhibitor of
+      cyclooxygenase-2, would be associated with a lower incidence of clinically
+      important upper gastrointestinal events than is the nonselective NSAID naproxen
+      among patients with rheumatoid arthritis. METHODS: We randomly assigned 8076
+      patients who were at least 50 years of age (or at least 40 years of age and
+      receiving long-term glucocorticoid therapy) and who had rheumatoid arthritis to
+      receive either 50 mg of rofecoxib daily or 500 mg of naproxen twice daily. The
+      primary end point was confirmed clinical upper gastrointestinal events
+      (gastroduodenal perforation or obstruction, upper gastrointestinal bleeding, and 
+      symptomatic gastroduodenal ulcers). RESULTS: Rofecoxib and naproxen had similar
+      efficacy against rheumatoid arthritis. During a median follow-up of 9.0 months,
+      2.1 confirmed gastrointestinal events per 100 patient-years occurred with
+      rofecoxib, as compared with 4.5 per 100 patient-years with naproxen (relative
+      risk, 0.5; 95 percent confidence interval, 0.3 to 0.6; P<0.001). The respective
+      rates of complicated confirmed events (perforation, obstruction, and severe upper
+      gastrointestinal bleeding) were 0.6 per 100 patient-years and 1.4 per 100
+      patient-years (relative risk, 0.4; 95 percent confidence interval, 0.2 to 0.8;
+      P=0.005). The incidence of myocardial infarction was lower among patients in the 
+      naproxen group than among those in the rofecoxib group (0.1 percent vs. 0.4
+      percent; relative risk, 0.2; 95 percent confidence interval, 0.1 to 0.7); the
+      overall mortality rate and the rate of death from cardiovascular causes were
+      similar in the two groups. CONCLUSIONS: In patients with rheumatoid arthritis,
+      treatment with rofecoxib, a selective inhibitor of cyclooxygenase-2, is
+      associated with significantly fewer clinically important upper gastrointestinal
+      events than treatment with naproxen, a nonselective inhibitor.
+AD  - Institute for Work and Health, Mount Sinai Hospital, and the University Health
+      Network, Toronto, ON, Canada. claire.bombardier@utoronto.ca
+FAU - Bombardier, C
+AU  - Bombardier C
+FAU - Laine, L
+AU  - Laine L
+FAU - Reicin, A
+AU  - Reicin A
+FAU - Shapiro, D
+AU  - Shapiro D
+FAU - Burgos-Vargas, R
+AU  - Burgos-Vargas R
+FAU - Davis, B
+AU  - Davis B
+FAU - Day, R
+AU  - Day R
+FAU - Ferraz, M B
+AU  - Ferraz MB
+FAU - Hawkey, C J
+AU  - Hawkey CJ
+FAU - Hochberg, M C
+AU  - Hochberg MC
+FAU - Kvien, T K
+AU  - Kvien TK
+FAU - Schnitzer, T J
+AU  - Schnitzer TJ
+CN  - VIGOR Study Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+RN  - 0 (Cyclooxygenase 2 Inhibitors)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Isoenzymes)
+RN  - 0 (Lactones)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Sulfones)
+RN  - 0 (rofecoxib)
+RN  - 22204-53-1 (Naproxen)
+RN  - EC 1.14.99.1 (Cyclooxygenase 2)
+RN  - EC 1.14.99.1 (PTGS2 protein, human)
+RN  - EC 1.14.99.1 (Prostaglandin-Endoperoxide Synthases)
+SB  - AIM
+SB  - IM
+CIN - N Engl J Med. 2001 May 3;344(18):1398; author reply 1398-9. PMID: 11336057
+CIN - N Engl J Med. 2005 Dec 29;353(26):2813-4. PMID: 16339408
+CIN - N Engl J Med. 2006 Mar 16;354(11):1193. PMID: 16495386
+CIN - N Engl J Med. 2001 May 3;344(18):1398; author reply 1398-9. PMID: 11336056
+MH  - Adult
+MH  - Arthritis, Rheumatoid/*drug therapy/mortality
+MH  - Cardiovascular Diseases/mortality
+MH  - Cyclooxygenase 2
+MH  - Cyclooxygenase 2 Inhibitors
+MH  - Cyclooxygenase Inhibitors/*therapeutic use
+MH  - Duodenal Obstruction/chemically induced
+MH  - Female
+MH  - Gastric Outlet Obstruction/chemically induced
+MH  - Gastrointestinal Diseases/*chemically induced
+MH  - Gastrointestinal Hemorrhage/chemically induced
+MH  - Humans
+MH  - Isoenzymes/*antagonists & inhibitors
+MH  - Lactones/*adverse effects/therapeutic use
+MH  - Male
+MH  - Membrane Proteins
+MH  - Middle Aged
+MH  - Naproxen/*adverse effects/therapeutic use
+MH  - Peptic Ulcer/chemically induced
+MH  - Proportional Hazards Models
+MH  - Prostaglandin-Endoperoxide Synthases
+MH  - Sulfones
+EDAT- 2000/11/23 11:00
+MHDA- 2001/03/14 10:01
+CRDT- 2000/11/23 11:00
+AID - 10.1056/NEJM200011233432103 [doi]
+PST - ppublish
+SO  - N Engl J Med. 2000 Nov 23;343(21):1520-8, 2 p following 1528.
+
+PMID- 10979111
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000921
+DCOM- 20000921
+LR  - 20061115
+IS  - 0098-7484 (Print)
+IS  - 0098-7484 (Linking)
+VI  - 284
+IP  - 10
+DP  - 2000 Sep 13
+TI  - Gastrointestinal toxicity with celecoxib vs nonsteroidal anti-inflammatory drugs 
+      for osteoarthritis and rheumatoid arthritis: the CLASS study: A randomized
+      controlled trial. Celecoxib Long-term Arthritis Safety Study.
+PG  - 1247-55
+AB  - CONTEXT: Conventional nonsteroidal anti-inflammatory drugs (NSAIDs) are
+      associated with a spectrum of toxic effects, notably gastrointestinal (GI)
+      effects, because of inhibition of cyclooxygenase (COX)-1. Whether COX-2-specific 
+      inhibitors are associated with fewer clinical GI toxic effects is unknown.
+      OBJECTIVE: To determine whether celecoxib, a COX-2-specific inhibitor, is
+      associated with a lower incidence of significant upper GI toxic effects and other
+      adverse effects compared with conventional NSAIDs. DESIGN: The Celecoxib
+      Long-term Arthritis Safety Study (CLASS), a double-blind, randomized controlled
+      trial conducted from September 1998 to March 2000. SETTING: Three hundred
+      eighty-six clinical sites in the United States and Canada. PARTICIPANTS: A total 
+      of 8059 patients (>/=18 years old) with osteoarthritis (OA) or rheumatoid
+      arthritis (RA) were enrolled in the study, and 7968 received at least 1 dose of
+      study drug. A total of 4573 patients (57%) received treatment for 6 months.
+      INTERVENTIONS: Patients were randomly assigned to receive celecoxib, 400 mg twice
+      per day (2 and 4 times the maximum RA and OA dosages, respectively; n = 3987);
+      ibuprofen, 800 mg 3 times per day (n = 1985); or diclofenac, 75 mg twice per day 
+      (n = 1996). Aspirin use for cardiovascular prophylaxis (</=325 mg/d) was
+      permitted. MAIN OUTCOME MEASURES: Incidence of prospectively defined symptomatic 
+      upper GI ulcers and ulcer complications (bleeding, perforation, and obstruction) 
+      and other adverse effects during the 6-month treatment period. RESULTS: For all
+      patients, the annualized incidence rates of upper GI ulcer complications alone
+      and combined with symptomatic ulcers for celecoxib vs NSAIDs were 0.76% vs 1.45% 
+      (P =.09) and 2. 08% vs 3.54% (P =.02), respectively. For patients not taking
+      aspirin, the annualized incidence rates of upper GI ulcer complications alone and
+      combined with symptomatic ulcers for celecoxib vs NSAIDs were 0.44% vs 1.27% (P
+      =.04) and 1.40% vs 2.91% (P =.02). For patients taking aspirin, the annualized
+      incidence rates of upper GI ulcer complications alone and combined with
+      symptomatic ulcers for celecoxib vs NSAIDs were 2.01% vs 2.12% (P =.92) and 4.70%
+      vs 6.00% (P =.49). Fewer celecoxib-treated patients than NSAID-treated patients
+      experienced chronic GI blood loss, GI intolerance, hepatotoxicity, or renal
+      toxicity. No difference was noted in the incidence of cardiovascular events
+      between celecoxib and NSAIDs, irrespective of aspirin use. CONCLUSIONS: In this
+      study, celecoxib, at dosages greater than those indicated clinically, was
+      associated with a lower incidence of symptomatic ulcers and ulcer complications
+      combined, as well as other clinically important toxic effects, compared with
+      NSAIDs at standard dosages. The decrease in upper GI toxicity was strongest among
+      patients not taking aspirin concomitantly. JAMA. 2000;284:1247-1255
+AD  - Pharmacia Clinical Research and Development, 4901 Searle Pkwy, Bldg A3E, Skokie, 
+      IL 60077, USA.
+FAU - Silverstein, F E
+AU  - Silverstein FE
+FAU - Faich, G
+AU  - Faich G
+FAU - Goldstein, J L
+AU  - Goldstein JL
+FAU - Simon, L S
+AU  - Simon LS
+FAU - Pincus, T
+AU  - Pincus T
+FAU - Whelton, A
+AU  - Whelton A
+FAU - Makuch, R
+AU  - Makuch R
+FAU - Eisen, G
+AU  - Eisen G
+FAU - Agrawal, N M
+AU  - Agrawal NM
+FAU - Stenson, W F
+AU  - Stenson WF
+FAU - Burr, A M
+AU  - Burr AM
+FAU - Zhao, W W
+AU  - Zhao WW
+FAU - Kent, J D
+AU  - Kent JD
+FAU - Lefkowith, J B
+AU  - Lefkowith JB
+FAU - Verburg, K M
+AU  - Verburg KM
+FAU - Geis, G S
+AU  - Geis GS
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - JAMA
+JT  - JAMA : the journal of the American Medical Association
+JID - 7501160
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Cyclooxygenase 2 Inhibitors)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Isoenzymes)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Pyrazoles)
+RN  - 0 (Sulfonamides)
+RN  - 15307-86-5 (Diclofenac)
+RN  - 15687-27-1 (Ibuprofen)
+RN  - 169590-42-5 (celecoxib)
+RN  - 50-78-2 (Aspirin)
+RN  - EC 1.14.99.1 (Cyclooxygenase 1)
+RN  - EC 1.14.99.1 (Cyclooxygenase 2)
+RN  - EC 1.14.99.1 (PTGS1 protein, human)
+RN  - EC 1.14.99.1 (PTGS2 protein, human)
+RN  - EC 1.14.99.1 (Prostaglandin-Endoperoxide Synthases)
+SB  - AIM
+SB  - IM
+CIN - JAMA. 2001 Nov 21;286(19):2398; author reply 2399-400. PMID: 11712924
+CIN - JAMA. 2001 Nov 21;286(19):2398-400. PMID: 11712925
+CIN - JAMA. 2000 Dec 27;284(24):3123; author reply 3124. PMID: 11135763
+CIN - JAMA. 2000 Dec 27;284(24):3123-4. PMID: 11135764
+CIN - JAMA. 2000 Sep 13;284(10):1297-9. PMID: 10980759
+MH  - Aged
+MH  - Analysis of Variance
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*adverse effects
+MH  - Arthritis, Rheumatoid/drug therapy
+MH  - Aspirin/adverse effects
+MH  - Cyclooxygenase 1
+MH  - Cyclooxygenase 2
+MH  - Cyclooxygenase 2 Inhibitors
+MH  - Cyclooxygenase Inhibitors/*adverse effects
+MH  - Diclofenac/adverse effects
+MH  - Double-Blind Method
+MH  - Female
+MH  - Gastrointestinal Diseases/*chemically induced
+MH  - Humans
+MH  - Ibuprofen/adverse effects
+MH  - Isoenzymes/*antagonists & inhibitors/*pharmacology
+MH  - Male
+MH  - Membrane Proteins
+MH  - Middle Aged
+MH  - Osteoarthritis/drug therapy
+MH  - Peptic Ulcer/chemically induced
+MH  - Proportional Hazards Models
+MH  - Prospective Studies
+MH  - Prostaglandin-Endoperoxide Synthases/*pharmacology
+MH  - Pyrazoles
+MH  - Sulfonamides/*adverse effects
+EDAT- 2000/09/09 11:00
+MHDA- 2000/09/23 11:01
+CRDT- 2000/09/09 11:00
+AID - joc01227 [pii]
+PST - ppublish
+SO  - JAMA. 2000 Sep 13;284(10):1247-55.
+
+PMID- 10871971
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000714
+DCOM- 20000714
+LR  - 20061115
+IS  - 0003-9926 (Print)
+IS  - 0003-9926 (Linking)
+VI  - 160
+IP  - 12
+DP  - 2000 Jun 26
+TI  - A randomized trial of the efficacy and tolerability of the COX-2 inhibitor
+      rofecoxib vs ibuprofen in patients with osteoarthritis. Rofecoxib/Ibuprofen
+      Comparator Study Group.
+PG  - 1781-7
+AB  - BACKGROUND: Nonsteroidal anti-inflammatory drugs (NSAIDs) inhibit both
+      cyclooxygenase-1 (COX-1) and cyclooxygenase-2 (COX-2). It is not known whether a 
+      specific inhibitor of COX-2 will provide efficacy in osteoarthritis (OA)
+      comparable with NSAIDs. Therefore, we compared the efficacy and safety of the
+      rofecoxib, which specifically inhibits COX-2, with those of the NSAID ibuprofen
+      in patients with OA. OBJECTIVE: To compare the clinical efficacy and tolerability
+      of rofecoxib (12.5 and 25 mg once daily) with ibuprofen (800 mg 3 times daily).
+      METHODS: A randomized, double-blind trial of 809 adults with OA was conducted.
+      Patients with OA in whom the knee or hip was the primary source of pain were
+      randomized to 1 of 4 treatment groups on demonstration of disease activity:
+      placebo; rofecoxib, 12.5 or 25 mg once daily; or ibuprofen, 800 mg 3 times daily.
+      Clinical efficacy and safety were monitored during a 6-week treatment period.
+      RESULTS: Both doses of rofecoxib demonstrated efficacy clinically comparable with
+      ibuprofen as assessed by 3 primary end points (pain walking on a flat surface
+      [Western Ontario and McMaster Universities Osteoarthritis Index], patient global 
+      assessment of response to therapy, and investigator global assessment of disease 
+      status) according to predefined comparability criteria. Both rofecoxib doses and 
+      the ibuprofen dose provided significantly (P<.001) greater efficacy than placebo 
+      on all primary end points. Results from secondary end points were consistent with
+      those of the primary end points. All treatments were well tolerated; the overall 
+      incidence rates of clinical adverse experiences were not significantly different 
+      (P>.05) among the treatment groups. CONCLUSION: Rofecoxib was well tolerated and 
+      provided clinical efficacy comparable with a high dose of the NSAID ibuprofen.
+AD  - St Vincent's Hospital, Darlinghurst, Australia.
+FAU - Day, R
+AU  - Day R
+FAU - Morrison, B
+AU  - Morrison B
+FAU - Luza, A
+AU  - Luza A
+FAU - Castaneda, O
+AU  - Castaneda O
+FAU - Strusberg, A
+AU  - Strusberg A
+FAU - Nahir, M
+AU  - Nahir M
+FAU - Helgetveit, K B
+AU  - Helgetveit KB
+FAU - Kress, B
+AU  - Kress B
+FAU - Daniels, B
+AU  - Daniels B
+FAU - Bolognese, J
+AU  - Bolognese J
+FAU - Krupa, D
+AU  - Krupa D
+FAU - Seidenberg, B
+AU  - Seidenberg B
+FAU - Ehrich, E
+AU  - Ehrich E
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Arch Intern Med
+JT  - Archives of internal medicine
+JID - 0372440
+RN  - 0 (Analgesics, Non-Narcotic)
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Lactones)
+RN  - 0 (Sulfones)
+RN  - 0 (rofecoxib)
+RN  - 15687-27-1 (Ibuprofen)
+SB  - AIM
+SB  - IM
+MH  - Aged
+MH  - Analgesics, Non-Narcotic/adverse effects/*therapeutic use
+MH  - Anti-Inflammatory Agents, Non-Steroidal/adverse effects/*therapeutic use
+MH  - Cyclooxygenase Inhibitors/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Ibuprofen/adverse effects/*therapeutic use
+MH  - Lactones/adverse effects/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Osteoarthritis/*drug therapy
+MH  - Sulfones
+MH  - Treatment Outcome
+EDAT- 2000/06/29 11:00
+MHDA- 2000/07/25 11:00
+CRDT- 2000/06/29 11:00
+AID - ioi90598 [pii]
+PST - ppublish
+SO  - Arch Intern Med. 2000 Jun 26;160(12):1781-7.
+
+PMID- 10817549
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000601
+DCOM- 20000601
+LR  - 20061115
+IS  - 0004-3591 (Print)
+IS  - 0004-3591 (Linking)
+VI  - 43
+IP  - 5
+DP  - 2000 May
+TI  - Rofecoxib, a specific inhibitor of cyclooxygenase 2, with clinical efficacy
+      comparable with that of diclofenac sodium: results of a one-year, randomized,
+      clinical trial in patients with osteoarthritis of the knee and hip. Rofecoxib
+      Phase III Protocol 035 Study Group.
+PG  - 978-87
+AB  - OBJECTIVE: To compare the clinical efficacy of rofecoxib, a specific inhibitor of
+      cyclooxygenase 2 (COX-2), with that of diclofenac in patients with osteoarthritis
+      (OA) and to evaluate the safety and tolerability of rofecoxib. METHODS: We
+      performed a randomized, double-blind, active comparator-controlled trial in 784
+      adults with OA of the knee or hip. Patients were randomized to 1 of 3 treatment
+      groups: 12.5 mg of rofecoxib once daily, 25 mg of rofecoxib once daily, and 50 mg
+      of diclofenac 3 times daily. Clinical efficacy and safety were evaluated over a
+      1-year continuous treatment period. RESULTS: Rofecoxib at dosages of 12.5 and 25 
+      mg demonstrated efficacy that was clinically comparable to that of diclofenac, as
+      assessed by all 3 primary end points according to predefined comparability
+      criteria. Results from secondary end points were consistent with those of the
+      primary end points. There were small statistical differences favoring diclofenac 
+      for 2 of the end points. All treatments were well tolerated. CONCLUSION:
+      Rofecoxib was well tolerated and provided efficacy that was clinically
+      comparable, according to predefined statistical criteria, to that of 150 mg of
+      diclofenac per day in this 1-year study. Specific inhibition of COX-2 provided
+      therapeutic efficacy in OA.
+AD  - Department of Veterans Affairs Medical Center, and University of Utah, Salt Lake 
+      City, USA.
+FAU - Cannon, G W
+AU  - Cannon GW
+FAU - Caldwell, J R
+AU  - Caldwell JR
+FAU - Holt, P
+AU  - Holt P
+FAU - McLean, B
+AU  - McLean B
+FAU - Seidenberg, B
+AU  - Seidenberg B
+FAU - Bolognese, J
+AU  - Bolognese J
+FAU - Ehrich, E
+AU  - Ehrich E
+FAU - Mukhopadhyay, S
+AU  - Mukhopadhyay S
+FAU - Daniels, B
+AU  - Daniels B
+LA  - eng
+PT  - Clinical Trial
+PT  - Clinical Trial, Phase III
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Arthritis Rheum
+JT  - Arthritis and rheumatism
+JID - 0370605
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Lactones)
+RN  - 0 (Sulfones)
+RN  - 0 (rofecoxib)
+RN  - 15307-86-5 (Diclofenac)
+SB  - AIM
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Anti-Inflammatory Agents, Non-Steroidal/pharmacokinetics/*therapeutic use
+MH  - Cyclooxygenase Inhibitors/*therapeutic use
+MH  - Diclofenac/*pharmacokinetics/*therapeutic use
+MH  - Double-Blind Method
+MH  - Enzyme Inhibitors/pharmacokinetics/*therapeutic use
+MH  - Female
+MH  - Humans
+MH  - Lactones/*pharmacokinetics/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Osteoarthritis, Hip/drug therapy
+MH  - Osteoarthritis, Knee/drug therapy
+MH  - Sulfones
+MH  - Therapeutic Equivalency
+EDAT- 2000/05/19 09:00
+MHDA- 2000/06/03 09:00
+CRDT- 2000/05/19 09:00
+AID - 10.1002/1529-0131(200005)43:5<978::AID-ANR4>3.0.CO;2-0 [doi]
+PST - ppublish
+SO  - Arthritis Rheum. 2000 May;43(5):978-87.
+
+PMID- 10693877
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000309
+DCOM- 20000309
+LR  - 20061115
+IS  - 0004-3591 (Print)
+IS  - 0004-3591 (Linking)
+VI  - 43
+IP  - 2
+DP  - 2000 Feb
+TI  - Comparison of the effect of rofecoxib (a cyclooxygenase 2 inhibitor), ibuprofen, 
+      and placebo on the gastroduodenal mucosa of patients with osteoarthritis: a
+      randomized, double-blind, placebo-controlled trial. The Rofecoxib Osteoarthritis 
+      Endoscopy Multinational Study Group.
+PG  - 370-7
+AB  - OBJECTIVE: This randomized, double-blind study tested the hypothesis that
+      rofecoxib, a drug that specifically inhibits cyclooxygenase 2, would cause fewer 
+      gastroduodenal ulcers than ibuprofen (in a multicenter trial), and its side
+      effects would be equivalent to those of placebo (in a prespecified analysis
+      combining the results with another trial of identical design). METHODS: Seven
+      hundred seventy-five patients with osteoarthritis were randomized to receive
+      rofecoxib at a dosage of 25 mg or 50 mg once daily, ibuprofen 800 mg 3 times
+      daily, or placebo. Gastroduodenal ulceration was assessed by endoscopy at 6, 12, 
+      and (for active treatment) 24 weeks. The primary and secondary end points were
+      the incidence of gastroduodenal ulcers at 12 and 24 weeks, respectively. RESULTS:
+      Ulcers were significantly less common (P < 0.001) following treatment with
+      rofecoxib (25 mg or 50 mg) than with ibuprofen after 12 weeks (5.3% and 8.8%
+      versus 29.2%, respectively) or 24 weeks (9.9% and 12.4% versus 46.8%,
+      respectively). In the combined analysis, the 12-week ulcer incidence with 25 mg
+      rofecoxib (4.7%) and with placebo (7.3%) satisfied prespecified criteria for
+      equivalence. CONCLUSION: At 2-4 times the therapeutically effective dose,
+      rofecoxib caused fewer endoscopically detected ulcers than did ibuprofen.
+      Rofecoxib at a dose of 25 mg (the highest dose recommended for osteoarthritis)
+      satisfied prespecified criteria for equivalence to placebo.
+AD  - University Hospital Queen's Medical Centre, Nottingham, UK.
+FAU - Hawkey, C
+AU  - Hawkey C
+FAU - Laine, L
+AU  - Laine L
+FAU - Simon, T
+AU  - Simon T
+FAU - Beaulieu, A
+AU  - Beaulieu A
+FAU - Maldonado-Cocco, J
+AU  - Maldonado-Cocco J
+FAU - Acevedo, E
+AU  - Acevedo E
+FAU - Shahane, A
+AU  - Shahane A
+FAU - Quan, H
+AU  - Quan H
+FAU - Bolognese, J
+AU  - Bolognese J
+FAU - Mortensen, E
+AU  - Mortensen E
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - Arthritis Rheum
+JT  - Arthritis and rheumatism
+JID - 0370605
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Lactones)
+RN  - 0 (Placebos)
+RN  - 0 (Sulfones)
+RN  - 0 (rofecoxib)
+RN  - 15687-27-1 (Ibuprofen)
+SB  - AIM
+SB  - IM
+CIN - Curr Gastroenterol Rep. 2000 Dec;2(6):463. PMID: 11079047
+MH  - Cyclooxygenase Inhibitors/*pharmacology
+MH  - Double-Blind Method
+MH  - Duodenal Ulcer/chemically induced/epidemiology
+MH  - Duodenum
+MH  - Enzyme Inhibitors/*pharmacology
+MH  - Gastric Mucosa/*drug effects
+MH  - Humans
+MH  - Ibuprofen/adverse effects
+MH  - Incidence
+MH  - Intestinal Mucosa/*drug effects
+MH  - Lactones/adverse effects/*pharmacology
+MH  - Placebos
+MH  - Sulfones
+EDAT- 2000/02/29 09:00
+MHDA- 2000/03/11 09:00
+CRDT- 2000/02/29 09:00
+AID - 10.1002/1529-0131(200002)43:2<370::AID-ANR17>3.0.CO;2-D [doi]
+PST - ppublish
+SO  - Arthritis Rheum. 2000 Feb;43(2):370-7.
+
+PMID- 10609815
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000111
+DCOM- 20000111
+LR  - 20100225
+IS  - 0140-6736 (Print)
+IS  - 0140-6736 (Linking)
+VI  - 354
+IP  - 9196
+DP  - 1999 Dec 18-25
+TI  - Celecoxib versus diclofenac in long-term management of rheumatoid arthritis:
+      randomised double-blind comparison.
+PG  - 2106-11
+AB  - BACKGROUND: Non-steroidal anti-inflammatory drugs (NSAIDs) inhibit
+      cyclo-oxygenase (COX), which leads to suppression of COX-1-mediated production of
+      gastrointestinal-protective prostaglandins. Gastrointestinal injury is a common
+      outcome. We compared the efficacy, safety, and tolerability of long-term therapy 
+      with celecoxib, a COX-1 sparing inhibitor of COX-2, with diclofenac, a
+      non-specific COX inhibitor. METHODS: 655 patients with adult-onset rheumatoid
+      arthritis of at least 6 months' duration were randomly assigned oral celecoxib
+      200 mg twice daily or diclofenac SR 75 mg twice daily for 24 weeks.
+      Anti-inflammatory and analgesic activity and tolerability were assessed at
+      baseline, every 4 weeks, and at week 24. We assessed gastrointestinal safety by
+      upper-gastrointestinal endoscopy within 7 days of the last treatment dose at
+      centres where the procedure was available. Analysis was by intention-to-treat.
+      FINDINGS: 430 patients underwent endoscopy (celecoxib n=212, diclofenac n=218).
+      The two drugs were similar in management of rheumatoid arthritis pain and
+      inflammation. Gastroduodenal ulcers were detected endoscopically in 33 (15%)
+      patients treated with diclofenac and in eight (4%) in the celecoxib group
+      (p<0.001). The rate of withdrawal for any gastrointestinal-related adverse event,
+      most commonly abdominal pain, diarrhoea, and dyspepsia, was nearly three times
+      higher in the diclofenac-treated group than in the celecoxib group (16 vs 6%;
+      p<0.001). INTERPRETATION: Celecoxib showed sustained anti-inflammatory and
+      analgesic activity similar to diclofenac, with a lower frequency of upper
+      gastrointestinal ulceration or gastrointestinal adverse events, and tolerability 
+      was better.
+AD  - Department of Rheumatology and Rehabilitation, University of Leeds, UK.
+FAU - Emery, P
+AU  - Emery P
+FAU - Zeidler, H
+AU  - Zeidler H
+FAU - Kvien, T K
+AU  - Kvien TK
+FAU - Guslandi, M
+AU  - Guslandi M
+FAU - Naudin, R
+AU  - Naudin R
+FAU - Stead, H
+AU  - Stead H
+FAU - Verburg, K M
+AU  - Verburg KM
+FAU - Isakson, P C
+AU  - Isakson PC
+FAU - Hubbard, R C
+AU  - Hubbard RC
+FAU - Geis, G S
+AU  - Geis GS
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Lancet
+JT  - Lancet
+JID - 2985213R
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Hemoglobins)
+RN  - 0 (Pyrazoles)
+RN  - 0 (Sulfonamides)
+RN  - 15307-86-5 (Diclofenac)
+RN  - 169590-42-5 (celecoxib)
+SB  - AIM
+SB  - IM
+CIN - Lancet. 2000 Feb 26;355(9205):753. PMID: 10703829
+MH  - Analysis of Variance
+MH  - Anti-Inflammatory Agents, Non-Steroidal/adverse effects/*therapeutic use
+MH  - Arthritis, Rheumatoid/*drug therapy
+MH  - Blood Pressure/drug effects
+MH  - Cyclooxygenase Inhibitors/adverse effects/*therapeutic use
+MH  - Diclofenac/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Hemoglobins/drug effects
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Pain Measurement
+MH  - Pyrazoles
+MH  - Stomach Ulcer/chemically induced
+MH  - Sulfonamides/adverse effects/*therapeutic use
+EDAT- 1999/12/28 09:00
+MHDA- 2000/04/01 09:00
+CRDT- 1999/12/28 09:00
+AID - S0140-6736(99)02332-6 [pii]
+AID - 10.1016/S0140-6736(99)02332-6 [doi]
+PST - ppublish
+SO  - Lancet. 1999 Dec 18-25;354(9196):2106-11.
+
+PMID- 10580457
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991208
+DCOM- 19991208
+LR  - 20061115
+IS  - 0098-7484 (Print)
+IS  - 0098-7484 (Linking)
+VI  - 282
+IP  - 20
+DP  - 1999 Nov 24
+TI  - Anti-inflammatory and upper gastrointestinal effects of celecoxib in rheumatoid
+      arthritis: a randomized controlled trial.
+PG  - 1921-8
+AB  - CONTEXT: In vitro studies have shown that celecoxib inhibits cyclooxygenase 2
+      (COX-2) but not COX-1, suggesting that this drug may have anti-inflammatory and
+      analgesic activity without adverse upper gastrointestinal (GI) tract effects that
+      result from COX-1 inhibition. OBJECTIVE: To test whether celecoxib has efficacy
+      as an anti-inflammatory and analgesic with reduced GI tract mucosal damage
+      compared with conventional nonsteroidal anti-inflammatory drugs in patients with 
+      rheumatoid arthritis. DESIGN: Randomized, multicenter, placebo-controlled,
+      double-blind trial lasting 12 weeks, with follow-up at weeks 2, 6, and 12, from
+      September 1996 thorugh February 1998. SETTING: Seventy-nine clinical sites in the
+      United States and Canada. PATIENTS: A total of 1149 patients aged 18 years or
+      older with symptomatic rheumatoid arthritis who met inclusion criteria were
+      randomized; 688 (60%) of these completed the study. INTERVENTIONS: Patients were 
+      randomized to receive celecoxib, 100 mg, 200 mg, or 400 mg twice per day (n =
+      240, 235, and 218, respectively); naproxen, 500 mg twice per day (n = 225); or
+      placebo (n = 231). MAIN OUTCOME MEASURES: Improvement in signs and symptoms of
+      rheumatoid arthritis as assessed using standard measures of efficacy and GI tract
+      safety as assessed by upper GI tract endoscopy before and after treatment,
+      compared among treatment groups. RESULTS: All dosages of celecoxib and naproxen
+      significantly improved the signs and symptoms of arthritis compared with placebo.
+      Maximal anti-inflammatory and analgesic activity was evident within 2 weeks of
+      initiating treatment and was sustained throughout the 12 weeks. The incidence of 
+      endoscopically determined gastroduodenal ulcers in placebo-treated patients was 4
+      (4%) of 99, and the incidences across all dosages of celecoxib were not
+      significantly different (P>.40): 9 (6%) of 148 with 100 mg twice per day, 6 (4%) 
+      of 145 with 200 mg twice per day, and 8 (6%) of 130 with 400 mg twice per day. In
+      contrast, the incidence with naproxen was 36 (26%) of 137, significantly greater 
+      than either placebo or celecoxib (P<.001). The overall incidences of GI tract
+      adverse effects were 19% for placebo; 28%, 25%, and 26% for celecoxib 100 mg, 200
+      mg, and 400 mg twice per day, respectively; and 31 % for naproxen. CONCLUSION: In
+      this study, all dosages of celecoxib were efficacious in the treatment of
+      rheumatoid arthritis and did not affect COX-1 activity in the GI tract mucosa as 
+      evidenced by less frequent incidence of endoscopic ulcers compared with naproxen.
+AD  - Department of Medicine, Beth Israel Deaconess Medical Center, Harvard Medical
+      School, Boston, Mass 02215, USA.
+FAU - Simon, L S
+AU  - Simon LS
+FAU - Weaver, A L
+AU  - Weaver AL
+FAU - Graham, D Y
+AU  - Graham DY
+FAU - Kivitz, A J
+AU  - Kivitz AJ
+FAU - Lipsky, P E
+AU  - Lipsky PE
+FAU - Hubbard, R C
+AU  - Hubbard RC
+FAU - Isakson, P C
+AU  - Isakson PC
+FAU - Verburg, K M
+AU  - Verburg KM
+FAU - Yu, S S
+AU  - Yu SS
+FAU - Zhao, W W
+AU  - Zhao WW
+FAU - Geis, G S
+AU  - Geis GS
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - JAMA
+JT  - JAMA : the journal of the American Medical Association
+JID - 7501160
+RN  - 0 (Analgesics, Non-Narcotic)
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Cyclooxygenase 2 Inhibitors)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Isoenzymes)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Pyrazoles)
+RN  - 0 (Sulfonamides)
+RN  - 169590-42-5 (celecoxib)
+RN  - 22204-53-1 (Naproxen)
+RN  - EC 1.14.99.1 (Cyclooxygenase 1)
+RN  - EC 1.14.99.1 (Cyclooxygenase 2)
+RN  - EC 1.14.99.1 (PTGS1 protein, human)
+RN  - EC 1.14.99.1 (PTGS2 protein, human)
+RN  - EC 1.14.99.1 (Prostaglandin-Endoperoxide Synthases)
+SB  - AIM
+SB  - IM
+CIN - JAMA. 1999 Nov 24;282(20):1961-3. PMID: 10580464
+CIN - JAMA. 2000 Apr 19;283(15):1961-2. PMID: 10789662
+CIN - JAMA. 2000 Apr 19;283(15):1961; author reply 1962. PMID: 10789661
+MH  - Adult
+MH  - Aged
+MH  - Analgesics, Non-Narcotic/adverse effects/*therapeutic use
+MH  - Analysis of Variance
+MH  - Anti-Inflammatory Agents, Non-Steroidal/adverse effects/*therapeutic use
+MH  - Arthritis, Rheumatoid/*drug therapy
+MH  - Cyclooxygenase 1
+MH  - Cyclooxygenase 2
+MH  - Cyclooxygenase 2 Inhibitors
+MH  - Cyclooxygenase Inhibitors/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Duodenum
+MH  - Endoscopy, Gastrointestinal
+MH  - Female
+MH  - Gastric Mucosa/drug effects
+MH  - Humans
+MH  - Intestinal Mucosa/drug effects
+MH  - Isoenzymes
+MH  - Male
+MH  - Membrane Proteins
+MH  - Middle Aged
+MH  - Naproxen/adverse effects/therapeutic use
+MH  - Peptic Ulcer/*chemically induced/diagnosis
+MH  - Prospective Studies
+MH  - Prostaglandin-Endoperoxide Synthases
+MH  - Pyrazoles
+MH  - Sulfonamides/adverse effects/*therapeutic use
+EDAT- 1999/12/02 09:00
+MHDA- 2001/08/14 10:01
+CRDT- 1999/12/02 09:00
+AID - joc90341 [pii]
+PST - ppublish
+SO  - JAMA. 1999 Nov 24;282(20):1921-8.
+
+PMID- 10560596
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991130
+DCOM- 19991130
+LR  - 20071029
+IS  - 0025-6196 (Print)
+IS  - 0025-6196 (Linking)
+VI  - 74
+IP  - 11
+DP  - 1999 Nov
+TI  - Treatment of osteoarthritis with celecoxib, a cyclooxygenase-2 inhibitor: a
+      randomized controlled trial.
+PG  - 1095-105
+AB  - OBJECTIVE: To compare the efficacy and safety of celecoxib, a cyclooxygenase-2
+      (COX-2) inhibitor, with those of naproxen, a nonsteroidal anti-inflammatory drug 
+      (NSAID), and placebo in the treatment of osteoarthritis of the knee. METHODS: In 
+      this multicenter, randomized, double-blind, placebo-controlled trial, 1003
+      patients with symptomatic osteoarthritis of the knee were randomly assigned to
+      receive celecoxib at doses of 50, 100, or 200 mg twice a day; naproxen, 500 mg
+      twice a day; or placebo for 12 weeks. Patients were evaluated with standard
+      measures of efficacy 2 to 7 days after discontinuing previous NSAID or analgesic 
+      therapy and after 2, 6, and 12 weeks of treatment with the study drug. RESULTS:
+      Celecoxib treatment led to significant improvement in the signs and symptoms of
+      osteoarthritis as determined by all efficacy measures. Significant pain relief
+      occurred within 2 days of the initiation of treatment, and maximum
+      anti-inflammatory and analgesic activity, evident within 2 weeks, was sustained
+      throughout the 12-week study. All celecoxib doses were efficacious compared with 
+      placebo, although the 50-mg twice-daily dosage regimen was minimally effective.
+      The higher doses of celecoxib (100 and 200 mg twice a day) were similarly
+      efficacious, and the magnitude of improvement observed with these dosing regimens
+      was comparable to that seen with naproxen at a dose of 500 mg twice a day. All
+      doses of celecoxib and naproxen were well tolerated. CONCLUSION: COX-2 inhibition
+      with celecoxib is an effective approach for the treatment of osteoarthritis, as
+      seen by clinical improvement in signs and symptoms comparable to treatment with
+      naproxen.
+AD  - St Joseph's Hospital, Hamilton, Ontario, Canada.
+FAU - Bensen, W G
+AU  - Bensen WG
+FAU - Fiechtner, J J
+AU  - Fiechtner JJ
+FAU - McMillen, J I
+AU  - McMillen JI
+FAU - Zhao, W W
+AU  - Zhao WW
+FAU - Yu, S S
+AU  - Yu SS
+FAU - Woods, E M
+AU  - Woods EM
+FAU - Hubbard, R C
+AU  - Hubbard RC
+FAU - Isakson, P C
+AU  - Isakson PC
+FAU - Verburg, K M
+AU  - Verburg KM
+FAU - Geis, G S
+AU  - Geis GS
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Mayo Clin Proc
+JT  - Mayo Clinic proceedings. Mayo Clinic
+JID - 0405543
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Cyclooxygenase 2 Inhibitors)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Isoenzymes)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Pyrazoles)
+RN  - 0 (Sulfonamides)
+RN  - 169590-42-5 (celecoxib)
+RN  - 22204-53-1 (Naproxen)
+RN  - EC 1.14.99.1 (Cyclooxygenase 2)
+RN  - EC 1.14.99.1 (PTGS2 protein, human)
+RN  - EC 1.14.99.1 (Prostaglandin-Endoperoxide Synthases)
+SB  - AIM
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Inflammatory Agents, Non-Steroidal/administration & dosage/adverse
+      effects/*therapeutic use
+MH  - Cyclooxygenase 2
+MH  - Cyclooxygenase 2 Inhibitors
+MH  - Cyclooxygenase Inhibitors/administration & dosage/adverse effects/*therapeutic
+      use
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Humans
+MH  - Incidence
+MH  - Isoenzymes/*drug effects
+MH  - Membrane Proteins
+MH  - Middle Aged
+MH  - Naproxen/therapeutic use
+MH  - Osteoarthritis/*drug therapy
+MH  - Prostaglandin-Endoperoxide Synthases/*drug effects
+MH  - Pyrazoles
+MH  - Sulfonamides/administration & dosage/adverse effects/*therapeutic use
+MH  - Treatment Outcome
+EDAT- 1999/11/24
+MHDA- 1999/11/24 00:01
+CRDT- 1999/11/24 00:00
+AID - S0025-6196(11)65096-9 [pii]
+AID - 10.4065/74.11.1095 [doi]
+PST - ppublish
+SO  - Mayo Clin Proc. 1999 Nov;74(11):1095-105.
+
+PMID- 10555933
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991130
+DCOM- 19991130
+LR  - 20061115
+IS  - 0277-0008 (Print)
+IS  - 0277-0008 (Linking)
+VI  - 19
+IP  - 11
+DP  - 1999 Nov
+TI  - Evaluation of the functional status aspects of health-related quality of life of 
+      patients with osteoarthritis treated with celecoxib.
+PG  - 1269-78
+AB  - STUDY OBJECTIVE: To evaluate the functional status of patients with signs and
+      symptoms of osteoarthritis of the knee after treatment with celecoxib compared
+      with placebo and naproxen. DESIGN: Prospective, randomized, double-blind,
+      parallel-group, 12-week trial. SETTING: Multicenter study conducted at 71 sites
+      in the United States and Canada. PATIENTS: One thousand four patients with active
+      osteoarthritis of the knee in a flare state. INTERVENTIONS: Patients were
+      assigned randomly to one of five treatment groups: placebo; celecoxib 50 mg
+      twice/day, 100 mg twice/day, and 200 mg twice/day; and naproxen 500 mg twice/day.
+      MEASUREMENTS AND MAIN RESULTS: The Western Ontario and McMaster Universities
+      Osteoarthritis Index was used to measure functional status. At the end of the
+      treatment period, patients in the four active treatment groups had significantly 
+      better functional status than those receiving placebo. Patients treated with
+      celecoxib 100 mg twice/day had significantly better improvements in pain scores
+      than those treated with placebo and naproxen. CONCLUSION: Celecoxib was better
+      than placebo and comparable with naproxen in improving aspects of functional
+      status in patients with osteoarthritis.
+AD  - G.D. Searle & Company, Skokie, Illinois 60077, USA.
+FAU - Zhao, S Z
+AU  - Zhao SZ
+FAU - McMillen, J I
+AU  - McMillen JI
+FAU - Markenson, J A
+AU  - Markenson JA
+FAU - Dedhiya, S D
+AU  - Dedhiya SD
+FAU - Zhao, W W
+AU  - Zhao WW
+FAU - Osterhaus, J T
+AU  - Osterhaus JT
+FAU - Yu, S S
+AU  - Yu SS
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Pharmacotherapy
+JT  - Pharmacotherapy
+JID - 8111305
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Pyrazoles)
+RN  - 0 (Sulfonamides)
+RN  - 169590-42-5 (celecoxib)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*therapeutic use
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Osteoarthritis/*drug therapy/physiopathology/psychology
+MH  - Prospective Studies
+MH  - Pyrazoles
+MH  - *Quality of Life
+MH  - Sulfonamides/adverse effects/*therapeutic use
+EDAT- 1999/11/11
+MHDA- 1999/11/11 00:01
+CRDT- 1999/11/11 00:00
+PST - ppublish
+SO  - Pharmacotherapy. 1999 Nov;19(11):1269-78.
+
+PMID- 10500058
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991028
+DCOM- 19991028
+LR  - 20091103
+IS  - 0016-5085 (Print)
+IS  - 0016-5085 (Linking)
+VI  - 117
+IP  - 4
+DP  - 1999 Oct
+TI  - A randomized trial comparing the effect of rofecoxib, a cyclooxygenase 2-specific
+      inhibitor, with that of ibuprofen on the gastroduodenal mucosa of patients with
+      osteoarthritis. Rofecoxib Osteoarthritis Endoscopy Study Group.
+PG  - 776-83
+AB  - BACKGROUND & AIMS: Prostaglandin production in the normal gastrointestinal tract,
+      believed to be critical for mucosal integrity, is mediated by cyclooxygenase
+      (COX)-1, whereas prostaglandin production at inflammatory sites seems to occur
+      via induction of COX-2. We hypothesized that COX-2-specific inhibition with
+      rofecoxib (25 mg once daily) in the treatment of patients with osteoarthritis
+      would cause fewer gastroduodenal ulcers than an equally effective dose of
+      ibuprofen (800 mg 3 times a day), a nonspecific COX inhibitor. METHODS: A total
+      of 742 osteoarthritis patients without ulcers on baseline endoscopy were randomly
+      assigned to receive rofecoxib (25 or 50 mg once daily), ibuprofen (800 mg 3 times
+      daily), or placebo. Endoscopy was repeated at 6, 12, and 24 weeks. At 16 weeks,
+      by study design, 95% of the placebo group and 5% of the other groups were
+      discontinued. RESULTS: The cumulative incidence of gastroduodenal ulcers >/=3 mm 
+      with rofecoxib (25 or 50 mg once daily) was significantly (P < 0.001) lower than 
+      with ibuprofen and was statistically equivalent to placebo at week 12 (placebo,
+      9.9%; 25 mg rofecoxib, 4.1%; 50 mg rofecoxib, 7.3%; and ibuprofen, 27.7%). At 24 
+      weeks, ulcer rates were 25 mg rofecoxib, 9. 6%; 50 mg rofecoxib, 14.7%; and
+      ibuprofen, 45.8% (P < 0.001, ibuprofen vs. 25 and 50 mg rofecoxib). CONCLUSIONS: 
+      Rofecoxib, at doses 2-4 times the dose demonstrated to relieve symptoms of
+      osteoarthritis, caused significantly less gastroduodenal ulceration than
+      ibuprofen, with ulcer rates comparable to placebo.
+AD  - Division of Gastrointestinal Diseases, University of Southern California, Los
+      Angeles, California, USA. llaine@usc.edu
+FAU - Laine, L
+AU  - Laine L
+FAU - Harper, S
+AU  - Harper S
+FAU - Simon, T
+AU  - Simon T
+FAU - Bath, R
+AU  - Bath R
+FAU - Johanson, J
+AU  - Johanson J
+FAU - Schwartz, H
+AU  - Schwartz H
+FAU - Stern, S
+AU  - Stern S
+FAU - Quan, H
+AU  - Quan H
+FAU - Bolognese, J
+AU  - Bolognese J
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Gastroenterology
+JT  - Gastroenterology
+JID - 0374630
+RN  - 0 (Cyclooxygenase 2 Inhibitors)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Isoenzymes)
+RN  - 0 (Lactones)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Sulfones)
+RN  - 0 (rofecoxib)
+RN  - 15687-27-1 (Ibuprofen)
+RN  - EC 1.14.99.1 (Cyclooxygenase 2)
+RN  - EC 1.14.99.1 (PTGS2 protein, human)
+RN  - EC 1.14.99.1 (Prostaglandin-Endoperoxide Synthases)
+SB  - AIM
+SB  - IM
+CIN - Gastroenterology. 1999 Oct;117(4):1002-5. PMID: 10500082
+CIN - Gastroenterology. 2000 Mar;118(3):638-9. PMID: 10755870
+CIN - Gastroenterology. 2000 Mar;118(3):640-1. PMID: 10755872
+CIN - Gastroenterology. 2000 Mar;118(3):639-40. PMID: 10755871
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Cyclooxygenase 2
+MH  - Cyclooxygenase 2 Inhibitors
+MH  - Cyclooxygenase Inhibitors/*adverse effects/therapeutic use
+MH  - Double-Blind Method
+MH  - Duodenal Ulcer/chemically induced/pathology
+MH  - Female
+MH  - Gastric Mucosa/*drug effects
+MH  - Gastroscopy
+MH  - Humans
+MH  - Ibuprofen/*adverse effects/therapeutic use
+MH  - Intestinal Mucosa/*drug effects/pathology
+MH  - Isoenzymes/*drug effects
+MH  - Lactones/*adverse effects/therapeutic use
+MH  - Male
+MH  - Membrane Proteins
+MH  - Middle Aged
+MH  - Osteoarthritis/*drug therapy/pathology
+MH  - Prostaglandin-Endoperoxide Synthases/*drug effects
+MH  - Stomach Ulcer/chemically induced/pathology
+MH  - Sulfones
+EDAT- 1999/09/29
+MHDA- 1999/09/29 00:01
+CRDT- 1999/09/29 00:00
+AID - S0016508599003236 [pii]
+PST - ppublish
+SO  - Gastroenterology. 1999 Oct;117(4):776-83.
+
+PMID- 9783758
+OWN - NLM
+STAT- MEDLINE
+DA  - 19981027
+DCOM- 19981027
+LR  - 20061115
+IS  - 0263-7103 (Print)
+IS  - 0263-7103 (Linking)
+VI  - 37
+IP  - 9
+DP  - 1998 Sep
+TI  - Improvement in gastrointestinal tolerability of the selective cyclooxygenase
+      (COX)-2 inhibitor, meloxicam, compared with piroxicam: results of the Safety and 
+      Efficacy Large-scale Evaluation of COX-inhibiting Therapies (SELECT) trial in
+      osteoarthritis.
+PG  - 946-51
+AB  - SELECT is a large-scale, prospective, international, multicentre, double-blind,
+      double-dummy, randomized, parallel-group trial. Patients with exacerbation of
+      osteoarthritis were treated with the recommended dose of meloxicam (7.5 mg) or
+      piroxicam (20 mg) once daily for 28 days; 4320 patients were administered
+      meloxicam and 4336 piroxicam. The incidence of adverse events was significantly
+      lower in the meloxicam group (22.5%) compared with the piroxicam group (27.9%; P 
+      < 0.001), mainly due to the significantly lower incidence of gastrointestinal
+      (GI) adverse events in the meloxicam than in the piroxicam group (10.3% vs
+      15.4%,; P < 0.001), while the efficacy of both drugs was equivalent. Individual
+      GI events occurred significantly less often with meloxicam than piroxicam:
+      dyspepsia (3.4% vs 5.8%; P < 0.001), nausea/vomiting (2.5% vs 3.4%; P < 0.05) and
+      abdominal pain (2.1% vs 3.6%; P < 0.001). There were 16 patients with
+      perforations, ulcerations or bleeding (PUBs) of the upper GI tract in the
+      piroxicam group compared with seven in the meloxicam group (relative risk
+      piroxicam:meloxicam = 1.4). Four PUBs were complicated (perforations or
+      bleedings); none of these occurred in the meloxicam group (relative risk
+      piroxicam:meloxicam = 1.9). The outcome of SELECT is consistent with that of the 
+      large-scale clinical trial of similar design and size which compared 7.5 mg
+      meloxicam with 100 mg diclofenac in patients with osteoarthritis, and with a
+      previous global analysis of the safety of meloxicam. It adds further data to the 
+      proposed relationship between selective inhibition of cyclooxygenase-2 and
+      improved GI tolerability of non-steroidal anti-inflammatory drugs.
+AD  - Division of Rheumatology, University Hospitals, K.U. Leuven, Belgium.
+FAU - Dequeker, J
+AU  - Dequeker J
+FAU - Hawkey, C
+AU  - Hawkey C
+FAU - Kahan, A
+AU  - Kahan A
+FAU - Steinbruck, K
+AU  - Steinbruck K
+FAU - Alegre, C
+AU  - Alegre C
+FAU - Baumelou, E
+AU  - Baumelou E
+FAU - Begaud, B
+AU  - Begaud B
+FAU - Isomaki, H
+AU  - Isomaki H
+FAU - Littlejohn, G
+AU  - Littlejohn G
+FAU - Mau, J
+AU  - Mau J
+FAU - Papazoglou, S
+AU  - Papazoglou S
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Br J Rheumatol
+JT  - British journal of rheumatology
+JID - 8302415
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Isoenzymes)
+RN  - 0 (Thiazines)
+RN  - 0 (Thiazoles)
+RN  - 36322-90-4 (Piroxicam)
+RN  - 71125-38-7 (meloxicam)
+SB  - AIM
+SB  - IM
+MH  - Aged
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*adverse effects/therapeutic use
+MH  - Cyclooxygenase Inhibitors/*adverse effects/therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Gastrointestinal Diseases/*chemically induced
+MH  - Humans
+MH  - Isoenzymes/antagonists & inhibitors
+MH  - Male
+MH  - Middle Aged
+MH  - Osteoarthritis/*drug therapy
+MH  - Piroxicam/*adverse effects/therapeutic use
+MH  - Prospective Studies
+MH  - Thiazines/*adverse effects/therapeutic use
+MH  - Thiazoles/*adverse effects/therapeutic use
+MH  - Treatment Outcome
+EDAT- 1998/10/23
+MHDA- 1998/10/23 00:01
+CRDT- 1998/10/23 00:00
+PST - ppublish
+SO  - Br J Rheumatol. 1998 Sep;37(9):946-51.
+
+PMID- 9783757
+OWN - NLM
+STAT- MEDLINE
+DA  - 19981027
+DCOM- 19981027
+LR  - 20061115
+IS  - 0263-7103 (Print)
+IS  - 0263-7103 (Linking)
+VI  - 37
+IP  - 9
+DP  - 1998 Sep
+TI  - Gastrointestinal tolerability of meloxicam compared to diclofenac in
+      osteoarthritis patients. International MELISSA Study Group. Meloxicam Large-scale
+      International Study Safety Assessment.
+PG  - 937-45
+AB  - Although widely used, non-steroidal anti-inflammatory drugs (NSAIDs) are
+      associated with a high incidence of gastrointestinal (GI) side-effects.
+      Inhibition of the cyclooxygenase (COX) enzyme is the basis for both the efficacy 
+      and toxicity of NSAIDs. The discovery of two COX isoforms, constitutive COX-1 and
+      inducible COX-2, has led to the hypothesis that selective inhibition of COX-2
+      will minimize the potential for GI toxicity without compromising efficacy. The
+      Meloxicam Large-scale International Study Safety Assessment (MELISSA) trial
+      reported here was therefore set up to investigate the tolerability of meloxicam, 
+      a preferential inhibitor of COX-2, compared to diclofenac. MELISSA was a
+      large-scale, double-blind, randomized, international, prospective trial,
+      conducted over 28 days in patients with symptomatic osteoarthritis. Patients
+      received either meloxicam 7.5 mg or diclofenac 100 mg slow release, the
+      recommended doses for the treatment of osteoarthritis. Evaluation of the profile 
+      of adverse events was the main aim of the trial, together with assessment of
+      efficacy. A total of 9323 patients received treatment (4635 and 4688 in the
+      meloxicam and diclofenac groups, respectively). Significantly fewer adverse
+      events were reported by patients receiving meloxicam. This was attributable to
+      fewer GI adverse events (13%) compared to diclofenac (19%; P < 0.001). Of the
+      most common GI adverse events, there was significantly less dyspepsia (P <
+      0.001), nausea and vomiting (P < 0.05), abdominal pain (P < 0.001) and diarrhoea 
+      (P < 0.001) with meloxicam compared to diclofenac. Five patients on meloxicam
+      experienced a perforation, ulcer or bleed vs seven on diclofenac (not
+      significant). No endoscopically verified ulcer complication was detected in the
+      meloxicam group compared to four with diclofenac. There were five patient days of
+      hospitalization in patients on meloxicam compared to 121 with diclofenac. Adverse
+      events caused withdrawal from the study in 254 patients receiving meloxicam
+      (5.48%) compared to 373 (7.96%) on diclofenac (P < 0.001). These differences were
+      attributable to differences in reported GI adverse events (3.02% on meloxicam vs 
+      6.14% on diclofenac; P < 0.001). Differences in efficacy, as assessed by visual
+      analogue scales, consistently favoured diclofenac. In all instances, 95%
+      confidence intervals did not cross zero, suggesting a statistically significant
+      effect. However, differences were small (4.5-9.01% difference) and did not reach 
+      pre-determined levels of clinical significance. Nevertheless, significantly more 
+      patients discontinued meloxicam because of lack of efficacy (80 out of 4635 vs 49
+      out of 4688; P < 0.01). The MELISSA trial confirms earlier studies suggesting
+      that meloxicam has a significantly improved GI tolerability profile in comparison
+      with other NSAIDs, including diclofenac. These results may in part reflect the
+      preferential COX-2 selectivity of meloxicam, although the dose and other aspects 
+      of tolerability may be important. These results may provide support for the
+      hypothesis that selective inhibition of COX-2 relative to COX-1 might be an
+      effective approach towards improved NSAID therapy.
+AD  - University Hospital, Queen's Medical Centre, Nottingham.
+FAU - Hawkey, C
+AU  - Hawkey C
+FAU - Kahan, A
+AU  - Kahan A
+FAU - Steinbruck, K
+AU  - Steinbruck K
+FAU - Alegre, C
+AU  - Alegre C
+FAU - Baumelou, E
+AU  - Baumelou E
+FAU - Begaud, B
+AU  - Begaud B
+FAU - Dequeker, J
+AU  - Dequeker J
+FAU - Isomaki, H
+AU  - Isomaki H
+FAU - Littlejohn, G
+AU  - Littlejohn G
+FAU - Mau, J
+AU  - Mau J
+FAU - Papazoglou, S
+AU  - Papazoglou S
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Br J Rheumatol
+JT  - British journal of rheumatology
+JID - 8302415
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Isoenzymes)
+RN  - 0 (Thiazines)
+RN  - 0 (Thiazoles)
+RN  - 15307-86-5 (Diclofenac)
+RN  - 71125-38-7 (meloxicam)
+SB  - AIM
+SB  - IM
+CIN - Rheumatology (Oxford). 1999 Aug;38(8):793. PMID: 10501439
+EIN - Br J Rheumatol 1998 Oct;37(10):1142
+MH  - Aged
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*adverse effects/therapeutic use
+MH  - Cyclooxygenase Inhibitors/*adverse effects/therapeutic use
+MH  - Diclofenac/*adverse effects/therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Gastrointestinal Diseases/*chemically induced/classification
+MH  - Gastrointestinal Hemorrhage/chemically induced
+MH  - Humans
+MH  - Isoenzymes/antagonists & inhibitors
+MH  - Male
+MH  - Middle Aged
+MH  - Osteoarthritis/*drug therapy
+MH  - Patient Dropouts/statistics & numerical data
+MH  - Peptic Ulcer/chemically induced
+MH  - Prospective Studies
+MH  - Thiazines/*adverse effects/therapeutic use
+MH  - Thiazoles/*adverse effects/therapeutic use
+MH  - Treatment Outcome
+EDAT- 1998/10/23
+MHDA- 1998/10/23 00:01
+CRDT- 1998/10/23 00:00
+PST - ppublish
+SO  - Br J Rheumatol. 1998 Sep;37(9):937-45.
+
+PMID- 9404473
+OWN - NLM
+STAT- MEDLINE
+DA  - 19971230
+DCOM- 19971230
+LR  - 20061115
+IS  - 1063-4584 (Print)
+IS  - 1063-4584 (Linking)
+VI  - 5
+IP  - 4
+DP  - 1997 Jul
+TI  - A double-blind, randomized trial to compare meloxicam 15 mg with diclofenac 100
+      mg in the treatment of osteoarthritis of the knee.
+PG  - 283-8
+AB  - Meloxicam is a new nonsteroidal anti-inflammatory drug (NSAID), which, in animal 
+      tests, displays a high potency for anti-inflammatory and analgesic action. The
+      aim of this study was to investigate the efficacy and tolerability of 15 mg
+      meloxicam in comparison with 100 mg slow-release diclofenac in patients with
+      osteoarthritis of the knee. Two hundred and fifty-eight patients were included in
+      the intent-to-treat analysis; these were randomized into two groups to receive
+      either 15 mg meloxicam (N = 128) or 100 mg diclofenac (N = 130) for a period of 6
+      weeks. The results with respect to efficacy showed a trend in favor of meloxicam 
+      regarding pain on movement, global efficacy and paracetamol consumption, although
+      these differences did not reach statistical significance. The most
+      frequently-occurring adverse events in both groups were of a gastrointestinal
+      (GI) nature. However, there was a higher incidence (26 vs 16%) of GI adverse
+      events in the diclofenac group compared with the meloxicam group. Both drugs were
+      well tolerated when assessed by the patients on a visual analog scale (VAS).
+      Thus, 15 mg meloxicam is an effective and well-tolerated therapy for
+      osteoarthritis and compares favorably with diclofenac 100 mg, a well-established 
+      treatment for this indication.
+AD  - De Wever Hospital, Heerlen, Netherlands.
+FAU - Goei The, H S
+AU  - Goei The HS
+FAU - Lund, B
+AU  - Lund B
+FAU - Distel, M R
+AU  - Distel MR
+FAU - Bluhmki, E
+AU  - Bluhmki E
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - Osteoarthritis Cartilage
+JT  - Osteoarthritis and cartilage / OARS, Osteoarthritis Research Society
+JID - 9305697
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Thiazines)
+RN  - 0 (Thiazoles)
+RN  - 15307-86-5 (Diclofenac)
+RN  - 71125-38-7 (meloxicam)
+SB  - IM
+MH  - Aged
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*administration & dosage/adverse effects
+MH  - Diclofenac/*administration & dosage/adverse effects
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - *Knee Joint
+MH  - Male
+MH  - Osteoarthritis/*drug therapy/psychology
+MH  - Pain Measurement
+MH  - Thiazines/*administration & dosage/adverse effects
+MH  - Thiazoles/*administration & dosage/adverse effects
+EDAT- 1997/07/01 00:00
+MHDA- 1997/12/24 00:01
+CRDT- 1997/07/01 00:00
+AID - S1063-4584(97)80024-6 [pii]
+PST - ppublish
+SO  - Osteoarthritis Cartilage. 1997 Jul;5(4):283-8.
+
+PMID- 8630635
+OWN - NLM
+STAT- MEDLINE
+DA  - 19960701
+DCOM- 19960701
+LR  - 20061115
+IS  - 0263-7103 (Print)
+IS  - 0263-7103 (Linking)
+VI  - 35 Suppl 1
+DP  - 1996 Apr
+TI  - Meloxicam in osteoarthritis: a 6-month, double-blind comparison with diclofenac
+      sodium.
+PG  - 39-43
+AB  - A multicentre, double-blind, randomized study was conducted in patients with
+      osteoarthritis (OA) of the hip or knee in order to compare the efficacy and
+      safety of the new cyclooxygenase-2 (COX-2) inhibitor, meloxicam, with diclofenac 
+      sodium, a conventional treatment for this condition. Three hundred and thirty-six
+      patients were treated with oral meloxicam 7.5 mg once daily or diclofenac 100 mg 
+      slow release once daily for 6 months. There were no significant differences
+      between the treatment groups with respect to overall pain, pain on movement,
+      global efficacy or quality of life scores at the end of treatment, all of which
+      showed good levels of improvement. Sixty-six patients were withdrawn after the
+      start of the double-blind phase due to adverse events (n = 21, meloxicam; n = 31,
+      diclofenac) or to lack of efficacy (seven in each group). The median of dose
+      paracetamol taken concomitantly was statistically significantly lower in the
+      meloxicam group than in the diclofenac group (185 vs 245 mg/day; P = 0.0123) with
+      a comparable proportion of patients taking concomitant paracetamol therapy in
+      both groups. Both drugs were well tolerated, although severe adverse events,
+      treatment withdrawal and clinically significant laboratory abnormalities were
+      more common with diclofenac than with meloxicam. Thus, meloxicam 7.5 mg is a safe
+      and effective treatment for OA of the hip and knee which demonstrates a trend
+      towards an improved safety profile compared with diclofenac.
+AD  - Great Western Medical, Knightswood, Glasgow.
+FAU - Hosie, J
+AU  - Hosie J
+FAU - Distel, M
+AU  - Distel M
+FAU - Bluhmki, E
+AU  - Bluhmki E
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - Br J Rheumatol
+JT  - British journal of rheumatology
+JID - 8302415
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 0 (Thiazines)
+RN  - 0 (Thiazoles)
+RN  - 15307-86-5 (Diclofenac)
+RN  - 71125-38-7 (meloxicam)
+SB  - AIM
+SB  - IM
+MH  - Aged
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*administration & dosage/adverse effects
+MH  - Cyclooxygenase Inhibitors/*administration & dosage/adverse effects
+MH  - Diclofenac/*administration & dosage/adverse effects
+MH  - Double-Blind Method
+MH  - Drug Tolerance
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Osteoarthritis/*drug therapy
+MH  - Quality of Life
+MH  - Thiazines/*administration & dosage/adverse effects
+MH  - Thiazoles/*administration & dosage/adverse effects
+MH  - Time Factors
+MH  - Treatment Outcome
+EDAT- 1996/04/01
+MHDA- 1996/04/01 00:01
+CRDT- 1996/04/01 00:00
+PST - ppublish
+SO  - Br J Rheumatol. 1996 Apr;35 Suppl 1:39-43.
+
+PMID- 8630634
+OWN - NLM
+STAT- MEDLINE
+DA  - 19960701
+DCOM- 19960701
+LR  - 20061115
+IS  - 0263-7103 (Print)
+IS  - 0263-7103 (Linking)
+VI  - 35 Suppl 1
+DP  - 1996 Apr
+TI  - A double-blind study to compare the efficacy and safety of meloxicam 15 mg with
+      piroxicam 20 mg in patients with osteoarthritis of the hip.
+PG  - 35-8
+AB  - Meloxicam 15 mg once daily (n = 128) was compared with piroxicam 20 mg (n = 127) 
+      in this 6 week, double-blind, parallel-group, randomized, multicentre study in
+      out-patients with symptomatic osteoarthritis (OA) of the hip. Assessments of
+      pain, global efficacy and global tolerance were made on a 10 cm horizontal visual
+      analogue scale; severity of OA was evaluated by Lequesne's index. Efficacy
+      results showed significant improvement compared with baseline, with no
+      significant difference between meloxicam 15 mg and piroxicam 20 mg. The type and 
+      frequency of adverse events were comparable for the two drugs. The most frequent 
+      events reported were gastrointestinal (GI) disorders, occurring in 21 and 23% of 
+      meloxicam and piroxicam patients respectively. The global tolerance assessment by
+      patients at the end of treatment favoured meloxicam. In conclusion, meloxicam at 
+      a dose of 15 mg/day is comparable in efficacy and safety to piroxicam 20 mg.
+AD  - Eksjo Hospital, Sweden.
+FAU - Linden, B
+AU  - Linden B
+FAU - Distel, M
+AU  - Distel M
+FAU - Bluhmki, E
+AU  - Bluhmki E
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - Br J Rheumatol
+JT  - British journal of rheumatology
+JID - 8302415
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Thiazines)
+RN  - 0 (Thiazoles)
+RN  - 36322-90-4 (Piroxicam)
+RN  - 71125-38-7 (meloxicam)
+SB  - AIM
+SB  - IM
+MH  - Aged
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*administration & dosage/adverse effects
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Drug Tolerance
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Osteoarthritis, Hip/complications/*drug therapy
+MH  - Piroxicam/*administration & dosage/adverse effects
+MH  - Severity of Illness Index
+MH  - Thiazines/*administration & dosage/adverse effects
+MH  - Thiazoles/*administration & dosage/adverse effects
+MH  - Treatment Outcome
+EDAT- 1996/04/01
+MHDA- 1996/04/01 00:01
+CRDT- 1996/04/01 00:00
+PST - ppublish
+SO  - Br J Rheumatol. 1996 Apr;35 Suppl 1:35-8.
+
+PMID- 8630632
+OWN - NLM
+STAT- MEDLINE
+DA  - 19960701
+DCOM- 19960701
+LR  - 20061115
+IS  - 0263-7103 (Print)
+IS  - 0263-7103 (Linking)
+VI  - 35 Suppl 1
+DP  - 1996 Apr
+TI  - A six-month double-blind trial to compare the efficacy and safety of meloxicam
+      7.5 mg daily and naproxen 750 mg daily in patients with rheumatoid arthritis.
+PG  - 22-8
+AB  - Meloxicam is a new non-steroidal anti-inflammatory drug (NSAID) which
+      preferentially inhibits cyclooxygenase-2 over cyclooxygenase-1. A double-blind
+      parallel-group trial compared meloxicam 7.5 mg once daily (n = 199) with naproxen
+      750 mg (n = 180) in rheumatoid arthritis. There was no significant difference
+      between the groups regarding the primary efficacy variables (global efficacy
+      assessment by patient and investigator, number of painful/tender and swollen
+      joints) and eight of the ten secondary efficacy endpoints. Only the swollen joint
+      severity index and the number of discontinuations due to lack of efficacy
+      favoured naproxen 750 mg significantly over meloxicam 7.5 mg. Meloxicam was
+      better tolerated in the gastrointestinal (GI) tract, with fewer GI adverse events
+      in the meloxicam-treated group (30.3%) than in the naproxen-treated group
+      (44.7%), where two patients developed ulcers. No ulcers were seen in meloxicam
+      patients. Significantly more patients discontinued due to GI adverse events in
+      the naproxen group. Additionally, there was a significant decrease in haemoglobin
+      and a significant increase in serum creatinine and urea in the naproxen group
+      compared with the meloxicam group. In conclusion, meloxicam 7.5 mg once daily is 
+      a promising treatment in rheumatoid arthritis, with efficacy comparable to
+      naproxen 750 mg. Meloxicam has the advantage of a significantly lower incidence
+      of GI and renal side effects.
+AD  - Eastbourne District General Hospital, Eastbourne.
+FAU - Wojtulewski, J A
+AU  - Wojtulewski JA
+FAU - Schattenkirchner, M
+AU  - Schattenkirchner M
+FAU - Barcelo, P
+AU  - Barcelo P
+FAU - Le Loet, X
+AU  - Le Loet X
+FAU - Bevis, P J
+AU  - Bevis PJ
+FAU - Bluhmki, E
+AU  - Bluhmki E
+FAU - Distel, M
+AU  - Distel M
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - Br J Rheumatol
+JT  - British journal of rheumatology
+JID - 8302415
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Thiazines)
+RN  - 0 (Thiazoles)
+RN  - 22204-53-1 (Naproxen)
+RN  - 71125-38-7 (meloxicam)
+SB  - AIM
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*administration & dosage/adverse effects
+MH  - Arthritis, Rheumatoid/blood/complications/*drug therapy
+MH  - Double-Blind Method
+MH  - Drug Tolerance
+MH  - Gastrointestinal Diseases/chemically induced/epidemiology
+MH  - Humans
+MH  - Middle Aged
+MH  - Naproxen/*administration & dosage/adverse effects
+MH  - Thiazines/*administration & dosage/adverse effects
+MH  - Thiazoles/*administration & dosage/adverse effects
+MH  - Time Factors
+MH  - Treatment Outcome
+EDAT- 1996/04/01
+MHDA- 1996/04/01 00:01
+CRDT- 1996/04/01 00:00
+PST - ppublish
+SO  - Br J Rheumatol. 1996 Apr;35 Suppl 1:22-8.
+
+PMID- 7611589
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950815
+DCOM- 19950815
+LR  - 20061115
+IS  - 0003-4819 (Print)
+IS  - 0003-4819 (Linking)
+VI  - 123
+IP  - 4
+DP  - 1995 Aug 15
+TI  - Misoprostol reduces serious gastrointestinal complications in patients with
+      rheumatoid arthritis receiving nonsteroidal anti-inflammatory drugs. A
+      randomized, double-blind, placebo-controlled trial.
+PG  - 241-9
+AB  - OBJECTIVE: To investigate whether concurrent administration of misoprostol
+      reduces the occurrence of serious upper gastrointestinal complications, such as
+      perforation, gastric outlet obstruction, or bleeding, in patients with rheumatoid
+      arthritis who are receiving nonsteroidal anti-inflammatory drugs (NSAIDs).
+      DESIGN: 6-month randomized, double-blind, placebo-controlled trial. SETTING: 664 
+      clinical practices of family medicine, internal medicine, or rheumatology in the 
+      United States and Canada. PATIENTS: 8843 men and women (mean age, 68 years)
+      receiving continuous therapy with any of 10 specified NSAIDs for control of
+      symptoms of rheumatoid arthritis. Patients were enrolled between July 1991 and
+      August 1993. INTERVENTION: Patients were randomly assigned to receive 200
+      micrograms of misoprostol or placebo four times a day. MEASUREMENTS: Development 
+      of serious upper gastrointestinal complications detected by clinical symptoms or 
+      findings (not by scheduled endoscopy). RESULTS: Serious upper gastrointestinal
+      complications were reduced by 40% (odds ratio, 0.598 [95% CI, 0.364 to 0.982; P =
+      0.049]) among patients receiving misoprostol (25 of 4404 patients) compared with 
+      those receiving placebo (42 of 4439 patients). During the first month, more
+      patients receiving misoprostol (20%) than placebo (15%) withdrew from the study, 
+      primarily because of diarrhea and related problems (P < 0.001). Risk factors for 
+      serious upper gastrointestinal complications were increasing age, history of
+      peptic ulcer or bleeding, and cardiovascular disease. Patients with all four risk
+      factors would have a 9% risk for a major complication in 6 months. CONCLUSIONS:
+      In older patients with rheumatoid arthritis, misoprostol reduced serious
+      NSAID-induced upper gastrointestinal complications by 40% compared with placebo.
+AD  - University of Washington Medical School, Seattle 98195, USA.
+FAU - Silverstein, F E
+AU  - Silverstein FE
+FAU - Graham, D Y
+AU  - Graham DY
+FAU - Senior, J R
+AU  - Senior JR
+FAU - Davies, H W
+AU  - Davies HW
+FAU - Struthers, B J
+AU  - Struthers BJ
+FAU - Bittman, R M
+AU  - Bittman RM
+FAU - Geis, G S
+AU  - Geis GS
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Ann Intern Med
+JT  - Annals of internal medicine
+JID - 0372351
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 59122-46-2 (Misoprostol)
+SB  - AIM
+SB  - IM
+CIN - Ann Intern Med. 1996 May 15;124(10):926; author reply 927. PMID: 8610927
+CIN - Ann Intern Med. 1996 May 15;124(10):926-7. PMID: 8610928
+CIN - ACP J Club. 1996 Mar-Apr;124(2):38
+CIN - Ann Intern Med. 1995 Aug 15;123(4):309-10. PMID: 7611597
+CIN - Ann Intern Med. 1996 May 15;124(10):927. PMID: 8610929
+CIN - Ann Intern Med. 1996 May 15;124(10):926; author reply 927. PMID: 8610926
+MH  - Aged
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*adverse effects
+MH  - Arthritis, Rheumatoid/*drug therapy
+MH  - Diarrhea/chemically induced
+MH  - Double-Blind Method
+MH  - Drug Therapy, Combination
+MH  - Female
+MH  - Gastrointestinal Diseases/chemically induced/*prevention & control
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Misoprostol/*therapeutic use
+MH  - Odds Ratio
+MH  - Risk Factors
+EDAT- 1995/08/15
+MHDA- 1995/08/15 00:01
+CRDT- 1995/08/15 00:00
+PST - ppublish
+SO  - Ann Intern Med. 1995 Aug 15;123(4):241-9.

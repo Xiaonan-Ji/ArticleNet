@@ -1,0 +1,1166 @@
+
+PMID- 12028119
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020524
+DCOM- 20021122
+LR  - 20100323
+IS  - 0105-4538 (Print)
+IS  - 0105-4538 (Linking)
+VI  - 57
+IP  - 6
+DP  - 2002 Jun
+TI  - Comparison of cetirizine, ebastine and loratadine in the treatment of immediate
+      mosquito-bite allergy.
+PG  - 534-7
+AB  - BACKGROUND: People frequently experience whealing and delayed papules from
+      mosquito bites. Whealing is mediated by antisaliva immunoglobulin (Ig)E
+      antibodies and histamine. Cetirizine, ebastine and loratadine have earlier shown 
+      effects on mosquito-bite reactions but no comparative studies exist. METHODS: A
+      double-blind, placebo-controlled, cross-over study was performed with cetirizine 
+      10 mg, ebastine 10 mg and loratadine 10 mg in 29 mosquito-bite-sensitive adults
+      exposed to Aedes aegypti mosquito-bites. The size of the bite lesion and the
+      intensity of pruritus (visual analog scale) were measured at 15 min and 2, 6 and 
+      24 h. RESULTS: Cetirizine and ebastine, but not loratadine, decreased
+      significantly the size of whealing (P < 0.01) and accompanying pruritus (P <
+      0.001) compared to placebo. Cetirizine was most effective on pruritus but caused 
+      more often sedation than ebastine or loratadine. The delayed bite symptoms
+      remained too faint for any statistical comparison. CONCLUSION: This comparative
+      study in mosquito-bite-sensitive adults shows that cetirizine and ebastine
+      decrease significantly whealing and accompanying pruritus, and that cetirizine
+      seems to be the most effective against pruritus.
+AD  - Department of Dermatology, Tampere University Hospital and University of Tampere,
+      Finland.
+FAU - Karppinen, A
+AU  - Karppinen A
+FAU - Kautiainen, H
+AU  - Kautiainen H
+FAU - Petman, L
+AU  - Petman L
+FAU - Burri, P
+AU  - Burri P
+FAU - Reunala, T
+AU  - Reunala T
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Controlled Clinical Trial
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Denmark
+TA  - Allergy
+JT  - Allergy
+JID - 7804028
+RN  - 0 (Butyrophenones)
+RN  - 0 (Histamine H1 Antagonists)
+RN  - 0 (Piperidines)
+RN  - 79794-75-5 (Loratadine)
+RN  - 83881-51-0 (Cetirizine)
+RN  - 90729-43-4 (ebastine)
+SB  - IM
+MH  - Adult
+MH  - Animals
+MH  - Butyrophenones/*therapeutic use
+MH  - Cetirizine/*therapeutic use
+MH  - Conscious Sedation
+MH  - Cross-Over Studies
+MH  - *Culicidae
+MH  - Double-Blind Method
+MH  - Finland
+MH  - Histamine H1 Antagonists/*therapeutic use
+MH  - Humans
+MH  - Hypersensitivity, Immediate/*drug therapy/*etiology
+MH  - Insect Bites and Stings/*complications/*drug therapy
+MH  - Loratadine/*therapeutic use
+MH  - Middle Aged
+MH  - Piperidines/*therapeutic use
+MH  - Pruritus/drug therapy/etiology
+MH  - Severity of Illness Index
+MH  - Time Factors
+MH  - Treatment Outcome
+EDAT- 2002/05/25 10:00
+MHDA- 2002/11/26 04:00
+CRDT- 2002/05/25 10:00
+AID - all1s3201 [pii]
+PST - ppublish
+SO  - Allergy. 2002 Jun;57(6):534-7.
+
+PMID- 11588693
+OWN - NLM
+STAT- MEDLINE
+DA  - 20011005
+DCOM- 20020109
+LR  - 20061115
+IS  - 1058-4838 (Print)
+IS  - 1058-4838 (Linking)
+VI  - 33
+IP  - 9
+DP  - 2001 Nov 1
+TI  - Variant effect of first- and second-generation antihistamines as clues to their
+      mechanism of action on the sneeze reflex in the common cold.
+PG  - 1483-8
+AB  - Treatment with first-generation antihistamines reduces sneezing, rhinorrhea,
+      nasal mucus weight, and, in some instances, cough in subjects with experimental
+      or natural colds; however, treatment with second-generation antihistamines has
+      not been effective for these complaints in trials in subjects with natural colds.
+      This article reports the negative results of a clinical trial with loratadine, a 
+      second-generation antihistamine, in adults in the rhinovirus challenge model.
+      This finding in the highly controlled setting of the challenge model confirms the
+      earlier negative studies with second-generation antihistamines in natural colds. 
+      First-generation antihistamines block both histaminic and muscarinic receptors as
+      well as passing the blood-brain barrier. Second-generation antihistamines mainly 
+      block histaminic receptors and do not pass the blood-brain barrier. The
+      effectiveness of first-generation antihistamines in blocking sneezing in colds
+      may be due primarily to neuropharmacological manipulation of histaminic and
+      muscarinic receptors in the medulla.
+AD  - Aachen Medical School, Aachen, Germany.
+FAU - Muether, P S
+AU  - Muether PS
+FAU - Gwaltney, J M Jr
+AU  - Gwaltney JM Jr
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20011004
+PL  - United States
+TA  - Clin Infect Dis
+JT  - Clinical infectious diseases : an official publication of the Infectious Diseases
+      Society of America
+JID - 9203213
+RN  - 0 (Histamine H1 Antagonists)
+RN  - 126547-89-5 (Intercellular Adhesion Molecule-1)
+RN  - 79794-75-5 (Loratadine)
+SB  - IM
+MH  - Adult
+MH  - Common Cold/*drug therapy/metabolism/physiopathology/virology
+MH  - Histamine H1 Antagonists/*therapeutic use
+MH  - Humans
+MH  - Intercellular Adhesion Molecule-1/metabolism
+MH  - Loratadine/*therapeutic use
+MH  - Mucus
+MH  - Rhinovirus/*drug effects/metabolism
+MH  - Sneezing/*drug effects
+MH  - Treatment Outcome
+MH  - Viral Load
+EDAT- 2001/10/06 10:00
+MHDA- 2002/01/10 10:01
+CRDT- 2001/10/06 10:00
+PHST- 2001/01/17 [received]
+PHST- 2001/04/18 [revised]
+PHST- 2001/10/04 [aheadofprint]
+AID - CID010100 [pii]
+AID - 10.1086/322518 [doi]
+PST - ppublish
+SO  - Clin Infect Dis. 2001 Nov 1;33(9):1483-8. Epub 2001 Oct 4.
+
+PMID- 10929922
+OWN - NLM
+STAT- MEDLINE
+DA  - 20001128
+DCOM- 20001128
+LR  - 20061115
+IS  - 0149-2918 (Print)
+IS  - 0149-2918 (Linking)
+VI  - 22
+IP  - 6
+DP  - 2000 Jun
+TI  - Efficacy and tolerability of loratadine versus fexofenadine in the treatment of
+      seasonal allergic rhinitis: a double-blind comparison with crossover treatment of
+      nonresponders.
+PG  - 760-9
+AB  - BACKGROUND: Nonsedating antihistamines are well-established treatment for
+      seasonal allergic rhinitis (SAR), but patients do not always respond to the first
+      antihistamine prescribed. OBJECTIVE: This double-blind, double-dummy, randomized,
+      2-phase, multicenter study was designed primarily to compare the therapeutic
+      responses to loratadine and fexofenadine in patients who failed initial therapy
+      with the other drug. METHODS: Male and female patients aged 12 to 60 years
+      received loratadine 10 mg once daily (n = 331) or fexofenadine 60 mg twice daily 
+      (n = 328) for 14 days (phase 1); nonresponders (ie, those who had <25% reduction 
+      in the sum of 5 SAR symptoms rated by the investigator on a 4-point scale)
+      subsequently received the alternate medication for 14 days (phase 2). The
+      investigator's rating of relief (complete, marked, moderate, or slight relief of 
+      symptoms or treatment failure) at the end of phase 2 was the primary efficacy
+      measure; changes in total symptom severity (TSS) assessed by the investigator
+      (4-point scale) and the patient (11-point visual analog scale) were secondary
+      measures. RESULTS: Mean decreases in TSS were significantly greater with
+      loratadine than with fexofenadine for the 659 patients who completed phase 1
+      (-12.7 vs -10.2, respectively; P = 0.019; patient assessment) and for the 389
+      patients who responded to initial therapy (-6.6 vs -6.1, respectively; P = 0.037;
+      investigator assessment). Of the 389 patients who responded to initial therapy,
+      61.0% had received loratadine and 57.0% had received fexofenadine. More
+      nonresponders to initial therapy had moderate, marked, or complete relief of
+      symptoms after switching to loratadine than after switching to fexofenadine
+      (62.4% vs 51.2%, respectively; P = 0.005) and treatment failure in 10.6% vs
+      21.7%, respectively (P = 0.011). CONCLUSION: Overall, ioratadine provided
+      significantly better therapeutic response than fexofenadine in patients who
+      failed to respond to initial therapy with the other drug.
+AD  - Allergy Associates Medical Group, Inc, San Diego, California, USA.
+FAU - Prenner, B M
+AU  - Prenner BM
+FAU - Capano, D
+AU  - Capano D
+FAU - Harris, A G
+AU  - Harris AG
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Clin Ther
+JT  - Clinical therapeutics
+JID - 7706726
+RN  - 0 (Anti-Allergic Agents)
+RN  - 138452-21-8 (fexofenadine)
+RN  - 50679-08-8 (Terfenadine)
+RN  - 79794-75-5 (Loratadine)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Anti-Allergic Agents/adverse effects/*therapeutic use
+MH  - Child
+MH  - Cross-Over Studies
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Loratadine/adverse effects/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Rhinitis, Allergic, Seasonal/*drug therapy
+MH  - Terfenadine/adverse effects/*analogs & derivatives/therapeutic use
+EDAT- 2000/08/10 11:00
+MHDA- 2001/02/28 10:01
+CRDT- 2000/08/10 11:00
+AID - S0149-2918(00)90009-2 [pii]
+AID - 10.1016/S0149-2918(00)90009-2 [doi]
+PST - ppublish
+SO  - Clin Ther. 2000 Jun;22(6):760-9.
+
+PMID- 10664928
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000314
+DCOM- 20000314
+LR  - 20051117
+IS  - 1018-9068 (Print)
+IS  - 1018-9068 (Linking)
+VI  - 9
+IP  - 6
+DP  - 1999 Nov-Dec
+TI  - Inhibition of histamine or allergen-induced wheals by a single dose of
+      acrivastine, fexofenadine or cetirizine.
+PG  - 351-5
+AB  - Certirizine, a potent H1-blocking agent, is often recommended as an emergency
+      drug in anaphylactic reactions because of its well documented fast onset of
+      action. In this randomized, cross-over study we compared the onset of action
+      after a single dose of two recently introduced antihistamines, acrivastine and
+      fexofenadine, with that of cetirizine. The inhibition of the wheal-and-flare
+      reaction produced by skin prick test with histamine in 20 healthy volunteers and 
+      with a relevant pollen allergen in 20 atopic patients, respectively, were
+      measured before and at regular intervals up to 60 min after the ingestion of
+      acrivastine (8 mg and 16 mg), fexofenadine (120 mg) and cetirizine (10 mg and 20 
+      mg). Wheal-and-flare reaction were significantly inhibited 20 min after the
+      intake of 16 mg acrivastine in atopic patients and 30 min after intake of 8 mg
+      acrivastine in healthy volunteers, whereas cetirizine produced a significant
+      inhibition of the wheal-and-flare reaction within 40-60 min. No significant
+      inhibition could be observed within 60 min after fexofenadine intake. Therefore, 
+      in clinical settings when a fast onset of the H1-blocking action is mandatory
+      (e.g., after insect stings or for short-term prophylaxis) we recommend
+      acrivastine.
+AD  - Department of Dermatology, University Hospital of Zurich, Switzerland.
+FAU - Ballmer-Weber, B K
+AU  - Ballmer-Weber BK
+FAU - Gex-Collet, C
+AU  - Gex-Collet C
+FAU - Wuthrich, B
+AU  - Wuthrich B
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - SPAIN
+TA  - J Investig Allergol Clin Immunol
+JT  - Journal of investigational allergology & clinical immunology : official organ of 
+      the International Association of Asthmology (INTERASMA) and Sociedad
+      Latinoamericana de Alergia e Inmunologia
+JID - 9107858
+RN  - 0 (Allergens)
+RN  - 0 (Anti-Allergic Agents)
+RN  - 0 (Histamine H1 Antagonists)
+RN  - 138452-21-8 (fexofenadine)
+RN  - 486-12-4 (Triprolidine)
+RN  - 50679-08-8 (Terfenadine)
+RN  - 51-45-6 (Histamine)
+RN  - 83881-51-0 (Cetirizine)
+RN  - 87848-99-5 (acrivastine)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Allergens/*immunology
+MH  - Anti-Allergic Agents/adverse effects/*therapeutic use
+MH  - Cetirizine/adverse effects/*therapeutic use
+MH  - Cross-Over Studies
+MH  - Female
+MH  - Histamine/*immunology
+MH  - Histamine H1 Antagonists/adverse effects/*therapeutic use
+MH  - Humans
+MH  - Hypersensitivity, Immediate/drug therapy/immunology
+MH  - Male
+MH  - Middle Aged
+MH  - Prospective Studies
+MH  - Rhinitis, Allergic, Seasonal/drug therapy/immunology
+MH  - Skin Tests
+MH  - Terfenadine/adverse effects/*analogs & derivatives/therapeutic use
+MH  - Triprolidine/adverse effects/*analogs & derivatives/therapeutic use
+EDAT- 2000/02/09 09:00
+MHDA- 2000/03/18 09:00
+CRDT- 2000/02/09 09:00
+PST - ppublish
+SO  - J Investig Allergol Clin Immunol. 1999 Nov-Dec;9(6):351-5.
+
+PMID- 10423657
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991216
+DCOM- 19991216
+LR  - 20061115
+IS  - 1075-2765 (Print)
+IS  - 1075-2765 (Linking)
+VI  - 6
+IP  - 3
+DP  - 1999 May
+TI  - Double-blind comparison of cetirizine and loratadine in children ages 2 to 6
+      years with perennial allergic rhinitis.
+PG  - 149-55
+AB  - Antihistamines are the pharmacologic cornerstone of treatment for allergic
+      rhinitis. The comparative effects of the newer, more specific H (1) -antagonists 
+      cetirizine and loratadine among younger patients are not well characterized. The 
+      efficacy and safety of cetirizine and loratadine were compared in a prospective, 
+      randomized, double-blind, longitudinal, parallel-group study of 80 children, 2 to
+      6 years of age, with perennial allergic rhinitis caused by house dust mites or
+      plant pollens (verified by a radioallergosorbent or skin test). Patients received
+      cetirizine or loratadine at 0.2 mg/kg once daily in the morning for 28 days.
+      Histamine skin tests and eosinophil counts from nasal smears were performed at
+      baseline and at the end of treatment. Individual rhinitis symptoms were assessed 
+      by the investigator at baseline and on day 28 and by parents at baseline and
+      daily in symptom diaries. Global assessments were made by using a visual analog
+      scale at baseline and at the end of treatment. Cetirizine produced significantly 
+      greater inhibition of the wheal response compared with loratadine (P <.0001).
+      Eosinophil counts were improved to a comparable degree with both agents.
+      Cetirizine and loratadine produced comparable improvements in symptoms and
+      according to a global evaluation as assessed by the investigator at the end of
+      treatment. Both agents produced substantial symptomatic relief according to
+      patients' daily diary assessments; however, cetirizine was more effective than
+      loratadine in relieving the symptoms of rhinorrhea, sneezing, nasal obstruction, 
+      and nasal pruritus (P <. 0001). Both treatments were well tolerated; two patients
+      receiving cetirizine were dropped from the study because of adverse events.
+      Cetirizine and loratadine provided effective, well-tolerated relief of the
+      symptoms of perennial allergic rhinitis in small children. Cetirizine was more
+      effective than loratadine in inhibiting the wheal response to histamine challenge
+      and afforded greater reductions in most individual symptoms assessed daily by the
+      parent.
+AD  - Pulmonology and Allergy Department, Hospital Infantil de Mexico Federico Gomez,
+      Mexico.
+FAU - Sienra-Monge, J J
+AU  - Sienra-Monge JJ
+FAU - Gazca-Aguilar, A
+AU  - Gazca-Aguilar A
+FAU - Del Rio-Navarro, B
+AU  - Del Rio-Navarro B
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Am J Ther
+JT  - American journal of therapeutics
+JID - 9441347
+RN  - 0 (Histamine H1 Antagonists)
+RN  - 79794-75-5 (Loratadine)
+RN  - 83881-51-0 (Cetirizine)
+SB  - IM
+MH  - Cetirizine/adverse effects/*therapeutic use
+MH  - Child, Preschool
+MH  - Double-Blind Method
+MH  - Eosinophils/metabolism
+MH  - Female
+MH  - Histamine H1 Antagonists/*adverse effects/*therapeutic use
+MH  - Humans
+MH  - Longitudinal Studies
+MH  - Loratadine/adverse effects/*therapeutic use
+MH  - Male
+MH  - Patient Dropouts
+MH  - Prospective Studies
+MH  - Rhinitis, Allergic, Perennial/*drug therapy/etiology/metabolism
+MH  - Skin Tests
+MH  - Time Factors
+MH  - Treatment Outcome
+EDAT- 1999/07/29
+MHDA- 1999/07/29 00:01
+CRDT- 1999/07/29 00:00
+PST - ppublish
+SO  - Am J Ther. 1999 May;6(3):149-55.
+
+PMID- 10090440
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990512
+DCOM- 19990512
+LR  - 20061115
+IS  - 0149-2918 (Print)
+IS  - 0149-2918 (Linking)
+VI  - 21
+IP  - 1
+DP  - 1999 Jan
+TI  - Link between patient preferences and treatment outcomes in seasonal allergic
+      rhinitis: an empiric investigation.
+PG  - 268-77
+AB  - In a multicenter, parallel-group, double-masked, randomized study, two
+      questionnaires were administered to a clinical study population to identify which
+      specific symptoms of seasonal allergic rhinitis patients perceived as most
+      important to relieve (personal preferences) and to learn whether any relationship
+      existed between patient preferences and the severity of their symptoms during
+      treatment with antihistamines. The group was composed of 256 males and 313
+      females. Their mean age was 32.4 years, and mean duration of seasonal allergic
+      rhinitis was 14.5 years, with mean age of onset of 17.7 years. After receiving
+      placebo for 1 week, patients were randomly allocated to receive an antihistamine 
+      (fexofenadine or loratadine) for 2 weeks. Patient preferences for relief of
+      individual allergy symptoms (rhinitis; sneezing; itchy, watery, red eyes; itchy
+      nose, palate, or throat) and related conditions (fatigue, physical limitations)
+      were scored using 2 different questionnaires before treatment (0-to-10 category
+      rating scale for assessing the 4 symptoms of allergic rhinitis) and after
+      receiving placebo for 1 week (Feeling Thermometer). Symptom severity was reported
+      in patient diaries after 1 and 2 weeks of antihistamine treatment and was
+      measured by patient self-assessment. All symptoms were considered by the patients
+      to be important to relieve, the most important being itchy, watery, red eyes and 
+      rhinorrhea. The severity of allergy symptoms was consistently related to the
+      importance of symptoms identified before treatment. Therefore, including patient 
+      preferences in medical evaluations might be a useful tool in evaluating the
+      success of their treatment.
+AD  - Health Economics, Hoechst Marion Roussel Canada Inc., Laval, Quebec.
+FAU - Ricard, N
+AU  - Ricard N
+FAU - Kind, P
+AU  - Kind P
+FAU - Christian, S
+AU  - Christian S
+FAU - Jensen, M
+AU  - Jensen M
+FAU - Stewart, J
+AU  - Stewart J
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Clin Ther
+JT  - Clinical therapeutics
+JID - 7706726
+RN  - 0 (Histamine H1 Antagonists)
+RN  - 138452-21-8 (fexofenadine)
+RN  - 50679-08-8 (Terfenadine)
+RN  - 79794-75-5 (Loratadine)
+SB  - IM
+MH  - Adult
+MH  - Double-Blind Method
+MH  - Female
+MH  - Histamine H1 Antagonists/*therapeutic use
+MH  - Humans
+MH  - Loratadine/*therapeutic use
+MH  - Male
+MH  - Patient Satisfaction
+MH  - Questionnaires
+MH  - Rhinitis, Allergic, Perennial/*drug therapy
+MH  - Terfenadine/*analogs & derivatives/therapeutic use
+MH  - Treatment Outcome
+EDAT- 1999/03/25
+MHDA- 1999/03/25 00:01
+CRDT- 1999/03/25 00:00
+AID - S0149-2918(00)88284-3 [pii]
+AID - 10.1016/S0149-2918(00)88284-3 [doi]
+PST - ppublish
+SO  - Clin Ther. 1999 Jan;21(1):268-77.
+
+PMID- 9534917
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980522
+DCOM- 19980522
+LR  - 20061115
+IS  - 0105-4538 (Print)
+IS  - 0105-4538 (Linking)
+VI  - 53
+IP  - 2
+DP  - 1998 Feb
+TI  - Differential effects of new-generation H1-receptor antagonists in pruritic
+      dermatoses.
+PG  - 180-3
+AB  - In search of an improved treatment of pruritic dermatoses, we have studied
+      azelastine, a novel H1-receptor antagonist, during a 2-week treatment period,
+      using a double-blind, placebo-controlled design. The potent H1-antagonist
+      cetirizine was used for comparison. Symptoms were recorded daily by the patients 
+      on a diary card, using a 4-point scale. The same parameters and adverse events
+      were evaluated at weekly intervals, and global improvement was evaluated at the
+      end of treatment. In all 230 evaluable patients with moderate to severe itching, 
+      azelastine caused an overall significant improvement in comparison to placebo (P 
+      = 0.02), with significance also for pruritus (P = 0.01 after 1 week and P = 0.02 
+      after 2 weeks). Both drugs reduced itching more effectively in urticaria than in 
+      atopic eczema. Azelastine was superior to cetirizine in reducing pruritus,
+      whereas cetirizine caused a more marked reduction of whealing. Both drugs rarely 
+      caused fatigue and dry mouth, but taste perversion occurred only in
+      azelastine-treated patients (9.7%) and headaches only with cetirizine (10.4%).
+      Therefore, the two H1-blockers exert differential effects on pruritus verses
+      whealing and a distinctive adverse events pattern. The data also underline the
+      low efficacy of antihistamines in atopic eczema, compared to urticaria.
+AD  - Department of Dermatology, Virchow Klinikum, Humboldt University, Berlin,
+      Germany.
+FAU - Henz, B M
+AU  - Henz BM
+FAU - Metzenauer, P
+AU  - Metzenauer P
+FAU - O'Keefe, E
+AU  - O'Keefe E
+FAU - Zuberbier, T
+AU  - Zuberbier T
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - DENMARK
+TA  - Allergy
+JT  - Allergy
+JID - 7804028
+RN  - 0 (Histamine H1 Antagonists)
+RN  - 0 (Phthalazines)
+RN  - 58581-89-8 (azelastine)
+RN  - 83881-51-0 (Cetirizine)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Cetirizine/adverse effects/therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Histamine H1 Antagonists/adverse effects/*therapeutic use
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Phthalazines/adverse effects/*therapeutic use
+MH  - Pruritus/*drug therapy
+MH  - Treatment Outcome
+EDAT- 1998/04/16
+MHDA- 1998/04/16 00:01
+CRDT- 1998/04/16 00:00
+PST - ppublish
+SO  - Allergy. 1998 Feb;53(2):180-3.
+
+PMID- 9283989
+OWN - NLM
+STAT- MEDLINE
+DA  - 19971023
+DCOM- 19971023
+LR  - 20041117
+IS  - 0300-0605 (Print)
+IS  - 0300-0605 (Linking)
+VI  - 25
+IP  - 4
+DP  - 1997 Jul-Aug
+TI  - A parallel-group comparison of astemizole and loratadine for the treatment of
+      perennial allergic rhinitis.
+PG  - 175-81
+AB  - The efficacy and safety of the two antihistamines, astemizole and loratadine,
+      were compared in a double-blind study of 84 patients with perennial allergic
+      rhinitis. Patients were randomized to receive orally either astemizole 10 mg once
+      daily (n = 40) or loratadine 10 mg once daily (n = 44) for 1 week. No other
+      antirhinitis medication was allowed during the study. By day 7 the mean daily
+      symptom scores, recorded on diary cards, were lower in patients receiving
+      astemizole than in those receiving loratadine for runny nose, itchy nose and
+      sneezing, although not for blocked nose, and treatment differences only reached
+      statistical significance for runny nose. After 7 days, 53.75% of patients on
+      astemizole and 38.6% on loratadine were free of symptoms, and 87% of patients on 
+      astemizole described the treatment as good or excellent compared with 62% on
+      loratadine. The present results suggest that astemizole may be more effective
+      than loratadine in controlling symptoms of perennial allergic rhinitis.
+AD  - Department of Otology, Rhinology and Laryngology, King Abdul Aziz University
+      Hospital, Riyadh, Saudi Arabia.
+FAU - al-Muhaimeed, H
+AU  - al-Muhaimeed H
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - J Int Med Res
+JT  - The Journal of international medical research
+JID - 0346411
+RN  - 0 (Histamine H1 Antagonists)
+RN  - 68844-77-9 (Astemizole)
+RN  - 79794-75-5 (Loratadine)
+SB  - IM
+MH  - Administration, Oral
+MH  - Adolescent
+MH  - Adult
+MH  - Astemizole/administration & dosage/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Histamine H1 Antagonists/administration & dosage/*therapeutic use
+MH  - Humans
+MH  - Loratadine/administration & dosage/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Rhinitis, Allergic, Perennial/*drug therapy/physiopathology
+EDAT- 1997/07/01
+MHDA- 1997/07/01 00:01
+CRDT- 1997/07/01 00:00
+PST - ppublish
+SO  - J Int Med Res. 1997 Jul-Aug;25(4):175-81.
+
+PMID- 8893110
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970122
+DCOM- 19970122
+LR  - 20041117
+IS  - 1060-0280 (Print)
+IS  - 1060-0280 (Linking)
+VI  - 30
+IP  - 10
+DP  - 1996 Oct
+TI  - Cetirizine versus hydroxyzine and placebo in chronic idiopathic urticaria.
+PG  - 1075-9
+AB  - OBJECTIVE: To compare the safety and efficacy of cetirizine with that of
+      hydroxyzine and placebo in the treatment of chronic idiopathic urticaria. DESIGN:
+      A 4-week multicenter, randomized, double-blind, double-dummy, placebo-controlled 
+      safety and efficacy study. SETTING: Patients were treated in a variety of allergy
+      practice settings. PATIENTS: The study population consisted of 188 patients who
+      were at least 12 years of age, with symptomatic chronic idiopathic urticaria that
+      had occurred episodically for at least 6 weeks. INTERVENTIONS: Patients were
+      given either cetirizine 10 mg once daily, hydroxyzine 25 mg tid, or placebo for 4
+      weeks. MAIN OUTCOME MEASURES: Patients and investigators used a 4-point scale to 
+      evaluate symptoms of urticaria and adverse effects of treatment. Ratings were
+      compared among those taking cetirizine, hydroxyzine, or placebo. RESULTS: After 1
+      day of treatment, patients randomized to receive cetirizine 10 mg/d exhibited a
+      reduction in the number of episodes of urticaria (and a reduction in pruritus)
+      compared with patients who received hydroxyzine 25 mg tid and patients who
+      received placebo (p = 0.002). The number of urticarial episodes in patients
+      treated with hydroxyzine did not reach significance until day 2 (p = 0.001).
+      Compared with patients who received placebo, patients who received cetirizine and
+      those who received hydroxyzine showed reductions during weeks 1, 2, and 3 and at 
+      end-point analysis in the number and size of lesions and in the severity of
+      pruritus (p < 0.04). Patient and physician evaluations at the end of week 4
+      revealed an improvement in urticarial symptoms for the hydroxyzine and cetirizine
+      groups compared with the placebo group (p < 0.001). Four patients in the
+      hydroxyzine group, 1 patient in the cetirizine group, and 1 patient in the
+      placebo group discontinued the study because of sedation. No patient withdrew
+      because of lack of efficacy. CONCLUSIONS: Cetirizine 10 mg once daily was
+      equivalent to hydroxyzine 25 mg tid in controlling the symptoms of patients with 
+      chronic urticaria, as assessed by patient and investigator evaluations.
+AD  - Department of Dermatology, University of Cincinnati Medical School, OH 45267,
+      USA.
+FAU - Breneman, D L
+AU  - Breneman DL
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - Ann Pharmacother
+JT  - The Annals of pharmacotherapy
+JID - 9203131
+RN  - 0 (Placebos)
+RN  - 68-88-2 (Hydroxyzine)
+RN  - 83881-51-0 (Cetirizine)
+SB  - IM
+MH  - Adult
+MH  - Cetirizine/*therapeutic use
+MH  - Chronic Disease
+MH  - Double-Blind Method
+MH  - Drug Tolerance
+MH  - Female
+MH  - Humans
+MH  - Hydroxyzine/*therapeutic use
+MH  - Male
+MH  - Placebos
+MH  - Urticaria/*drug therapy/etiology
+EDAT- 1996/10/01
+MHDA- 1996/10/01 00:01
+CRDT- 1996/10/01 00:00
+PST - ppublish
+SO  - Ann Pharmacother. 1996 Oct;30(10):1075-9.
+
+PMID- 7622644
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950828
+DCOM- 19950828
+LR  - 20061115
+IS  - 0190-9622 (Print)
+IS  - 0190-9622 (Linking)
+VI  - 33
+IP  - 2 Pt 1
+DP  - 1995 Aug
+TI  - Cetirizine and astemizole therapy for chronic idiopathic urticaria: a
+      double-blind, placebo-controlled, comparative trial.
+PG  - 192-8
+AB  - BACKGROUND: Cetirizine and astemizole have been shown to be safe and effective in
+      the treatment of patients with chronic idiopathic urticaria. Cetirizine brings
+      about clinical benefit more rapidly. OBJECTIVE: The purpose of this study was to 
+      compare the efficacy of single daily doses of cetirizine and astemizole in
+      relieving the symptoms of chronic idiopathic urticaria, with particular emphasis 
+      on the commencement of action. METHODS: Patients with chronic idiopathic
+      urticaria were randomly assigned to relieve either 10 mg of cetirizine, 10 mg of 
+      astemizole, or placebo for 4 weeks in a multicenter double-blind trial. Patients 
+      rated symptom severity each night, and investigators rated symptoms weekly.
+      RESULTS: One hundred eighty-seven patients were enrolled in the trial; 180 were
+      included in the safety analysis and 177 were included in at least one efficacy
+      analysis. Both cetirizine and astemizole were significantly superior to placebo
+      in relieving symptoms of chronic idiopathic urticaria. Both patients' and
+      investigators' ratings indicated that cetirizine acted more rapidly. Both active 
+      treatments were well tolerated, and the incidence of somnolence did not differ
+      statistically between cetirizine (14.5%) and astemizole (10.3%). CONCLUSION: Both
+      cetirizine and astemizole provide effective relief of the symptoms of chronic
+      idiopathic urticaria with similar side-effect profiles. However, clinical benefit
+      occurs significantly more rapidly with cetirizine.
+AD  - Department of Dermatology, University of Cincinnati, OH 45267-0523, USA.
+FAU - Breneman, D
+AU  - Breneman D
+FAU - Bronsky, E A
+AU  - Bronsky EA
+FAU - Bruce, S
+AU  - Bruce S
+FAU - Kalivas, J T
+AU  - Kalivas JT
+FAU - Klein, G L
+AU  - Klein GL
+FAU - Roth, H L
+AU  - Roth HL
+FAU - Tharp, M D
+AU  - Tharp MD
+FAU - Treger, C
+AU  - Treger C
+FAU - Soter, N
+AU  - Soter N
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - J Am Acad Dermatol
+JT  - Journal of the American Academy of Dermatology
+JID - 7907132
+RN  - 68844-77-9 (Astemizole)
+RN  - 83881-51-0 (Cetirizine)
+SB  - IM
+MH  - Adult
+MH  - Astemizole/*administration & dosage/adverse effects/pharmacokinetics
+MH  - Cetirizine/*administration & dosage/adverse effects/pharmacokinetics
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Time Factors
+MH  - Urticaria/*drug therapy
+EDAT- 1995/08/01
+MHDA- 1995/08/01 00:01
+CRDT- 1995/08/01 00:00
+PST - ppublish
+SO  - J Am Acad Dermatol. 1995 Aug;33(2 Pt 1):192-8.
+
+PMID- 7677241
+OWN - NLM
+STAT- MEDLINE
+DA  - 19951019
+DCOM- 19951019
+LR  - 20061115
+IS  - 0105-4538 (Print)
+IS  - 0105-4538 (Linking)
+VI  - 50
+IP  - 3
+DP  - 1995 Mar
+TI  - Antihistamine effects on actual driving performance in a standard test: a summary
+      of Dutch experience, 1989-94.
+PG  - 234-42
+AB  - The review summarizes the major results of eight double-blind,
+      placebo-controlled, volunteer studies undertaken by three independent
+      institutions for showing the effects on actual driving performance of "sedating" 
+      and "nonsedating" antihistamines (respectively, triprolidine, diphenhydramine,
+      clemastine and terfenadine, loratadine, cetirizine, acrivastine, mizolastine, and
+      ebastine). A common, standardized test was used that measures driving impairment 
+      from vehicular "weaving" (i.e., standard deviation of lateral position (SDLP)).
+      Logical relationships were found between impairment and dose, time after dosing, 
+      and repeated doses over 4-5 days. The newer drugs were generally less impairing, 
+      but differences existed among their effects, and none was unimpairing at doses
+      1-2x the currently recommended levels. One or possibly two of the newer drugs
+      possessed both performance-enhancing and -impairing properties, depending on
+      dose, suggesting two mechanisms of action.
+AD  - Institute for Human Psychopharmacology, University of Limburg, Maastricht, The
+      Netherlands.
+FAU - O'Hanlon, J F
+AU  - O'Hanlon JF
+FAU - Ramaekers, J G
+AU  - Ramaekers JG
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Controlled Clinical Trial
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - DENMARK
+TA  - Allergy
+JT  - Allergy
+JID - 7804028
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Butyrophenones)
+RN  - 0 (Histamine H1 Antagonists)
+RN  - 0 (Piperidines)
+RN  - 108612-45-9 (mizolastine)
+RN  - 15686-51-8 (Clemastine)
+RN  - 486-12-4 (Triprolidine)
+RN  - 50679-08-8 (Terfenadine)
+RN  - 58-73-1 (Diphenhydramine)
+RN  - 79794-75-5 (Loratadine)
+RN  - 83881-51-0 (Cetirizine)
+RN  - 87848-99-5 (acrivastine)
+RN  - 90729-43-4 (ebastine)
+SB  - IM
+MH  - *Automobile Driving
+MH  - Benzimidazoles/administration & dosage/adverse effects
+MH  - Butyrophenones/administration & dosage/adverse effects
+MH  - Cetirizine/administration & dosage/adverse effects
+MH  - Clemastine/administration & dosage/adverse effects
+MH  - Diphenhydramine/administration & dosage/adverse effects
+MH  - Dose-Response Relationship, Drug
+MH  - Histamine H1 Antagonists/administration & dosage/*adverse effects
+MH  - Humans
+MH  - Loratadine/administration & dosage/adverse effects
+MH  - Netherlands
+MH  - Piperidines/administration & dosage/adverse effects
+MH  - Psychomotor Performance/*drug effects
+MH  - Terfenadine/administration & dosage/adverse effects
+MH  - Triprolidine/administration & dosage/adverse effects/analogs & derivatives
+EDAT- 1995/03/01
+MHDA- 1995/03/01 00:01
+CRDT- 1995/03/01 00:00
+PST - ppublish
+SO  - Allergy. 1995 Mar;50(3):234-42.
+
+PMID- 7542992
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950907
+DCOM- 19950907
+LR  - 20110107
+IS  - 0002-5151 (Print)
+VI  - 42
+IP  - 2
+DP  - 1995 Mar-Apr
+TI  - [Efficacy and safety of loratadine vs terfenadine in the treatment of children
+      with perennial allergic rhinitis. Capacity for inhibiting the positive cutaneous 
+      response after antihistaminic treatment].
+PG  - 28-31
+AB  - We studied 104 medical student from the UANL with symptoms of Perennial Allergic 
+      Rhinitis, including only 30 patients for this study; seven patients with
+      Loratadine 10 mg, eight with Loratadine 20 mg, and 15 with Terfenadine 120
+      mg/day/21 days, 20 mg of Loratadine and 120 mg of Terfenadine demonstrated
+      significant decrease of the symptoms (P > 0.005). Two patients had collateral
+      effects with Terfenadine, but Terfenadine were more effective than the Loratadine
+      in the reduction of the skin reactivity.
+AD  - Centro regional para el tratamiento y la prevencion de las enfermedades
+      alergicas, UANL, Hospital Universitario, Monterrey, NL, Mexico.
+FAU - Canseco Villarreal, J I
+AU  - Canseco Villarreal JI
+LA  - spa
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Controlled Clinical Trial
+PT  - English Abstract
+PT  - Journal Article
+TT  - Eficacia e inocuidad de loratadina vs terfenadina en el tratamiento de ninos con 
+      rinitis alergica perenne. Capacidad para inhibir la respuesta cutanea positiva
+      despues del tratamiento antihistaminico.
+PL  - MEXICO
+TA  - Rev Alerg Mex
+JT  - Revista alergia Mexico (Tecamachalco, Puebla, Mexico : 1993)
+JID - 9438824
+RN  - 50679-08-8 (Terfenadine)
+RN  - 79794-75-5 (Loratadine)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Depression, Chemical
+MH  - Female
+MH  - Histamine Release/*drug effects
+MH  - Humans
+MH  - *Intradermal Tests
+MH  - Loratadine/adverse effects/pharmacology/*therapeutic use
+MH  - Male
+MH  - Rhinitis, Allergic, Perennial/*drug therapy
+MH  - Safety
+MH  - Terfenadine/adverse effects/pharmacology/*therapeutic use
+EDAT- 1995/03/01
+MHDA- 1995/03/01 00:01
+CRDT- 1995/03/01 00:00
+PST - ppublish
+SO  - Rev Alerg Mex. 1995 Mar-Apr;42(2):28-31.
+
+PMID- 7834324
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950224
+DCOM- 19950224
+LR  - 20110107
+IS  - 0002-5151 (Print)
+VI  - 41
+IP  - 6
+DP  - 1994 Nov-Dec
+TI  - [Loratadine versus terfenadine in perennial allergic rhinitis: ability to inhibit
+      skin response].
+PG  - 143-6
+AB  - We studied 104 medical student from the UANL, with symptoms of perenneal allergic
+      rhinitis, including only 30 patients for this study; seven patients with
+      loratadin 10 mg, eight with loratadine 20 mg and 15 with terfenadine 120
+      mg/day/21 days, 20 mg of loratadine and 120 mg of terfenadine demonstrated
+      significant decrease of the symptoms (P). Two patients had collateral effects
+      with terfenadine, but terfenadine were more effective than the loratadine in the 
+      reduction of the skin reactivity.
+AD  - Centro Regional para el Tratamiento y la Prevencion de las Enfermedades
+      Alergicas, UANL, Hospital Universitario, Monterrey, Mexico.
+FAU - Canseco Villarreal, J I
+AU  - Canseco Villarreal JI
+LA  - spa
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - English Abstract
+PT  - Journal Article
+TT  - Loratadina vs terfenadina en rinitis alergica perenne: capacidad para inhibir la 
+      respuesta cutanea.
+PL  - MEXICO
+TA  - Rev Alerg Mex
+JT  - Revista alergia Mexico (Tecamachalco, Puebla, Mexico : 1993)
+JID - 9438824
+RN  - 50679-08-8 (Terfenadine)
+RN  - 79794-75-5 (Loratadine)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Drug Administration Schedule
+MH  - Humans
+MH  - Loratadine/*therapeutic use
+MH  - Rhinitis, Allergic, Perennial/complications/*drug therapy
+MH  - Skin/drug effects/immunology
+MH  - Terfenadine/*therapeutic use
+EDAT- 1994/11/01
+MHDA- 1994/11/01 00:01
+CRDT- 1994/11/01 00:00
+PST - ppublish
+SO  - Rev Alerg Mex. 1994 Nov-Dec;41(6):143-6.
+
+PMID- 8067592
+OWN - NLM
+STAT- MEDLINE
+DA  - 19940921
+DCOM- 19940921
+LR  - 20061115
+IS  - 0003-4738 (Print)
+IS  - 0003-4738 (Linking)
+VI  - 73
+IP  - 2
+DP  - 1994 Aug
+TI  - Once daily loratadine versus astemizole once daily.
+PG  - 109-13
+AB  - This study was designed to compare the efficacy and safety of loratadine and
+      astemizole for the treatment of seasonal allergic rhinitis. A total of 167 adult 
+      patients with seasonal allergic rhinitis was enrolled in a randomized
+      double-blind, parallel group study. Patients were treated once daily for 2 months
+      during a spring allergy season. Both treatment groups showed significant
+      reduction of symptoms (P < .01) from baseline. The physicians' and patients'
+      evaluations of response to treatment were generally higher for loratadine than
+      astemizole but only reached statistical significance (P < .05) at the 1-week
+      evaluation. Astemizole-treated patients showed statistically significantly more
+      weight gain than did loratadine-treated patients. Loratadine and astemizole were 
+      comparable in reducing the signs and symptoms of seasonal allergic rhinitis. Both
+      treatments were well tolerated, although less weight gain was observed in
+      patients treated with loratadine.
+AD  - Allergy and Asthma Center, North Dartmouth, MA.
+FAU - Chervinsky, P
+AU  - Chervinsky P
+FAU - Georgitis, J
+AU  - Georgitis J
+FAU - Banov, C
+AU  - Banov C
+FAU - Boggs, P
+AU  - Boggs P
+FAU - Vande Souwe, R
+AU  - Vande Souwe R
+FAU - Greenstein, S
+AU  - Greenstein S
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Ann Allergy
+JT  - Annals of allergy
+JID - 0372346
+RN  - 68844-77-9 (Astemizole)
+RN  - 79794-75-5 (Loratadine)
+SB  - IM
+MH  - Administration, Oral
+MH  - Adolescent
+MH  - Adult
+MH  - Astemizole/administration & dosage/standards/*therapeutic use
+MH  - Child
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Loratadine/administration & dosage/standards/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Rhinitis, Allergic, Seasonal/*drug therapy/physiopathology
+MH  - Seasons
+MH  - Weight Gain
+EDAT- 1994/08/01
+MHDA- 1994/08/01 00:01
+CRDT- 1994/08/01 00:00
+PST - ppublish
+SO  - Ann Allergy. 1994 Aug;73(2):109-13.
+
+PMID- 7719255
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950525
+DCOM- 19950525
+LR  - 20120620
+IS  - 0867-7077 (Print)
+IS  - 0867-7077 (Linking)
+VI  - 62
+IP  - 11-12
+DP  - 1994
+TI  - [Test for efficacy of cetirizine and loratadine as a treatment for seasonal
+      allergic rhinitis in a 6 week cross-over comparative study].
+PG  - 573-7
+AB  - Cetirizine and loratadine-two new antihistaminic drugs were evaluated in 56
+      patients with seasonal rhinitis in cross-over open study. I our study, no
+      difference between loratadine and cetirizine has been seen. Both evaluated drugs 
+      significantly inhibited the symptoms of allergic rhinitis and conjunctivitis.
+      Adverse reaction and inhibition of histamine and codeine skin tests were similar.
+AD  - Katedry i Zakladu Farmakologii Doswiadczalnej i Klinicznej Akademii Medycznej w
+      Warszawie.
+FAU - Tarchalska-Krynska, B
+AU  - Tarchalska-Krynska B
+FAU - Zawisza, E
+AU  - Zawisza E
+LA  - pol
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - English Abstract
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+TT  - Badania porownawcze skutecznosci loratadyny i cetirizyny w leczeniu alergicznego 
+      sezonowego niezytu nosa w probie skrzyzowanej prowadzonej przez 6 tygodni.
+PL  - POLAND
+TA  - Pneumonol Alergol Pol
+JT  - Pneumonologia i alergologia polska
+JID - 9302892
+RN  - 79794-75-5 (Loratadine)
+RN  - 83881-51-0 (Cetirizine)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Cetirizine/adverse effects/*therapeutic use
+MH  - Conjunctivitis/drug therapy
+MH  - Cross-Over Studies
+MH  - Female
+MH  - Humans
+MH  - Loratadine/adverse effects/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Rhinitis, Allergic, Seasonal/*drug therapy
+EDAT- 1994/01/01
+MHDA- 1994/01/01 00:01
+CRDT- 1994/01/01 00:00
+PST - ppublish
+SO  - Pneumonol Alergol Pol. 1994;62(11-12):573-7.
+
+PMID- 7906659
+OWN - NLM
+STAT- MEDLINE
+DA  - 19940331
+DCOM- 19940331
+LR  - 20061115
+IS  - 0300-0605 (Print)
+IS  - 0300-0605 (Linking)
+VI  - 21
+IP  - 5
+DP  - 1993 Sep-Oct
+TI  - A comparison of the efficacy of azelastine nasal spray and loratidine tablets in 
+      the treatment of seasonal allergic rhinitis.
+PG  - 268-75
+AB  - A total of 30 patients suffering from seasonal allergic rhinitis were treated in 
+      a 6-week randomized, double-blind, double-dummy parallel-group study, comparing
+      azelastine nasal spray (0.14 mg/nostril administered twice daily) and loratidine 
+      tablets (10 mg once daily). Symptoms evaluated were sneezing, nose and/or eye
+      itching, lacrimation, rhinorrhoea, photophobia, nasal occlusion, throat
+      irritation, smell loss, nasal mucosa swelling, conjunctivitis, and pharyngeal
+      mucosa reddening. Each symptom was assessed according to severity and given a
+      score on a four-point rating scale. Compared with baseline, total symptom scores 
+      for both the azelastine and loratidine treatment groups were reduced at each of
+      the assessments during treatment. No significant differences were observed
+      between the two treatment groups. The investigator concluded that azelastine,
+      formulated as a nasal spray, is as effective as loratidine tablets in the relief 
+      of the symptoms of seasonal rhinitis and that it has a rapid onset of action.
+AD  - Physiopathology and Respiratory Allergology Department, AC Cartoni Hospital,
+      Rome, Italy.
+FAU - Gambardella, R
+AU  - Gambardella R
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - J Int Med Res
+JT  - The Journal of international medical research
+JID - 0346411
+RN  - 0 (Histamine H1 Antagonists)
+RN  - 0 (Phthalazines)
+RN  - 0 (Tablets)
+RN  - 58581-89-8 (azelastine)
+RN  - 79794-75-5 (Loratadine)
+SB  - IM
+MH  - Administration, Inhalation
+MH  - Adolescent
+MH  - Adult
+MH  - Double-Blind Method
+MH  - Female
+MH  - Histamine H1 Antagonists/*therapeutic use
+MH  - Humans
+MH  - Loratadine/administration & dosage/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Phthalazines/administration & dosage/*therapeutic use
+MH  - Rhinitis, Allergic, Seasonal/*drug therapy/physiopathology
+MH  - Tablets
+EDAT- 1993/09/01
+MHDA- 1993/09/01 00:01
+CRDT- 1993/09/01 00:00
+PST - ppublish
+SO  - J Int Med Res. 1993 Sep-Oct;21(5):268-75.

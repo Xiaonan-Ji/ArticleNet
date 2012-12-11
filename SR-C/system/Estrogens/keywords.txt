@@ -1,0 +1,98 @@
+bone
+breast
+cognition
+cognitive
+depression
+depress
+depressed
+dienestrol 
+disorder
+disorders
+disturb
+disturbing
+disturbs
+endometrial
+estradiol
+estrogens
+estrone
+estropipate
+ethinyl
+foam
+foams
+fracture
+fractures
+flashes
+flushes
+jellies
+jelly
+libido
+menopause
+mood
+Osteoporosis
+perimenopausal
+postmenopausal
+progesterone
+progestin
+quinestrol
+Sexual
+sex
+Sleep
+sleeping
+sweating
+sweats
+urogenital
+vaginal 
+vasomotor
+amenorrhea 
+transdermal 
+Bleeding
+bleed
+weight
+dizzinesstjrp,bpsos
+cardiovascular
+cholecystitis
+liver
+cancer
+adverse
+itches
+itch
+itching
+poison
+poisonous
+toxic
+functional
+withdrawal
+withdrawals
+safety
+mortality
+hospitalization
+emergency
+emergencies
+discontinuation
+employment
+employ
+nausea
+vomit
+headache
+tolerability
+tolerance
+death
+dead
+placebo
+quality of life
+life quality
+dry mouth
+mental state
+adverse effect
+adverse effects
+sleep disturbance
+night sweats
+night sweat
+sexual function
+sexual functions
+mood changes
+mood change
+urogenital atrophy
+bone density
+endometrial hypertrophy
+breast tenderness

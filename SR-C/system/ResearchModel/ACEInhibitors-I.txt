@@ -1,0 +1,3609 @@
+
+PMID- 12633543
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030313
+DCOM- 20030505
+LR  - 20041117
+IS  - 0195-668X (Print)
+IS  - 0195-668X (Linking)
+VI  - 24
+IP  - 5
+DP  - 2003 Mar
+TI  - Accelerated decline and prognostic impact of renal function after myocardial
+      infarction and the benefits of ACE inhibition: the CATS randomized trial.
+PG  - 412-20
+AB  - AIMS: Information regarding the cardiorenal axis in patients after a myocardial
+      infarction (MI) is limited. We examined the change in renal function after a
+      first MI, the protective effect of angiotensin converting enzyme (ACE) inhibition
+      and the prognostic value of baseline renal function. METHODS AND RESULTS: The
+      study population consisted of 298 patients with a first anterior wall MI who were
+      randomized to the ACE inhibitor captopril or placebo after completion of
+      streptokinase infusion. Renal function, by means of glomerular filtration rate
+      (GFR), was calculated using the Cockroft-Gault equation (GFR(c)). In the placebo 
+      group, renal function (GFR(c)) declined by 5.5 min(-1)within 1 year, vs only 0.5 
+      ml min(-1)in the ACE inhibitor group (P<0.05). This beneficial effect of
+      captopril was most pronounced in patients with the most compromised renal
+      function at baseline. The incidence of chronic heart failure (CHF) within 1 year 
+      increased significantly with decreasing GFR(c)(divided into tertiles: 24.0, 28.9,
+      and 41.2%; P<0.01). The risk-ratio for GFR(c)<81 ml min(-1)vs >103 mL min(-1)was 
+      1.86 (95% CI 1.11-3.13; P=0.019). CONCLUSIONS: Renal function markedly
+      deteriorates after a first MI, but is significantly preserved by ACE inhibition. 
+      Furthermore, an impaired baseline renal function adds to the prognostic risk of
+      developing CHF in patients after a first anterior MI.
+AD  - Department of Cardiology/Thoraxcenter, University Hospital Groningen, Hanzeplein 
+      1, 9700 Groningen, The Netherlands. h.hillege@tcc.azg.nl
+FAU - Hillege, H L
+AU  - Hillege HL
+FAU - van Gilst, W H
+AU  - van Gilst WH
+FAU - van Veldhuisen, D J
+AU  - van Veldhuisen DJ
+FAU - Navis, G
+AU  - Navis G
+FAU - Grobbee, D E
+AU  - Grobbee DE
+FAU - de Graeff, P A
+AU  - de Graeff PA
+FAU - de Zeeuw, D
+AU  - de Zeeuw D
+CN  - CATS Randomized Trial
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - England
+TA  - Eur Heart J
+JT  - European heart journal
+JID - 8006263
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 62571-86-2 (Captopril)
+SB  - IM
+CIN - Eur Heart J. 2003 Mar;24(5):381-3. PMID: 12633538
+MH  - Adult
+MH  - Aged
+MH  - Analysis of Variance
+MH  - Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+MH  - Captopril/*therapeutic use
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Glomerular Filtration Rate/physiology
+MH  - Humans
+MH  - Kidney Failure, Chronic/*etiology/physiopathology
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/drug therapy/*physiopathology
+MH  - Prognosis
+EDAT- 2003/03/14 04:00
+MHDA- 2003/05/06 05:00
+CRDT- 2003/03/14 04:00
+AID - S0195668X02005262 [pii]
+PST - ppublish
+SO  - Eur Heart J. 2003 Mar;24(5):412-20.
+
+PMID- 12628950
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030311
+DCOM- 20030324
+LR  - 20071115
+IS  - 1524-4539 (Electronic)
+IS  - 0009-7322 (Linking)
+VI  - 107
+IP  - 9
+DP  - 2003 Mar 11
+TI  - Enalapril reduces the incidence of diabetes in patients with chronic heart
+      failure: insight from the Studies Of Left Ventricular Dysfunction (SOLVD).
+PG  - 1291-6
+AB  - BACKGROUND: Diabetes mellitus is a predictor of morbidity and mortality in
+      patients with heart failure. The effect of angiotensin-converting enzyme (ACE)
+      inhibitors on the prevention of diabetes in patients with left ventricular
+      dysfunction is unknown. The aim of this retrospective study was to assess the
+      effect of the ACE inhibitor enalapril on the incidence of diabetes in the group
+      of patients from the Montreal Heart Institute enrolled in the Studies of Left
+      Ventricular Dysfunction (SOLVD). METHODS AND RESULTS: Clinical charts were
+      evaluated for fasting plasma glucose (FPG) levels by blinded reviewers. A
+      diagnosis of diabetes was made when a FPG > or =126 mg/dL (7 mmol/L) was found at
+      2 visits (follow-up, 2.9+/-1.0 years). Of the 391 patients enrolled at the
+      Montreal Heart Institute, 291 were not diabetic (FPG <126 mg/dL without a history
+      of diabetes), 153 of these were on enalapril and 138 were on placebo. Baseline
+      characteristics were similar in the 2 groups. Forty patients developed diabetes
+      during follow-up, 9 (5.9%) in the enalapril group and 31 (22.4%) in the placebo
+      group (P<0.0001). By multivariate analysis, enalapril remained the most powerful 
+      predictor for risk reduction of developing diabetes (hazard ratio, 0.22; 95%
+      confidence intervals, 0.10 to 0.46; P<0.0001). The effect of enalapril was
+      striking in the subgroup of patients with impaired FPG (110 mg/dL [6.1 mmol/L] < 
+      or =FPG <126 mg/dL) at baseline: 1 patient (3.3%) in the enalapril group versus
+      12 (48.0%) in the placebo group developed diabetes (P<0.0001). CONCLUSIONS:
+      Enalapril significantly reduces the incidence of diabetes in patients with left
+      ventricular dysfunction, especially those with impaired FPG.
+AD  - Department of Medicine, Montreal Heart Institute, Montreal, Canada.
+FAU - Vermes, Emmanuelle
+AU  - Vermes E
+FAU - Ducharme, Anique
+AU  - Ducharme A
+FAU - Bourassa, Martial G
+AU  - Bourassa MG
+FAU - Lessard, Myriam
+AU  - Lessard M
+FAU - White, Michel
+AU  - White M
+FAU - Tardif, Jean-Claude
+AU  - Tardif JC
+CN  - Studies Of Left Ventricular Dysfunction
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Blood Glucose)
+RN  - 75847-73-3 (Enalapril)
+SB  - AIM
+SB  - IM
+CIN - ACP J Club. 2003 Nov-Dec;139(3):68. PMID: 14594419
+MH  - Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+MH  - Blood Glucose/analysis
+MH  - Chronic Disease
+MH  - Diabetes Mellitus/blood/epidemiology/*prevention & control
+MH  - Enalapril/*therapeutic use
+MH  - Female
+MH  - Heart Failure/*drug therapy
+MH  - Humans
+MH  - Incidence
+MH  - Male
+MH  - Middle Aged
+MH  - Randomized Controlled Trials as Topic
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Ventricular Dysfunction, Left/*drug therapy/mortality
+EDAT- 2003/03/12 04:00
+MHDA- 2003/03/26 04:00
+CRDT- 2003/03/12 04:00
+PST - ppublish
+SO  - Circulation. 2003 Mar 11;107(9):1291-6.
+
+PMID- 12486426
+OWN - NLM
+STAT- MEDLINE
+DA  - 20021217
+DCOM- 20030116
+LR  - 20071115
+IS  - 1097-6744 (Electronic)
+IS  - 0002-8703 (Linking)
+VI  - 144
+IP  - 6
+DP  - 2002 Dec
+TI  - Risks and benefits of early treatment of acute myocardial infarction with an
+      angiotensin-converting enzyme inhibitor in patients with a history of arterial
+      hypertension: analysis of the GISSI-3 database.
+PG  - 1018-25
+AB  - BACKGROUND: Many trials have proved the benefits of early systematic treatment
+      with angiotensin-converting enzyme inhibitors in patients with acute myocardial
+      infarction (AMI). Pathophysiological studies, however, suggest potential harm in 
+      excessive reduction of blood pressure (BP) in hypertensive patients with ischemic
+      heart disease. METHODS: We analyzed data from the GISSI-3 (Gruppo Italiano per lo
+      Studio della Sopravvivenza nell'Infarto miocardico) trial to assess the effects
+      of early treatment with angiotensin-converting enzyme inhibitors during AMI in
+      patients with a history of hypertension compared with normotensive patients. The 
+      trial randomly assigned 19,394 patients to 6 weeks of lisinopril treatment or
+      control, starting treatment within 24 hours of AMI onset. RESULTS: In the 10,661 
+      normotensive patients, lisinopril significantly reduced lethal events, but in the
+      7362 hypertensive patients, a higher rate of lethal events was reported the first
+      day of treatment, and the benefits only appeared subsequently. These results may 
+      be attributable to the subgroup of 1165 hypertensive patients with low baseline
+      systolic BP (lower quintile, BP <120 mm Hg), in whom critical hypotension was
+      more prone to develop after lisinopril treatment. In fact, these patients showed 
+      a higher mortality rate as the result of an excess of cardiogenic shock during
+      the first day of lisinopril treatment (odds ratio 3.07, 95% CI 1.39-6.77) and a
+      persistent, unfavorable death trend after 6 weeks. CONCLUSIONS: These data
+      suggest that caution should be exercised when using lisinopril in the acute phase
+      of a myocardial infarction in patients with a history of hypertension but low
+      systolic BP at presentation.
+AD  - Department of Cardiovascular Research, Istituto di Ricerche Farmacologiche, Mario
+      Negri, Milano, Italy. avanzini@marionegri.it
+FAU - Avanzini, Fausto
+AU  - Avanzini F
+FAU - Ferrario, Gabriele
+AU  - Ferrario G
+FAU - Santoro, Luigi
+AU  - Santoro L
+FAU - Peci, Paolo
+AU  - Peci P
+FAU - Giani, Paolo
+AU  - Giani P
+FAU - Santoro, Eugenio
+AU  - Santoro E
+FAU - Franzosi, Maria Grazia
+AU  - Franzosi MG
+FAU - Tognoni, Gianni
+AU  - Tognoni G
+CN  - Gruppo Italiano per lo Studio della Sopravvivenza nell'Infarto miocardico-3
+      Investigators
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Am Heart J
+JT  - American heart journal
+JID - 0370465
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 83915-83-7 (Lisinopril)
+SB  - AIM
+SB  - IM
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+MH  - Data Interpretation, Statistical
+MH  - Female
+MH  - Humans
+MH  - Hypertension/*complications
+MH  - Hypotension/*complications
+MH  - Lisinopril/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*complications/*drug therapy
+MH  - Randomized Controlled Trials as Topic
+MH  - Risk
+MH  - Survival Analysis
+EDAT- 2002/12/18 04:00
+MHDA- 2003/01/17 04:00
+CRDT- 2002/12/18 04:00
+AID - 10.1067/mhj.2002.126739 [doi]
+AID - S0002870302002260 [pii]
+PST - ppublish
+SO  - Am Heart J. 2002 Dec;144(6):1018-25.
+
+PMID- 11792333
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020116
+DCOM- 20020221
+LR  - 20071115
+IS  - 0002-9149 (Print)
+IS  - 0002-9149 (Linking)
+VI  - 89
+IP  - 2
+DP  - 2002 Jan 15
+TI  - Comparison of perindopril versus captopril for treatment of acute myocardial
+      infarction.
+PG  - 150-4
+AB  - Angiotensin-converting enzyme (ACE) inhibitors reduce mortality in patients with 
+      acute myocardial infarction (AMI), but these benefits might be limited by acute
+      hemodynamic changes and difficulties in titrating to recommended doses. The
+      objective of this study was to compare the hemodynamic changes and tolerability
+      of perindopril with captopril after AMI. We randomized 212 patients to receive
+      either captopril (n = 102) or perindopril (n = 110) within 72 hours of AMI.
+      Captopril was given as an initial dose of 6.25 mg, and then 50 mg/day on day 1
+      and 100 mg/day thereafter. The corresponding doses of perindopril were 2, 4, and 
+      8 mg/day. Acute hemodynamic changes, the percentage of patients who reached
+      target doses, and in-hospital and 6-month cardiovascular events were monitored.
+      Baseline clinical characteristics of the 2 groups were identical, but patients
+      randomized to perindopril were in a higher Killip class (1.4 +/- 0.6 vs 1.2 +/-
+      0.5, p = 0.05). During the first 6 hours, treatment with perindopril resulted in 
+      higher minimal systolic (97 +/- 15 vs 91 +/- 14 mm Hg, p <0.01) and diastolic
+      blood pressure (BP) (57 +/- 11 vs 54 +/- 10 mm Hg, p <0.02), later occurrence of 
+      minimal BP (3.6 +/- 0.2 vs 2.7 +/- 0.1 hour, p <0.001), and a lower incidence of 
+      persistent hypotension with systolic BP < 90 mm Hg for > or =1 hour (5% vs 16%; p
+      < 0.01) compared with captopril. At initial administration, target doses of
+      perindopril and captopril were attained in 97% and 82% of the patients,
+      respectively (p < 0.01). After 6 months, there were no differences between
+      patients treated with perindopril and captopril in mortality rates (6% vs 13%, p 
+      = 0.16) and need for revascularization (20% vs 21%, p = 0.9). Thus, in patients
+      during AMI, perindopril treatment showed better short-term tolerance than
+      treatment with captopril, with significantly less acute hemodynamic changes and
+      fewer withdrawals.
+AD  - Queen Mary Hospital, Hong Kong, China. cplau@hkucc.hku.hk
+FAU - Lau, Chu Pak
+AU  - Lau CP
+FAU - Tse, Hung Fat
+AU  - Tse HF
+FAU - Ng, William
+AU  - Ng W
+FAU - Chan, Kwok Keung
+AU  - Chan KK
+FAU - Li, Shu Kin
+AU  - Li SK
+FAU - Keung, Kin Kwan
+AU  - Keung KK
+FAU - Lau, Yuk Kong
+AU  - Lau YK
+FAU - Chen, Wai Hong
+AU  - Chen WH
+FAU - Tang, Yuen Wai
+AU  - Tang YW
+FAU - Leung, Sum Kin
+AU  - Leung SK
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Am J Cardiol
+JT  - The American journal of cardiology
+JID - 0207277
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 62571-86-2 (Captopril)
+RN  - 82834-16-0 (Perindopril)
+SB  - AIM
+SB  - IM
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+MH  - Captopril/*therapeutic use
+MH  - Chi-Square Distribution
+MH  - Female
+MH  - Hemodynamics/drug effects
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*drug therapy/mortality
+MH  - Perindopril/*therapeutic use
+MH  - Treatment Outcome
+EDAT- 2002/01/17 10:00
+MHDA- 2002/02/22 10:01
+CRDT- 2002/01/17 10:00
+AID - S0002914901021919 [pii]
+PST - ppublish
+SO  - Am J Cardiol. 2002 Jan 15;89(2):150-4.
+
+PMID- 11780187
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020108
+DCOM- 20020213
+LR  - 20071115
+IS  - 0366-6999 (Print)
+IS  - 0366-6999 (Linking)
+VI  - 114
+IP  - 2
+DP  - 2001 Feb
+TI  - Long-term mortality in patients with myocardial infarction: impact of early
+      treatment with captopril for 4 weeks.
+PG  - 115-8
+AB  - OBJECTIVE: In an earlier interim report of the Chinese Cardiac Study (CCS-1)
+      trial, 15,000 patients up to 36 hours after the onset of suspected acute
+      myocardial infarction (AMI) were randomized to receive either oral captopril or
+      matching placebo for one month. Results showed that captopril was associated with
+      a non-significant reduction in 4-week mortality (681 [9.1%] captopril-allocated
+      vs 730 [9.7%] placebo-allocated deaths; 2P = 0.19), but the long-term effects
+      remained uncertain. The present study reports on the long-term effect of early
+      captopril treatment on mortality and other major events in AMI patients of the
+      earlier CCS-1 trial. METHODS: Long-term follow-up was carried out in those
+      hospitals which had recruited more than 20 cases in the CCS-1 trial. 8000
+      patients with MI were thus selected for long-term follow-up. Data on 6749
+      patients (84.4%) were available. RESULTS: Patient characteristics were comparable
+      between the treatment group (n = 3391) and the placebo group (n = 3358). Average 
+      follow-up time was 23.4 +/- 16.9 months; average age was 63.6 +/- 10.6 years, and
+      76.2% were male. At the end of the follow-up time, cardiac function of NYHA
+      III-IV was 9.0% in the treatment group and 9.8% in the placebo group; the
+      reinfarction rate was 5.6% vs. 6.0%; total cardiovascular events were 32.9% vs.
+      34.3%. Total mortality was 11.9% (n = 404) vs 13.8% (n = 463), with a 13.8%
+      reduction in the captopril group (P = 0.03). Cardiovascular mortality was 10.0%
+      vs. 11.8% (P = 0.01), death due to heart failure was 4.1% vs. 5.5% (P = 0.01).
+      From the above results, it is estimated that early treatment with captopril can
+      save 19 lives per 1000 patients treated; patients with systolic blood pressure
+      (SBP) > or = 100 mm Hg at entry would have a long-term mortality 12.4% in the
+      treatment group vs. 13.8% in the placebo group (P = 0.04) and patients with a
+      heart rate (HR) > or = 60/minute at entry would have a long term mortality 12.0% 
+      in captopril groups vs. 14.5% in the placebo group (P = 0.01). CONCLUSION: Early 
+      treatment with captopril during AMI for 4 weeks can significantly reduce
+      long-term total mortality.
+AD  - Fu Wai Hospital, Chinese Academy of Medical Sciences (CAMS), Beijing 100037,
+      China.
+FAU - Liu, L
+AU  - Liu L
+CN  - Chinese Cardiac Study (CCS-I) Collaborative Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - China
+TA  - Chin Med J (Engl)
+JT  - Chinese medical journal
+JID - 7513795
+RN  - 0 (Antihypertensive Agents)
+RN  - 62571-86-2 (Captopril)
+SB  - IM
+MH  - Aged
+MH  - Antihypertensive Agents/therapeutic use
+MH  - Blood Pressure/drug effects
+MH  - Captopril/therapeutic use
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Heart/drug effects/physiopathology
+MH  - Heart Rate/drug effects
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/drug therapy/*mortality/physiopathology
+MH  - Randomized Controlled Trials as Topic
+MH  - Survival Rate
+MH  - Time Factors
+MH  - Treatment Outcome
+EDAT- 2002/01/10 10:00
+MHDA- 2002/02/14 10:01
+CRDT- 2002/01/10 10:00
+PST - ppublish
+SO  - Chin Med J (Engl). 2001 Feb;114(2):115-8.
+
+PMID- 11295959
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010411
+DCOM- 20010503
+LR  - 20071115
+IS  - 0003-9926 (Print)
+IS  - 0003-9926 (Linking)
+VI  - 161
+IP  - 7
+DP  - 2001 Apr 9
+TI  - Efficacy of different drug classes used to initiate antihypertensive treatment in
+      black subjects: results of a randomized trial in Johannesburg, South Africa.
+PG  - 965-71
+AB  - BACKGROUND: Thiazides are recommended to initiate antihypertensive drug treatment
+      in black subjects. OBJECTIVE: To test the efficacy of this recommendation in a
+      South African black cohort. METHODS: Men and women (N = 409), aged 18 to 70
+      years, with a mean ambulatory daytime diastolic blood pressure between 90 and 114
+      mm Hg, were randomized to 13 months of open-label treatment starting with the
+      nifedipine gastrointestinal therapeutic system (30 mg/d, n = 233),
+      sustained-release verapamil hydrochloride (240 mg/d, n = 58), hydrochlorothiazide
+      (12.5 mg/d, n = 58), or enalapril maleate (10 mg/d, n = 60). If the target of
+      reducing daytime diastolic blood pressure below 90 mm Hg was not attained, the
+      first-line drugs were titrated up and after 2 months other medications were added
+      to the regimen. RESULTS: While receiving monotherapy (2 months, n = 366), the
+      patients' systolic and diastolic decreases in daytime blood pressure averaged
+      22/14 mm Hg for nifedipine, 17/11 mm Hg for verapamil, 12/8 mm Hg for
+      hydrochlorothiazide, and 5/3 mm Hg for enalapril. At 2 months the blood pressure 
+      of more patients treated with nifedipine was controlled: 133 (63.3%, P</=.03) vs 
+      20 (39.9%) receiving verapamil, 21 (40.4%) receiving hydrochlorothiazide, and 11 
+      (20.8%) receiving enalapril. At 13 months (n = 257), more patients (P<.001)
+      continued receiving monotherapy with nifedipine (94/154 [61.0%]) or verapamil
+      (22/35 [62.9%]) than hydrochlorothiazide (10/39 [25.6%]) or enalapril (1/29
+      [3.4%]). A sustained decrease of left ventricular mass (P<.001) with no
+      between-group differences was achieved at 4 and 13 months. CONCLUSIONS: In
+      contrast to current recommendations, calcium channel blockers are more effective 
+      than thiazides as initial treatment in black subjects with hypertension. If
+      treatment is started with thiazides or converting-enzyme inhibitors, combination 
+      therapy is more likely to be required to control blood pressure and reduce left
+      ventricular mass.
+AD  - Department of Cardiology, Chris Hani-Baragwanath Hospital, University of the
+      Witwatersrand, PO Bertsham, Johannesburg 2013, South Africa. psareli@iafrica.com
+FAU - Sareli, P
+AU  - Sareli P
+FAU - Radevski, I V
+AU  - Radevski IV
+FAU - Valtchanova, Z P
+AU  - Valtchanova ZP
+FAU - Libhaber, E
+AU  - Libhaber E
+FAU - Candy, G P
+AU  - Candy GP
+FAU - Den Hond, E
+AU  - Den Hond E
+FAU - Libhaber, C
+AU  - Libhaber C
+FAU - Skudicky, D
+AU  - Skudicky D
+FAU - Wang, J G
+AU  - Wang JG
+FAU - Staessen, J A
+AU  - Staessen JA
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Arch Intern Med
+JT  - Archives of internal medicine
+JID - 0372440
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Antihypertensive Agents)
+RN  - 0 (Calcium Channel Blockers)
+RN  - 0 (Diuretics)
+RN  - 0 (Sodium Chloride Symporter Inhibitors)
+RN  - 0 (Vasodilator Agents)
+RN  - 21829-25-4 (Nifedipine)
+RN  - 52-53-9 (Verapamil)
+RN  - 58-93-5 (Hydrochlorothiazide)
+RN  - 75847-73-3 (Enalapril)
+SB  - AIM
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - *African Continental Ancestry Group
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme
+      Inhibitors/*classification/pharmacology/*therapeutic use
+MH  - Antihypertensive Agents/*classification/pharmacology/*therapeutic use
+MH  - Blood Pressure/drug effects
+MH  - Calcium Channel Blockers/*classification/pharmacology/*therapeutic use
+MH  - Diastole/drug effects
+MH  - Diuretics
+MH  - Drug Therapy, Combination
+MH  - Enalapril/*classification/pharmacology/*therapeutic use
+MH  - Female
+MH  - Humans
+MH  - Hydrochlorothiazide/*classification/pharmacology/*therapeutic use
+MH  - Hypertension/complications/diagnosis/*drug therapy/*genetics
+MH  - Hypertrophy, Left Ventricular/etiology/pathology/prevention & control
+MH  - Male
+MH  - Middle Aged
+MH  - Nifedipine/*classification/pharmacology/*therapeutic use
+MH  - Practice Guidelines as Topic
+MH  - Proportional Hazards Models
+MH  - Sodium Chloride Symporter Inhibitors/*classification/pharmacology/*therapeutic
+      use
+MH  - South Africa
+MH  - Time Factors
+MH  - Treatment Outcome
+MH  - Vasodilator Agents/*classification/pharmacology/*therapeutic use
+MH  - Verapamil/*classification/pharmacology/*therapeutic use
+EDAT- 2001/04/11 10:00
+MHDA- 2001/05/05 10:01
+CRDT- 2001/04/11 10:00
+AID - ioi00502 [pii]
+PST - ppublish
+SO  - Arch Intern Med. 2001 Apr 9;161(7):965-71.
+
+PMID- 10841227
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000627
+DCOM- 20000627
+LR  - 20061115
+IS  - 0735-1097 (Print)
+IS  - 0735-1097 (Linking)
+VI  - 35
+IP  - 7
+DP  - 2000 Jun
+TI  - Clinical effects of early angiotensin-converting enzyme inhibitor treatment for
+      acute myocardial infarction are similar in the presence and absence of aspirin:
+      systematic overview of individual data from 96,712 randomized patients.
+      Angiotensin-converting Enzyme Inhibitor Myocardial Infarction Collaborative
+      Group.
+PG  - 1801-7
+AB  - OBJECTIVES: We sought to determine whether the clinical effects of early
+      angiotensin-converting enzyme (ACE) inhibitor (ACEi) treatment for acute
+      myocardial infarction (MI) are influenced by the concomitant use of aspirin
+      (ASA). BACKGROUND: Aspirin and ACEi both reduce mortality when given early after 
+      MI. Aspirin inhibits the synthesis of vasodilating prostaglandins, and, in
+      principle, this inhibition might antagonize some of the effects of ACEi. But it
+      is uncertain whether, in practice, this influences the effects of ACEi on
+      mortality and major morbidity after MI. METHODS: This overview sought individual 
+      patient data from all trials involving more than 1,000 patients randomly
+      allocated to receive ACEi or control starting in the acute phase of MI (0-36 h
+      from onset) and continuing for four to six weeks. Data on concomitant ASA use
+      were available for 96,712 of 98,496 patients in four eligible trials (and for
+      none of 1,556 patients in the one other eligible trial). RESULTS: Overall 30-day 
+      mortality was 7.1% among patients allocated to ACEi and 7.6% among those
+      allocated to control, corresponding to a 7% (standard deviation [SD], 2%)
+      proportional reduction (95% confidence interval 2% to 11%, p = 0.004).
+      Angiotensin-converting enzyme inhibitor was associated with similar proportional 
+      reductions in 30-day mortality among the 86,484 patients who were taking ASA (6% 
+      [SD, 3%] reduction) and among the 10,228 patients who were not (10% [SD, 5%]
+      reduction: chi-squared test of heterogeneity between these reductions = 0.4; p = 
+      0.5). Angiotensin-converting enzyme inhibitor produced definite increases in the 
+      incidence of persistent hypotension (17.9% ACEi vs. 9.4% control) and of renal
+      dysfunction (1.3% ACEi vs. 0.6% control), but there was no good evidence that
+      these effects were different in the presence or absence of ASA (chi-squared for
+      heterogeneity = 0.4 and 0.0, respectively; both not significant). Nor was there
+      good evidence that the effects of ACEi on other clinical outcomes were changed by
+      concomitant ASA use. CONCLUSIONS: Both ASA and ACEi are beneficial in acute MI.
+      The present results support the early use of ACEi in acute MI, irrespective of
+      whether or not ASA is being given.
+AD  - Istituto di Ricerche Farmacologiche Mario Negri, Milano, Italy.
+      latini@irfmn.mnegri.it
+FAU - Latini, R
+AU  - Latini R
+FAU - Tognoni, G
+AU  - Tognoni G
+FAU - Maggioni, A P
+AU  - Maggioni AP
+FAU - Baigent, C
+AU  - Baigent C
+FAU - Braunwald, E
+AU  - Braunwald E
+FAU - Chen, Z M
+AU  - Chen ZM
+FAU - Collins, R
+AU  - Collins R
+FAU - Flather, M
+AU  - Flather M
+FAU - Franzosi, M G
+AU  - Franzosi MG
+FAU - Kjekshus, J
+AU  - Kjekshus J
+FAU - Kober, L
+AU  - Kober L
+FAU - Liu, L S
+AU  - Liu LS
+FAU - Peto, R
+AU  - Peto R
+FAU - Pfeffer, M
+AU  - Pfeffer M
+FAU - Pizzetti, F
+AU  - Pizzetti F
+FAU - Santoro, E
+AU  - Santoro E
+FAU - Sleight, P
+AU  - Sleight P
+FAU - Swedberg, K
+AU  - Swedberg K
+FAU - Tavazzi, L
+AU  - Tavazzi L
+FAU - Wang, W
+AU  - Wang W
+FAU - Yusuf, S
+AU  - Yusuf S
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Cyclooxygenase Inhibitors)
+RN  - 50-78-2 (Aspirin)
+SB  - AIM
+SB  - IM
+CIN - J Am Coll Cardiol. 2000 Jun;35(7):1808-12. PMID: 10841228
+CIN - J Am Coll Cardiol. 2001 Apr;37(5):1474-5. PMID: 11300465
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+MH  - Aspirin/*therapeutic use
+MH  - Cyclooxygenase Inhibitors/*therapeutic use
+MH  - Drug Therapy, Combination
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Myocardial Infarction/*drug therapy/mortality
+MH  - Time Factors
+EDAT- 2000/06/07 09:00
+MHDA- 2000/07/06 11:00
+CRDT- 2000/06/07 09:00
+AID - S0735109700006380 [pii]
+PST - ppublish
+SO  - J Am Coll Cardiol. 2000 Jun;35(7):1801-7.
+
+PMID- 10411363
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990831
+DCOM- 19990831
+LR  - 20090224
+IS  - 0895-7061 (Print)
+IS  - 0895-7061 (Linking)
+VI  - 12
+IP  - 7
+DP  - 1999 Jul
+TI  - Effects of the administration of an angiotensin-converting enzyme inhibitor
+      during the acute phase of myocardial infarction in patients with arterial
+      hypertension. SMILE Study Investigators. Survival of Myocardial Infarction
+      Long-term Evaluation.
+PG  - 665-72
+AB  - A positive history of arterial hypertension (HBP) is present in as many as 30% of
+      patients with acute myocardial infarction (AMI) and their clinical outcome could 
+      be greatly improved by drugs enhancing blood pressure control and preserving
+      ventricular function. The aim of the present study was to evaluate the importance
+      of a history of HBP on the clinical efficacy of early treatment with the
+      angiotensin-converting enzyme (ACE) inhibitor zofenopril in patients with
+      anterior AMI. We summarize the results of a post-hoc analysis of data from the
+      Survival of Myocardial Infarction Long-term Evaluation (SMILE) study, which
+      randomly evaluated the efficacy of zofenopril given within 24 h of symptom onset 
+      to patients with anterior AMI not undergoing thrombolysis. Of 1441 patients who
+      entered the study, 565 (39.2%) had a history of HBP. The mean follow-up time was 
+      12 months and the main outcome measures were 6-week combined occurrence of death 
+      and severe congestive heart failure (CHF) and 1-year mortality. After 6-week of
+      treatment with zofenopril the relative risk of death or severe CHF was 0.60 (95% 
+      confidence interval [CI]: 0.45-0.81; 2P < .05) in the hypertensive group and 0.89
+      (0.74-1.08; 2P = .62) for normotensive patients, whereas the 1-year risk of death
+      was 0.61 (95% CI: 0.23,0.89; 2P < .05) and 0.77 (95% CI: 0.52-1.17; 2P = .22),
+      respectively. The 6-week prevalence of mild-to-moderate CHF was also
+      significantly reduced by zofenopril in the hypertensive population (14.1% v 9.4%;
+      2P < .05). The present data suggest that treatment with zofenopril started within
+      24 h of the onset of anterior AMI could be highly beneficial in patients with a
+      history of HBP.
+AD  - Department of Internal Medicine, University of Bologna, Italy.
+      claudio@med.unibo.it
+FAU - Borghi, C
+AU  - Borghi C
+FAU - Bacchelli, S
+AU  - Bacchelli S
+FAU - Esposti, D D
+AU  - Esposti DD
+FAU - Bignamini, A
+AU  - Bignamini A
+FAU - Magnani, B
+AU  - Magnani B
+FAU - Ambrosioni, E
+AU  - Ambrosioni E
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Am J Hypertens
+JT  - American journal of hypertension
+JID - 8803676
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 62571-86-2 (Captopril)
+RN  - 81872-10-8 (zofenopril)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Angiotensin-Converting Enzyme Inhibitors/*administration & dosage
+MH  - Blood Pressure/drug effects
+MH  - Captopril/administration & dosage/*analogs & derivatives
+MH  - Double-Blind Method
+MH  - Electrocardiography
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Heart Failure/epidemiology/etiology
+MH  - Humans
+MH  - Hypertension/*complications/drug therapy/physiopathology
+MH  - Incidence
+MH  - Italy/epidemiology
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/complications/*drug therapy/mortality/physiopathology
+MH  - Survival Rate
+MH  - Treatment Outcome
+MH  - Ventricular Function, Left/drug effects
+EDAT- 1999/07/20
+MHDA- 1999/07/20 00:01
+CRDT- 1999/07/20 00:00
+AID - S0895706199000424 [pii]
+PST - ppublish
+SO  - Am J Hypertens. 1999 Jul;12(7):665-72.
+
+PMID- 10406358
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990730
+DCOM- 19990730
+LR  - 20061115
+IS  - 0140-6736 (Print)
+IS  - 0140-6736 (Linking)
+VI  - 354
+IP  - 9172
+DP  - 1999 Jul 3
+TI  - Effect of ACE inhibitor trandolapril on life expectancy of patients with reduced 
+      left-ventricular function after acute myocardial infarction. TRACE Study Group.
+      Trandolapril Cardiac Evaluation.
+PG  - 9-12
+AB  - BACKGROUND: The survival benefit from the use of inhibitors of
+      angiotensin-converting enzyme (ACE) in patients with acute myocardial infarction 
+      is usually presented in terms of risk ratios and lives saved per 1000 people
+      treated. A more relevant way to present the extent of benefit would be in terms
+      of an increase in life expectancy, but this approach has not previously been
+      possible because of limited data on long-term outcome. We aimed to calculate the 
+      effect of trandolapril on life expectancy with follow-up data from the
+      Trandolapril Cardiac Evaluation (TRACE) Study. METHODS: The TRACE study
+      previously showed a significant survival benefit with trandolapril in patients
+      with reduced left-ventricular function after an acute myocardial infarction who
+      were treated for at least 2 years. We ascertained the survival status of all
+      patients in the TRACE study in June, 1998, at which time they had been followed
+      up for a minimum of 6 years. We estimated life expectancy as median lifetime,
+      which was the time for 50% of the patients to have died. Change in life
+      expectancy is expressed as change in median lifetime. Analysis was by intention
+      to treat. FINDINGS: The life expectancy of patients was 4.6 years for those given
+      placebo versus 6.2 years for those on trandolapril. Thus, for patients on
+      trandolapril, median lifetime was increased by 15.3 months or 27% (95% CI 7 to
+      51). Analysis of follow-up after the end of the study indicated no decrease of
+      this benefit during the course of double-blind treatment; continued use of
+      trandolapril was recommended at study closure. INTERPRETATION: In patients with
+      severely reduced left-ventricular function, long-term treatment with an ACE
+      inhibitor during the critical period after myocardial infarction is associated
+      with a substantial increase in life expectancy.
+AD  - Department of Cardiology, Gentofte University Hospital, Hellerup, Denmark.
+      ctp@heart.dk
+FAU - Torp-Pedersen, C
+AU  - Torp-Pedersen C
+FAU - Kober, L
+AU  - Kober L
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - Lancet
+JT  - Lancet
+JID - 2985213R
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Indoles)
+RN  - 87679-37-6 (trandolapril)
+SB  - AIM
+SB  - IM
+CIN - Lancet. 1999 Oct 30;354(9189):1564. PMID: 10551537
+CIN - Lancet. 1999 Oct 9;354(9186):1301-2. PMID: 10520662
+MH  - Adult
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme Inhibitors/adverse effects/*therapeutic use
+MH  - Cause of Death
+MH  - Denmark
+MH  - Double-Blind Method
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Indoles/adverse effects/*therapeutic use
+MH  - *Life Expectancy
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*drug therapy/mortality
+MH  - Survival Rate
+MH  - Treatment Outcome
+MH  - Ventricular Dysfunction, Left/*drug therapy/mortality
+MH  - Ventricular Function, Left/drug effects
+EDAT- 1999/07/16
+MHDA- 1999/07/16 00:01
+CRDT- 1999/07/16 00:00
+AID - S014067369809374X [pii]
+PST - ppublish
+SO  - Lancet. 1999 Jul 3;354(9172):9-12.
+
+PMID- 10399995
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990730
+DCOM- 19990730
+LR  - 20071115
+IS  - 0735-1097 (Print)
+IS  - 0735-1097 (Linking)
+VI  - 34
+IP  - 1
+DP  - 1999 Jul
+TI  - Effect of the angiotensin-converting enzyme inhibitor trandolapril on mortality
+      and morbidity in diabetic patients with left ventricular dysfunction after acute 
+      myocardial infarction. Trace Study Group.
+PG  - 83-9
+AB  - OBJECTIVES: This study evaluated the efficacy of long-term treatment with the
+      angiotensin-converting enzyme (ACE) inhibitor trandolapril in diabetic patients
+      with left ventricular dysfunction after acute myocardial infarction (AMI).
+      BACKGROUND: Patients with diabetes mellitus have a high mortality following AMI, 
+      probably due to a high risk of congestive heart failure and reinfarction. Because
+      ACE inhibition effectively reduces progression of heart failure, it could be
+      particularly beneficial in diabetic patients after AMI. METHODS: The study is a
+      retrospective analysis using data from the Trandolapril Cardiac Evaluation
+      (TRACE) study, which was a randomized, double-blind, placebo-controlled trial of 
+      trandolapril in 1,749 patients with AMI and ejection fraction < or =35%. The mean
+      follow-up time was 26 months. RESULTS: A history of diabetes was found in 237
+      (14%) of the 1,749 patients. Treatment with trandolapril resulted in a relative
+      risk (RR) of death from any cause for the diabetic group of 0.64 (95% confidence 
+      interval 0.45 to 0.91) versus 0.82 (0.69 to 0.97) for the nondiabetic group. In
+      the diabetic group, trandolapril reduced the risk of progression to severe heart 
+      failure markedly (RR, 0.38 [0.21 to 0.67]), and no significant reduction of this 
+      end point was found in the nondiabetic group. CONCLUSIONS: The ACE inhibition
+      after myocardial infarction complicated by left ventricular dysfunction appears
+      to be of considerable importance in patients with diabetes mellitus by saving
+      lives and substantially reducing the risk of progression to severe heart failure.
+AD  - Department of Cardiology and Endocrinology, Frederiksberg University Hospital,
+      Denmark. gustafsson@dadlnet.dk
+FAU - Gustafsson, I
+AU  - Gustafsson I
+FAU - Torp-Pedersen, C
+AU  - Torp-Pedersen C
+FAU - Kober, L
+AU  - Kober L
+FAU - Gustafsson, F
+AU  - Gustafsson F
+FAU - Hildebrandt, P
+AU  - Hildebrandt P
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Indoles)
+RN  - 87679-37-6 (trandolapril)
+SB  - AIM
+SB  - IM
+MH  - Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+MH  - *Diabetes Complications
+MH  - Disease Progression
+MH  - Humans
+MH  - Indoles/*therapeutic use
+MH  - Morbidity
+MH  - Myocardial Infarction/*complications/*mortality
+MH  - Randomized Controlled Trials as Topic
+MH  - Retrospective Studies
+MH  - Ventricular Dysfunction, Left/etiology/*mortality
+EDAT- 1999/07/10
+MHDA- 1999/07/10 00:01
+CRDT- 1999/07/10 00:00
+AID - S0735109799001461 [pii]
+PST - ppublish
+SO  - J Am Coll Cardiol. 1999 Jul;34(1):83-9.
+
+PMID- 10374374
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990727
+DCOM- 19990727
+LR  - 20041117
+IS  - 0366-6999 (Print)
+IS  - 0366-6999 (Linking)
+VI  - 111
+IP  - 2
+DP  - 1998 Feb
+TI  - Cardiac protection by long-term treatment with captopril in patients with acute
+      myocardial infarction.
+PG  - 139-41
+AB  - OBJECTIVES: To assess the effects of long-term angiotensin-converting enzyme
+      (ACE) inhibitor treatment with captopril on cardiac function in acute myocardial 
+      infarction (AMI). METHODS: One hundred and one patients with AMI who were
+      admitted to hospital within 72 hours of the onset of symptoms with no cardiogenic
+      shock were randomly allocated to captopril (n = 52; group I) and conventional
+      treatment (n = 49; group II). Left ventricular (LV) systolic performance and
+      diastolic transmitral flow velocity profiles were assessed by Doppler
+      echocardiography at admission (1.2 +/- 1.1 days), before discharge (27 +/- 10
+      days) and during follow-up (363 +/- 31 days). RESULTS: At one year follow-up, in 
+      group I LV end-diastolic volume decreased, and ejection fraction increased due to
+      a disproportionate decrease in end-systolic volume. The incidence of cardiac
+      dilatation was reduced. LV early diastolic filling velocity (E) increased and
+      late atrial filling velocity (A) decreased, resulting in an elevation of E/A
+      ratio. However, the mean values of LV systolic and diastolic functional
+      parameters were unchanged in group II. CONCLUSIONS: Long-term treatment with
+      captopril exerts a beneficial effect on cardiac protection for patients with AMI.
+AD  - Department of Cardiology, Rui Jin Hospital, Shanghai Second Medical University,
+      China.
+FAU - Shen, W
+AU  - Shen W
+FAU - Li, M
+AU  - Li M
+FAU - Hu, H
+AU  - Hu H
+FAU - Zhang, X
+AU  - Zhang X
+FAU - Gong, L
+AU  - Gong L
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - CHINA
+TA  - Chin Med J (Engl)
+JT  - Chinese medical journal
+JID - 7513795
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 62571-86-2 (Captopril)
+SB  - IM
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme Inhibitors/administration & dosage/*therapeutic use
+MH  - Captopril/administration & dosage/*therapeutic use
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Myocardial Infarction/*drug therapy/physiopathology
+MH  - Prospective Studies
+MH  - Ventricular Function, Left/drug effects
+EDAT- 1999/06/22
+MHDA- 1999/06/22 00:01
+CRDT- 1999/06/22 00:00
+PST - ppublish
+SO  - Chin Med J (Engl). 1998 Feb;111(2):139-41.
+
+PMID- 10080457
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990330
+DCOM- 19990330
+LR  - 20071115
+IS  - 0735-1097 (Print)
+IS  - 0735-1097 (Linking)
+VI  - 33
+IP  - 3
+DP  - 1999 Mar
+TI  - Effect of angiotensin converting enzyme inhibition on sudden cardiac death in
+      patients following acute myocardial infarction. A meta-analysis of randomized
+      clinical trials.
+PG  - 598-604
+AB  - Estimate the effect of angiotensin converting enzyme (ACE) inhibitors on the risk
+      of sudden cardiac death (SCD) following myocardial infarction (MI). BACKGROUND:
+      Trials in post-MI patients have shown that ACE inhibitor therapy reduces
+      mortality. However, the effect on SCD as a mechanism has not been clarified.
+      METHODS: Trials of ACE inhibitor therapy following MI reported between January,
+      1978 and August, 1997 were identified. Studies were included if they met the
+      following criteria: 1) randomized comparison of ACE inhibitor to placebo within
+      14 days of MI; 2) study duration/blinded follow-up of > or =6 weeks; 3) the
+      number of deaths and modes of death were reported or could be obtained from the
+      investigators. RESULTS: We identified 374 candidate articles, of which 15 met the
+      inclusion criteria. The 15 trials included 15,104 patients, 2,356 of whom died.
+      Most (87%) fatalities were cardiovascular and 900 were SCDs. A significant
+      reduction in SCD risk or a trend towards this was observed in all of the larger
+      (N > 500) trials. Overall, ACE inhibitor therapy resulted in significant
+      reductions in risk of death (random effects odds ratio [OR] = 0.83; 95%
+      confidence interval [CI] 0.71-0.97), cardiovascular death (OR = 0.82; 95% CI
+      0.69-0.97) and SCD (OR = 0.80; 95% CI 0.70-0.92). CONCLUSIONS: This analysis is
+      consistent with prior reports showing that ACE inhibitors decrease the risk of
+      death following a recent MI by reducing cardiovascular mortality. Moreover, this 
+      analysis suggests that a reduction in SCD risk with ACE inhibitors is an
+      important component of this survival benefit.
+AD  - Clinical Trials Group, National Heart, Lung and Blood Institute, Bethesda,
+      Maryland 20892, USA. Domanskm@gwgate.nhlbi.nih.gov
+FAU - Domanski, M J
+AU  - Domanski MJ
+FAU - Exner, D V
+AU  - Exner DV
+FAU - Borkowf, C B
+AU  - Borkowf CB
+FAU - Geller, N L
+AU  - Geller NL
+FAU - Rosenberg, Y
+AU  - Rosenberg Y
+FAU - Pfeffer, M A
+AU  - Pfeffer MA
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - EC 3.4.15.1 (Peptidyl-Dipeptidase A)
+SB  - AIM
+SB  - IM
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+MH  - *Death, Sudden, Cardiac
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*drug therapy/enzymology/mortality
+MH  - Odds Ratio
+MH  - Peptidyl-Dipeptidase A/blood/*drug effects
+MH  - *Randomized Controlled Trials as Topic
+MH  - Recurrence
+MH  - Retrospective Studies
+MH  - Survival Rate
+MH  - Treatment Outcome
+EDAT- 1999/03/18
+MHDA- 1999/03/18 00:01
+CRDT- 1999/03/18 00:00
+AID - S0735-1097(98)00609-3 [pii]
+PST - ppublish
+SO  - J Am Coll Cardiol. 1999 Mar;33(3):598-604.
+
+PMID- 9778071
+OWN - NLM
+STAT- MEDLINE
+DA  - 19981104
+DCOM- 19981104
+LR  - 20071115
+IS  - 0002-8703 (Print)
+IS  - 0002-8703 (Linking)
+VI  - 136
+IP  - 4 Pt 1
+DP  - 1998 Oct
+TI  - Differential effects of fosinopril and enalapril in patients with mild to
+      moderate chronic heart failure. Fosinopril in Heart Failure Study Investigators.
+PG  - 672-80
+AB  - OBJECTIVES: To investigate the efficacy and safety of fosinopril in the treatment
+      of chronic heart failure (CHF), patients with mild to moderate CHF and left
+      ventricular ejection fractions <40% were randomly assigned in a double-blind
+      manner to receive fosinopril 5 to 20 mg every day (n = 122) or enalapril 5 to 20 
+      mg every day (n = 132) for 1 year. RESULTS: The event-free survival time was
+      longer (1.6 vs 1.0 months, P= .032) and the total rate of hospitalizations plus
+      deaths was smaller with fosinopril than with enalapril (19.7% vs 25.0%, P= .028).
+      There was consistently better symptom improvement with fosinopril (P< .05). The
+      incidence of orthostatic hypotension was lower in the fosinopril group (1.6% vs
+      7.6%, P< .05). CONCLUSIONS: Fosinopril 5 to 20 mg every day was more effective in
+      improving symptoms and delaying events related to worsening of CHF and produced
+      less orthostatic hypotension than enalapril 5 to 20 mg every day.
+AD  - Department of Cardiology, Centre d'Investigation Clinique INSERM-CHU, University 
+      Henri Poincare, Nancy, France. cic@chu-nancy.fr
+FAU - Zannad, F
+AU  - Zannad F
+FAU - Chati, Z
+AU  - Chati Z
+FAU - Guest, M
+AU  - Guest M
+FAU - Plat, F
+AU  - Plat F
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - Am Heart J
+JT  - American heart journal
+JID - 0370465
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 75847-73-3 (Enalapril)
+RN  - 98048-97-6 (Fosinopril)
+SB  - AIM
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Angiotensin-Converting Enzyme Inhibitors/administration & dosage/adverse
+      effects/*therapeutic use
+MH  - Chronic Disease
+MH  - Disease-Free Survival
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Enalapril/administration & dosage/adverse effects/*therapeutic use
+MH  - Female
+MH  - Fosinopril/administration & dosage/adverse effects/*therapeutic use
+MH  - France
+MH  - Heart Failure/*drug therapy
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Treatment Outcome
+EDAT- 1998/10/20
+MHDA- 1998/10/20 00:01
+CRDT- 1998/10/20 00:00
+AID - S0002870398000738 [pii]
+PST - ppublish
+SO  - Am Heart J. 1998 Oct;136(4 Pt 1):672-80.
+
+PMID- 9772413
+OWN - NLM
+STAT- MEDLINE
+DA  - 19981027
+DCOM- 19981027
+LR  - 20041117
+IS  - 0366-6999 (Print)
+IS  - 0366-6999 (Linking)
+VI  - 110
+IP  - 11
+DP  - 1997 Nov
+TI  - Oral captopril versus placebo among 14,962 patients with suspected acute
+      myocardial infarction: a multicenter, randomized, double-blind, placebo
+      controlled clinical trial. Chinese Cardiac Study (CCS-1) Collaborative Group.
+PG  - 834-8
+AB  - OBJECTIVE: To assess the efficacy of captopril on mortality and morbidity after
+      acute myocardial infarction (AMI). METHODS: A total of 14,962 patients entering
+      650 hospitals from 30 provinces and autonomous regions of China up to 36 hours
+      (mean 16.6 +/- 10.2 hours) after the onset of suspected acute myocardial
+      infarction (MI) with no clear contraindications or indications to the study
+      treatments (in particular, no persistent hypotension or hypovolemia due to
+      long-term use of large dose of diuretics) were randomized to use either 4 weeks
+      of oral captopril (6.25 mg initial dose, 12.5 mg 2 hours later, and then 12.5 mg 
+      three times daily) or matching placebo. RESULTS: Captopril was associated with a 
+      non-significant reduction in 4-week mortality (9.12% vs 9.74%; P = 0.20); but
+      incidence of heart failure was significantly reduced among captopril group (17.0%
+      vs 18.7%; P = 0.01). The combined end point (death + heart failure) was 1680
+      (21.5%) in captopril group and 1733 (23.1%) in placebo group (P = 0.02). Anterior
+      wall infarction of captopril treated group was found to have lower mortality
+      (8.6% vs 10.2%, P = 0.02). Captopril treated group with a heart rate (HR) > or = 
+      60/min at entry showed significantly lower mortality than placebo group (9.2% vs 
+      10.7%; P = 0.01). There was a significant excess of hypotension, mostly after the
+      start of treatment, but no evidence of any adverse effect on early mortality.
+      CONCLUSIONS: The angiotensin converting enzyme inhibitors (CEI) therapy started
+      early in acute MI prevents about 6 deaths per 1000 treated, and about 15 deaths
+      due to heart failure per 1000 in the 1st 4 weeks with greater benefits. In
+      anterior myocardial infarction group it prevents 16 deaths per 1000 with nearly
+      no benefit for the inferior infarction group. Due to the parasympathetic mimic
+      effect, CEI should be used carefully in inferior infarction patients especially
+      when HR is slow or heart block and hypotension are present.
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - CHINA
+TA  - Chin Med J (Engl)
+JT  - Chinese medical journal
+JID - 7513795
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 62571-86-2 (Captopril)
+SB  - IM
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+MH  - Captopril/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Heart Rate
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*drug therapy/mortality
+EDAT- 1998/10/17
+MHDA- 1998/10/17 00:01
+CRDT- 1998/10/17 00:00
+PST - ppublish
+SO  - Chin Med J (Engl). 1997 Nov;110(11):834-8.
+
+PMID- 9704681
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980819
+DCOM- 19980819
+LR  - 20071115
+IS  - 0002-8703 (Print)
+IS  - 0002-8703 (Linking)
+VI  - 136
+IP  - 2
+DP  - 1998 Aug
+TI  - Short- and long-term effects of early fosinopril administration in patients with 
+      acute anterior myocardial infarction undergoing intravenous thrombolysis: results
+      from the Fosinopril in Acute Myocardial Infarction Study. FAMIS Working Party.
+PG  - 213-25
+AB  - BACKGROUND: Angiotensin-converting enzyme inhibitors are used in patients who
+      have myocardial infarction with left ventricular (LV) dysfunction. Few data are
+      available in patients whose LV function is within the normal range. METHODS AND
+      RESULTS: The Fosinopril in Acute Myocardial Infarction Study was a 2-year,
+      randomized, double-blind, placebo-controlled, multicenter study of 285 patients
+      with anterior acute myocardial infarction and was designed to investigate the
+      effects of the early (<9 hours) administration of fosinopril and thrombolysis on 
+      (1) changes in echocardiographically evaluated LV volumes at 3 months and (2)
+      long-term occurrence of death and congestive heart failure. LV volumes were
+      normal at baseline in more than 70% of patients and were comparable between
+      groups both at baseline and after 3 months of treatment. Fosinopril-treated
+      patients showed a 30% reduction in the 2-year combined prevalence of death or
+      moderate-to-severe congestive heart failure (New York Heart Association class
+      III-IV) despite having a worse clinical profile at baseline. The benefit of
+      fosinopril was confirmed both in patients without congestive heart failure at
+      admission and in those with ejection fraction >40% at baseline. Moreover, the
+      incidence of significant ventricular arrhythmias was lower in the fosinopril
+      group (0.8% vs 6.0%, p < 0.02). CONCLUSIONS: The results of the Fosinopril in
+      Acute Myocardial Infarction Study suggest that early treatment with fosinopril
+      can benefit patients with acute myocardial infarction in addition to a prevention
+      of LV remodeling.
+AD  - Department of Internal Medicine, University of Bologna, Italy.
+FAU - Borghi, C
+AU  - Borghi C
+FAU - Marino, P
+AU  - Marino P
+FAU - Zardini, P
+AU  - Zardini P
+FAU - Magnani, B
+AU  - Magnani B
+FAU - Collatina, S
+AU  - Collatina S
+FAU - Ambrosioni, E
+AU  - Ambrosioni E
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - Am Heart J
+JT  - American heart journal
+JID - 0370465
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 98048-97-6 (Fosinopril)
+RN  - EC 3.4.21.68 (Tissue Plasminogen Activator)
+SB  - AIM
+SB  - IM
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme Inhibitors/*administration & dosage/adverse effects
+MH  - Cause of Death
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Echocardiography/drug effects
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Fosinopril/*administration & dosage/adverse effects
+MH  - Heart Failure/drug therapy/mortality/ultrasonography
+MH  - Humans
+MH  - Middle Aged
+MH  - Myocardial Infarction/*drug therapy/mortality/ultrasonography
+MH  - Stroke Volume/drug effects
+MH  - Survival Rate
+MH  - *Thrombolytic Therapy
+MH  - Tissue Plasminogen Activator/administration & dosage
+EDAT- 1998/08/15
+MHDA- 1998/08/15 00:01
+CRDT- 1998/08/15 00:00
+AID - S0002870398001483 [pii]
+PST - ppublish
+SO  - Am Heart J. 1998 Aug;136(2):213-25.
+
+PMID- 9416888
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980122
+DCOM- 19980122
+LR  - 20061115
+IS  - 0009-7322 (Print)
+IS  - 0009-7322 (Linking)
+VI  - 96
+IP  - 12
+DP  - 1997 Dec 16
+TI  - Effect of the ACE inhibitor lisinopril on mortality in diabetic patients with
+      acute myocardial infarction: data from the GISSI-3 study.
+PG  - 4239-45
+AB  - BACKGROUND: Mortality of diabetic patients with acute myocardial infarction (MI) 
+      remains high despite recent improvement in their management. There is a need to
+      evaluate efficacy and safety of novel treatments of MI in this high-risk
+      population. We evaluated whether treatment with an ACE inhibitor begun within 24 
+      hours from the onset of symptoms is able to decrease mortality and morbidity of
+      diabetic patients with acute MI. METHODS AND RESULTS: A retrospective analysis of
+      the data of the GISSI-3 study in patients with and without a history of diabetes 
+      was performed. Patients with suspected acute MI were randomized to treatment with
+      lisinopril (2.5 to 5 up to 10 mg/d) with or without nitroglycerin (5 to 20 microg
+      I.V. then 10 mg/d) begun within 24 hours and continued for 6 weeks. The main end 
+      point was mortality at 6 weeks, and the secondary end point was a combined
+      evaluation of mortality and severe left ventricular dysfunction. Information on
+      diabetic status was available for 18,131 patients (approximately 94% of the total
+      population enrolled), of whom 2790 patients had a history of diabetes. Treatment 
+      with lisinopril was associated with a decreased 6-week mortality in diabetic
+      patients (8.7% versus 12.4%; OR, 0.68; 95% CI, 0.53 to 0.86; 37+/-12 lives saved 
+      per 1000 treated patients), an effect that was significantly (P<.025) higher than
+      that observed in nondiabetic patients. The survival benefit in diabetics was
+      mostly maintained at 6 months despite withdrawal from treatment at 6 weeks (12.9%
+      versus 16.1%; OR, 0.77; 95% CI, 0.62 to 0.95). CONCLUSIONS: Early treatment with 
+      the ACE inhibitor lisinopril in diabetic patients with acute MI is associated
+      with a decreased 6-week mortality. This beneficial effect supports a widespread
+      and early use of ACE inhibitors in diabetic patients with acute MI. The burden of
+      mortality plus morbidity for ventricular dysfunction in diabetics remains
+      clinically important and warrants further testing of novel therapeutic
+      approaches.
+AD  - Istituto Mario Negri, Milano, Italy. zuanetti@irfmn.mnegri.it
+FAU - Zuanetti, G
+AU  - Zuanetti G
+FAU - Latini, R
+AU  - Latini R
+FAU - Maggioni, A P
+AU  - Maggioni AP
+FAU - Franzosi, M
+AU  - Franzosi M
+FAU - Santoro, L
+AU  - Santoro L
+FAU - Tognoni, G
+AU  - Tognoni G
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Vasodilator Agents)
+RN  - 55-63-0 (Nitroglycerin)
+RN  - 83915-83-7 (Lisinopril)
+SB  - AIM
+SB  - IM
+CIN - Circulation. 1998 Jan 6-13;97(1):12-5. PMID: 9443424
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme Inhibitors/adverse effects/*therapeutic use
+MH  - *Diabetes Complications
+MH  - Female
+MH  - Humans
+MH  - Lisinopril/adverse effects/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*drug therapy/*mortality
+MH  - Nitroglycerin/therapeutic use
+MH  - Retrospective Studies
+MH  - Survival Analysis
+MH  - Vasodilator Agents/therapeutic use
+EDAT- 1998/01/07
+MHDA- 1998/01/07 00:01
+CRDT- 1998/01/07 00:00
+PST - ppublish
+SO  - Circulation. 1997 Dec 16;96(12):4239-45.
+
+PMID- 9396419
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980109
+DCOM- 19980109
+LR  - 20041117
+IS  - 0009-7322 (Print)
+IS  - 0009-7322 (Linking)
+VI  - 96
+IP  - 10
+DP  - 1997 Nov 18
+TI  - Cardiovascular death and left ventricular remodeling two years after myocardial
+      infarction: baseline predictors and impact of long-term use of captopril:
+      information from the Survival and Ventricular Enlargement (SAVE) trial.
+PG  - 3294-9
+AB  - BACKGROUND: We quantified cardiovascular death and/or left ventricular (LV)
+      dilatation in patients from the SAVE trial to determine whether dilatation
+      continued beyond 1 year, whether ACE inhibitor therapy attenuated late LV
+      dilatation, and whether any baseline descriptors predicted late dilatation.
+      METHODS AND RESULTS: Two-dimensional echocardiograms were obtained in 512
+      patients at 11+/-3 days and 1 and 2 years postinfarction to assess LV size,
+      percentage of the LV that was akinetic/dyskinetic (%AD), and LV shape index. LV
+      function was assessed by radionuclide ejection fraction. Two hundred sixty-three 
+      patients (51.4%) sustained cardiovascular death and/or LV diastolic dilatation;
+      279 (54.5%) had cardiovascular death and/or systolic dilatation. In 373 patients 
+      with serial echocardiograms, LV end-diastolic and end-systolic sizes increased
+      progressively from baseline to 2 years (both P<.01). More patients with LV
+      dilatation had a decrease in ejection fraction: 24.8% versus 6.8% (P<.001)
+      (diastole) and 25.7% versus 5.3% (P<.001) (systole). Captopril attenuated
+      diastolic LV dilatation at 2 years (P=.048), but this effect was carried over
+      from the first year of therapy because changes in LV size with captopril beyond 1
+      year were similar to those with placebo. Predictors of cardiovascular death
+      and/or dilatation were age (P=.023), prior infarction (P<.001), lower ejection
+      fraction (P<.001), angina (P=.007), heart failure (P=.002), LV size (P<.001), and
+      infarct size (%AD) (P<.001). CONCLUSIONS: Cardiovascular death and/or LV
+      dilatation occurred in >50% of patients by 2 years. LV dilatation is progressive,
+      associated with chamber distortion and deteriorating function that is unaffected 
+      by captopril beyond 1 year.
+AD  - Brigham and Women's Hospital, Harvard Medical School, Boston, Mass, USA.
+FAU - St John Sutton, M
+AU  - St John Sutton M
+FAU - Pfeffer, M A
+AU  - Pfeffer MA
+FAU - Moye, L
+AU  - Moye L
+FAU - Plappert, T
+AU  - Plappert T
+FAU - Rouleau, J L
+AU  - Rouleau JL
+FAU - Lamas, G
+AU  - Lamas G
+FAU - Rouleau, J
+AU  - Rouleau J
+FAU - Parker, J O
+AU  - Parker JO
+FAU - Arnold, M O
+AU  - Arnold MO
+FAU - Sussex, B
+AU  - Sussex B
+FAU - Braunwald, E
+AU  - Braunwald E
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+RN  - 62571-86-2 (Captopril)
+SB  - AIM
+SB  - IM
+MH  - Captopril/*therapeutic use
+MH  - Cardiovascular Diseases/*etiology/*mortality
+MH  - Echocardiography
+MH  - Forecasting
+MH  - Humans
+MH  - Myocardial Infarction/*complications/drug therapy/*physiopathology
+MH  - Survival Analysis
+MH  - Time Factors
+MH  - Ventricular Function, Left/*physiology
+EDAT- 1997/12/13
+MHDA- 1997/12/13 00:01
+CRDT- 1997/12/13 00:00
+PST - ppublish
+SO  - Circulation. 1997 Nov 18;96(10):3294-9.
+
+PMID- 9247511
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970825
+DCOM- 19970825
+LR  - 20061115
+IS  - 0735-1097 (Print)
+IS  - 0735-1097 (Linking)
+VI  - 30
+IP  - 2
+DP  - 1997 Aug
+TI  - Long-term anti-ischemic effects of angiotensin-converting enzyme inhibition in
+      patients after myocardial infarction. The Captopril and Thrombolysis Study (CATS)
+      Investigators.
+PG  - 400-5
+AB  - OBJECTIVES: This study was conducted to test the hypothesis that
+      angiotensin-converting enzyme (ACE) inhibition reduces myocardial ischemia and
+      related events after myocardial infarction (MI). BACKGROUND: The oxygen
+      demand/supply ratio of the myocardium is influenced by angiotensin II as a result
+      of its arterial vasoconstrictive and inotropic effects and through its
+      interaction with the sympathetic nervous system. METHODS: We studied 244 patients
+      who had been included in a double-blind, randomized, placebo-controlled, post-MI,
+      ACE inhibition intervention study (Captopril and Thrombolysis Study [CATS]). All 
+      patients underwent exercise testing before and 3 and 12 months after hospital
+      discharge. After 1-year double-blind treatment, all patients continued receiving 
+      single-blind placebo for 1 month. RESULTS: Total exercise time increased in both 
+      groups after 3 months (placebo: +86 +/- 13 s; captopril: +69 +/- 12 s, p = 0.8
+      between groups) and increased further after 1 year (placebo: +13 +/- 11 s;
+      captopril: +33 +/- 13 s, p = 0.7 between groups). There were also no differences 
+      in mean ST segment depression. During the 12 months, significantly fewer
+      ischemia-related events occurred in the captopril group (82 vs. 52, p = 0.015).
+      This difference was found between 3 and 12 months but not during the first 3
+      months. After withdrawal from double-blind medication, nine ischemic events were 
+      reported in teh captopril group compared with one in the placebo group (p = 0.006
+      between groups). CONCLUSIONS: The present data show that captopril may reduce the
+      incidence of ischemia-related events after MI, which becomes apparent after 3
+      months. However, no anti-ischemic effect was observed during exercise testing.
+      After withdrawal from ACE inhibition, a high incidence of clinical events
+      occurred, suggesting a rebound phenomenon.
+AD  - Department of Cardiology/Thoraxcenter, University Hospital Groningen, The
+      Netherlands.
+FAU - van den Heuvel, A F
+AU  - van den Heuvel AF
+FAU - van Gilst, W H
+AU  - van Gilst WH
+FAU - van Veldhuisen, D J
+AU  - van Veldhuisen DJ
+FAU - de Vries, R J
+AU  - de Vries RJ
+FAU - Dunselman, P H
+AU  - Dunselman PH
+FAU - Kingma, J H
+AU  - Kingma JH
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 62571-86-2 (Captopril)
+SB  - AIM
+SB  - IM
+MH  - Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+MH  - Captopril/*therapeutic use
+MH  - Double-Blind Method
+MH  - Exercise Tolerance
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*drug therapy/physiopathology
+MH  - Myocardial Ischemia/*prevention & control
+MH  - Substance Withdrawal Syndrome
+EDAT- 1997/08/01
+MHDA- 1997/08/01 00:01
+CRDT- 1997/08/01 00:00
+AID - S0735109797001836 [pii]
+PST - ppublish
+SO  - J Am Coll Cardiol. 1997 Aug;30(2):400-5.
+
+PMID- 10423609
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000713
+DCOM- 20000713
+LR  - 20071115
+IS  - 1075-2765 (Print)
+IS  - 1075-2765 (Linking)
+VI  - 4
+IP  - 5-6
+DP  - 1997 May-Jun
+TI  - Quinapril in patients with congestive heart failure: controlled trial versus
+      captopril.
+PG  - 181-8
+AB  - After two weeks of a wash-out run-in period with placebo, 131 patients with
+      congestive heart failure (New York Heart Association [NYHA] class II to III) and 
+      left ventricular ejection fraction </=40% were randomly assigned to a treatment
+      period of 4 weeks with 10 mg quinapril once daily or 12.5 mg captopril twice
+      daily. At the end of this period, doses were titrated to 20 mg quinapril once
+      daily or 25 mg captopril twice daily on the basis of physician judgment if there 
+      were no major adverse reactions and if blood pressure was not below 110/70 mm Hg.
+      Clinical symptoms of heart failure were significantly relieved by both drugs at
+      the end of a 12-week treatment period. At the beginning of the study, 23 (35%) of
+      the 65 patients taking quinapril and 27 (41%) of the 66 patients taking captopril
+      were in NYHA functional class III, whereas, at the end of the trial, only 4 (6%) 
+      of the patients in the quinapril group and 14 (22%; p < 0.05 versus quinapril)
+      patients in the captopril group were classified as NYHA class III. Both drugs had
+      a positive effect on echocardiographic parameters. There was a statistically
+      significant increase in exercise duration in both treatment groups (quinapril,
+      6.2 +/- 1.8 versus 7.8 +/- 1.9 minutes, p < 0.001; captopril, 5.9 +/- 1.9 versus 
+      7.1 +/- 2.3 minutes, p < 0.001). One patient in the quinapril group died suddenly
+      during the study and two patients in the captopril group dropped out of the study
+      due to persistent dry cough. No patient in the quinapril group reported side
+      effects. Three patients in the captopril group suffered from moderate dry cough, 
+      one from taste-blindness, and another from unstable angina. The safety of the
+      tested drugs was confirmed by laboratory tests. Quinapril was as effective as
+      captopril in reducing signs and symptoms of heart failure and in improving the
+      left ventricular function and the exercise capacity with few side effects.
+AD  - Division of Cardiology, Rehabilitation Institute of Campoli del Monte Taburno,
+      Italy.
+FAU - Acanfora, D
+AU  - Acanfora D
+FAU - Furgi, G
+AU  - Furgi G
+FAU - Trojano, L
+AU  - Trojano L
+FAU - Picone, C
+AU  - Picone C
+FAU - Iannuzzi, G L
+AU  - Iannuzzi GL
+FAU - Rossi, M
+AU  - Rossi M
+FAU - Papa, A
+AU  - Papa A
+FAU - Rengo, C
+AU  - Rengo C
+FAU - Rengo, F
+AU  - Rengo F
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - Am J Ther
+JT  - American journal of therapeutics
+JID - 9441347
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Isoquinolines)
+RN  - 0 (Tetrahydroisoquinolines)
+RN  - 62571-86-2 (Captopril)
+RN  - 82586-55-8 (quinapril)
+SB  - IM
+MH  - Angiotensin-Converting Enzyme Inhibitors/adverse effects/*therapeutic use
+MH  - Blood Pressure/drug effects
+MH  - Body Weight/drug effects
+MH  - Captopril/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Echocardiography, Doppler
+MH  - Exercise Test
+MH  - Female
+MH  - Heart Failure/*drug therapy/physiopathology/ultrasonography
+MH  - Heart Rate/drug effects
+MH  - Humans
+MH  - Isoquinolines/adverse effects/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - *Tetrahydroisoquinolines
+MH  - Ventricular Function, Left/drug effects
+EDAT- 1997/05/01 00:00
+MHDA- 2000/07/15 11:00
+CRDT- 1997/05/01 00:00
+PST - ppublish
+SO  - Am J Ther. 1997 May-Jun;4(5-6):181-8.
+
+PMID- 9049514
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970522
+DCOM- 19970522
+LR  - 20071115
+IS  - 0195-668X (Print)
+IS  - 0195-668X (Linking)
+VI  - 18
+IP  - 1
+DP  - 1997 Jan
+TI  - Effect of ramipril on morbidity and mode of death among survivors of acute
+      myocardial infarction with clinical evidence of heart failure. A report from the 
+      AIRE Study Investigators.
+PG  - 41-51
+AB  - BACKGROUND: The importance of the effects of ACE inhibitors on sudden death,
+      progressive heart failure and recurrent infarction to the reduction in overall
+      mortality in heart failure and after myocardial infarction is disputed. METHODS: 
+      The AIRE study randomized 2006 patients with clinical or radiological evidence of
+      heart failure within 2-9 days of a myocardial infarction to receive ramipiril 5
+      mg b.d. or matching placebo. Outcomes were assessed independently by members of
+      an end-points committee blinded to treatment allocation. RESULTS: Fewer patients 
+      developed severe resistant heart failure as their first validated end-point on
+      rampril, despite the greater number of at-risk survivors, compared to placebo (n 
+      = 143 vs 178; risk reduction 23%; CI 5 to 39%; P = 0.017). Ramipril did not alter
+      the rate of reinfarction or stroke. Irrespective of treatment allocation 182
+      (46%) patients developed resistant heart failure prior to death. A validated
+      acute or remote myocardial reinfarction occurred in 76 (19%) patients prior to
+      death and chest pain occurred in 90 (23%) patients around the time of death
+      suggesting an ischaemic element to these deaths Eighty deaths occurred on the
+      index admission, 167 during re-admission and 145 out-of-hospital. Sudden death
+      accounted for 54% of all deaths and 93% of out-of-hospital deaths. Ramipril
+      reduced the risk of sudden death by 30% (95% CI: 8-47%; P = 0.011). However,
+      overall, 45% of those patients who died suddenly had severe or worsening heart
+      failure prior to their death. Only 39% of sudden deaths were considered to be due
+      to arrhythmias. Ramipril reduced the risk of death from circulatory failure by
+      18%, but this did not reach statistical significance (95% CI; 41 to -14%; P =
+      0.237). The magnitude of the effects on sudden death and death due to circulatory
+      failure were not significantly different. However, 38% of the reduction in
+      overall mortality was from the subgroup with sudden death who had developed prior
+      severe resistant heart failure (placebo n = 35, ramipril n = 15), again
+      emphasizing the marked benefit in preventing failure. Ramipril did not
+      selectively alter the proportion of in- to out-of-hospital deaths. CONCLUSION:
+      Ramipril reduces mortality and progression to resistant heart failure among
+      patients with evidence of heart failure early after myocardial infarction.
+      Retarding the progression of heart failure appears to be a major factor
+      contributing to the reduction in mortality both by reducing circulatory failure
+      and by reducing sudden death.
+AD  - Medical Research Council Research Initiative in Heart Failure, University of
+      Glasgow, Scotland, U.K.
+FAU - Cleland, J G
+AU  - Cleland JG
+FAU - Erhardt, L
+AU  - Erhardt L
+FAU - Murray, G
+AU  - Murray G
+FAU - Hall, A S
+AU  - Hall AS
+FAU - Ball, S G
+AU  - Ball SG
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - Eur Heart J
+JT  - European heart journal
+JID - 8006263
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 87333-19-5 (Ramipril)
+SB  - IM
+CIN - Eur Heart J. 1997 Jan;18(1):3-4. PMID: 9049504
+MH  - Adult
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme Inhibitors/adverse effects/*therapeutic use
+MH  - *Cause of Death
+MH  - Death, Sudden, Cardiac/epidemiology/*prevention & control
+MH  - Female
+MH  - Heart Failure/*drug therapy/mortality
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*drug therapy/mortality
+MH  - Ramipril/adverse effects/*therapeutic use
+MH  - Recurrence
+MH  - Survival Analysis
+MH  - Survival Rate
+MH  - Treatment Outcome
+EDAT- 1997/01/01
+MHDA- 1997/01/01 00:01
+CRDT- 1997/01/01 00:00
+PST - ppublish
+SO  - Eur Heart J. 1997 Jan;18(1):41-51.
+
+PMID- 9206057
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970724
+DCOM- 19970724
+LR  - 20081121
+IS  - 0366-6999 (Print)
+IS  - 0366-6999 (Linking)
+VI  - 109
+IP  - 8
+DP  - 1996 Aug
+TI  - Beneficial effects of captopril on prognosis in patients with acute myocardial
+      infarction. Shanghai Secondary Prevention of Acute Myocardial Infarction Study
+      Group.
+PG  - 588-91
+AB  - OBJECTIVES: To assess the effects of early and long-term angiotensin-converting
+      enzyme inhibitor treatment with captopril on clinical outcome in patients with
+      acute myocardial infarction (AMI). METHODS: Eight hundred and twenty-two patients
+      with AMI who were hospitalised within 72 hours of symptoms and had no cardiogenic
+      shock were randomly allocated to captopril (n = 478, Group I) and conventional
+      treatment (n = 344, Group II). Cardiac events including congestive heart failure,
+      reinfarction, severe arrhythmias and cardiac death during hospitalization and
+      follow-up period (average 20 months) were determined. RESULTS: The overall
+      mortality rate during hospitalization was lower in group I than in group II (P = 
+      0.0001), this was true for patients with anterior (P = 0.0003), inferior (P =
+      0.0411) and anterior inferior AMI (P = 0.0232). During follow-up, despite similar
+      occurrence rate of reinfarction and severe arrhythmias in the two groups, the
+      mortality rate (P = 0.0324) and total cardiac event rate (P = 0.055) were lower
+      in group I than in group II. CONCLUSIONS: After AMI, early and long-term
+      treatment with captopril exerts a beneficial effect on the prognosis of patients.
+AD  - Department of Cardiology, Rui Jin Hospital, Shanghai Second Medical University.
+FAU - Shen, W
+AU  - Shen W
+FAU - Li, M
+AU  - Li M
+FAU - Gong, L
+AU  - Gong L
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - CHINA
+TA  - Chin Med J (Engl)
+JT  - Chinese medical journal
+JID - 7513795
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 62571-86-2 (Captopril)
+RN  - EC 3.4.21.- (Plasminogen Activators)
+RN  - EC 3.4.21.73 (Urokinase-Type Plasminogen Activator)
+SB  - IM
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+MH  - Captopril/*therapeutic use
+MH  - Humans
+MH  - Myocardial Infarction/*drug therapy
+MH  - Plasminogen Activators/therapeutic use
+MH  - Prospective Studies
+MH  - Thrombolytic Therapy
+MH  - Urokinase-Type Plasminogen Activator/therapeutic use
+EDAT- 1996/08/01
+MHDA- 1996/08/01 00:01
+CRDT- 1996/08/01 00:00
+PST - ppublish
+SO  - Chin Med J (Engl). 1996 Aug;109(8):588-91.
+
+PMID- 8759812
+OWN - NLM
+STAT- MEDLINE
+DA  - 19960917
+DCOM- 19960917
+LR  - 20071115
+IS  - 0002-9149 (Print)
+IS  - 0002-9149 (Linking)
+VI  - 78
+IP  - 3
+DP  - 1996 Aug 1
+TI  - Effects of the early administration of zofenopril on onset and progression of
+      congestive heart failure in patients with anterior wall acute myocardial
+      infarction. The SMILE Study Investigators. Survival of Myocardial Infarction
+      Long-term Evaluation.
+PG  - 317-22
+AB  - Chronic congestive heart failure (CHF) is a common disease responsible for a high
+      mortality and morbidity whose clinical course can be improved by
+      angiotensin-converting-enzyme (ACE) inhibition. However, limited data are
+      available on the effects of ACE inhibitors on the onset and progression of CHF in
+      patients with acute myocardial infarction (AMI). The present study was performed 
+      as a substudy of the Survival of Myocardial Infarction Long-term Evaluation trial
+      and involved 1,146 patients with anterior wall AMI not undergoing thrombolysis
+      with the exclusion of patients with prior history or clinical signs of CHF on
+      admission. Patients were randomly allocated to treatment with zofenopril (7.5 to 
+      30 mg twice daily) or placebo for a cumulative period of 6 weeks. The prevalence 
+      of CHF, either mild to moderate or severe, has been the main objective and has
+      been evaluated 6 weeks and 1 year after AMI. The overall prevalence of CHF was
+      not reduced by zofenopril after both 6 weeks and 12 months. Conversely the
+      prevalence of severe CHF (1.6% vs 2.6%: risk reduction 55.5%; 95% confidence
+      interval 9 to 63; p = 0.0325) and the combined occurrence of death or severe CHF 
+      (4.8% vs 8.2%: risk reduction 59%; 95% confidence interval 11 to 71; p = 0.024)
+      were reduced after 6 weeks of treatment with zofenopril. Moreover, the percentage
+      of patients experiencing a deterioration to severe CHF after 1 year was
+      significantly reduced with zofenopril (11.0% vs 24.3%; p = 0.001). In conclusion,
+      the early administration of zofenopril to patients with AMI attenuates the
+      progression of the clinical symptoms of CHF and its clinical consequences,
+      suggesting that ACE inhibitors should be regarded as a suitable strategy for the 
+      prevention and treatment of CHF in patients with AMI.
+AD  - Department of Internal Medicine, University of Bologna, Italy.
+FAU - Borghi, C
+AU  - Borghi C
+FAU - Ambrosioni, E
+AU  - Ambrosioni E
+FAU - Magnani, B
+AU  - Magnani B
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Am J Cardiol
+JT  - The American journal of cardiology
+JID - 0207277
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 62571-86-2 (Captopril)
+RN  - 81872-10-8 (zofenopril)
+SB  - AIM
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+MH  - Captopril/*analogs & derivatives/therapeutic use
+MH  - Disease Progression
+MH  - Double-Blind Method
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Heart Failure/epidemiology/etiology/*prevention & control
+MH  - Humans
+MH  - Italy/epidemiology
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/complications/*drug therapy
+MH  - Prevalence
+MH  - Prospective Studies
+MH  - Time Factors
+EDAT- 1996/08/01
+MHDA- 1996/08/01 00:01
+CRDT- 1996/08/01 00:00
+AID - S0002914996002858 [pii]
+PST - ppublish
+SO  - Am J Cardiol. 1996 Aug 1;78(3):317-22.
+
+PMID- 8752803
+OWN - NLM
+STAT- MEDLINE
+DA  - 19961011
+DCOM- 19961011
+LR  - 20071115
+IS  - 0735-1097 (Print)
+IS  - 0735-1097 (Linking)
+VI  - 28
+IP  - 1
+DP  - 1996 Jul
+TI  - Which patient benefits from early angiotensin-converting enzyme inhibition after 
+      myocardial infarction? Results of one-year serial echocardiographic follow-up
+      from the Captopril and Thrombolysis Study (CATS).
+PG  - 114-21
+AB  - OBJECTIVES: In this study we sought to investigate the effect of intervention
+      with captopril within 6 h of the onset of myocardial infarction on left
+      ventricular volume and clinical symptoms of heart failure in relation to infarct 
+      size during a 1-year follow-up period. BACKGROUND: Remodeling of the heart starts
+      in the early phase of myocardial infarction and is associated with an adverse
+      prognosis. Angiotensin-converting enzyme inhibition started in the subacute or
+      late phase after myocardial infarction has been shown to improve prognosis.
+      METHODS: In the Captopril and Thrombolysis Study, 298 patients with a first
+      anterior myocardial infarction treated with intravenous streptokinase were
+      randomized to receive either oral captopril (25 mg three times a day) or placebo.
+      The left ventricular volume index was assessed by two-dimensional
+      echocardiography within 24 h, on days 3, 10 and 90 and after 1 year. RESULTS: A
+      small but significant increase in left ventricular volume indexes was observed
+      after 12 months. Using a random coefficient model, no significant treatment
+      effect on left ventricular volumes could be detected. In contrast, when survival 
+      models were used, the occurrence of left ventricular dilation was significatnly
+      lower in captopril-treated patients (p = 0.018). In addition, the incidence of
+      heart failure was lower in the captopril group (p < 0.03). This effect appeared
+      early and was most obvious in patients with a medium-sized infarct (p = 0.04) and
+      was not present in large infarcts. CONCLUSIONS: Very early treatment with
+      captopril after myocardial infarction significantly reduces the occurrence of
+      early dilation and the progression to heart failure. These data underscore the
+      importance of early treatment. Furthermore, patients with intermediate infarct
+      size benefit the most from this treatment strategy.
+AD  - CATS Coordination Center, St. Antonious Hospital, Nieuwegein, The Netherlands.
+FAU - van Gilst, W H
+AU  - van Gilst WH
+FAU - Kingma, J H
+AU  - Kingma JH
+FAU - Peels, K H
+AU  - Peels KH
+FAU - Dambrink, J H
+AU  - Dambrink JH
+FAU - St John Sutton, M
+AU  - St John Sutton M
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Fibrinolytic Agents)
+RN  - 62571-86-2 (Captopril)
+RN  - EC 3.4.- (Streptokinase)
+SB  - AIM
+SB  - IM
+MH  - Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+MH  - Captopril/*therapeutic use
+MH  - Double-Blind Method
+MH  - Echocardiography
+MH  - Female
+MH  - Fibrinolytic Agents/therapeutic use
+MH  - Follow-Up Studies
+MH  - Heart Failure/epidemiology
+MH  - Humans
+MH  - Hypertrophy, Left Ventricular/epidemiology/ultrasonography
+MH  - Incidence
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*drug therapy/epidemiology/*ultrasonography
+MH  - Streptokinase/therapeutic use
+MH  - Thrombolytic Therapy
+MH  - Time Factors
+MH  - Treatment Outcome
+EDAT- 1996/07/01
+MHDA- 1996/07/01 00:01
+CRDT- 1996/07/01 00:00
+AID - 0735109796001131 [pii]
+PST - ppublish
+SO  - J Am Coll Cardiol. 1996 Jul;28(1):114-21.
+
+PMID- 8701878
+OWN - NLM
+STAT- MEDLINE
+DA  - 19960903
+DCOM- 19960903
+LR  - 20061115
+IS  - 0002-8703 (Print)
+IS  - 0002-8703 (Linking)
+VI  - 132
+IP  - 1 Pt 1
+DP  - 1996 Jul
+TI  - Benefit of converting enzyme inhibition on left ventricular volumes and ejection 
+      fraction in patients receiving beta-blockade after myocardial infarction.
+      CONSENSUS II multiecho study group.
+PG  - 71-7
+AB  - Beta-blockers reduce infarct size and improve survival after acute myocardial
+      infarction (MI). Post-MI angiotensin-converting enzyme inhibition also improves
+      survival and may attenuate left ventricular (LV) dilatation. We evaluated the
+      effect of early enalapril treatment on LV volumes and ejection fraction (EF) in
+      patients on concomitant beta-blockade after MI. Intravenous enalaprilat or
+      placebo was administered <24 hours after MI and was continued orally for 6
+      months. LV volumes were assessed by echocardiography 3 +/- 2 days, 1 and 6 months
+      after MI. Change in LV diastolic volume during the first month was attenuated
+      with enalapril (2.7 vs placebo 6.5 ml/m2 change; p < 0.05), and significantly
+      lower LV diastolic and systolic volumes were observed with enalapril treatment
+      compared with placebo at 1 month (enalapril 47.21 23.9 vs placebo 53.1/29.2
+      ml/m2; p < 0.05) and at 6 months (enalapril 47.9/24.8 vs placebo 53.8/29.6 ml/m2;
+      p < 0.05). EF was also significantly higher 1 month after MI in these patients
+      (enalapril 50.4% vs placebo 46.4%; p < 0.05). Our date demonstrate that early
+      enalapril treatment attenuates LV volume expansion and maintains lower LV volumes
+      and higher EF in patients receiving concurrent beta-blockade after MI. A possible
+      additive effect of combined therapy should be evaluated prospectively.
+AD  - Cardiology Division, Department of Medicine, Central Hospital in Rogaland,
+      Stavanger, Norway.
+FAU - Bonarjee, V V
+AU  - Bonarjee VV
+FAU - Carstensen, S
+AU  - Carstensen S
+FAU - Caidahl, K
+AU  - Caidahl K
+FAU - Nilsen, D W
+AU  - Nilsen DW
+FAU - Edner, M
+AU  - Edner M
+FAU - Lindvall, K
+AU  - Lindvall K
+FAU - Snapinn, S M
+AU  - Snapinn SM
+FAU - Berning, J
+AU  - Berning J
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Am Heart J
+JT  - American heart journal
+JID - 0370465
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Placebos)
+RN  - 75847-73-3 (Enalapril)
+SB  - AIM
+SB  - IM
+MH  - Administration, Oral
+MH  - Adrenergic beta-Antagonists/administration & dosage/*therapeutic use
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme Inhibitors/administration & dosage/*therapeutic use
+MH  - Cardiac Volume/*drug effects
+MH  - Diastole
+MH  - Dilatation, Pathologic/prevention & control
+MH  - Double-Blind Method
+MH  - Enalapril/administration & dosage/*therapeutic use
+MH  - Female
+MH  - Heart Diseases/prevention & control
+MH  - Humans
+MH  - Injections, Intravenous
+MH  - Male
+MH  - Myocardial Infarction/*drug therapy/pathology/prevention & control
+MH  - Placebos
+MH  - Prospective Studies
+MH  - Stroke Volume/*drug effects
+MH  - Survival Rate
+MH  - Systole
+MH  - Ventricular Function, Left/*drug effects
+EDAT- 1996/07/01
+MHDA- 1996/07/01 00:01
+CRDT- 1996/07/01 00:00
+PST - ppublish
+SO  - Am Heart J. 1996 Jul;132(1 Pt 1):71-7.
+
+PMID- 8677862
+OWN - NLM
+STAT- MEDLINE
+DA  - 19960812
+DCOM- 19960812
+LR  - 20071115
+IS  - 0002-8703 (Print)
+IS  - 0002-8703 (Linking)
+VI  - 132
+IP  - 1 Pt 2 Su
+DP  - 1996 Jul
+TI  - Angiotensin-converting enzyme inhibition after myocardial infarction: the
+      Trandolapril Cardiac Evaluation Study.
+PG  - 235-43
+AB  - To study the importance of giving an angiotensin-converting enzyme (ACE)
+      inhibitor to patients with reduced systolic function after an infarction, the
+      Trandodolapril Cardiac Evaluation study was designed to include the majority of
+      patients with echocardiographic signs of left ventricular dysfunction among
+      consecutively screened patients with infarctions. A total of 2606 consecutive
+      patients with left ventricular systolic dysfunction corresponding to an ejection 
+      fraction < or = 35% were identified. Of these patients, 1749 (67%) were randomly 
+      assigned to receive oral trandolapril or placebo beginning on day 3 to 7 after
+      the infarction. The follow-up period was 2 to 4 years. Trandolapril reduced
+      all-cause mortality, with a relative risk reduction associated with trandolapril 
+      treatment of 0.78 (p = 0.0013). Benefit was seen within 1 month of treatment.
+      Trandolapril also reduced cardiovascular death (relative risk 0.75, p = 0.001),
+      sudden death (relative risk 0.76, p = 0.03), and progression to severe/ resistant
+      heart failure (relative risk 0.71, p = 0.003). Recurrent myocardial infarction
+      (fatal or nonfatal) was not significantly reduced (relative risk 0.86, p = 0.29).
+      More than 80% of patients in both treatment groups reached the target dose of 4
+      mg trandolapril or placebo at the end of dose titration. Nearly half of the
+      patients in both treatment groups discontinued taking study medication before
+      death or trial closure. The need for open-label ACE inhibition was the reason for
+      discontinuation for 48 and 75 patients in the trandolapril and placebo groups,
+      respectively. In conclusion, long-term treatment with trandolapril in patients
+      with reduced left ventricular function shortly after myocardial infarction
+      significantly reduced mortality and morbidity. Most patients received the target 
+      dose of 4 mg trandolapril daily. The benefit observed is likely to reflect the
+      benefit in clinical practice because the majority of eligible patients were
+      randomized and the difference in patients leaving the trial to receive open-label
+      ACE inhibition was moderate.
+AD  - Department of Cardiology, Gentofte University Hospital, Hellermp, Denmark.
+FAU - Torp-Pedersen, C
+AU  - Torp-Pedersen C
+FAU - Kober, L
+AU  - Kober L
+FAU - Carlsen, J
+AU  - Carlsen J
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - Am Heart J
+JT  - American heart journal
+JID - 0370465
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Antihypertensive Agents)
+RN  - 0 (Indoles)
+RN  - 87679-37-6 (trandolapril)
+SB  - AIM
+SB  - IM
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+MH  - Antihypertensive Agents/*therapeutic use
+MH  - Death, Sudden, Cardiac/etiology/prevention & control
+MH  - Double-Blind Method
+MH  - Europe
+MH  - Female
+MH  - Heart Failure/etiology/prevention & control
+MH  - Humans
+MH  - Indoles/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/complications/*drug therapy/mortality
+MH  - Ventricular Dysfunction, Left/etiology
+EDAT- 1996/07/01
+MHDA- 1996/07/01 00:01
+CRDT- 1996/07/01 00:00
+PST - ppublish
+SO  - Am Heart J. 1996 Jul;132(1 Pt 2 Su):235-43.
+
+PMID- 8579032
+OWN - NLM
+STAT- MEDLINE
+DA  - 19960311
+DCOM- 19960311
+LR  - 20071115
+IS  - 0002-8703 (Print)
+IS  - 0002-8703 (Linking)
+VI  - 131
+IP  - 2
+DP  - 1996 Feb
+TI  - Adverse effects of enalapril in the Studies of Left Ventricular Dysfunction
+      (SOLVD). SOLVD Investigators.
+PG  - 350-5
+AB  - In the Studies of Left Ventricular Dysfunction (LVD), enalapril or placebo was
+      administered in a double-blind fashion to 6797 participants with ejection
+      fraction < or = 0.35. During 40 months' average follow-up, 28.1% of participants 
+      randomized to enalapril reported side effects compared with 16.0% in the placebo 
+      group (p < 0.0001). Enalapril use was associated with a higher rate of symptoms
+      related to hypotension (14.8% vs 7.1%, p < 0.0001), azotemia (3.8% vs 1.6%, p <
+      0.0001), cough (5.0% vs 2.0%, p < 0.0001), fatigue (5.8% vs 3.5%, p < 0.0001),
+      hyperkalemia (1.2% vs 0.4%, p = 0.0002), and angioedema (0.4% vs 0.1%, p < 0.05).
+      Side effects resulted in discontinuation of blinded therapy in 15.2% of the
+      enalapril group compared with 8.6% in the placebo group (p < 0.0001). Thus
+      enalapril is well tolerated by patients with LVD; however, hypotension, azotemia,
+      cough, fatigue, and other side effects result in discontinuation of therapy in a 
+      significant minority of patients.
+AD  - University of Medicine and Dentistry of New Jersey-Robert Wood Johnson Medical
+      School, New Brunswick 08903-0019, USA.
+FAU - Kostis, J B
+AU  - Kostis JB
+FAU - Shelton, B
+AU  - Shelton B
+FAU - Gosselin, G
+AU  - Gosselin G
+FAU - Goulet, C
+AU  - Goulet C
+FAU - Hood, W B Jr
+AU  - Hood WB Jr
+FAU - Kohn, R M
+AU  - Kohn RM
+FAU - Kubo, S H
+AU  - Kubo SH
+FAU - Schron, E
+AU  - Schron E
+FAU - Weiss, M B
+AU  - Weiss MB
+FAU - Willis, P W 3rd
+AU  - Willis PW 3rd
+FAU - Young, J B
+AU  - Young JB
+FAU - Probstfield, J
+AU  - Probstfield J
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - UNITED STATES
+TA  - Am Heart J
+JT  - American heart journal
+JID - 0370465
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 75847-73-3 (Enalapril)
+SB  - AIM
+SB  - IM
+MH  - Aged
+MH  - Angioedema/chemically induced
+MH  - Angiotensin-Converting Enzyme Inhibitors/*adverse effects/therapeutic use
+MH  - Cough/chemically induced
+MH  - Double-Blind Method
+MH  - Enalapril/*adverse effects/therapeutic use
+MH  - Fatigue/chemically induced
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Heart Failure/drug therapy
+MH  - Humans
+MH  - Hyperkalemia/chemically induced
+MH  - Hypotension/chemically induced
+MH  - Male
+MH  - Middle Aged
+MH  - Sex Factors
+MH  - Time Factors
+MH  - Uremia/chemically induced
+MH  - Ventricular Dysfunction, Left/*drug therapy/mortality/physiopathology
+EDAT- 1996/02/01
+MHDA- 2001/03/28 10:01
+CRDT- 1996/02/01 00:00
+PST - ppublish
+SO  - Am Heart J. 1996 Feb;131(2):350-5.
+
+PMID- 8557903
+OWN - NLM
+STAT- MEDLINE
+DA  - 19960226
+DCOM- 19960226
+LR  - 20100324
+IS  - 0735-1097 (Print)
+IS  - 0735-1097 (Linking)
+VI  - 27
+IP  - 2
+DP  - 1996 Feb
+TI  - Six-month effects of early treatment with lisinopril and transdermal glyceryl
+      trinitrate singly and together withdrawn six weeks after acute myocardial
+      infarction: the GISSI-3 trial. Gruppo Italiano per lo Studio della Sopravvivenza 
+      nell'Infarto Miocardico.
+PG  - 337-44
+AB  - OBJECTIVES: This 6-month follow-up analysis sought to assess whether the early
+      reduction of mortality obtained with a 6-week treatment course of lisinopril or
+      glyceryl trinitrate, or both, in unselected patients with acute myocardial
+      infarction outlasts therapy and is still present after 6 months. The primary
+      outcome of the 6-month follow-up was the combined end point of mortality and
+      severe left ventricular dysfunction. BACKGROUND: The assumption was that the
+      early benefit on remodeling processes may be maintained over a longer period of
+      time, even in the absence of treatment. METHODS: A total of 19,394 patients with 
+      acute myocardial infarction were randomized within 24 h of onset of symptoms to a
+      6-week treatment course of oral lisinopril or open control and, according to a 2 
+      x 2 factorial design, to glyceryl trinitrate or open control. Randomized
+      treatments were stopped after 6 weeks in the absence of specific indications, and
+      the patients were followed up for 6 months. RESULTS: At 6 months, among patients 
+      randomized to lisinopril, 18.1% died or developed severe ventricular dysfunction 
+      versus 19.3% of those randomized to no lisinopril (2p = 0.03). No difference was 
+      found between patients with and without glyceryl trinitrate therapy (18.4% vs.
+      18.9%, 2p = 0.39). CONCLUSIONS: Although the systematic administration of
+      glyceryl trinitrate started early and continued for 6 weeks after acute
+      myocardial infarction does not yield evidence of benefit, early treatment with
+      lisinopril appears to improve prognosis. This effect seems to carry over the
+      first 6 months from randomization, even after treatment withdrawal.
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Vasodilator Agents)
+RN  - 55-63-0 (Nitroglycerin)
+RN  - 83915-83-7 (Lisinopril)
+SB  - AIM
+SB  - IM
+CIN - ACP J Club. 1996 Jul-Aug;125(1):7
+MH  - Administration, Cutaneous
+MH  - Adult
+MH  - Age Factors
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme Inhibitors/administration & dosage/*therapeutic use
+MH  - Drug Therapy, Combination
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Lisinopril/administration & dosage/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*drug therapy/epidemiology
+MH  - Nitroglycerin/*administration & dosage/therapeutic use
+MH  - Prognosis
+MH  - Sex Factors
+MH  - Time Factors
+MH  - Treatment Outcome
+MH  - Vasodilator Agents/*administration & dosage/therapeutic use
+MH  - Ventricular Dysfunction, Left/epidemiology
+EDAT- 1996/02/01
+MHDA- 1996/02/01 00:01
+CRDT- 1996/02/01 00:00
+PST - ppublish
+SO  - J Am Coll Cardiol. 1996 Feb;27(2):337-44.
+
+PMID- 7477219
+OWN - NLM
+STAT- MEDLINE
+DA  - 19951221
+DCOM- 19951221
+LR  - 20100324
+IS  - 0028-4793 (Print)
+IS  - 0028-4793 (Linking)
+VI  - 333
+IP  - 25
+DP  - 1995 Dec 21
+TI  - A clinical trial of the angiotensin-converting-enzyme inhibitor trandolapril in
+      patients with left ventricular dysfunction after myocardial infarction.
+      Trandolapril Cardiac Evaluation (TRACE) Study Group.
+PG  - 1670-6
+AB  - BACKGROUND: Treatment with angiotensin-converting-enzyme (ACE) inhibitors reduces
+      mortality among survivors of acute myocardial infarction, but whether to use ACE 
+      inhibitors in all patients or only in selected patients is uncertain. METHODS: We
+      screened 6676 consecutive patients with 7001 myocardial infarctions confirmed by 
+      enzyme studies. A total of 2606 patients had echocardiographic evidence of left
+      ventricular systolic dysfunction (ejection fraction, < or = 35 percent). On days 
+      3 to 7 after infarction, 1749 patients were randomly assigned to receive oral
+      trandolapril (876 patients) or placebo (873 patients). The duration of follow-up 
+      was 24 to 50 months. RESULTS: During the study period, 304 patients (34.7
+      percent) in the trandolapril group died, as compared with 369 (42.3 percent) in
+      the placebo group (P = 0.001). The relative risk of death in the trandolapril
+      group, as compared with the placebo group, was 0.78 (95 percent confidence
+      interval, 0.67 to 0.91). Trandolapril also reduced the risk of death from
+      cardiovascular causes (relative risk, 0.75; 95 percent confidence interval, 0.63 
+      to 0.89; P = 0.001) and sudden death (relative risk, 0.76; 95 percent confidence 
+      interval, 0.59 to 0.98; P = 0.03). Progression to severe heart failure was less
+      frequent in the trandolapril group (relative risk, 0.71; 95 percent confidence
+      interval, 0.56 to 0.89; P = 0.003). In contrast, the risk of recurrent myocardial
+      infarction (fatal or nonfatal) was not significantly reduced (relative risk,
+      0.86; 95 percent confidence interval, 0.66 to 1.13; P = 0.29). CONCLUSIONS:
+      Long-term treatment with trandolapril in patients with reduced left ventricular
+      function soon after myocardial infarction significantly reduced the risk of
+      overall mortality, mortality from cardiovascular causes, sudden death, and the
+      development of severe heart failure. That mortality was reduced in a randomized
+      study enrolling 25 percent of consecutive patients screened should encourage the 
+      selective use of ACE inhibition after myocardial infarction.
+AD  - Department of Cardiology, Gentofte University Hospital, Copenhagen, Denmark.
+FAU - Kober, L
+AU  - Kober L
+FAU - Torp-Pedersen, C
+AU  - Torp-Pedersen C
+FAU - Carlsen, J E
+AU  - Carlsen JE
+FAU - Bagger, H
+AU  - Bagger H
+FAU - Eliasen, P
+AU  - Eliasen P
+FAU - Lyngborg, K
+AU  - Lyngborg K
+FAU - Videbaek, J
+AU  - Videbaek J
+FAU - Cole, D S
+AU  - Cole DS
+FAU - Auclert, L
+AU  - Auclert L
+FAU - Pauly, N C
+AU  - Pauly NC
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Indoles)
+RN  - 87679-37-6 (trandolapril)
+SB  - AIM
+SB  - IM
+CIN - N Engl J Med. 1996 Jun 6;334(23):1546. PMID: 8618619
+CIN - ACP J Club. 1996 May-Jun;124(3):61
+MH  - Adult
+MH  - Angiotensin-Converting Enzyme Inhibitors/adverse effects/*therapeutic use
+MH  - Cardiovascular Diseases/mortality
+MH  - Death, Sudden
+MH  - Double-Blind Method
+MH  - Female
+MH  - Heart Failure/etiology
+MH  - Humans
+MH  - Indoles/adverse effects/*therapeutic use
+MH  - Male
+MH  - Myocardial Infarction/complications/*drug therapy/mortality
+MH  - Recurrence
+MH  - Risk
+MH  - Survival Analysis
+MH  - Ventricular Dysfunction, Left/*drug therapy/etiology
+EDAT- 1995/12/21
+MHDA- 1995/12/21 00:01
+CRDT- 1995/12/21 00:00
+AID - 10.1056/NEJM199512213332503 [doi]
+PST - ppublish
+SO  - N Engl J Med. 1995 Dec 21;333(25):1670-6.
+
+PMID- 7793393
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950727
+DCOM- 19950727
+LR  - 20071115
+IS  - 0002-9149 (Print)
+IS  - 0002-9149 (Linking)
+VI  - 76
+IP  - 1
+DP  - 1995 Jul 1
+TI  - Clinical characteristics and mortality of patients screened for entry into the
+      Trandolapril Cardiac Evaluation (TRACE) study.
+PG  - 1-5
+AB  - In mortality studies of patients after acute myocardial infarction (AMI),
+      exclusion of patients during selection from the screened population may be
+      important for evaluating the impact of trials, but data on patients excluded from
+      studies are rarely presented. In the Trandolapril Cardiac Evaluation (TRACE)
+      trial of the angiotensin-converting enzyme inhibitor trandolapril versus placebo 
+      in patients with left ventricular (LV) systolic dysfunction shortly after AMI,
+      medical history, infarct complication, and survival were accounted for in all
+      patients screened for entry. A total of 7,001 consecutive enzyme-confirmed AMIs
+      were screened for entry in 27 Danish coronary care units. The 1-year mortality of
+      all screened AMI cases was 23% (95% confidence interval 22% to 24%). The target
+      population of the TRACE trial were patients with LV systolic dysfunction
+      (echocardiographically determined wall motion index < or = 1.2, n = 2,606 within 
+      6 days of AMI. The 1-year mortality of this group was 34 +/- 2%. Patients with
+      wall motion index > 1.2 (n = 3,920) had a 1-year mortality of 12 +/- 1%. were
+      excluded. A total of 1,749 were included in the study. The excluded and included 
+      groups had a 1-year mortality of 54 +/- 3% and 24 +/- 2%, respectively. The
+      result of the TRACE study will be applicable to two thirds of the patients with
+      LV systolic dysfunction; however, even with this high figure, care should be
+      taken in extrapolating the result to the general population with reduced LV
+      function after AMI since the group excluded from the study had a higher mortality
+      than those who were included.
+AD  - Department of Cardiology, Gentofte University Hospital, Copenhagen, Denmark.
+FAU - Kober, L
+AU  - Kober L
+FAU - Torp-Pedersen, C
+AU  - Torp-Pedersen C
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Am J Cardiol
+JT  - The American journal of cardiology
+JID - 0207277
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Indoles)
+RN  - 87679-37-6 (trandolapril)
+SB  - AIM
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+MH  - Female
+MH  - Humans
+MH  - Indoles/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*drug therapy/mortality/physiopathology
+MH  - *Patient Selection
+MH  - Randomized Controlled Trials as Topic
+MH  - Reproducibility of Results
+MH  - Survival Rate
+MH  - Ventricular Dysfunction, Left/*drug therapy/mortality/physiopathology
+EDAT- 1995/07/01
+MHDA- 1995/07/01 00:01
+CRDT- 1995/07/01 00:00
+AID - S0002914999807917 [pii]
+PST - ppublish
+SO  - Am J Cardiol. 1995 Jul 1;76(1):1-5.
+
+PMID- 7654275
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950524
+DCOM- 19950524
+LR  - 20100324
+IS  - 0098-7484 (Print)
+IS  - 0098-7484 (Linking)
+VI  - 273
+IP  - 18
+DP  - 1995 May 10
+TI  - Overview of randomized trials of angiotensin-converting enzyme inhibitors on
+      mortality and morbidity in patients with heart failure. Collaborative Group on
+      ACE Inhibitor Trials.
+PG  - 1450-6
+AB  - OBJECTIVE: To evaluate the effect of angiotensin-converting enzyme (ACE)
+      inhibitors on mortality and morbidity in patients with symptomatic congestive
+      heart failure. DATA SOURCE AND STUDY SELECTION: Data were obtained for all
+      completed, published or unpublished, randomized, placebo-controlled trials of ACE
+      inhibitors that were at least 8 weeks in duration and had determined total
+      mortality by intention to treat, regardless of sample size. Trials were
+      identified based on literature review and correspondence with investigators and
+      pharmaceutical firms. DATA EXTRACTION: Using standard tables, data were extracted
+      by one author and confirmed where necessary by the other author or the principal 
+      investigator of the trial. Unpublished data were obtained by direct
+      correspondence with the principal investigator of each study or pharmaceutical
+      firm. DATA SYNTHESIS: The data for each outcome were combined using the
+      Yusuf-Peto adaptation of the Mantel-Haenszel method. Overall, there was a
+      statistically significant reduction in total mortality (odds ratio [OR], 0.77;
+      95% confidence interval [CI], 0.67 to 0.88; P < .001) and in the combined
+      endpoint of mortality or hospitalization for congestive heart failure (OR, 0.65; 
+      95% CI, 0.57 to 0.74; P < .001). Similar benefits were observed with several
+      different ACE inhibitors, although the data were largely based on enalapril
+      maleate, captopril, ramipril, quinapril hydrochloride, and lisinopril. Reductions
+      for total mortality and the combined endpoint were similar for various subgroups 
+      examined (age, sex, etiology, and New York Heart Association class). However,
+      patients with the lowest ejection fraction appeared to have the greatest benefit.
+      The greatest effect was seen during the first 3 months, but additional benefit
+      was observed during further treatment. The reduction in mortality was primarily
+      due to fewer deaths from progressive heart failure (OR, 0.69; 95% CI, 0.58 to
+      0.83); point estimates for effects on sudden or presumed arrhythmic deaths (OR,
+      0.91; 95% CI, 0.73 to 1.12) and fatal myocardial infarction (OR, 0.82; 95% CI,
+      0.60 to 1.11) were less than 1 but were not significant. CONCLUSIONS: Total
+      mortality and hospitalization for congestive heart failure are significantly
+      reduced by ACE inhibitors with consistent effects in a broad range of patients.
+AD  - Clinical Trials Branch, National Heart, Lung, and Blood Institute, Bethesda, MD
+      20892, USA.
+FAU - Garg, R
+AU  - Garg R
+FAU - Yusuf, S
+AU  - Yusuf S
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PL  - UNITED STATES
+TA  - JAMA
+JT  - JAMA : the journal of the American Medical Association
+JID - 7501160
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+SB  - AIM
+SB  - IM
+CIN - ACP J Club. 1995 Nov-Dec;123(3):62
+EIN - JAMA 1995 Aug 9;274(6):462
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+MH  - Cause of Death
+MH  - Female
+MH  - Heart Failure/*drug therapy/*mortality/physiopathology
+MH  - Hospitalization
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Morbidity
+MH  - Randomized Controlled Trials as Topic
+MH  - Severity of Illness Index
+MH  - Survival Analysis
+EDAT- 1995/05/10
+MHDA- 1995/05/10 00:01
+CRDT- 1995/05/10 00:00
+PST - ppublish
+SO  - JAMA. 1995 May 10;273(18):1450-6.
+
+PMID- 7596934
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950731
+DCOM- 19950731
+LR  - 20091118
+IS  - 0032-5473 (Print)
+IS  - 0032-5473 (Linking)
+VI  - 71
+IP  - 835
+DP  - 1995 May
+TI  - Effects of captopril and enalapril on renal function in elderly patients with
+      chronic heart failure.
+PG  - 287-92
+AB  - OBJECTIVE: To compare the effects on renal function of captopril and enalapril in
+      elderly patients with chronic heart failure. DESIGN: A multi-centre double-blind 
+      parallel-group comparison of the two angiotensin-converting enzyme (ACE)
+      inhibitors, captopril (12.5 mg bid) and enalapril (2.5 mg bid). SUBJECTS: 80
+      elderly patients with chronic heart failure (41 in the captopril group, 39 in the
+      enalapril group). MAIN OUTCOME MEASURES: The blood pressure and pulse rate
+      response to the first dose of ACE inhibitor was assessed in all patients.
+      Glomerular filtration rate (GFR) was measured radioisotopically by 99mTcDTPA or
+      51CrEDTA clearance after three and six months of each treatment. Subgroups were
+      assessed for effective renal plasma flow (33 patients), exercise tolerance (25
+      patients) and by a symptom-oriented questionnaire (45 patients). RESULTS: No
+      serious adverse effect on GFR was noticed. There was no significant difference
+      between the two treatments in the mean baseline GFR or in changes from baseline
+      at three and six months (captopril mean baseline GFR 49.6 ml min-1 1.76 m-2,
+      enalapril 54.7 ml min-1 1.76 m-2; mean change (95% confidence interval) at three 
+      months captopril 12 ml min-1 (+3.0, +21.0), enalapril -2 ml min-1 (-13.0; +9.0); 
+      mean change at six months, captopril 3.7 ml min-1 (-6.7; +14.2), enalapril -6.0
+      ml min-1 (-21.0; +9.4). Significantly more patients given captopril had an
+      improvement in GFR during the study period (26/31 compared with 20/31
+      enalapril-treated patients at three months, p = 0.0096, and 23/30 compared with
+      15/27 at six months, p = 0.021). There were no significant changes in effective
+      renal plasma flow. Three patients treated with enalapril developed symptomatic
+      hypotension within three days of starting treatment. Quality of life
+      questionnaires revealed more gastrointestinal symptoms in the enalapril group (p 
+      = 0.039). CONCLUSIONS: Captopril seems marginally preferable to enalapril in the 
+      treatment of chronic heart failure in elderly patients.
+AD  - Department of Health Care for the Elderly, Selly Oak Hospital, West Midlands, UK.
+FAU - Haffner, C A
+AU  - Haffner CA
+FAU - Kendall, M J
+AU  - Kendall MJ
+FAU - Struthers, A D
+AU  - Struthers AD
+FAU - Bridges, A
+AU  - Bridges A
+FAU - Stott, D J
+AU  - Stott DJ
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Postgrad Med J
+JT  - Postgraduate medical journal
+JID - 0234135
+RN  - 62571-86-2 (Captopril)
+RN  - 75847-73-3 (Enalapril)
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Captopril/*pharmacology/therapeutic use
+MH  - Double-Blind Method
+MH  - Enalapril/adverse effects/*pharmacology/therapeutic use
+MH  - Glomerular Filtration Rate/drug effects
+MH  - Heart Failure/*drug therapy/physiopathology
+MH  - Humans
+MH  - Hypotension/chemically induced
+MH  - Kidney/*drug effects/physiopathology
+MH  - Renal Circulation/drug effects
+PMC - PMC2398094
+OID - NLM: PMC2398094
+EDAT- 1995/05/01
+MHDA- 1995/05/01 00:01
+CRDT- 1995/05/01 00:00
+PST - ppublish
+SO  - Postgrad Med J. 1995 May;71(835):287-92.
+
+PMID- 7661937
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950412
+DCOM- 19950412
+LR  - 20061115
+IS  - 0140-6736 (Print)
+IS  - 0140-6736 (Linking)
+VI  - 345
+IP  - 8951
+DP  - 1995 Mar 18
+TI  - ISIS-4: a randomised factorial trial assessing early oral captopril, oral
+      mononitrate, and intravenous magnesium sulphate in 58,050 patients with suspected
+      acute myocardial infarction. ISIS-4 (Fourth International Study of Infarct
+      Survival) Collaborative Group.
+PG  - 669-85
+AB  - 58,050 patients entering 1086 hospitals up to 24 h (median 8 h) after the onset
+      of suspected acute myocardial infarction (MI) with no clear contraindications to 
+      the study treatments (in particular, no cardiogenic shock or persistent severe
+      hypotension) were randomised in a "2 x 2 x 2 factorial" study. The treatment
+      comparisons were: (i) 1 month of oral captopril (6.25 mg initial dose titrated up
+      to 50 mg twice daily) versus matching placebo; (ii) 1 month of oral
+      controlled-release mononitrate (30 mg initial dose titrated up to 60 mg once
+      daily) versus matching placebo; and (iii) 24 h of intravenous magnesium sulphate 
+      (8 mmol initial bolus followed by 72 mmol) versus open control. There were no
+      significant "interactions" between the effects of these three treatments, and the
+      results for each are based on the randomised comparison of about 29,000 active
+      versus 29,000 control allocated patients. Captopril There was a significant 7%
+      (SD 3) proportional reduction in 5-week mortality (2088 [7.19%]
+      captopril-allocated deaths vs 2231 [7.69%] placebo; 2p = 0.02), which corresponds
+      to an absolute difference of 4.9 SD 2.2 fewer deaths per 1000 patients treated
+      for 1 month. The absolute benefits appeared to be larger (perhaps about 10 fewer 
+      deaths per 1000) in certain higher-risk groups, such as those presenting with a
+      history of previous MI or with heart failure. The survival advantage appeared to 
+      be maintained in the longer term (5.4 [SD 2.8] fewer deaths per 1000 at 12
+      months). Captopril was associated with an increase of 52 (SD 2) patients per 1000
+      in hypotension considered severe enough to require termination of study
+      treatment, of 5 (SD 2) per 1000 in reported cardiogenic shock, and of 5 (SD 1)
+      per 1000 in some degree of renal dysfunction. It produced no excess of deaths on 
+      days 0-1, even among patients with low blood pressure at entry. Mononitrate There
+      was no significant reduction in 5-week mortality, either overall (2129 [7.34%]
+      mononitrate-allocated deaths vs 2190 [7.54%] placebo) or in any subgroup examined
+      (including those receiving short-term non-study intravenous or oral nitrates at
+      entry). Further follow-up did not indicate any later survival advantage. The only
+      significant side-effect of the mononitrate regimen studied was an increase of 15 
+      (SD 2) per 1000 in hypotension. Those allocated active treatment had somewhat
+      fewer deaths on days 0-1, which is reassuring a bout the safety of using nitrates
+      early in acute MI.(ABSTRACT TRUNCATED AT 400 WORDS)
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - Lancet
+JT  - Lancet
+JID - 2985213R
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Platelet Aggregation Inhibitors)
+RN  - 0 (Vasodilator Agents)
+RN  - 16051-77-7 (isosorbide-5-mononitrate)
+RN  - 62571-86-2 (Captopril)
+RN  - 7487-88-9 (Magnesium Sulfate)
+RN  - 87-33-2 (Isosorbide Dinitrate)
+SB  - AIM
+SB  - IM
+CIN - Lancet. 1995 May 27;345(8961):1372; author reply 1374-5. PMID: 7752784
+CIN - Lancet. 1995 May 27;345(8961):1372-3; author reply 1374-5. PMID: 7752785
+CIN - Lancet. 1995 May 27;345(8961):1373; author reply 1374-5. PMID: 7752786
+CIN - Lancet. 1995 May 27;345(8961):1374; author reply 1374-5. PMID: 7752787
+CIN - Lancet. 1995 May 27;345(8961):1373-4; author reply 1374-5. PMID: 7619151
+CIN - Lancet. 1995 May 27;345(8961):1372; author reply 1374-5. PMID: 7752783
+CIN - ACP J Club. 1995 Sep-Oct;123(2):44
+MH  - Administration, Oral
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme Inhibitors/therapeutic use
+MH  - Captopril/administration & dosage/adverse effects/*therapeutic use
+MH  - Delayed-Action Preparations
+MH  - Drug Therapy, Combination
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Infusions, Intravenous
+MH  - Isosorbide Dinitrate/administration & dosage/adverse effects/*analogs &
+      derivatives/therapeutic use
+MH  - Magnesium Sulfate/administration & dosage/adverse effects/*therapeutic use
+MH  - Male
+MH  - Myocardial Infarction/complications/*drug therapy/mortality
+MH  - Platelet Aggregation Inhibitors/therapeutic use
+MH  - Thrombolytic Therapy
+MH  - Vasodilator Agents/administration & dosage/adverse effects/*therapeutic use
+EDAT- 1995/03/18
+MHDA- 1995/03/18 00:01
+CRDT- 1995/03/18 00:00
+PST - ppublish
+SO  - Lancet. 1995 Mar 18;345(8951):669-85.
+
+PMID- 7990904
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950112
+DCOM- 19950112
+LR  - 20100324
+IS  - 0028-4793 (Print)
+IS  - 0028-4793 (Linking)
+VI  - 332
+IP  - 2
+DP  - 1995 Jan 12
+TI  - The effect of the angiotensin-converting-enzyme inhibitor zofenopril on mortality
+      and morbidity after anterior myocardial infarction. The Survival of Myocardial
+      Infarction Long-Term Evaluation (SMILE) Study Investigators.
+PG  - 80-5
+AB  - BACKGROUND: Left ventricular dilatation and neuroendocrine activation are common 
+      after acute anterior myocardial infarction. Long-term treatment with an
+      angiotensin-converting-enzyme (ACE) inhibitor may improve outcome by attenuating 
+      these processes. We investigated whether the ACE inhibitor zofenopril,
+      administered for six weeks after anterior myocardial infarction, could improve
+      both short-term and long-term outcome. METHODS: A total of 1556 patients were
+      enrolled within 24 hours after the onset of symptoms of acute anterior myocardial
+      infarction, and they were randomly assigned in a double-blind fashion to receive 
+      either placebo (784 patients) or zofenopril (772 patients) for six weeks. At this
+      time we assessed the incidence of death or severe congestive heart failure. The
+      patients were reexamined after one year to assess survival. RESULTS: The
+      incidence of death or severe congestive heart failure at six weeks was
+      significantly reduced in the zofenopril group (55 patients, 7.1 percent), as
+      compared with the placebo group (83 patients, 10.6 percent); the cumulative
+      reduction in the risk of death or severe congestive heart failure was 34 percent 
+      (95 percent confidence interval, 8 to 54 percent; P = 0.018). The reduction in
+      risk was 46 percent (95 percent confidence interval, 11 to 71 percent; P = 0.018)
+      for severe congestive heart failure and 25 percent (95 percent confidence
+      interval, -11 to 60 percent; P = 0.19) for death. After one year of observation, 
+      the mortality rate was significantly lower in the zofenopril group (10.0 percent)
+      than in the placebo group (14.1 percent); the reduction in risk was 29 percent
+      (95 percent confidence interval, 6 to 51 percent; P = 0.011). CONCLUSIONS:
+      Treatment with zofenopril significantly improved both short-term and long-term
+      outcome when this drug was started within 24 hours after the onset of acute
+      anterior myocardial infarction and continued for six weeks.
+AD  - Department of Internal Medicine, University of Bologna, Italy.
+FAU - Ambrosioni, E
+AU  - Ambrosioni E
+FAU - Borghi, C
+AU  - Borghi C
+FAU - Magnani, B
+AU  - Magnani B
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 62571-86-2 (Captopril)
+RN  - 81872-10-8 (zofenopril)
+SB  - AIM
+SB  - IM
+CIN - N Engl J Med. 1995 Jun 22;332(25):1715. PMID: 7619164
+CIN - ACP J Club. 1995 May-Jun;122(3):61
+CIN - N Engl J Med. 1995 Jan 12;332(2):118-20. PMID: 7990887
+CIN - N Engl J Med. 1995 Jun 22;332(25):1715; author reply 1716. PMID: 7760877
+CIN - N Engl J Med. 1995 Jun 22;332(25):1716. PMID: 7760878
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme Inhibitors/*therapeutic use
+MH  - Captopril/*analogs & derivatives/therapeutic use
+MH  - Confidence Intervals
+MH  - Double-Blind Method
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Heart Failure/etiology/mortality/prevention & control
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Morbidity
+MH  - Myocardial Infarction/complications/*drug therapy/epidemiology/*mortality
+MH  - Treatment Outcome
+EDAT- 1995/01/12
+MHDA- 1995/01/12 00:01
+CRDT- 1995/01/12 00:00
+AID - 10.1056/NEJM199501123320203 [doi]
+PST - ppublish
+SO  - N Engl J Med. 1995 Jan 12;332(2):80-5.
+
+PMID- 7923656
+OWN - NLM
+STAT- MEDLINE
+DA  - 19941110
+DCOM- 19941110
+LR  - 20061115
+IS  - 0009-7322 (Print)
+IS  - 0009-7322 (Linking)
+VI  - 90
+IP  - 4
+DP  - 1994 Oct
+TI  - Effects of captopril on ischemic events after myocardial infarction. Results of
+      the Survival and Ventricular Enlargement trial. SAVE Investigators.
+PG  - 1731-8
+AB  - BACKGROUND: In the Survival and Ventricular Enlargement (SAVE) trial, recurrent
+      myocardial infarction (MI) was the most important predictor of a poor outcome and
+      conferred a sevenfold increase in risk of death. The purpose of this study was to
+      determine the predictors of recurrent MI in study participants and to examine the
+      influence of the angiotensin-converting enzyme inhibitor captopril on this and
+      other myocardial ischemic events. METHODS AND RESULTS: The 2231 patients had
+      survived the acute phase of MI (3 to 16 days) and had a radionuclide ventricular 
+      ejection fraction < or = 40%. Patients were randomly assigned to receive
+      double-blind treatment with either placebo or captopril and were followed for an 
+      average of 42 months. The influence of captopril on recurrent MI, cardiac
+      revascularization procedures, and hospitalization with unstable angina was
+      examined. The likelihood of recurrent MI was greater in patients with an MI or
+      functional disability before the index infarction and higher systolic pressure
+      (all P < .001) but was not influenced by baseline left ventricular ejection
+      fraction. Therapy with captopril reduced the risk of development of recurrent MI 
+      by 25% (95% confidence intervals, 5% to 40%; P = .015) and the risk of death
+      after recurrent MI by 32% (95% confidence intervals, 4% to 51%; P = .029).
+      Captopril-assigned patients were also less likely to require cardiac
+      revascularization procedures (P = .010), but hospitalization for unstable angina 
+      was unaltered. When all three of these major coronary ischemic events were
+      considered together, captopril therapy reduced the risk (14% risk reduction; 95% 
+      confidence intervals, 0% to 26%; P = .047). CONCLUSIONS: In post-MI patients with
+      asymptomatic left ventricular dysfunction, long-term administration of captopril 
+      reduced recurrence of MI and the need for cardiac revascularization but had no
+      influence on the rate of hospitalization with a discharge diagnosis of unstable
+      angina. The finding that the recurrence of MI was independent of left ventricular
+      ejection fraction suggests that captopril could be useful in preventing recurrent
+      MI in patients with more preserved left ventricular function. The need for
+      cardiac revascularization was reduced in patients receiving long-term captopril
+      therapy, suggesting either an anti-ischemic effect or the ability of the
+      angiotensin-converting enzyme inhibitor to modify the atherosclerotic process in 
+      survivors of MI.
+AD  - Department of Medicine, Brigham and Women's Hospital, Harvard Medical School,
+      Boston, Mass.
+FAU - Rutherford, J D
+AU  - Rutherford JD
+FAU - Pfeffer, M A
+AU  - Pfeffer MA
+FAU - Moye, L A
+AU  - Moye LA
+FAU - Davis, B R
+AU  - Davis BR
+FAU - Flaker, G C
+AU  - Flaker GC
+FAU - Kowey, P R
+AU  - Kowey PR
+FAU - Lamas, G A
+AU  - Lamas GA
+FAU - Miller, H S
+AU  - Miller HS
+FAU - Packer, M
+AU  - Packer M
+FAU - Rouleau, J L
+AU  - Rouleau JL
+AU  - et al.
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+RN  - 0 (Placebos)
+RN  - 62571-86-2 (Captopril)
+SB  - AIM
+SB  - IM
+MH  - Angina, Unstable/epidemiology
+MH  - Captopril/*therapeutic use
+MH  - Cardiomegaly/etiology
+MH  - Double-Blind Method
+MH  - Hospitalization
+MH  - Humans
+MH  - Incidence
+MH  - Middle Aged
+MH  - Multivariate Analysis
+MH  - Myocardial Infarction/*complications/*drug therapy/mortality
+MH  - Myocardial Ischemia/*prevention & control
+MH  - Placebos
+MH  - Recurrence
+MH  - Risk Factors
+MH  - Survival Analysis
+EDAT- 1994/10/01
+MHDA- 1994/10/01 00:01
+CRDT- 1994/10/01 00:00
+PST - ppublish
+SO  - Circulation. 1994 Oct;90(4):1731-8.
+
+PMID- 7988608
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950109
+DCOM- 19950109
+LR  - 20071115
+IS  - 0195-668X (Print)
+IS  - 0195-668X (Linking)
+VI  - 15
+IP  - 8
+DP  - 1994 Aug
+TI  - Quality of life on enalapril after acute myocardial infarction.
+PG  - 1135-9
+AB  - Quality of life was assessed 4-6 months after an acute myocardial infarction in a
+      randomized double-blind study of enalapril versus placebo. Quality of life was
+      evaluated using the Nottingham Health Profile (NHP), the Physical Symptoms
+      Distress Index (PSDI), the Work Performance Scale (WPS) and the Life Satisfaction
+      Index (LSI). The study comprised 36 women (aged 46-85 years, mean 68) and 96
+      males (aged 39-81 years, mean 62). Quality of life did not differ significantly
+      between patients treated with enalapril versus placebo. The scores were
+      (enalapril vs placebo, mean +/- SE): average NHP 15.4 +/- 2.3 vs 17.1 +/- 2.3;
+      PSDI 9.5 +/- 1.0 vs 10.8 +/- 0.9; WPS 19.8 +/- 2.0 vs 19.4 +/- 1.4; LSI 24.1 +/- 
+      1.0 vs 22.5 +/- 1.4. Men reported a better quality of life than women on most
+      assessments, and non-smokers and ex-smokers better than smokers. Patients with
+      moderate or severe angina pectoris had a worse quality of life measured by PSDI
+      and NHP than patients with minimal or no angina pectoris. Patients with
+      congestive heart failure had a higher PSDI than those without (13.6 +/- 1.7 vs
+      9.4 +/- 0.7, P < 0.05), while no significant differences were observed in the NHP
+      scores. In conclusion, quality of life was similar in enalapril and
+      placebo-treated patients after an acute myocardial infarction. However, it was
+      reduced in patients with angina pectoris or heart failure and in those who
+      continued smoking.
+AD  - Department of Internal Medicine, Ullevaal Hospital, Oslo, Norway.
+FAU - Ekeberg, O
+AU  - Ekeberg O
+FAU - Klemsdal, T O
+AU  - Klemsdal TO
+FAU - Kjeldsen, S E
+AU  - Kjeldsen SE
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - Eur Heart J
+JT  - European heart journal
+JID - 8006263
+RN  - 75847-73-3 (Enalapril)
+SB  - IM
+MH  - Activities of Daily Living/psychology
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Angina Pectoris/drug therapy/psychology
+MH  - Double-Blind Method
+MH  - Enalapril/adverse effects/*therapeutic use
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Heart Failure/drug therapy/psychology
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*drug therapy/psychology
+MH  - *Quality of Life
+MH  - Sick Role
+MH  - Smoking/adverse effects
+EDAT- 1994/08/01
+MHDA- 1994/08/01 00:01
+CRDT- 1994/08/01 00:00
+PST - ppublish
+SO  - Eur Heart J. 1994 Aug;15(8):1135-9.
+
+PMID- 7925510
+OWN - NLM
+STAT- MEDLINE
+DA  - 19941104
+DCOM- 19941104
+LR  - 20061115
+IS  - 0195-668X (Print)
+IS  - 0195-668X (Linking)
+VI  - 15
+IP  - 7
+DP  - 1994 Jul
+TI  - Acute intervention with captopril during thrombolysis in patients with first
+      anterior myocardial infarction. Results from the Captopril and Thrombolysis Study
+      (CATS).
+PG  - 898-907
+AB  - The study was designed to examine the safety and efficacy of acute interventional
+      use of captopril on left ventricular volumes, ventricular arrhythmias and
+      neurohormones during thrombolysis in patients with a first anterior myocardial
+      infarction, within 6 h of onset of symptoms. Left ventricular dysfunction and
+      prognosis after myocardial infarction can be improved by angiotensin converting
+      enzyme inhibition started after the ischaemic phase. Experimental evidence
+      suggests that intervention during thrombolysis may lead to even further benefit. 
+      In a randomized, double-blind placebo-controlled trial, 298 patients with a first
+      anterior myocardial infarction, eligible for thrombolytic therapy were treated
+      with captopril 6.25 mg or placebo, started immediately upon streptokinase
+      infusion and titrated to 25 mg t.i.d.. The efficacy of captopril by an
+      intention-to-treat-analysis to reduce left ventricular volumes, ventricular
+      arrhythmias, neurohumoral activation and enzymatic infarct size was measured.
+      During dose titration, mean blood pressure and heart rate were similar in both
+      groups. However, hypotension after the first dose was reported in 18 patients on 
+      placebo and 31 patients on captopril (P < 0.05). At discharge, 80% of patients
+      were on study medication. Left ventricular volumes were significantly increased
+      in both groups at 3 months, but they tended to be lower in the captopril group;
+      however, the differences were not statistically significant. The incidence of
+      accelerated idioventricular rhythm and non-sustained ventricular tachycardia in
+      captopril patients was lower than in placebo patients (P < 0.05), parallelled by 
+      transiently lower norepinephrine levels (P < 0.05) upon thrombolysis.(ABSTRACT
+      TRUNCATED AT 250 WORDS)
+AD  - Department of Cardiology, St. Antonius Hospital, Nieuwegein.
+FAU - Kingma, J H
+AU  - Kingma JH
+FAU - van Gilst, W H
+AU  - van Gilst WH
+FAU - Peels, C H
+AU  - Peels CH
+FAU - Dambrink, J H
+AU  - Dambrink JH
+FAU - Verheugt, F W
+AU  - Verheugt FW
+FAU - Wielenga, R P
+AU  - Wielenga RP
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Eur Heart J
+JT  - European heart journal
+JID - 8006263
+RN  - 51-41-2 (Norepinephrine)
+RN  - 62571-86-2 (Captopril)
+RN  - EC 3.4.- (Streptokinase)
+SB  - IM
+MH  - Captopril/*therapeutic use
+MH  - Double-Blind Method
+MH  - Drug Therapy, Combination
+MH  - Echocardiography
+MH  - Electrocardiography, Ambulatory
+MH  - Female
+MH  - Humans
+MH  - Hypotension/chemically induced
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/diagnosis/*drug therapy
+MH  - Myocardial Reperfusion Injury/*prevention & control
+MH  - Norepinephrine/metabolism
+MH  - Radionuclide Ventriculography
+MH  - Streptokinase/*therapeutic use
+MH  - Thrombolytic Therapy/*methods
+MH  - Ventricular Dysfunction, Left/diagnosis/*prevention & control
+EDAT- 1994/07/01
+MHDA- 1994/07/01 00:01
+CRDT- 1994/07/01 00:00
+PST - ppublish
+SO  - Eur Heart J. 1994 Jul;15(7):898-907.
+
+PMID- 8203335
+OWN - NLM
+STAT- MEDLINE
+DA  - 19940707
+DCOM- 19940707
+LR  - 20061115
+IS  - 0002-9149 (Print)
+IS  - 0002-9149 (Linking)
+VI  - 73
+IP  - 16
+DP  - 1994 Jun 15
+TI  - Comparison of enalapril versus captopril on left ventricular function and
+      survival three months after acute myocardial infarction (the "PRACTICAL" study).
+PG  - 1180-6
+AB  - Left ventricular (LV) function and survival can be improved with captopril when
+      initiated later than 24 hours after acute myocardial infarction. Animal studies
+      suggest additional benefits may be obtained with earlier initiation of
+      angiotensin-converting enzyme (ACE) inhibitors. The effects on LV function of
+      captopril and enalapril initiated within 24 hours of myocardial infarction were
+      studied. Two hundred twenty-five patients with acute myocardial infarction were
+      enrolled within 24 hours of the onset of chest pain. They were randomized to
+      receive either captopril 25 mg three times daily, enalapril 5 mg three times
+      daily, or placebo. LV ejection fraction (EF) and volumes were measured by
+      radionuclide ventriculography at baseline during treatment and at 3 months after 
+      a 3-day withdrawal from therapy. The ACE inhibitor group had a significant
+      increase in EF (45 +/- 1 to 47 +/- 1%; p = 0.005) and significantly attenuated LV
+      dilatation compared with results in the placebo group (175 +/- 6 to 189 +/- 7 ml 
+      in the placebo group vs 168 +/- 4 to 172 +/- 4 ml in the ACE inhibitor group; p =
+      0.051 for LV end-diastolic volume; and 99 +/- 6 to 108 +/- 7 ml in the placebo
+      group vs 94 +/- 3 to 94 +/- 4 ml; p = 0.026 for LV end-systolic volume). The
+      beneficial effects of ACE inhibitor therapy on LV function were observed
+      irrespective of the degree of initial LV dysfunction and were comparable in both 
+      the captopril and enalapril groups.(ABSTRACT TRUNCATED AT 250 WORDS)
+AD  - Department of Cardiology, Princess Margaret Hospital, Christchurch, New Zealand.
+FAU - Foy, S G
+AU  - Foy SG
+FAU - Crozier, I G
+AU  - Crozier IG
+FAU - Turner, J G
+AU  - Turner JG
+FAU - Richards, A M
+AU  - Richards AM
+FAU - Frampton, C M
+AU  - Frampton CM
+FAU - Nicholls, M G
+AU  - Nicholls MG
+FAU - Ikram, H
+AU  - Ikram H
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - Am J Cardiol
+JT  - The American journal of cardiology
+JID - 0207277
+RN  - 0 (Placebos)
+RN  - 11128-99-7 (Angiotensin II)
+RN  - 62571-86-2 (Captopril)
+RN  - 75847-73-3 (Enalapril)
+SB  - AIM
+SB  - IM
+MH  - Aged
+MH  - Angiotensin II/blood
+MH  - Blood Pressure/drug effects
+MH  - Captopril/administration & dosage/adverse effects/*therapeutic use
+MH  - Cardiac Volume/drug effects
+MH  - Cause of Death
+MH  - Double-Blind Method
+MH  - Drug Tolerance
+MH  - Enalapril/administration & dosage/adverse effects/*therapeutic use
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Gated Blood-Pool Imaging
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*drug therapy/physiopathology/radionuclide imaging
+MH  - Placebos
+MH  - Stroke Volume/drug effects
+MH  - Survival Rate
+MH  - Ventricular Function, Left/*drug effects
+EDAT- 1994/06/15
+MHDA- 1994/06/15 00:01
+CRDT- 1994/06/15 00:00
+PST - ppublish
+SO  - Am J Cardiol. 1994 Jun 15;73(16):1180-6.
+
+PMID- 7910229
+OWN - NLM
+STAT- MEDLINE
+DA  - 19940610
+DCOM- 19940610
+LR  - 20061115
+IS  - 0140-6736 (Print)
+IS  - 0140-6736 (Linking)
+VI  - 343
+IP  - 8906
+DP  - 1994 May 7
+TI  - GISSI-3: effects of lisinopril and transdermal glyceryl trinitrate singly and
+      together on 6-week mortality and ventricular function after acute myocardial
+      infarction. Gruppo Italiano per lo Studio della Sopravvivenza nell'infarto
+      Miocardico.
+PG  - 1115-22
+AB  - GISSI-3 is a multicentre randomised clinical trial to assess the efficacy of
+      lisinopril, transdermal glyceryl trinitrate (GTN), and their combination in
+      improving survival and ventricular function after acute myocardial infarction
+      (AMI). Between June, 1991, and July, 1993, 19,394 patients were randomised from
+      200 coronary care units in Italy. Eligible patients presented within 24 h of
+      symptom onset and had no clear indications for or against the study treatments.
+      In a factorial design patients were randomly assigned 6 weeks of oral lisinopril 
+      (5 mg initial dose and then 10 mg daily) or open control as well as nitrates
+      (intravenous for the first 24 h followed by transdermal GTN 10 mg daily) or open 
+      control. Complete clinical data and 6-week follow-up were available for 18,895
+      (97.4%) patients randomised. Two-dimensional echocardiographic data were
+      available for 14,209 patients. Overall 6-week mortality was 6.7%. Lisinopril,
+      started within 24 h from AMI symptoms, produced significant reductions in overall
+      mortality (odds ratio 0.88 [95% CI 0.79-0.99]) and in the combined outcome
+      measure of mortality and severe ventricular dysfunction (0.90 [0.84-0.98]). In
+      the same trial the systematic administration of transdermal GTN did not show any 
+      independent effect on the same outcome measures (0.94 [0.84-1.05] and 0.94
+      [0.87-1.02]). Systematic combined administration of lisinopril and GTN also
+      produced significant reductions in overall mortality (0.83 [0.70-0.97]) and in
+      the combined endpoint (0.85 [0.76-0.94]). The favourable effect of lisinopril
+      alone or with GTN was clear also in the predefined high-risk populations (elderly
+      patients and women) for the combined endpoint. These findings were obtained in a 
+      population intensively exposed to recommended treatments (thrombolysis 72%,
+      beta-blockade 31%, and aspirin 84%); non-protocol treatment with
+      angiotensin-converting-enzyme inhibitors and nitrates was allowed for specific
+      clinical indications. No excess of unfavourable clinically relevant events in the
+      treated groups was reported.
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Lancet
+JT  - Lancet
+JID - 2985213R
+RN  - 55-63-0 (Nitroglycerin)
+RN  - 60-27-5 (Creatinine)
+RN  - 83915-83-7 (Lisinopril)
+SB  - AIM
+SB  - IM
+CIN - Lancet. 1994 Jun 25;343(8913):1632; author reply 1633-4. PMID: 7911932
+CIN - Lancet. 1994 Jun 25;343(8913):1633; author reply 1633-4. PMID: 7911934
+CIN - Lancet. 1994 Aug 13;344(8920):475. PMID: 7914583
+CIN - Lancet. 1994 Jun 25;343(8913):1632-3; author reply 1633-4. PMID: 7911933
+CIN - ACP J Club. 1995 Jan-Feb;122(1):9
+MH  - Administration, Cutaneous
+MH  - Administration, Oral
+MH  - Aged
+MH  - Clinical Protocols
+MH  - Creatinine/blood
+MH  - Drug Therapy, Combination
+MH  - Echocardiography
+MH  - Electrocardiography
+MH  - Female
+MH  - Humans
+MH  - Infusions, Intravenous
+MH  - Lisinopril/administration & dosage/*therapeutic use
+MH  - Male
+MH  - Myocardial Infarction/blood/diagnosis/*drug therapy/mortality
+MH  - Nitroglycerin/administration & dosage/*therapeutic use
+MH  - Odds Ratio
+MH  - Risk Factors
+MH  - Survival Rate
+EDAT- 1994/05/07
+MHDA- 1994/05/07 00:01
+CRDT- 1994/05/07 00:00
+PST - ppublish
+SO  - Lancet. 1994 May 7;343(8906):1115-22.
+
+PMID- 8055999
+OWN - NLM
+STAT- MEDLINE
+DA  - 19940915
+DCOM- 19940915
+LR  - 20071115
+IS  - 0195-668X (Print)
+IS  - 0195-668X (Linking)
+VI  - 15
+IP  - 5
+DP  - 1994 May
+TI  - Randomized controlled trial of oral captopril, of oral isosorbide mononitrate and
+      of intravenous magnesium sulphate started early in acute myocardial infarction:
+      safety and haemodynamic effects. ISIS-4 (Fourth International Study of Infarct
+      Survival) Pilot Study Investigators.
+PG  - 608-19
+AB  - The purpose of this randomized controlled study was to assess the haemodynamic
+      effects, safety and tolerability in acute myocardial infarction (AMI) of one
+      month of oral captopril, one month of oral isosorbide mononitrate and 24 h of
+      intravenous magnesium. It was carried out in four United Kingdom and six Polish
+      hospitals in consecutive phases: oral captopril vs oral mononitrate vs placebo
+      were compared among 400 patients in a 'three-way' study; and then oral captopril 
+      vs placebo and oral mononitrate vs placebo were compared among 474 patients in '2
+      x 2' and '2 x 2 x 2' factorial studies (with 208 patients in the latter study
+      also randomized between intravenous magnesium and open control). The factorial
+      studies differed from the three-way study in that one group of patients was
+      allocated both oral captopril and oral mononitrate, a higher maintenance dose of 
+      captopril was used (following the same initial dose), and once daily
+      controlled-release mononitrate was used. In the three-way study, the mean of the 
+      lowest systolic blood pressures recorded during the first 4 h after randomization
+      were (mmHg +/- standard error): 104 +/- 2 captopril vs 105 +/- 1 mononitrate vs
+      112 +/- 2 placebo (P < 0.001 for captopril or for mononitrate vs placebo), and in
+      the factorial studies were 105 +/- 1 captopril vs 110 +/- 1 placebo (P < 0.01)
+      and 106 +/- 1 mononitrate vs 108 +/- 1 placebo (NS). There was an excess of
+      hypotension recorded among patients allocated active treatment (captopril >
+      mononitrate > placebo) and there was a small, but significant, excess of
+      cardiogenic shock with captopril compared with control in the factorial study.
+      However, in these studies, neither captopril nor mononitrate were associated with
+      any overall increase in the incidence of hypotension considered severe enough to 
+      lead to treatment being stopped. No other serious complications were observed,
+      and compliance with study tablets at hospital discharge was not significantly
+      different between the active and placebo groups. Patients allocated magnesium in 
+      the 2 x 2 x 2 factorial study had a slightly lower mean systolic blood pressure
+      just after the initial 15 min bolus injection (126 +/- 2 magnesium vs 134 +/- 3
+      control; P < 0.05) but there were no significant differences during the
+      subsequent 24 h maintenance infusion period. Apart from some facial flushing,
+      magnesium did not appear to be associated with any complications.(ABSTRACT
+      TRUNCATED AT 400 WORDS)
+AD  - John Radcliffe Hospital, Oxford, U.K.
+FAU - Flather, M
+AU  - Flather M
+FAU - Pipilis, A
+AU  - Pipilis A
+FAU - Collins, R
+AU  - Collins R
+FAU - Budaj, A
+AU  - Budaj A
+FAU - Hargreaves, A
+AU  - Hargreaves A
+FAU - Kolettis, T
+AU  - Kolettis T
+FAU - Jacob, A
+AU  - Jacob A
+FAU - Millane, T
+AU  - Millane T
+FAU - Fitzgerald, L
+AU  - Fitzgerald L
+FAU - Cedro, K
+AU  - Cedro K
+AU  - et al.
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Eur Heart J
+JT  - European heart journal
+JID - 8006263
+RN  - 0 (Vasodilator Agents)
+RN  - 16051-77-7 (isosorbide-5-mononitrate)
+RN  - 62571-86-2 (Captopril)
+RN  - 7487-88-9 (Magnesium Sulfate)
+RN  - 87-33-2 (Isosorbide Dinitrate)
+SB  - IM
+CIN - Eur Heart J. 1994 May;15(5):585-8. PMID: 8055995
+MH  - Captopril/administration & dosage/*therapeutic use
+MH  - Drug Administration Schedule
+MH  - Drug Therapy, Combination
+MH  - Female
+MH  - Hemodynamics/*drug effects
+MH  - Humans
+MH  - Isosorbide Dinitrate/administration & dosage/*analogs & derivatives/therapeutic
+      use
+MH  - Magnesium Sulfate/administration & dosage/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*drug therapy/mortality
+MH  - Patient Compliance
+MH  - Pilot Projects
+MH  - Research Design
+MH  - Safety
+MH  - Time Factors
+MH  - Vasodilator Agents/administration & dosage/*therapeutic use
+EDAT- 1994/05/01
+MHDA- 1994/05/01 00:01
+CRDT- 1994/05/01 00:00
+PST - ppublish
+SO  - Eur Heart J. 1994 May;15(5):608-19.
+
+PMID- 8125423
+OWN - NLM
+STAT- MEDLINE
+DA  - 19940412
+DCOM- 19940412
+LR  - 20071115
+IS  - 0340-9937 (Print)
+IS  - 0340-9937 (Linking)
+VI  - 18 Suppl 1
+DP  - 1993 Dec
+TI  - The Survival and Ventricular Enlargement (SAVE) study: rationale and perspective.
+PG  - 430-5
+AB  - Myocardial infarction increases the risk of subsequent cardiovascular events
+      (e.g., heart failure or another myocardial infarction) among survivors as
+      compared with the general population. Left ventricular dysfunction is among the
+      major risk factors for such adverse events. Although reductions in cardiovascular
+      risk have been achieved by use of aspirin, beta-blockers (and sometimes
+      revascularization and/or serum lipid-lowering agents), the potential of
+      angiotensin-converting enzyme (ACE) inhibitors to improve the outcome for
+      survivors of myocardial infarction has only recently been examined. The concept
+      that ACE inhibition might be of benefit for these patients originated from animal
+      studies demonstrating that long-term ACE inhibition therapy attenuated
+      left-ventricular enlargement. After clinical confirmation of this initial
+      finding, the Survival and Ventricular Enlargement (SAVE) trial was designed to
+      determine whether long-term ACE inhibition therapy would reduce morbidity and
+      mortality among survivors of myocardial infarction. The SAVE study found the
+      following risk reductions among captopril vs placebo recipients: death (all
+      causes) 19% (95% confidence interval, 3 to 35%; p = 0.019); cardiovascular death 
+      21% (95% confidence interval, 5 to 35%; p = 0.014); myocardial infarction 25%
+      (95% confidence interval, 5 to 40%; p = 0.012). To the list of proved therapies
+      that extend survival following myocardial infarction, the physician can now add
+      ACE inhibition with captopril for patients with left ventricular dysfunction.
+      Survivors of myocardial infarction are at heightened risk for subsequent adverse 
+      cardiovascular events.(ABSTRACT TRUNCATED AT 250 WORDS)
+AD  - Harvard Medical School, Boston, Massachusetts.
+FAU - Pfeffer, M A
+AU  - Pfeffer MA
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - GERMANY
+TA  - Herz
+JT  - Herz
+JID - 7801231
+RN  - 62571-86-2 (Captopril)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Captopril/*administration & dosage/adverse effects
+MH  - Cause of Death
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Hemodynamics/*drug effects/physiology
+MH  - Humans
+MH  - Hypertrophy, Left Ventricular/*drug therapy/mortality/physiopathology
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*drug therapy/mortality/physiopathology
+MH  - Pilot Projects
+MH  - Proportional Hazards Models
+MH  - Survival Rate
+MH  - Ventricular Function, Left/drug effects/physiology
+EDAT- 1993/12/01
+MHDA- 1993/12/01 00:01
+CRDT- 1993/12/01 00:00
+PST - ppublish
+SO  - Herz. 1993 Dec;18 Suppl 1:430-5.
+
+PMID- 8125422
+OWN - NLM
+STAT- MEDLINE
+DA  - 19940412
+DCOM- 19940412
+LR  - 20071115
+IS  - 0340-9937 (Print)
+IS  - 0340-9937 (Linking)
+VI  - 18 Suppl 1
+DP  - 1993 Dec
+TI  - Experiences with ACE inhibitors early after acute myocardial infarction.
+      Rationale and design of the German Multicenter Study on the Effects of Captopril 
+      on Cardiopulmonary Exercise parameters post myocardial infarction (ECCE).
+PG  - 424-9
+AB  - Left ventricular damage by necrosis of myocardial tissue can lead to compromise
+      of left ventricular function, to left ventricular volume increase and ultimately 
+      to development of heart failure. This sequence in the pathophysiology has been
+      shown to be blunted by ACE inhibitors. Volume increase, however, can also be
+      helpful in restoring stroke volume and ameliorate elevation of filling pressures.
+      Furthermore, very early institution of ACE inhibition has failed to improve
+      short-term mortality after myocardial infarction in one large trial. The aim of
+      the ECCE trial therefore is, to investigate the early effects of the ACE
+      inhibitor captopril on compromise of exercise capacity, thought to be a first
+      measurable sign of developing heart failure. The ECCE trial is a randomized,
+      seven-center investigation, studying the effects of ACE inhibition on oxygen
+      uptake in a double blind, placebo controlled design in a group of 204 patients.
+      Sample size was calculated on the basis of a pilot trial. The study design and
+      first not unblinded data of 104 patients are presented. The population consists
+      of predominantly male patients with mostly first myocardial infarction. They were
+      admitted to hospital within five hours of onset of chest pain. End-diastolic
+      volumes were normal, but ejection fraction was moderately compromised. ACE
+      inhibition was started after the first day, but within 72 hours of onset of chest
+      pain. After four and after twelve weeks, oxygen uptake was considerably below
+      expected values and one third of the patients had severe compromise of exercise
+      capacity.(ABSTRACT TRUNCATED AT 250 WORDS)
+FAU - Kleber, F X
+AU  - Kleber FX
+FAU - Reindl, I
+AU  - Reindl I
+FAU - Wenzel, M
+AU  - Wenzel M
+FAU - Rodewyk, P
+AU  - Rodewyk P
+FAU - Beil, S
+AU  - Beil S
+FAU - Kosloswki, B
+AU  - Kosloswki B
+FAU - Doering, W
+AU  - Doering W
+FAU - Sabin, G V
+AU  - Sabin GV
+FAU - Hinzmann, S
+AU  - Hinzmann S
+FAU - Winter, U J
+AU  - Winter UJ
+AU  - et al.
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - GERMANY
+TA  - Herz
+JT  - Herz
+JID - 7801231
+RN  - 62571-86-2 (Captopril)
+RN  - 7782-44-7 (Oxygen)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Captopril/*administration & dosage/adverse effects
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Exercise Test/*drug effects
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Heart Failure/*drug therapy/mortality/physiopathology
+MH  - Hemodynamics/*drug effects/physiology
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*drug therapy/mortality/physiopathology
+MH  - Oxygen/blood
+MH  - Pilot Projects
+MH  - Recurrence
+MH  - Survival Rate
+EDAT- 1993/12/01
+MHDA- 1993/12/01 00:01
+CRDT- 1993/12/01 00:00
+PST - ppublish
+SO  - Herz. 1993 Dec;18 Suppl 1:424-9.

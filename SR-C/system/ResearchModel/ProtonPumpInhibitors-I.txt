@@ -1,0 +1,4518 @@
+
+PMID- 12656699
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030326
+DCOM- 20030623
+LR  - 20061115
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 17
+IP  - 7
+DP  - 2003 Apr 1
+TI  - The effects of lansoprazole on erosive reflux oesophagitis are influenced by
+      CYP2C19 polymorphism.
+PG  - 965-73
+AB  - BACKGROUND: The acid suppressive effect of lansoprazole is influenced by the P450
+      2C19 (CYP2C19) polymorphism. AIM: To investigate whether the CYP2C19 genotype is 
+      related to the healing of erosive reflux oesophagitis during treatment with
+      lansoprazole. METHODS: Eighty-eight Japanese patients with erosive reflux
+      oesophagitis were treated with a daily oral dose of 30 mg lansoprazole for 8
+      weeks. The CYP2C19 genotype, Helicobacter pylori infection status and serum
+      pepsinogen I/II ratio were assessed before treatment. At 4 and 8 weeks, the
+      healing of erosive reflux oesophagitis was evaluated endoscopically. RESULTS: The
+      healing rates were 57.1%, 69.2% and 72.7% at 4 weeks and 77.4%, 95.0% and 100% at
+      8 weeks in homozygous extensive metabolizers, heterozygous extensive metabolizers
+      and poor metabolizers, respectively. At 8 weeks, the healing rate of erosive
+      reflux oesophagitis was significantly lower in homozygous extensive metabolizers 
+      than in the other two groups (P < 0.05). The H. pylori status and serum
+      pepsinogen I/II ratio had less influence than CYP2C19 polymorphism on the healing
+      rate of erosive reflux oesophagitis. CONCLUSIONS: The therapeutic effect of
+      lansoprazole on erosive reflux oesophagitis is influenced by the CYP2C19 genotype
+      status. Therefore, a test of CYP2C19 genotype may be useful for the medical
+      treatment of reflux oesophagitis with lansoprazole.
+AD  - Division of Gastroenterology, Tohoku University Graduate School of Medicine,
+      Sendai, Miyagi, Japan. dq8m-kwmr@asahi-net.or.jp
+FAU - Kawamura, M
+AU  - Kawamura M
+FAU - Ohara, S
+AU  - Ohara S
+FAU - Koike, T
+AU  - Koike T
+FAU - Iijima, K
+AU  - Iijima K
+FAU - Suzuki, J
+AU  - Suzuki J
+FAU - Kayaba, S
+AU  - Kayaba S
+FAU - Noguchi, K
+AU  - Noguchi K
+FAU - Hamada, S
+AU  - Hamada S
+FAU - Noguchi, M
+AU  - Noguchi M
+FAU - Shimosegawa, T
+AU  - Shimosegawa T
+CN  - Study Group of GERD
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PL  - England
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 73590-58-6 (Omeprazole)
+RN  - 9035-51-2 (Cytochrome P-450 Enzyme System)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Anti-Ulcer Agents/*therapeutic use
+MH  - *Cytochrome P-450 Enzyme System
+MH  - Esophagitis, Peptic/*drug therapy/genetics
+MH  - Female
+MH  - Gastroesophageal Reflux/*drug therapy/genetics
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/analogs & derivatives/*therapeutic use
+MH  - *Polymorphism, Genetic
+MH  - Treatment Outcome
+EDAT- 2003/03/27 05:00
+MHDA- 2003/06/24 05:00
+CRDT- 2003/03/27 05:00
+AID - 1539 [pii]
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 2003 Apr 1;17(7):965-73.
+
+PMID- 11876701
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020305
+DCOM- 20020604
+LR  - 20061115
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 16
+IP  - 3
+DP  - 2002 Mar
+TI  - A randomized, double-blind, comparative study of standard-dose rabeprazole and
+      high-dose omeprazole in gastro-oesophageal reflux disease.
+PG  - 479-85
+AB  - BACKGROUND: Rabeprazole has a faster onset of antisecretory action than
+      omeprazole, and it is of interest to determine whether this translates into
+      faster symptom relief in patients with gastro-oesophageal reflux disease. AIMS:
+      To assess the relief from heartburn after 3 days of treatment with standard-dose 
+      rabeprazole or high-dose omeprazole (primary end-point). Secondary end-points
+      included the decrease in score for other symptoms of gastro-oesophageal reflux
+      disease, healing rates and quantification of antacid use. METHODS: Patients with 
+      endoscopically confirmed erosive oesophagitis were randomized to receive 4 weeks 
+      of double-blind treatment with rabeprazole (20 mg) or omeprazole (40 mg).
+      Patients who were not healed after 4 weeks received a further 4 weeks of
+      treatment. RESULTS: Two hundred and seventy-four patients were screened, 251
+      patients were randomized and 230 patients completed the trial. The numbers of
+      patients with relief from heartburn on day 4 were similar in the two groups (84% 
+      for rabeprazole; 95% confidence interval, 76-90%; 83% for omeprazole; 95%
+      confidence interval, 75-89%). There were no significant differences between the
+      treatments in the relief from other gastro-oesophageal reflux disease symptoms or
+      in healing rates. The number of reports of severe heartburn during the first 3
+      days was higher in the omeprazole group (daytime heartburn: 4.7% for rabeprazole 
+      vs. 10.3% for omeprazole, P=0.005; night-time heartburn: 4.7% for rabeprazole vs.
+      9.8% for omeprazole, P=0.01; statistical comparisons defined post hoc).
+      CONCLUSIONS: Standard-dose rabeprazole was as effective as high-dose omeprazole
+      in relieving symptoms by day 4 of treatment and in healing oesophageal lesions,
+      but had a faster onset of action in patients with severe heartburn. This suggests
+      that the improved pharmacological properties of rabeprazole translate into a
+      clinically relevant advantage.
+AD  - Department of Gastroenterology and Hepatology, University of Essen, Essen,
+      Germany. g.holtmann@uni-essen.de
+FAU - Holtmann, G
+AU  - Holtmann G
+FAU - Bytzer, P
+AU  - Bytzer P
+FAU - Metz, M
+AU  - Metz M
+FAU - Loeffler, V
+AU  - Loeffler V
+FAU - Blum, A L
+AU  - Blum AL
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Benzimidazoles)
+RN  - 117976-90-6 (rabeprazole)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Benzimidazoles/*administration & dosage/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Endoscopy, Gastrointestinal
+MH  - Female
+MH  - Gastroesophageal Reflux/*drug therapy
+MH  - Heartburn/*drug therapy
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/*administration & dosage/adverse effects/*therapeutic use
+MH  - Treatment Outcome
+EDAT- 2002/03/06 10:00
+MHDA- 2002/06/05 10:01
+CRDT- 2002/03/06 10:00
+AID - 1207 [pii]
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 2002 Mar;16(3):479-85.
+
+PMID- 11802750
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020122
+DCOM- 20020212
+LR  - 20061115
+IS  - 0003-9926 (Print)
+IS  - 0003-9926 (Linking)
+VI  - 162
+IP  - 2
+DP  - 2002 Jan 28
+TI  - Ulcer prevention in long-term users of nonsteroidal anti-inflammatory drugs:
+      results of a double-blind, randomized, multicenter, active- and
+      placebo-controlled study of misoprostol vs lansoprazole.
+PG  - 169-75
+AB  - BACKGROUND: Studies that report prevention of ulcer recurrence among long-term
+      users of nonsteroidal anti-inflammatory drugs (NSAIDs) that do not stratify for
+      Helicobacter pylori status may not be generalizable to the large population of
+      individuals without H pylori. METHODS: This was a prospective, double-blind,
+      multicenter, active- and placebo-controlled study among 537 patients without H
+      pylori who were long-term users of NSAIDs and who had a history of endoscopically
+      documented gastric ulcer. Patients were randomized to receive placebo, 200 microg
+      of misoprostol 4 times a day, or 15 or 30 mg of lansoprazole once daily for 12
+      weeks. Ulcer status was determined by endoscopy at 4, 8, and 12 weeks. RESULTS:
+      Patients receiving lansoprazole (15 or 30 mg) remained free from gastric ulcer
+      longer than those who received placebo (P<.001) but for a shorter time than those
+      who received misoprostol. By week 12, the percentages of gastric ulcer-free
+      patients were as follows: placebo, 51% (95% confidence interval [CI],
+      41.1%-61.3%); misoprostol, 93% (95% CI, 87.2%-97.9%); 15-mg lansoprazole, 80%
+      (95% CI, 72.5%-87.3%); and 30-mg lansoprazole, 82% (95% CI, 75.0%-89.6%). A
+      significantly higher proportion of patients in the misoprostol group reported
+      treatment-related adverse events and early withdrawal from the study. When the
+      impact of withdrawals on ulcer development was considered (as failures), therapy 
+      was successful for 69% for each of the active treatment groups and 35% for the
+      placebo group. CONCLUSIONS: Proton pump inhibitors such as lansoprazole are
+      superior to placebo for the prevention of NSAID-induced gastric ulcers but not
+      superior to misoprostol, 800 microg/d. When the poor compliance and potential
+      adverse effects associated with misoprostol are considered, proton pump
+      inhibitors and full-dose misoprostol are clinically equivalent.
+AD  - Veterans Affairs Medical Center (111D), 2002 Holcombe Blvd, Room 3A-320, Houston,
+      TX 77030-4211, USA. dgraham@bcm.tmc.edu
+FAU - Graham, David Y
+AU  - Graham DY
+FAU - Agrawal, Naurang M
+AU  - Agrawal NM
+FAU - Campbell, Donald R
+AU  - Campbell DR
+FAU - Haber, Marian M
+AU  - Haber MM
+FAU - Collis, Cyndy
+AU  - Collis C
+FAU - Lukasik, Nancy L
+AU  - Lukasik NL
+FAU - Huang, Bidan
+AU  - Huang B
+CN  - NSAID-Associated Gastric Ulcer Prevention Study Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Arch Intern Med
+JT  - Archives of internal medicine
+JID - 0372440
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 59122-46-2 (Misoprostol)
+RN  - 73590-58-6 (Omeprazole)
+RN  - EC 3.6.1.10 (H(+)-K(+)-Exchanging ATPase)
+SB  - AIM
+SB  - IM
+CIN - Arch Intern Med. 2002 Oct 28;162(19):2248. PMID: 12390073
+CIN - Arch Intern Med. 2002 Oct 28;162(19):2248-9. PMID: 12390074
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Aged
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*adverse effects
+MH  - Anti-Ulcer Agents/*therapeutic use
+MH  - Double-Blind Method
+MH  - Enzyme Inhibitors/*therapeutic use
+MH  - Female
+MH  - H(+)-K(+)-Exchanging ATPase/*antagonists & inhibitors
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Misoprostol/*therapeutic use
+MH  - Omeprazole/*analogs & derivatives/*therapeutic use
+MH  - Prospective Studies
+MH  - Stomach Ulcer/*chemically induced/drug therapy/*prevention & control
+EDAT- 2002/02/13 10:00
+MHDA- 2002/02/13 10:01
+CRDT- 2002/02/13 10:00
+AID - ioi10042 [pii]
+PST - ppublish
+SO  - Arch Intern Med. 2002 Jan 28;162(2):169-75.
+
+PMID- 11695354
+OWN - NLM
+STAT- MEDLINE
+DA  - 20011105
+DCOM- 20011204
+LR  - 20061115
+IS  - 0002-9270 (Print)
+IS  - 0002-9270 (Linking)
+VI  - 96
+IP  - 10
+DP  - 2001 Oct
+TI  - Symptom relief in gastroesophageal reflux disease: a randomized, controlled
+      comparison of pantoprazole and nizatidine in a mixed patient population with
+      erosive esophagitis or endoscopy-negative reflux disease.
+PG  - 2849-57
+AB  - OBJECTIVES: Gastroesophageal reflux disease (GERD) in primary care practice
+      presents symptomatically, and resources to distinguish promptly between erosive
+      esophagitis and endoscopy-negative reflux disease (ENRD) are limited. It is
+      therefore important to determine the roles of proton pump inhibitors and
+      histamine-2-receptor antagonists for first-line symptom-based therapy in patients
+      with erosive esophagitis and ENRD. The aim of this study was to compare
+      pantoprazole 40 mg once daily versus nizatidine 150 mg b.i.d. in a mixed GERD
+      patient population with ENRD or erosive esophagitis (Savary-Miller grades 1-3).
+      METHODS: A 4-wk randomized, double-blind, parallel-group, multicenter study
+      conducted in Canada. Eligible patients had experienced GERD symptoms > or = 4
+      times weekly for > 6 months. Patients were randomized to pantoprazole 40 mg once 
+      daily or nizatidine 150 mg b.i.d.. Endoscopy was performed before randomization
+      and after 4 wk of therapy. RESULTS: Of 220 patients randomized to therapy, 208
+      were available for a modified intent-to-treat analysis. Erosive esophagitis was
+      present in 125 patients; 35 patients were Helicobacter pylori positive. There was
+      complete symptom relief after 7 days of therapy in 14% of patients on nizatidine 
+      and in 40% of those on pantoprazole (p < 0.0001), and after 28 days of treatment 
+      in 36% and 63% of patients, respectively (p < 0.0001). After 28 days of
+      treatment, adequate heartburn control was reported by 58% of the nizatidine group
+      and in 88% of the pantoprazole (p < 0.0001); erosive esophagitis healing rates
+      were 44% for nizatidine and 79% for pantoprazole (p < 0.001). Rescue antacid was 
+      needed by a greater number of patients using nizatidine than of those using
+      pantoprazole (p < 0.001). H. pylori infection was associated with an increased
+      probability of erosive esophagitis healing. CONCLUSIONS: Pantoprazole once daily 
+      was superior to nizatidine b.i.d. in producing complete heartburn relief in a
+      mixed population of GERD patients and in achieving erosion healing. The
+      proportions of patients with complete symptom relief were greater with
+      pantoprazole after 7 days of therapy than with nizatidine after 28 days. The
+      present study data suggest that pantoprazole is a highly effective first-line
+      therapy for the management of gastroesophageal reflux disease in a primary care
+      practice setting.
+AD  - Division of Gastroenterology, McMaster University, Hamilton, Ontario, Canada.
+FAU - Armstrong, D
+AU  - Armstrong D
+FAU - Pare, P
+AU  - Pare P
+FAU - Pericak, D
+AU  - Pericak D
+FAU - Pyzyk, M
+AU  - Pyzyk M
+CN  - Canadian Pantoprazole GERD Study Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Am J Gastroenterol
+JT  - The American journal of gastroenterology
+JID - 0421030
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Histamine H2 Antagonists)
+RN  - 0 (Sulfoxides)
+RN  - 102625-70-7 (pantoprazole)
+RN  - 73590-58-6 (Omeprazole)
+RN  - 76963-41-2 (Nizatidine)
+RN  - EC 3.6.1.10 (H(+)-K(+)-Exchanging ATPase)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adult
+MH  - Anti-Ulcer Agents/*therapeutic use
+MH  - Benzimidazoles/*therapeutic use
+MH  - Double-Blind Method
+MH  - Enzyme Inhibitors/*therapeutic use
+MH  - Esophagitis, Peptic/*drug therapy/pathology
+MH  - Esophagoscopy
+MH  - Female
+MH  - Gastroesophageal Reflux/*drug therapy/pathology
+MH  - H(+)-K(+)-Exchanging ATPase/*antagonists & inhibitors
+MH  - Histamine H2 Antagonists/*therapeutic use
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Nizatidine/*therapeutic use
+MH  - Omeprazole/analogs & derivatives
+MH  - Sulfoxides/*therapeutic use
+EDAT- 2001/11/07 10:00
+MHDA- 2002/01/05 10:01
+CRDT- 2001/11/07 10:00
+AID - S0002-9270(01)02799-X [pii]
+AID - 10.1111/j.1572-0241.2001.4237_a.x [doi]
+PST - ppublish
+SO  - Am J Gastroenterol. 2001 Oct;96(10):2849-57.
+
+PMID- 11563998
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010920
+DCOM- 20020628
+LR  - 20061115
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 15
+IP  - 10
+DP  - 2001 Oct
+TI  - Comparable clinical efficacy and tolerability of 20 mg pantoprazole and 20 mg
+      omeprazole in patients with grade I reflux oesophagitis.
+PG  - 1585-91
+AB  - BACKGROUND: Several clinical trials have shown that pantoprazole (40 mg) and
+      omeprazole (40 or 20 mg) have similar efficacy and safety in the treatment of
+      grade II-IV reflux oesophagitis (Savary-Miller classification). AIM: To compare
+      the efficacy and safety of once-daily doses of pantoprazole (20 mg) and
+      omeprazole (20 mg) with respect to symptom relief and healing of patients with
+      grade I reflux oesophagitis. METHODS: Patients with endoscopically established
+      grade I reflux oesophagitis (non-confluent, patchy red lesions with/without white
+      fibrin coating) were enrolled into this randomized, open, parallel-group,
+      multicentre study. A total of 328 patients (n=166 in the pantoprazole group,
+      n=162 in the omeprazole group) were recruited in 23 centres. Patients received 4 
+      weeks of treatment. If the reflux oesophagitis was not completely healed, the
+      treatment was extended to 8 weeks. RESULTS: After 2 and 4 weeks of treatment with
+      either pantoprazole or omeprazole, the rate of symptom relief was similar (70%
+      vs. 79% and 77% vs. 84%, respectively). High healing rates were observed after 4 
+      and 8 weeks (pantoprazole: 84% and 90%, respectively; omeprazole: 89% and 95%,
+      respectively). Both treatments were well tolerated. The most frequently reported 
+      adverse events on pantoprazole and omeprazole, respectively, were nausea (8% vs. 
+      7%), diarrhoea (5% vs. 6%) and headache (6% vs. 3%). CONCLUSIONS: After 4 and 8
+      weeks of treatment with pantoprazole (20 mg) or omeprazole (20 mg), patients with
+      mild gastro-oesophageal reflux disease (grade I) showed comparably high rates of 
+      symptom relief and healing. Both treatments were safe and well tolerated.
+AD  - Rotherham District General Hospital, Moorgate Road, Rotherham, South Yorkshire
+      S60 2UD, UK. bardhan.sec@rgh-tr.trent.nhd.uk
+FAU - Bardhan, K D
+AU  - Bardhan KD
+FAU - Van Rensburg, C
+AU  - Van Rensburg C
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Sulfoxides)
+RN  - 102625-70-7 (pantoprazole)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adult
+MH  - Anti-Ulcer Agents/administration & dosage/*therapeutic use
+MH  - Benzimidazoles/administration & dosage/*therapeutic use
+MH  - Esophagitis, Peptic/*drug therapy
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/administration & dosage/*therapeutic use
+MH  - Sulfoxides/administration & dosage/*therapeutic use
+MH  - Treatment Outcome
+EDAT- 2001/09/21 10:00
+MHDA- 2002/06/29 10:01
+CRDT- 2001/09/21 10:00
+AID - apt1089 [pii]
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 2001 Oct;15(10):1585-91.
+
+PMID- 11519776
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010824
+DCOM- 20020109
+LR  - 20071115
+IS  - 0149-2918 (Print)
+IS  - 0149-2918 (Linking)
+VI  - 23
+IP  - 7
+DP  - 2001 Jul
+TI  - Healing and relapse rates in gastroesophageal reflux disease treated with the
+      newer proton-pump inhibitors lansoprazole, rabeprazole, and pantoprazole compared
+      with omeprazole, ranitidine, and placebo: evidence from randomized clinical
+      trials.
+PG  - 998-1017
+AB  - BACKGROUND: The older proton pump inhibitor (PPI) omeprazole and the newer PPIs
+      lansoprazole, rabeprazole, and pantoprazole are approved for the acute and
+      maintenance treatment of gastroesophageal reflux disease (GERD). OBJECTIVE: On
+      the basis of the results of randomized clinical trials, this study sought to
+      estimate healing and relapse rates in acute and maintenance treatment of GERD
+      with the newer PPIs compared with omeprazole, the histamine2-receptor antagonist 
+      ranitidine (the most frequent non-PPI comparator in studies of PPIs), and
+      placebo. METHODS: A search of MEDLINE was conducted to identify randomized,
+      controlled clinical trials that included a PPI in > or =1 treatment arm and
+      assessed the healing of erosive esophagitis endoscopically. The primary outcome
+      for studies of acute therapy was healing rate, and the primary outcome for
+      studies of maintenance therapy was relapse rate. RESULTS: Fifty-three studies
+      were identified, of which 38 involved acute therapy (12 excluded) and 15
+      maintenance therapy. None of the studies of pantoprazole met the inclusion
+      criteria for maintenance therapy. The 8-week overall healing rate ratios in the
+      comparison of newer PPIs with omeprazole 20 mg/d were as follows: lansoprazole 30
+      mg/d, 1.02 (95% CI, 0.98-1.06): rabeprazole 20 mg/d, 0.93 (95% CI, 0.87-1.00);
+      and pantoprazole 40 mg/d, 0.98 (95% CI, 0.90-1.07). In the comparison of any PPI 
+      with ranitidine 300 mg/d, the ratios were as follows: lansoprazole, 1.62 (95% CI,
+      1.46-1.76); rabeprazole, 1.36 (95% CI, 1.20-1.54); pantoprazole, 1.60 (95% CI,
+      1.33-1.96); and omeprazole, 1.58 (95% CI, 1.41-1.78). Relapse rates over 1 year
+      of treatment were similar between lansoprazole and rabeprazole. Compared with
+      ranitidine, there were statistically significant differences in the rates of
+      resolution of heartburn symptoms (P < 0.002), ulcer healing (P < 0.05), and
+      relapse (P < 0.01). Similar results were seen in the comparison of PPIs with
+      placebo in terms of rates of resolution of heartburn symptoms (P < 0.01), ulcer
+      healing (P < 0.001), and relapse (P < 0.006). CONCLUSIONS: In this study, the
+      newer PPIs were of similar efficacy to omeprazole in terms of heartburn control, 
+      healing rates, and relapse rates. All the PPIs were superior to ranitidine and
+      placebo in healing erosive esophagitis and decreasing relapse rates.
+AD  - Division of General Internal Medicine, McGill University, Montreal, Quebec,
+      Canada. jcaro@caroresearch.com
+FAU - Caro, J J
+AU  - Caro JJ
+FAU - Salas, M
+AU  - Salas M
+FAU - Ward, A
+AU  - Ward A
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Clin Ther
+JT  - Clinical therapeutics
+JID - 7706726
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Sulfoxides)
+RN  - 102625-70-7 (pantoprazole)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 117976-90-6 (rabeprazole)
+RN  - 66357-35-5 (Ranitidine)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Anti-Ulcer Agents/*therapeutic use
+MH  - Benzimidazoles/therapeutic use
+MH  - Gastroesophageal Reflux/*drug therapy
+MH  - Humans
+MH  - Omeprazole/*analogs & derivatives/therapeutic use
+MH  - Randomized Controlled Trials as Topic
+MH  - Ranitidine/therapeutic use
+MH  - Sulfoxides/therapeutic use
+MH  - Treatment Outcome
+EDAT- 2001/08/25 10:00
+MHDA- 2002/01/10 10:01
+CRDT- 2001/08/25 10:00
+AID - S0149-2918(01)80087-4 [pii]
+PST - ppublish
+SO  - Clin Ther. 2001 Jul;23(7):998-1017.
+
+PMID- 11474311
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010727
+DCOM- 20010913
+LR  - 20091016
+IS  - 0954-691X (Print)
+IS  - 0954-691X (Linking)
+VI  - 13
+IP  - 7
+DP  - 2001 Jul
+TI  - Relapse prevention in reflux oesophagitis with regard to Helicobacter pylori
+      status: a double-blind, randomized, multicentre trial to compare the efficacy of 
+      pantoprazole versus ranitidine.
+PG  - 811-7
+AB  - OBJECTIVE: To compare prospectively the effectiveness of 1 year's treatment with 
+      pantoprazole versus ranitidine in order to prevent relapse after initial cure of 
+      reflux oesophagitis. For the first time the influence of the initial Helicobacter
+      pylori status on therapeutic results was also taken into account. METHODS: In
+      order to cure reflux oesophagitis, 396 patients with Savary/Miller stage II or
+      III reflux oesophagitis were treated with pantoprazole 40 mg once daily for 8
+      weeks. Those who were H. pylori positive (n = 140) were also given 1 week of
+      eradication treatment with clarithromycin 2 x 250 mg daily, metronidazole 2 x 400
+      mg daily, and a further 40 mg pantoprazole daily. The 303 patients who were
+      endoscopically cured after the 8-week period were randomized and treated with
+      either pantoprazole 20 mg (n = 199) or ranitidine 150 mg (n = 104) daily in
+      double-blind fashion. The primary objective was to assess the time to
+      endoscopically proven recurrence of reflux oesophagitis. RESULTS: In the
+      intention-to-treat (ITT) population, 66.3% (118/178) of the pantoprazole group
+      and 34.0% (32/94) of the ranitidine group showed neither endoscopic nor clinical 
+      symptoms of relapse after the 1-year treatment period (P < 0.0001) (per-protocol 
+      populations: 70.3% [109/155] in the pantoprazole group and 39.4% [28/71] in the
+      ranitidine group). In the pantoprazole group, the relapse rate in initially H.
+      pylori-positive patients who underwent eradication was 30.9% (17/55) and in H.
+      pylori-negative patients 29% (29/100). CONCLUSIONS: Long-term treatment with 20
+      mg pantoprazole daily to prevent relapse of reflux oesophagitis in H.
+      pylori-negative patients is significantly more effective than 150 mg ranitidine
+      daily. The initial H. pylori eradication treatment does not influence the outcome
+      of the long-term treatment.
+AD  - Department of Medicine, St Vinzenz Krankenhaus, Duesseldorf, Germany.
+FAU - Adamek, R J
+AU  - Adamek RJ
+FAU - Behrendt, J
+AU  - Behrendt J
+FAU - Wenzel, C
+AU  - Wenzel C
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Eur J Gastroenterol Hepatol
+JT  - European journal of gastroenterology & hepatology
+JID - 9000874
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Histamine H2 Antagonists)
+RN  - 0 (Sulfoxides)
+RN  - 102625-70-7 (pantoprazole)
+RN  - 66357-35-5 (Ranitidine)
+RN  - 73590-58-6 (Omeprazole)
+RN  - EC 3.6.1.10 (H(+)-K(+)-Exchanging ATPase)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adult
+MH  - Anti-Bacterial Agents/therapeutic use
+MH  - Anti-Ulcer Agents/*therapeutic use
+MH  - Benzimidazoles/*therapeutic use
+MH  - Double-Blind Method
+MH  - Enzyme Inhibitors/therapeutic use
+MH  - Esophagitis, Peptic/*drug therapy/*microbiology/prevention & control
+MH  - Female
+MH  - H(+)-K(+)-Exchanging ATPase/antagonists & inhibitors
+MH  - Helicobacter Infections/*complications/drug therapy
+MH  - *Helicobacter pylori
+MH  - Histamine H2 Antagonists/therapeutic use
+MH  - Humans
+MH  - Male
+MH  - Omeprazole/analogs & derivatives
+MH  - Ranitidine/*therapeutic use
+MH  - Recurrence/prevention & control
+MH  - Sulfoxides/*therapeutic use
+EDAT- 2001/07/28 10:00
+MHDA- 2001/09/14 10:01
+CRDT- 2001/07/28 10:00
+PST - ppublish
+SO  - Eur J Gastroenterol Hepatol. 2001 Jul;13(7):811-7.
+
+PMID- 11421865
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010625
+DCOM- 20010809
+LR  - 20061115
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 15
+IP  - 7
+DP  - 2001 Jul
+TI  - Proton pump inhibitors versus H2-antagonists: a meta-analysis of their efficacy
+      in treating bleeding peptic ulcer.
+PG  - 917-26
+AB  - PURPOSE: To evaluate whether proton pump inhibitors are more effective than
+      H2-antagonists (H2-A) for the treatment of bleeding peptic ulcer. DATA SOURCES:
+      PubMed database until January 2000. STUDY SELECTION: Comparative randomized
+      trials of proton pump inhibitors (omeprazole, lansoprazole, or pantoprazole) vs. 
+      H2-A (cimetidine, ranitidine or famotidine). DATA EXTRACTION: Meta-analysis
+      combining the odds ratios (OR) of the individual studies in a global OR (Peto
+      method). OUTCOMES EVALUATED: Persistent or recurrent bleeding, need for surgery, 
+      or mortality. DATA SYNTHESIS: Eleven studies fulfilled the inclusion criteria and
+      contained data for at least one of the planned comparisons. Persistent or
+      recurrent bleeding was reported in 6.7% (95% CI: 4.9-8.6%) of the patients
+      treated with proton pump inhibitors, and in 13.4% (95% CI: 10.8-16%) of those
+      treated with H2-A (OR 0.4; 95% CI: 0.27-0.59) (chi2-homogeneity test, 18;
+      P=0.09). Surgery was needed in 5.2% (95% CI: 3.4-6.9%) of the patients treated
+      with proton pump inhibitors, and in 6.9% (95% CI: 4.9-8.9%) of the patients
+      treated with H2-A (OR 0.7; 95% CI: 0.43-1.13). Respective percentages for
+      mortality were 1.6% (95% CI: 0.9-2.9%) and 2.2% (95% CI: 1.3-3.7%) (OR 0.69; 95% 
+      CI: 0.31-1.57). SUB-ANALYSIS: Five studies evaluated the effect of both therapies
+      given in bolus injections on persistent or recurrent bleeding rate, which was 6% 
+      (95% CI: 3.6-8.3%) and 8.1% (95% CI: 5.3-10.9%), respectively (OR, 0.57; 95% CI: 
+      0.31-1.05). Persistent or recurrent bleeding in high risk patients (Forrest Ia,
+      Ib and IIa) occurred in 13.2% (95% CI: 7.9-8%) of the patients treated with
+      proton pump inhibitors and in 34.5% (27-42%) of those treated with H2-A (OR 0.28;
+      95% CI: 0.16-0.48). In patients not having endoscopic therapy, persistent or
+      recurrent bleeding was reported, respectively, in 4.3% (95% CI: 2.7-6.7%) and in 
+      12% (95% CI: 8.7-15%) (OR 0.24; 95% CI: 0.13-0.43). Less marked differences were 
+      observed in patients having adjunct endoscopic therapy: 10.3% (95% CI: 6.7-13.8%)
+      and 15.2% (11.1-19.3%) (OR 0.59; 95% CI: 0.36-0.97). Moreover, the significance
+      disappeared in this group when a single outlier study was excluded. CONCLUSIONS: 
+      Proton pump inhibitors are more effective than H2-A in preventing persistent or
+      recurrent bleeding from peptic ulcer, although this advantage seems to be more
+      evident in patients not having adjunct sclerosis therapy. This beneficial effect 
+      seems to be similar or even more marked in patients with Forrest Ia, Ib or IIa
+      ulcers. However, proton pump inhibitors are not more effective than H2-A for
+      reducing surgery or mortality rates. Nevertheless, the data are too scarce and
+      heterogeneous to draw definitive conclusions, and further comparative trials are 
+      clearly warranted.
+AD  - Department of Gastroenterology, University Hospital 'La Princesa', Madrid, Spain.
+      gisbert@meditex.es
+FAU - Gisbert, J P
+AU  - Gisbert JP
+FAU - Gonzalez, L
+AU  - Gonzalez L
+FAU - Calvet, X
+AU  - Calvet X
+FAU - Roque, M
+AU  - Roque M
+FAU - Gabriel, R
+AU  - Gabriel R
+FAU - Pajares, J M
+AU  - Pajares JM
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Histamine H2 Antagonists)
+RN  - 0 (Proton Pumps)
+SB  - IM
+CIN - Aliment Pharmacol Ther. 2002 Mar;16(3):645-6. PMID: 11876723
+MH  - Anti-Ulcer Agents/*pharmacology
+MH  - Endoscopy
+MH  - Enzyme Inhibitors/*pharmacology
+MH  - Histamine H2 Antagonists/*pharmacology
+MH  - Humans
+MH  - Peptic Ulcer/*drug therapy/pathology/surgery
+MH  - Peptic Ulcer Hemorrhage/*drug therapy
+MH  - Proton Pumps/*antagonists & inhibitors
+MH  - Recurrence
+MH  - Treatment Outcome
+EDAT- 2001/06/26 10:00
+MHDA- 2001/08/10 10:01
+CRDT- 2001/06/26 10:00
+AID - apt1012 [pii]
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 2001 Jul;15(7):917-26.
+
+PMID- 11395670
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010607
+DCOM- 20010816
+LR  - 20100323
+IS  - 0399-8320 (Print)
+IS  - 0399-8320 (Linking)
+VI  - 25
+IP  - 3
+DP  - 2001 Mar
+TI  - Pantoprazole versus lansoprazole in French patients with reflux esophagitis.
+PG  - 245-50
+AB  - OBJECTIVES: The aim of this study was to compare the efficacy of pantoprazole 40 
+      mg and lansoprazole 30 mg given for 4 to 8 weeks on endoscopic healing and
+      symptom relief in grade II-III reflux esophagitis patients (according to
+      Savary-Miller classification). METHODS: Four hundred and sixty one patients were 
+      included (pantoprazole n=226, lansoprazole n=235) in this prospective,
+      randomized, multicenter double-blind study. Endoscopic control was performed at 4
+      weeks and at 8 weeks if esophagitis was not healed. RESULTS: In the
+      intention-to-treat analysis, the healing rates at 4 weeks were 81 and 80% in the 
+      pantoprazole and lansoprazole groups, respectively (NS), 90 and 86% at 8 weeks
+      (NS). In the per-protocol analysis, the healing rates at 4 weeks were 86% in the 
+      2 groups and at 8 weeks 97% in the pantoprazole group and 93% in the lansoprazole
+      group (NS). The heartburn relief rates at day 14 were 88% and 86% in the
+      pantoprazole and lansoprazole groups, respectively. Only esophagitis grade at
+      entry was shown to be a predictive factor for healing at 4 weeks (P<0.0001).
+      CONCLUSION: This study showed that pantoprazole 40 mg once daily is as effective 
+      and well tolerated as lansoprazole 30 mg once daily in the treatment of grade
+      II-III acute reflux esophagitis.
+AD  - Service de Gastroenterologie, Hopital Nord, Amiens, France.
+FAU - Dupas, J L
+AU  - Dupas JL
+FAU - Houcke, P
+AU  - Houcke P
+FAU - Samoyeau, R
+AU  - Samoyeau R
+CN  - French Collaborative Pantaprazole Study Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - France
+TA  - Gastroenterol Clin Biol
+JT  - Gastroenterologie clinique et biologique
+JID - 7704825
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Sulfoxides)
+RN  - 102625-70-7 (pantoprazole)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adult
+MH  - Anti-Ulcer Agents/administration & dosage/adverse effects/*therapeutic use
+MH  - Benzimidazoles/administration & dosage/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Esophagitis, Peptic/*drug therapy/pathology
+MH  - Esophagoscopy
+MH  - Female
+MH  - France
+MH  - Heartburn/drug therapy
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/administration & dosage/adverse effects/analogs &
+      derivatives/*therapeutic use
+MH  - Pain
+MH  - Prospective Studies
+MH  - Sulfoxides/administration & dosage/adverse effects/*therapeutic use
+EDAT- 2001/06/08 10:00
+MHDA- 2001/08/17 10:01
+CRDT- 2001/06/08 10:00
+AID - MDOI-GCB-03-2001-25-3-0399-8320-101019-ART4 [pii]
+PST - ppublish
+SO  - Gastroenterol Clin Biol. 2001 Mar;25(3):245-50.
+
+PMID- 11280530
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010330
+DCOM- 20010426
+LR  - 20061115
+IS  - 0002-9270 (Print)
+IS  - 0002-9270 (Linking)
+VI  - 96
+IP  - 3
+DP  - 2001 Mar
+TI  - Efficacy and safety of esomeprazole compared with omeprazole in GERD patients
+      with erosive esophagitis: a randomized controlled trial.
+PG  - 656-65
+AB  - OBJECTIVE: In patients with gastroesophageal reflux disease (GERD), esomeprazole,
+      the S-isomer of omeprazole, has demonstrated pharmacological and clinical
+      benefits beyond those seen with the racemic parent compound. This study was
+      designed to further evaluate the efficacy and tolerability of esomeprazole
+      relative to that of omeprazole in healing erosive esophagitis and resolving
+      accompanying symptoms of GERD. METHODS: Esomeprazole 40 mg was compared with
+      omeprazole 20 mg once daily in 2425 patients with erosive esophagitis
+      (Helicobacter pylori negative by serology) in an 8-wk, multicenter, randomized,
+      double-blind, parallel-group study conducted in 163 centers throughout the US.
+      The primary efficacy endpoint was the proportion of patients with healed
+      esophagitis at wk 8. Secondary endpoints were the proportion of patients healed
+      at wk 4, resolution of heartburn at wk 4, time to first resolution and sustained 
+      resolution of heartburn, and proportion of heartburn-free days and nights. Safety
+      and tolerability were also assessed. RESULTS: Significantly more patients were
+      healed with esomeprazole versus omeprazole at wk 8 (93.7% vs 84.2%, p < 0.001;
+      life table estimates, intention-to-treat analysis). Healing rates at wk 4 were
+      81.7% and 68.7%, respectively. Esomeprazole was superior to omeprazole for all
+      secondary measures and had a similar safety profile. The most common adverse
+      events in both treatment groups were headache, diarrhea, and nausea. CONCLUSIONS:
+      Esomeprazole demonstrates significantly greater efficacy than omeprazole in the
+      treatment of GERD patients with erosive esophagitis. The tolerability and safety 
+      of esomeprazole are comparable to that of omeprazole. (Am
+AD  - Department of Gastroenterology, Cleveland Clinic Foundation, Ohio 44195, USA.
+FAU - Richter, J E
+AU  - Richter JE
+FAU - Kahrilas, P J
+AU  - Kahrilas PJ
+FAU - Johanson, J
+AU  - Johanson J
+FAU - Maton, P
+AU  - Maton P
+FAU - Breiter, J R
+AU  - Breiter JR
+FAU - Hwang, C
+AU  - Hwang C
+FAU - Marino, V
+AU  - Marino V
+FAU - Hamelin, B
+AU  - Hamelin B
+FAU - Levine, J G
+AU  - Levine JG
+CN  - Esomeprazole Study Investigators
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Am J Gastroenterol
+JT  - The American journal of gastroenterology
+JID - 0421030
+RN  - 0 (Enzyme Inhibitors)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Double-Blind Method
+MH  - Enzyme Inhibitors/adverse effects/*therapeutic use
+MH  - Esophagitis/*complications
+MH  - Female
+MH  - Gastroesophageal Reflux/*complications/*drug therapy
+MH  - Humans
+MH  - Isomerism
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/adverse effects/*analogs & derivatives/*therapeutic use
+MH  - Safety
+MH  - Treatment Outcome
+EDAT- 2001/03/31 10:00
+MHDA- 2001/05/01 10:01
+CRDT- 2001/03/31 10:00
+AID - S0002-9270(00)02393-5 [pii]
+AID - 10.1111/j.1572-0241.2001.3600_b.x [doi]
+PST - ppublish
+SO  - Am J Gastroenterol. 2001 Mar;96(3):656-65.
+
+PMID- 11199361
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010125
+DCOM- 20010329
+LR  - 20061115
+IS  - 0036-5521 (Print)
+IS  - 0036-5521 (Linking)
+VI  - 35
+IP  - 12
+DP  - 2000 Dec
+TI  - Rabeprazole, 20 mg once daily or 10 mg twice daily, is equivalent to omeprazole, 
+      20 mg once daily, in the healing of erosive gastrooesophageal reflux disease.
+PG  - 1245-50
+AB  - BACKGROUND: Proton pump inhibitors are the most potent pharmacologic inhibitors
+      of gastric acid secretion currently available, and have proven effective in the
+      treatment of gastro-oesophageal reflux disease (GERD). The object of this study
+      was to compare the efficacy and tolerability of a new proton pump inhibitor,
+      rabeprazole at two different dosages, with that of omeprazole in the healing of
+      erosive GERD. METHODS: Rabeprazole 20 mg once daily (QD) and 10 mg twice daily
+      (BID) were compared with omeprazole 20 mg QD in a double-blind, multicentre,
+      parallel group study involving 310 patients with erosive GERD. The primary
+      efficacy endpoint was oesophageal mucosal healing determined by endoscopy.
+      Secondary endpoints included reduction in symptoms and improvements in
+      quality-of-life scores. RESULTS: The healing rates between both rabeprazole
+      groups and the omeprazole group were equivalent in both the per-protocol and
+      intent-to-treat populations. In the per-protocol population, rabeprazole 20 mg
+      was noted to have a numerical trend toward more rapid daytime heartburn relief.
+      However, by 4 and 8 weeks of treatment, no significant differences were found
+      between groups for secondary endpoints, adverse events, or laboratory
+      abnormalities including elevation of serum gastrin levels. CONCLUSIONS:
+      Rabeprazole 20 mg in two different dosing schedules is as effective as omeprazole
+      20 mg QD with regard to efficacy and tolerability in patients with erosive GERD.
+AD  - Centre Hospitalier Universitaire H. Mondor, Creteil, France.
+FAU - Delchier, J C
+AU  - Delchier JC
+FAU - Cohen, G
+AU  - Cohen G
+FAU - Humphries, T J
+AU  - Humphries TJ
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - Norway
+TA  - Scand J Gastroenterol
+JT  - Scandinavian journal of gastroenterology
+JID - 0060105
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Proton Pumps)
+RN  - 117976-90-6 (rabeprazole)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adult
+MH  - Benzimidazoles/*administration & dosage/therapeutic use
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Enzyme Inhibitors/*administration & dosage/therapeutic use
+MH  - Female
+MH  - Gastroesophageal Reflux/*drug therapy
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/*administration & dosage/therapeutic use
+MH  - Proton Pumps/antagonists & inhibitors
+EDAT- 2001/02/24 12:00
+MHDA- 2001/04/03 10:01
+CRDT- 2001/02/24 12:00
+PST - ppublish
+SO  - Scand J Gastroenterol. 2000 Dec;35(12):1245-50.
+
+PMID- 11154169
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010110
+DCOM- 20010510
+LR  - 20061115
+IS  - 0192-0790 (Print)
+IS  - 0192-0790 (Linking)
+VI  - 32
+IP  - 1
+DP  - 2001 Jan
+TI  - Long-term follow-up and serologic assessment after triple therapy with omeprazole
+      or lansoprazole of Helicobacter-associated duodenal ulcer.
+PG  - 45-8
+AB  - We assessed both the effectiveness of two Helicobacter pylori (Hp) eradication
+      triple therapies and the usefulness of serology in the follow-up. Fifty patients 
+      with active or scarred duodenal ulcer were randomized to lansoprazole or
+      omeprazole for 1 to 4 weeks, with clarithromycin 250 mg twice a day and
+      tinidazole 500 mg twice a day for the first week. Endoscopies were scheduled
+      before treatment, after 8 weeks, and after I year. H. pylori status was
+      determined before therapy by rapid urease test and histology and during the
+      follow-up by histology and culture. Serology was determined at baseline and at 6 
+      and 12 months. The regimens were equally effective in inducing ulcer healing
+      (95.8% vs. 87.5%) and eradicating Hp with no recurrences at 12 months. Among 44
+      patients eradicated, a significant reduction of immunoglobulin G (IgG) titer
+      occurred at 6 (p < 0.0001) and 12 months (p < 0.0001). If a titer reduction of
+      more than 30% was taken as an indicator for Hp eradication, the specificity of
+      enzyme-linked immunosorbent assay was 75% at 6 and 95.4% at 12 months with a 100%
+      sensitivity. Either lansoprazole or omeprazole combined with antibiotics are
+      effective in eradicating Hp. Serology is useful for monitoring Hp eradication
+      provided that an appropriate percent reduction in IgG titer is used after more
+      then 6 months after therapy.
+AD  - Gastroenterology, Unit, University of Milan, IRCCS San Raffaele Hospital, Italy.
+FAU - Fanti, L
+AU  - Fanti L
+FAU - Ieri, R
+AU  - Ieri R
+FAU - Mezzi, G
+AU  - Mezzi G
+FAU - Testoni, P A
+AU  - Testoni PA
+FAU - Passaretti, S
+AU  - Passaretti S
+FAU - Guslandi, M
+AU  - Guslandi M
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - United States
+TA  - J Clin Gastroenterol
+JT  - Journal of clinical gastroenterology
+JID - 7910017
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Antibodies, Bacterial)
+RN  - 0 (Immunoglobulin G)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 19387-91-8 (Tinidazole)
+RN  - 73590-58-6 (Omeprazole)
+RN  - 81103-11-9 (Clarithromycin)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adult
+MH  - Anti-Bacterial Agents/therapeutic use
+MH  - Anti-Ulcer Agents/*therapeutic use
+MH  - Antibodies, Bacterial/blood
+MH  - Clarithromycin/therapeutic use
+MH  - Drug Therapy, Combination
+MH  - Duodenal Ulcer/*drug therapy/immunology/*microbiology
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Helicobacter Infections/*drug therapy/immunology/microbiology
+MH  - Helicobacter pylori/*immunology
+MH  - Humans
+MH  - Immunoglobulin G/biosynthesis
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/*analogs & derivatives/*therapeutic use
+MH  - Sensitivity and Specificity
+MH  - Tinidazole/therapeutic use
+EDAT- 2001/01/12 11:00
+MHDA- 2001/05/22 10:01
+CRDT- 2001/01/12 11:00
+PST - ppublish
+SO  - J Clin Gastroenterol. 2001 Jan;32(1):45-8.
+
+PMID- 11121908
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010118
+DCOM- 20010118
+LR  - 20061115
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 14
+IP  - 12
+DP  - 2000 Dec
+TI  - One-week triple therapy with esomeprazole provides effective eradication of
+      Helicobacter pylori in duodenal ulcer disease.
+PG  - 1605-11
+AB  - BACKGROUND: Esomeprazole is the first proton pump inhibitor to be developed as an
+      optical isomer for the treatment of acid-related diseases. METHODS: Four hundred 
+      and forty eight duodenal ulcer patients with Helicobacter pylori infection,
+      confirmed by 13C-urea breath test (UBT), and no current ulcer, were randomised to
+      double-blind treatment with esomeprazole 20 mg twice daily (b.d.) (n=224) or
+      omeprazole 20 mg b.d. (n=224), in combination with amoxicillin 1 g b.d. and
+      clarithromycin 500 mg b.d. for 1 week (EAC and OAC, respectively). A negative UBT
+      at both 4 and 8 weeks after completing therapy indicated successful H. pylori
+      eradication. RESULTS: Intention-to-treat (ITT) analysis comprised 400 patients
+      (EAC, n=204; OAC, n=196) and per protocol (PP) analysis 377 patients (EAC, n=192;
+      OAC, n=185). Eradication rates (95% confidence intervals) for ITT and PP
+      populations were: EAC, 90% (85-94%) and 91% (86-94%); OAC, 88% (82-92%) and 91%
+      (86-95%). Between-group differences in eradication rates were not statistically
+      significant. Both regimens were well tolerated, with an adverse event profile and
+      frequency typical of proton pump inhibitor plus antibiotic combination therapy.
+      CONCLUSIONS: Esomeprazole-based triple therapy for 1 week is highly effective in 
+      eradicating H. pylori infection in duodenal ulcer disease, offers comparable
+      efficacy to omeprazole-based therapy, and is well tolerated.
+AD  - Queen Elizabeth II Health Science Centre, Halifax, Nova Scotia, Canada.
+FAU - Veldhuyzen Van Zanten, S
+AU  - Veldhuyzen Van Zanten S
+FAU - Lauritsen, K
+AU  - Lauritsen K
+FAU - Delchier, J C
+AU  - Delchier JC
+FAU - Labenz, J
+AU  - Labenz J
+FAU - De Argila, C M
+AU  - De Argila CM
+FAU - Lind, T
+AU  - Lind T
+FAU - Treichel, H C
+AU  - Treichel HC
+FAU - Stubberod, A
+AU  - Stubberod A
+FAU - Cockeram, A
+AU  - Cockeram A
+FAU - Hasselgren, G
+AU  - Hasselgren G
+FAU - Gothe, L
+AU  - Gothe L
+FAU - Wrangstadh, M
+AU  - Wrangstadh M
+FAU - Sinclair, P
+AU  - Sinclair P
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (Enzyme Inhibitors)
+RN  - 26787-78-0 (Amoxicillin)
+RN  - 73590-58-6 (Omeprazole)
+RN  - 81103-11-9 (Clarithromycin)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Amoxicillin/administration & dosage
+MH  - Clarithromycin/administration & dosage
+MH  - Double-Blind Method
+MH  - Drug Therapy, Combination
+MH  - Duodenal Ulcer/*drug therapy
+MH  - Enzyme Inhibitors/*administration & dosage
+MH  - Female
+MH  - Helicobacter Infections/*drug therapy
+MH  - Helicobacter pylori/*drug effects
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/*administration & dosage
+MH  - Stereoisomerism
+EDAT- 2000/12/21 11:00
+MHDA- 2001/02/28 10:01
+CRDT- 2000/12/21 11:00
+AID - apt911 [pii]
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 2000 Dec;14(12):1605-11.
+
+PMID- 11012468
+OWN - NLM
+STAT- MEDLINE
+DA  - 20001116
+DCOM- 20001116
+LR  - 20061115
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 14
+IP  - 10
+DP  - 2000 Oct
+TI  - Esomeprazole improves healing and symptom resolution as compared with omeprazole 
+      in reflux oesophagitis patients: a randomized controlled trial. The Esomeprazole 
+      Study Investigators.
+PG  - 1249-58
+AB  - BACKGROUND: The pharmacologic profile of the new proton pump inhibitor
+      esomeprazole has demonstrated advantages over omeprazole that suggest clinical
+      benefits for patients with acid-related disease. METHODS: 1960 patients with
+      endoscopy-confirmed reflux oesophagitis (RO) were randomized to once daily
+      esomeprazole 40 mg (n=654) or 20 mg (n=656), or omeprazole 20 mg (n=650), the
+      standard recommended dose for RO, for up to 8 weeks in a US, multicentre,
+      double-blind trial. The primary efficacy variable was the proportion of patients 
+      healed at week 8. Secondary variables included healing and heartburn resolution
+      at week 4, time to first resolution and sustained resolution of heartburn, and
+      per cent of heartburn-free days and nights. Safety and tolerability were also
+      evaluated. RESULTS: Significantly more patients were healed at week 8 with
+      esomeprazole 40 mg (94.1%) and 20 mg (89.9%) vs. omeprazole 20 mg (86.9%), using 
+      cumulative life table estimates, ITT analysis (each P < 0.05). Esomeprazole 40 mg
+      was also significantly more effective than omeprazole for healing at week 4 and
+      for all secondary variables evaluating heartburn resolution. The most common
+      adverse events in all treatment groups were headache, abdominal pain and
+      diarrhoea. CONCLUSION: Esomeprazole was more effective than omeprazole in healing
+      and symptom resolution in GERD patients with reflux oesophagitis, and had a
+      tolerability profile comparable to that of omeprazole.
+AD  - Department of Gastroenterology and Hepatology, Northwestern University Medical
+      School, Chicago, IL 60611-3008, USA. p-kahrilas@nwu.edu
+FAU - Kahrilas, P J
+AU  - Kahrilas PJ
+FAU - Falk, G W
+AU  - Falk GW
+FAU - Johnson, D A
+AU  - Johnson DA
+FAU - Schmitt, C
+AU  - Schmitt C
+FAU - Collins, D W
+AU  - Collins DW
+FAU - Whipple, J
+AU  - Whipple J
+FAU - D'Amico, D
+AU  - D'Amico D
+FAU - Hamelin, B
+AU  - Hamelin B
+FAU - Joelsson, B
+AU  - Joelsson B
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Anti-Ulcer Agents/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Esophagitis, Peptic/*drug therapy
+MH  - Female
+MH  - Heartburn/drug therapy
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/adverse effects/*therapeutic use
+EDAT- 2000/09/30 11:00
+MHDA- 2001/02/28 10:01
+CRDT- 2000/09/30 11:00
+AID - apt856 [pii]
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 2000 Oct;14(10):1249-58.
+
+PMID- 10950032
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000830
+DCOM- 20000830
+LR  - 20061115
+IS  - 0002-9270 (Print)
+IS  - 0002-9270 (Linking)
+VI  - 95
+IP  - 8
+DP  - 2000 Aug
+TI  - Rabeprazole versus ranitidine for the treatment of erosive gastroesophageal
+      reflux disease: a double-blind, randomized clinical trial. Raberprazole Study
+      Group.
+PG  - 1894-9
+AB  - OBJECTIVE: The objective of this study was to compare the efficacy and safety of 
+      the proton pump inhibitor rabeprazole to that of the histamine-2 (H2)-receptor
+      antagonist ranitidine in the treatment of erosive gastroesophageal reflux
+      disease. The primary indicator of efficacy was the absence of esophageal erosions
+      or ulcerations as determined by posttreatment endoscopy. Secondary indicators of 
+      efficacy included improvement in frequency and severity of daytime and nighttime 
+      heartburn. METHODS: A total of 338 patients were enrolled and randomly assigned
+      to therapy with rabeprazole 20 mg once daily in the morning or to ranitidine 150 
+      mg four times daily. At baseline and at 4 wk, patients underwent endoscopy for
+      evaluation of esophageal lesions. Patients whose lesions healed by wk 4 had
+      therapy discontinued; others remained on therapy and had repeat endoscopy at 8
+      wk. Also recorded at study visits were patients' ratings of heartburn symptoms
+      and overall sense of well being, patients' reports of time lost from daily
+      activities, antacid use, and adverse events. Serum gastrin levels were measured
+      and argyrophil enterochromaffin-like cell histology evaluated at baseline and
+      when the patient ended therapy. RESULTS: At wk 4, healing was observed in 59%
+      (98/167) of patients assigned to rabeprazole therapy, compared with 36% (60/169) 
+      of those receiving ranitidine (p < 0.001). By 8 wk, healing was seen in 87%
+      (146/167) and 66% (112/169) of patients in the rabeprazole and ranitidine groups,
+      respectively (p < 0.001). There were also significant differences between the two
+      groups favoring rabeprazole with respect to resolution or improvement of
+      heartburn symptoms and improvement in sense of well-being. No drug-related
+      serious adverse events were seen with either therapy; fewer patients assigned to 
+      rabeprazole had treatment-emergent signs and symptoms. Serum gastrin levels
+      increased over baseline in the rabeprazole group, but the mean value remained
+      within normal limits. CONCLUSIONS: Rabeprazole was superior to ranitidine in
+      esophageal healing and symptom relief in patients with erosive gastroesophageal
+      reflux disease, and was equally well tolerated.
+AD  - Centre De Gastro-Enterologie et D'Endoscopie de Montreal, Quebec, Canada.
+FAU - Farley, A
+AU  - Farley A
+FAU - Wruble, L D
+AU  - Wruble LD
+FAU - Humphries, T J
+AU  - Humphries TJ
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Am J Gastroenterol
+JT  - The American journal of gastroenterology
+JID - 0421030
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Antacids)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Gastrins)
+RN  - 0 (Histamine H2 Antagonists)
+RN  - 0 (Proton Pumps)
+RN  - 117976-90-6 (rabeprazole)
+RN  - 66357-35-5 (Ranitidine)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Antacids/therapeutic use
+MH  - Benzimidazoles/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Gastrins/blood
+MH  - Gastroesophageal Reflux/blood/*drug therapy/pathology
+MH  - Heartburn/drug therapy/etiology/physiopathology
+MH  - Histamine H2 Antagonists/adverse effects/*therapeutic use
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/analogs & derivatives
+MH  - Proton Pumps/antagonists & inhibitors
+MH  - Ranitidine/adverse effects/*therapeutic use
+MH  - Treatment Outcome
+EDAT- 2000/08/19 11:00
+MHDA- 2000/09/02 11:01
+CRDT- 2000/08/19 11:00
+AID - S000292700001025X [pii]
+AID - 10.1111/j.1572-0241.2000.02233.x [doi]
+PST - ppublish
+SO  - Am J Gastroenterol. 2000 Aug;95(8):1894-9.
+
+PMID- 10930892
+OWN - NLM
+STAT- MEDLINE
+DA  - 20001010
+DCOM- 20001010
+LR  - 20051116
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 14
+IP  - 8
+DP  - 2000 Aug
+TI  - Review article: treatment of Helicobacter pylori infection with ranitidine
+      bismuth citrate- or proton pump inhibitor-based triple therapies.
+PG  - 991-9
+AB  - Triple therapy, combining a proton pump inhibitor with clarithromycin (C) and
+      either amoxycillin (A) or a nitro-imidazole (I) is the standard in Helicobacter
+      pylori eradication therapy. Recently, triple therapies based on ranitidine
+      bismuth citrate (RBC) have emerged as an alternative. This review examines the
+      current literature for studies directly comparing proton pump inhibitor- with
+      RBC-based triple therapies. Seventeen studies were identified, of which three
+      have been published as a full paper. Eradication rates in an intention-to-treat
+      analysis ranged from 51 to 98%. No large difference in cure rates between the
+      different regimens was demonstrated, although the RBC-I-C combination was
+      somewhat superior. No definite conclusions could be made about the impact of
+      metronidazole or clarithromycin resistance since only three studies performed a
+      formal resistance analysis. No serious side-effects were reported, and dropout
+      rates were equal for the two regimens. Both RBC- and proton pump inhibitor-based 
+      triple therapies are highly effective. If one prefers a imidazole/clarithromycin 
+      combination the evidence presented here suggests that RBC should be used instead 
+      of a proton pump inhibitor. Larger studies comparing both forms of triple
+      therapy, using proper resistance analysis, are needed before final conclusions
+      can be reached regarding efficacy in the setting of bacterial resistance.
+AD  - Department of Gastroenterology and Hepatology, University Medical Centre,
+      Nijmegen, The Netherlands.
+FAU - Van Oijen, A H
+AU  - Van Oijen AH
+FAU - Verbeek, A L
+AU  - Verbeek AL
+FAU - Jansen, J B
+AU  - Jansen JB
+FAU - De Boer, W A
+AU  - De Boer WA
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - ENGLAND
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Nitroimidazoles)
+RN  - 0 (Penicillins)
+RN  - 0 (Proton Pumps)
+RN  - 128345-62-0 (ranitidine bismuth citrate)
+RN  - 26787-78-0 (Amoxicillin)
+RN  - 66357-35-5 (Ranitidine)
+RN  - 7440-69-9 (Bismuth)
+RN  - 81103-11-9 (Clarithromycin)
+SB  - IM
+MH  - Amoxicillin/administration & dosage/therapeutic use
+MH  - Anti-Bacterial Agents/administration & dosage/therapeutic use
+MH  - Anti-Ulcer Agents/administration & dosage/*therapeutic use
+MH  - Bismuth/administration & dosage/*therapeutic use
+MH  - Clarithromycin/administration & dosage/therapeutic use
+MH  - Drug Resistance, Microbial
+MH  - Drug Therapy, Combination
+MH  - Helicobacter Infections/*drug therapy
+MH  - Helicobacter pylori/*drug effects
+MH  - Humans
+MH  - Nitroimidazoles/administration & dosage/therapeutic use
+MH  - Penicillins/administration & dosage/therapeutic use
+MH  - Proton Pumps/*antagonists & inhibitors
+MH  - Ranitidine/administration & dosage/*analogs & derivatives/therapeutic use
+MH  - Treatment Outcome
+RF  - 48
+EDAT- 2000/08/10 11:00
+MHDA- 2000/10/14 11:01
+CRDT- 2000/08/10 11:00
+AID - apt798 [pii]
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 2000 Aug;14(8):991-9.
+
+PMID- 10826458
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000606
+DCOM- 20000606
+LR  - 20061115
+IS  - 0003-9926 (Print)
+IS  - 0003-9926 (Linking)
+VI  - 160
+IP  - 10
+DP  - 2000 May 22
+TI  - Superiority of lansoprazole vs ranitidine in healing nonsteroidal
+      anti-inflammatory drug-associated gastric ulcers: results of a double-blind,
+      randomized, multicenter study. NSAID-Associated Gastric Ulcer Study Group.
+PG  - 1455-61
+AB  - BACKGROUND: The usefulness of nonsteroidal anti-inflammatory drugs (NSAIDs) is
+      limited by adverse gastrointestinal tract events. OBJECTIVE: To identify the
+      optimal antisecretory therapy for healing of gastric ulcer in patients using
+      NSAIDs and the impact of concurrent Helicobacter pylori infection on ulcer
+      healing. DESIGN: Prospective, double-blind, multicenter, parallel-group study.
+      SETTING: Gastroenterology practices in ambulatory and referral center settings.
+      PATIENTS: Three hundred fifty-three patients with an active, nonmalignant gastric
+      ulcer at least 5 mm in diameter confirmed by endoscopy and biopsy and who
+      continued to receive stable doses of NSAIDs. INTERVENTION: Patients were
+      randomized to receive ranitidine hydrochloride, 150 mg twice daily, or
+      lansoprazole, 15 mg or 30 mg once daily, for 8 weeks. MEASUREMENTS: Healing was
+      assessed by endoscopy at 4 and 8 weeks in an intent-to-treat population.
+      Helicobacter pylori status was assessed by histological examination. RESULTS:
+      After 8 weeks of treatment, healing was observed in 61 (53%) of 115, 81 (69%) of 
+      118, and 85 (73%) of 117 patients receiving ranitidine lansoprazole, 15 mg, and
+      lansoprazole, 30 mg, respectively (P<.05 for ranitidine vs both lansoprazole
+      doses; 95% confidence interval, 3.2-28.0 for ranitidine vs lansoprazole, 15 mg,
+      and 7.4-31.8 for ranitidine vs lansoprazole, 30 mg). The gastric ulcer healing
+      rates were similar between H pylori-infected and -noninfected patients, with a
+      statistically significant increase with the use of lansoprazole vs ranitidine.
+      CONCLUSIONS: In patients who require continuous treatment with NSAIDs,
+      lansoprazole is superior to ranitidine for healing of NSAID-associated gastric
+      ulcers. Healing is not delayed by the presence of H pylori infection.
+AD  - Department of Medicine, University of Connecticut Health Center, Farmington, USA.
+      agraw001@mc.duke.edu
+FAU - Agrawal, N M
+AU  - Agrawal NM
+FAU - Campbell, D R
+AU  - Campbell DR
+FAU - Safdi, M A
+AU  - Safdi MA
+FAU - Lukasik, N L
+AU  - Lukasik NL
+FAU - Huang, B
+AU  - Huang B
+FAU - Haber, M M
+AU  - Haber MM
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Arch Intern Med
+JT  - Archives of internal medicine
+JID - 0372440
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Proton Pumps)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 66357-35-5 (Ranitidine)
+RN  - 73590-58-6 (Omeprazole)
+SB  - AIM
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adult
+MH  - Aged
+MH  - Anti-Inflammatory Agents, Non-Steroidal/administration & dosage/*adverse effects
+MH  - Anti-Ulcer Agents/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Helicobacter Infections/drug therapy
+MH  - Helicobacter pylori/drug effects
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/adverse effects/*analogs & derivatives/therapeutic use
+MH  - Proton Pumps/antagonists & inhibitors
+MH  - Ranitidine/adverse effects/*therapeutic use
+MH  - Stomach Ulcer/chemically induced/*drug therapy
+MH  - Wound Healing/*drug effects
+EDAT- 2000/05/29 09:00
+MHDA- 2000/06/10 09:00
+CRDT- 2000/05/29 09:00
+PST - ppublish
+SO  - Arch Intern Med. 2000 May 22;160(10):1455-61.
+
+PMID- 10763941
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000425
+DCOM- 20000425
+LR  - 20061115
+IS  - 0002-9270 (Print)
+IS  - 0002-9270 (Linking)
+VI  - 95
+IP  - 4
+DP  - 2000 Apr
+TI  - Rabeprazole is superior to ranitidine in the management of active duodenal ulcer 
+      disease: results of a double-blind, randomized North American study.
+PG  - 936-42
+AB  - OBJECTIVE: The primary purpose of this study was to compare the efficacy and
+      tolerability of rabeprazole versus ranitidine in the treatment of patients with
+      active duodenal ulcer disease. METHODS: This multicenter, double-blind,
+      randomized, parallel-group study enrolled 376 patients. Patients were randomly
+      assigned to receive rabeprazole 20 mg administered once daily in the morning
+      (q.a.m.) with matching ranitidine placebo twice daily (b.i.d.) (n = 188), or
+      ranitidine 150 mg b.i.d. with matching rabeprazole placebo q.a.m. (n = 188).
+      Three visits were scheduled: wk 0 (baseline; days -3 to -1), wk 2 (day 15+/-3
+      days), and wk 4 (day 29+/-3 days). The primary efficacy response variable was
+      defined as complete regeneration of the mucosa at the site of all ulcers
+      identified during the study. Secondary efficacy variables included patients'
+      ratings of frequency and severity of ulcer pain, frequency of antacid use, and
+      improvement of overall physical well-being. Tolerability was evaluated with
+      analyses of adverse events, laboratory evaluations, fasting serum gastrin levels,
+      vital signs, body weight, and electrocardiograms. RESULTS: Up to 4 wk of
+      treatment with rabeprazole 20 mg q.a.m. produced significantly greater healing
+      rates, compared to treatment with ranitidine 150 mg b.i.d. (83% vs 73%; p =
+      0.017). Significant differences between treatment groups were also observed for
+      secondary efficacy indices. At wk 2, rabeprazole was more likely than ranitidine 
+      to produce complete resolution of duodenal ulcer pain (39% vs 25%; p = 0.006),
+      improvement in duodenal ulcer nighttime pain severity (76% vs 65%; p = 0.044),
+      and improvement in overall well-being (55% vs 41%; p = 0.009). At wk 4, the
+      proportion of patients with normalization of overall well-being was significantly
+      higher in the rabeprazole group than in the ranitidine group (45% vs 29%; p =
+      0.003). Rabeprazole was safe and well tolerated in this study. CONCLUSIONS: In
+      patients with active duodenal ulcer disease, rabeprazole 20 mg q.a.m. is superior
+      to ranitidine 150 mg b.i.d. in healing, resolving ulcer pain frequency, improving
+      nighttime pain severity, and improving overall well-being. Rabeprazole is an
+      effective and well-tolerated alternative treatment for patients with active
+      duodenal ulcer disease.
+AD  - Manchester Memorial Hospital, Connecticut, USA.
+FAU - Breiter, J R
+AU  - Breiter JR
+FAU - Riff, D
+AU  - Riff D
+FAU - Humphries, T J
+AU  - Humphries TJ
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Am J Gastroenterol
+JT  - The American journal of gastroenterology
+JID - 0421030
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Benzimidazoles)
+RN  - 117976-90-6 (rabeprazole)
+RN  - 66357-35-5 (Ranitidine)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Ulcer Agents/adverse effects/*therapeutic use
+MH  - Benzimidazoles/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Duodenal Ulcer/*drug therapy
+MH  - Duodenoscopy
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/analogs & derivatives
+MH  - Pain Measurement
+MH  - Ranitidine/adverse effects/*therapeutic use
+MH  - Treatment Outcome
+EDAT- 2000/04/14 09:00
+MHDA- 2000/04/29 09:00
+CRDT- 2000/04/14 09:00
+AID - S0002927000007255 [pii]
+AID - 10.1111/j.1572-0241.2000.01933.x [doi]
+PST - ppublish
+SO  - Am J Gastroenterol. 2000 Apr;95(4):936-42.
+
+PMID- 10638560
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000204
+DCOM- 20000204
+LR  - 20061115
+IS  - 0002-9270 (Print)
+IS  - 0002-9270 (Linking)
+VI  - 95
+IP  - 1
+DP  - 2000 Jan
+TI  - Pantoprazole versus ranitidine in the treatment of duodenal ulcer: a multicenter 
+      study in Brazil.
+PG  - 62-6
+AB  - OBJECTIVE: The aim of this study was to compare the effectiveness and tolerance
+      of pantoprazole versus ranitidine in the treatment of duodenal ulcers in the
+      Brazilian population. METHODS: A total of 222 patients with active duodenal
+      ulcers (DU) were randomly allocated to a double dummy blind treatment, either
+      with ranitidine (RAN) 300 mg (111, aged from 20-68 yr old, 56 female) or with
+      pantoprazole (PANT) 40 mg (111 patients, 18-70 yr old, 45 female). After a 2-wk
+      course of treatment, each patient was clinically and endoscopically assessed for 
+      ulcer healing. Failure to heal required a further 2-wk course of treatment and a 
+      new evaluation thereafter. RESULTS: In all, 77 of the 103 patients in the PANT
+      group (74.8%) and 42 of the 94 patients in the RAN group (44.7%) who completed
+      the study had ulcer healing after one 2-wk treatment course, and an additional 23
+      in the PANT group (22.3%) and 28 in the RAN group (29.8%) after the second 2-wk
+      treatment course, totaling 100 (97.1%) and 70 (74.5%), respectively. Therapeutic 
+      gain in favor of pantoprazole was significant both at the end of the first and
+      the second 2-wk treatment course (p<0.001). At 2 wk, symptoms remission was
+      significantly higher in the PANT group (97.6%) than with the RAN group (77.5%)
+      (p<0.001). The Intention-to-treat analysis showed results statistically similar
+      to those observed in the per-protocol analysis. Minor adverse events were
+      reported by four patients in the PANT group and three in the RAN group. No
+      relevant laboratory abnormalities were seen. No patient withdrew from the study
+      due to adverse events. CONCLUSIONS: Our results show that pantoprazole is more
+      effective than ranitidine in the treatment of duodenal ulcer providing faster
+      ulcer healing in most patients (97.1%), in 4 wk. Adverse events were rare and
+      were similar in both groups, and had no influence on the therapeutic outcome.
+AD  - Department of Medicine, Medical School of Ribeirao Preto (USP), Sao Paulo,
+      Brazil.
+FAU - Meneghelli, U G
+AU  - Meneghelli UG
+FAU - Zaterka, S
+AU  - Zaterka S
+FAU - de Paula Castro, L
+AU  - de Paula Castro L
+FAU - Malafaia, O
+AU  - Malafaia O
+FAU - Lyra, L G
+AU  - Lyra LG
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Am J Gastroenterol
+JT  - The American journal of gastroenterology
+JID - 0421030
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Histamine H2 Antagonists)
+RN  - 0 (Sulfoxides)
+RN  - 102625-70-7 (pantoprazole)
+RN  - 66357-35-5 (Ranitidine)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Anti-Ulcer Agents/adverse effects/*therapeutic use
+MH  - Benzimidazoles/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Duodenal Ulcer/*drug therapy
+MH  - Female
+MH  - Histamine H2 Antagonists/adverse effects/*therapeutic use
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/analogs & derivatives
+MH  - Ranitidine/adverse effects/*therapeutic use
+MH  - Sulfoxides/adverse effects/*therapeutic use
+EDAT- 2000/01/19
+MHDA- 2000/01/19 00:01
+CRDT- 2000/01/19 00:00
+AID - S0002927099008047 [pii]
+AID - 10.1111/j.1572-0241.2000.01745.x [doi]
+PST - ppublish
+SO  - Am J Gastroenterol. 2000 Jan;95(1):62-6.
+
+PMID- 10594396
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000210
+DCOM- 20000210
+LR  - 20061115
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 13
+IP  - 12
+DP  - 1999 Dec
+TI  - Standard-dose lansoprazole is more effective than high-dose ranitidine in
+      achieving endoscopic healing and symptom relief in patients with moderately
+      severe reflux oesophagitis. The Dutch Lansoprazole Study Group.
+PG  - 1611-20
+AB  - BACKGROUND: In the treatment of reflux oesophagitis, H2-receptor antagonists are 
+      still widely used in spite of the apparent higher efficacy of proton pump
+      inhibitors. In an attempt to compensate for the lower efficacy, H2-receptor
+      antagonists are now increasingly being used at a higher dose. OBJECTIVE: To
+      assess whether or not standard-dose lansoprazole (30 mg o.d.) is more effective
+      than high-dose ranitidine (300 mg b.d.) in moderately severe reflux oesophagitis 
+      (grades II-III). METHODS: Lansoprazole or ranitidine was given to 133 patients
+      for 4-8 weeks in a double-blind, randomized, parallel group, multicentre trial.
+      RESULTS: The percentage of patients with endoscopically-verified healing was
+      significantly higher on lansoprazole than on ranitidine both after 4 weeks (79%
+      vs. 42%) and 8 weeks (91% vs. 66%), though smoking had a negative impact on
+      oesophagitis healing with lansoprazole. Heartburn, retrosternal pain and belching
+      improved significantly better with lansoprazole than with ranitidine, as did the 
+      patient-rated overall symptom severity. Relief of heartburn appeared somewhat
+      faster with ranitidine, but was more pronounced with lansoprazole. The number of 
+      patients with adverse events was similar in both treatment groups. CONCLUSION:
+      Standard-dose lansoprazole is better than high-dose ranitidine in moderately
+      severe reflux oesophagitis.
+AD  - Department of Gastroenterology, Academic Hospital Nijmegen St. Radboud, Nijmegen,
+      the Netherlands. j.jansen@gastro.a2n.nl
+FAU - Jansen, J B
+AU  - Jansen JB
+FAU - Van Oene, J C
+AU  - Van Oene JC
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Histamine H2 Antagonists)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 66357-35-5 (Ranitidine)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Anti-Ulcer Agents/*administration & dosage/adverse effects
+MH  - Double-Blind Method
+MH  - Endoscopy
+MH  - Eructation/prevention & control
+MH  - Esophagitis, Peptic/*drug therapy
+MH  - Female
+MH  - Histamine H2 Antagonists/*administration & dosage/adverse effects
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/administration & dosage/adverse effects/*analogs & derivatives
+MH  - Pain/drug therapy
+MH  - Ranitidine/*administration & dosage/adverse effects
+MH  - Time Factors
+EDAT- 1999/12/14
+MHDA- 1999/12/14 00:01
+CRDT- 1999/12/14 00:00
+AID - apt656 [pii]
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 1999 Dec;13(12):1611-20.
+
+PMID- 10485504
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991104
+DCOM- 19991104
+LR  - 20061115
+IS  - 0149-2918 (Print)
+IS  - 0149-2918 (Linking)
+VI  - 21
+IP  - 8
+DP  - 1999 Aug
+TI  - Lansoprazole versus omeprazole for duodenal ulcer healing and prevention of
+      relapse: a randomized, multicenter, double-masked trial.
+PG  - 1321-32
+AB  - The aim of this randomized, multicenter, double-masked, parallel-group study was 
+      to compare the efficacy of lansoprazole with that of omeprazole monotherapy in
+      duodenal ulcer healing and prevention of relapse. A total of 251 patients with
+      duodenal ulcer were treated with either lansoprazole 30 mg/d (n = 167) or
+      omeprazole 40 mg/d (n = 84). Patients with healed ulcers were then randomly
+      allocated to 12 months of maintenance therapy with lansoprazole 15 mg/d (n = 74),
+      lansoprazole 30 mg/d (n = 71), or omeprazole 20 mg/d (n = 73). Healing rates at 4
+      weeks (intent-to-treat analysis) were 93.9% (95% confidence interval [CI], 90.2% 
+      to 97.6%) with lansoprazole and 97.5% (95% CI, 93.7% to 100%) with omeprazole;
+      there were no significant differences between groups. Endoscopic relapse rates
+      after 6 months were 4.5% (95% CI, 0% to 10.6%) with lansoprazole 15 mg, 0% with
+      lansoprazole 30 mg, and 6.3% (95% CI, 1.5% to 12.5%) with omeprazole 20 mg,
+      compared with 3.3% (95% CI, 0% to 8.2%), 0%, and 3.5% (95% CI, 0% to 8.8%),
+      respectively, at 12 months. Again, there were no significant differences between 
+      groups. The incidence of adverse events during acute treatment was 6.0% and 7.1% 
+      in the lansoprazole and omeprazole groups, respectively; during maintenance
+      therapy, the incidences were 12.2% (lansoprazole 15 mg), 5.6% (lansoprazole 30
+      mg), and 11.0% (omeprazole 20 mg). Within treatment groups, pain was
+      significantly ameliorated after the acute phase but not after maintenance therapy
+      (P < 0.05); no differences were observed between groups. Gastrin values increased
+      significantly after acute therapy (P < 0.05), persisted at these increased levels
+      during maintenance therapy, and returned to normal after 6-month follow-up. Both 
+      lansoprazole and omeprazole were highly effective and well tolerated in the
+      treatment of duodenal ulcer; relapse rates were similar for all doses studied.
+      Thus no additional benefit is to be gained from using a proton-pump inhibitor at 
+      a dose > 15 mg lansoprazole to prevent relapse.
+AD  - Divisione di Gastroenterologia e Servizio di Fisiopatologia ed Endoscopia
+      Digestiva Ospedale Generale Regionale, Bolzano, Italy.
+FAU - Dobrilla, G
+AU  - Dobrilla G
+FAU - Piazzi, L
+AU  - Piazzi L
+FAU - Fiocca, R
+AU  - Fiocca R
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Clin Ther
+JT  - Clinical therapeutics
+JID - 7706726
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Gastrins)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Anti-Ulcer Agents/adverse effects/therapeutic use
+MH  - Double-Blind Method
+MH  - Duodenal Ulcer/*drug therapy/*prevention & control
+MH  - Endoscopy
+MH  - Female
+MH  - Gastrins/metabolism
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/adverse effects/*analogs & derivatives/*therapeutic use
+MH  - Recurrence/prevention & control
+MH  - Time Factors
+EDAT- 1999/09/15
+MHDA- 1999/09/15 00:01
+CRDT- 1999/09/15 00:00
+AID - S0149291899800332 [pii]
+PST - ppublish
+SO  - Clin Ther. 1999 Aug;21(8):1321-32.
+
+PMID- 10469192
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991020
+DCOM- 19991020
+LR  - 20061115
+IS  - 1083-4389 (Print)
+IS  - 1083-4389 (Linking)
+VI  - 4
+IP  - 3
+DP  - 1999 Sep
+TI  - Comparative treatment of Helicobacter pylori-positive duodenal ulcer using
+      pantoprazole at low and high doses versus omeprazole in triple therapy.
+PG  - 178-84
+AB  - BACKGROUND: Helicobacter pylori eradication has become the standard treatment for
+      peptic ulcer disease. H. pylori-eradicating triple therapy with omeprazole plus
+      two antibiotics has been used until recently; however, the efficacy of
+      pantoprazole and antibiotics for H. pylori eradication has not been researched
+      thoroughly until now. The aim of this randomized clinical trial was to verify the
+      efficacy of triple oral therapy comparing the effects of pantoprazole using two
+      different doses versus omeprazole twice daily in H. pylori eradication, in ulcer 
+      healing and relapses, and in gastritis improvement. MATERIALS AND METHODS: We
+      enrolled 243 patients with H. pylori-positive duodenal ulcer and randomized them 
+      into three treatment groups: 84 patients (group Ome40) were assigned to receive
+      omeprazole, 20 mg twice daily, plus amoxicillin, 1 gm twice daily, and
+      clarithromycin, 500 mg twice daily for 10 days; 79 patients (group Pan40) were
+      treated with pantoprazole, 40 mg daily, plus amoxicillin and clarithromycin at
+      the same doses as those of group Ome40; and 80 patients (group Pan80) were
+      treated with pantoprazole, 40 mg twice daily, plus amoxicillin and clarithromycin
+      at the same doses as those of group Ome40. RESULTS: Ulcer healing was observed in
+      81 of 84 patients (96.4%) in group Ome40; in 66 of 79 patients (83.5%) in group
+      Pan40; and in 77 of 80 patients (96.2%) in group Pan80. H. pylori was eradicated 
+      in 79 of 84 patients (94%) in group Ome40; in 63 of 79 patients (79.7%) in group 
+      Pan40; and in 75 of 80 patients (93.7%) in group Pan80. CONCLUSIONS: We found
+      that 10-day triple therapy with amoxicillin, clarithromycin, and either
+      pantoprazole, 80 mg daily, or omeprazole, 40 mg daily, is highly effective in
+      ulcer healing and is very well tolerated, achieving the 90% cure recommended for 
+      an ideal first-line anti-H. pylori positive duodenal ulcer treatment regimen.
+AD  - Gastroenterology and Endoscopy Unit, University of Catania, S. Gregorio di
+      Catania, Italy.
+FAU - Catalano, F
+AU  - Catalano F
+FAU - Branciforte, G
+AU  - Branciforte G
+FAU - Catanzaro, R
+AU  - Catanzaro R
+FAU - Bentivegna, C
+AU  - Bentivegna C
+FAU - Cipolla, R
+AU  - Cipolla R
+FAU - Nuciforo, G
+AU  - Nuciforo G
+FAU - Brogna, A
+AU  - Brogna A
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - Helicobacter
+JT  - Helicobacter
+JID - 9605411
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Penicillins)
+RN  - 0 (Sulfoxides)
+RN  - 102625-70-7 (pantoprazole)
+RN  - 26787-78-0 (Amoxicillin)
+RN  - 73590-58-6 (Omeprazole)
+RN  - 81103-11-9 (Clarithromycin)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Amoxicillin/therapeutic use
+MH  - Anti-Bacterial Agents/therapeutic use
+MH  - Anti-Ulcer Agents/administration & dosage/*therapeutic use
+MH  - Benzimidazoles/administration & dosage/*therapeutic use
+MH  - Clarithromycin/therapeutic use
+MH  - Drug Therapy, Combination
+MH  - Duodenal Ulcer/*drug therapy/microbiology
+MH  - Female
+MH  - Helicobacter Infections/*drug therapy/microbiology
+MH  - Helicobacter pylori/isolation & purification
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/administration & dosage/*therapeutic use
+MH  - Penicillins/therapeutic use
+MH  - Sulfoxides/administration & dosage/*therapeutic use
+MH  - Treatment Outcome
+EDAT- 1999/09/01
+MHDA- 1999/09/01 00:01
+CRDT- 1999/09/01 00:00
+AID - hel99274 [pii]
+PST - ppublish
+SO  - Helicobacter. 1999 Sep;4(3):178-84.
+
+PMID- 10405232
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990923
+DCOM- 19990923
+LR  - 20071114
+IS  - 0192-0790 (Print)
+IS  - 0192-0790 (Linking)
+VI  - 29
+IP  - 1
+DP  - 1999 Jul
+TI  - Eradication of Helicobacter pylori infection with proton pump-based triple
+      therapy in patients in whom bismuth-based triple therapy failed.
+PG  - 51-5
+AB  - To study the effects of treatment of Helicobacter pylori infection in a
+      hyperendemic population, 143 infected patients from the region of Narino,
+      Colombia, were treated for 2 weeks with clarithromycin (500 mg twice a day),
+      amoxicillin (1 g twice a day), and either lansoprazole (30 mg twice a day) or
+      omeprazole (30 mg twice a day). All patients belong to a low socioeconomic
+      strata, had multifocal atrophic gastritis documented by gastric biopsies, and had
+      been treated previously and unsuccessfully for 2 weeks with bismuth subsalicylate
+      (262 mg four times a day), amoxicillin (500 mg three times a day), and
+      metronidazole (400 mg three times a day). 13C-urea breath tests were performed 6,
+      12, 24, and 60 weeks after completing therapy. The 13C-urea breath test was
+      negative in 79.7% of patients 1 month after finishing therapy, and in 69.2% of
+      patients 1 year after finishing treatment. There were no differences in
+      eradication rates between patients treated with omeprazole versus lansoprazole.
+      Dyspepsia symptoms decreased from 74% in patients at baseline to 19% at the time 
+      of finishing treatment. In low-socioeconomic status populations with hyperendemic
+      infection, triple therapy using omeprazole or lansoprazole plus clarithromycin
+      and amoxicillin is an effective alternative when previous standard bismuth-based 
+      triple therapy has failed.
+AD  - Stanley S. Scott Cancer Center, Louisiana State University Medical Center, New
+      Orleans, USA.
+FAU - Mera, R
+AU  - Mera R
+FAU - Realpe, J L
+AU  - Realpe JL
+FAU - Bravo, L E
+AU  - Bravo LE
+FAU - DeLany, J P
+AU  - DeLany JP
+FAU - Correa, P
+AU  - Correa P
+LA  - eng
+GR  - P01CA28842/CA/NCI NIH HHS/United States
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - UNITED STATES
+TA  - J Clin Gastroenterol
+JT  - Journal of clinical gastroenterology
+JID - 7910017
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Organometallic Compounds)
+RN  - 0 (Penicillins)
+RN  - 0 (Proton Pumps)
+RN  - 0 (Salicylates)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 14882-18-9 (bismuth subsalicylate)
+RN  - 26787-78-0 (Amoxicillin)
+RN  - 443-48-1 (Metronidazole)
+RN  - 73590-58-6 (Omeprazole)
+RN  - 7440-69-9 (Bismuth)
+RN  - 81103-11-9 (Clarithromycin)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adult
+MH  - Aged
+MH  - Amoxicillin/therapeutic use
+MH  - Anti-Bacterial Agents/therapeutic use
+MH  - Bismuth/therapeutic use
+MH  - Clarithromycin/therapeutic use
+MH  - Drug Therapy, Combination
+MH  - Enzyme Inhibitors/*therapeutic use
+MH  - Female
+MH  - Gastritis/*drug therapy
+MH  - Helicobacter Infections/*drug therapy
+MH  - *Helicobacter pylori
+MH  - Humans
+MH  - Male
+MH  - Metronidazole/therapeutic use
+MH  - Middle Aged
+MH  - Omeprazole/*analogs & derivatives/*therapeutic use
+MH  - Organometallic Compounds/therapeutic use
+MH  - Penicillins/therapeutic use
+MH  - Proton Pumps/*antagonists & inhibitors
+MH  - Salicylates/therapeutic use
+MH  - Treatment Outcome
+EDAT- 1999/07/15
+MHDA- 1999/07/15 00:01
+CRDT- 1999/07/15 00:00
+PST - ppublish
+SO  - J Clin Gastroenterol. 1999 Jul;29(1):51-5.
+
+PMID- 10383532
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990819
+DCOM- 19990819
+LR  - 20061115
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 13
+IP  - 7
+DP  - 1999 Jul
+TI  - Double-blind comparison of lansoprazole 15 mg, lansoprazole 30 mg and placebo as 
+      maintenance therapy in patients with healed duodenal ulcers resistant to
+      H2-receptor antagonists.
+PG  - 959-67
+AB  - BACKGROUND: Maintenance antisecretory therapy is often used to prevent duodenal
+      ulcer recurrence and control symptoms. This study compared the efficacy and
+      safety of lansoprazole 15 mg and 30 mg daily with placebo in preventing ulcer
+      recurrence in patients with a recent history of duodenal ulcer disease. METHODS: 
+      Fifty-six patients were treated with either lansoprazole 15 mg, 30 mg or placebo 
+      o.m. RESULTS: Within 1 month of study initiation, 27% (four out of 15) of
+      placebo-treated patients experienced ulcer recurrence as compared to 13% (two out
+      of 15) and 6% (one out of 18) of lansoprazole 15 mg and 30 mg treated patients,
+      respectively. Median time to first ulcer recurrence was > 12 months in
+      lansoprazole patients. At Month 12, significantly (P < 0.001) more lansoprazole
+      15 mg patients (70%) and lansoprazole 30 mg patients (85%) remained healed.
+      Eighty-two per cent of lansoprazole 15 mg and 76% of lansoprazole 30 mg patients 
+      remained asymptomatic during the entire study period. All placebo patients became
+      symptomatic, experienced ulcer recurrence, or withdrew from the study by month
+      six. The incidence of adverse events was comparable among the three treatment
+      groups. CONCLUSIONS: Lansoprazole safely and effectively reduces duodenal ulcer
+      recurrence and ulcer-related symptoms.
+AD  - Center for Ulcer Research and Education, VA Medical Center West Los Angeles, CA, 
+      USA.
+FAU - Kovacs, T O
+AU  - Kovacs TO
+FAU - Campbell, D
+AU  - Campbell D
+FAU - Richter, J
+AU  - Richter J
+FAU - Haber, M
+AU  - Haber M
+FAU - Jennings, D E
+AU  - Jennings DE
+FAU - Rose, P
+AU  - Rose P
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Gastrins)
+RN  - 0 (Histamine H2 Antagonists)
+RN  - 0 (Proton Pumps)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adult
+MH  - Aged
+MH  - Anti-Ulcer Agents/*administration & dosage
+MH  - Double-Blind Method
+MH  - Drug Resistance
+MH  - Duodenal Ulcer/*metabolism/*prevention & control
+MH  - Female
+MH  - Gastric Mucosa/metabolism
+MH  - Gastrins/blood
+MH  - Histamine H2 Antagonists/*pharmacology
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/administration & dosage/*analogs & derivatives
+MH  - Proton Pumps/*antagonists & inhibitors
+MH  - Recurrence
+MH  - Treatment Outcome
+MH  - United States
+EDAT- 1999/06/26
+MHDA- 1999/06/26 00:01
+CRDT- 1999/06/26 00:00
+AID - apt569 [pii]
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 1999 Jul;13(7):959-67.
+
+PMID- 10383518
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990819
+DCOM- 19990819
+LR  - 20041117
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 13
+IP  - 7
+DP  - 1999 Jul
+TI  - Evaluation of treatment regimens to cure Helicobacter pylori infection--a
+      meta-analysis.
+PG  - 857-64
+AB  - OBJECTIVE: To assess effectiveness of treatment to cure Helicobacter pylori
+      infection. DATA SYNTHESIS: Meta-analysis of 666 manuscripts (full papers,
+      abstracts, letters to the editor) identified through Medline and a manual search 
+      (1986 to January 1998). Data were overviewed by regression analysis with weighted
+      random effects models. SUBJECTS: 53 228 patients with H. pylori infection.
+      INTERVENTIONS: Patients were treated with 132 different medication combinations. 
+      MAIN OUTCOME MEASURE: Cure of H. pylori infection per protocol and
+      intention-to-treat basis at least 28 days after treatment. RESULTS: The
+      nationality of the patients and therapeutic regimen have a significant impact on 
+      the results, after correction for the heterogeneity in the precision of the cure 
+      rate caused by different study sizes and random effect for study. On the basis of
+      the original sample size, cure rates of 80-85% were achieved using combinations
+      of a proton-pump inhibitor or ranitidine bismuth citrate with two antibiotics
+      including clarithromycin, amoxycillin and metronidazole or tinidazole. Comparable
+      cure rates were also achieved using a combination of a proton-pump inhibitor or
+      H2-receptor antagonist with bismuth subcitrate or tripotassium dicitrato
+      bismuthate, metronidazole and tetracycline. The dose of clarithromycin influenced
+      cure rates. Treatment duration did not influence the outcome. CONCLUSION: Several
+      therapeutic regimens are eligible to cure H. pylori infection. However, none of
+      the medication combinations were able to cure H. pylori infection in more than
+      85% of the patients assessed by intention-to-treat. The countries in which the
+      studies were performed also had a significant impact on eradication rates.
+AD  - Department of Gastroenterology, University Hospital Nijmegen, The Netherlands.
+      r.laheij@mie.kun.nl
+FAU - Laheij, R J
+AU  - Laheij RJ
+FAU - Rossum, L G
+AU  - Rossum LG
+FAU - Jansen, J B
+AU  - Jansen JB
+FAU - Straatman, H
+AU  - Straatman H
+FAU - Verbeek, A L
+AU  - Verbeek AL
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PL  - ENGLAND
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (Antacids)
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Histamine H2 Antagonists)
+RN  - 0 (Proton Pumps)
+RN  - 7440-69-9 (Bismuth)
+SB  - IM
+MH  - Antacids/therapeutic use
+MH  - Anti-Bacterial Agents/therapeutic use
+MH  - Bismuth/therapeutic use
+MH  - Drug Therapy, Combination
+MH  - Helicobacter Infections/*drug therapy/microbiology
+MH  - *Helicobacter pylori
+MH  - Histamine H2 Antagonists/therapeutic use
+MH  - Humans
+MH  - Proton Pumps/antagonists & inhibitors
+MH  - Regression Analysis
+MH  - World Health
+EDAT- 1999/06/26
+MHDA- 1999/06/26 00:01
+CRDT- 1999/06/26 00:00
+AID - apt542 [pii]
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 1999 Jul;13(7):857-64.
+
+PMID- 10102948
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990414
+DCOM- 19990414
+LR  - 20061115
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 13
+IP  - 2
+DP  - 1999 Feb
+TI  - Comparison of rabeprazole 20 mg versus omeprazole 20 mg in the treatment of
+      active duodenal ulcer: a European multicentre study.
+PG  - 179-86
+AB  - BACKGROUND: Rabeprazole sodium is the newest member of a class of substituted
+      benzimidazole molecules known as proton pump inhibitors. Other proton pump
+      inhibitors have been shown to be effective in healing active duodenal ulcer.
+      METHOD: This randomized, double-blind, multicentre study, conducted at 25
+      European sites, compared the efficacy and tolerability of rabeprazole and
+      omeprazole in patients with active duodenal ulcers. One hundred and two patients 
+      with active duodenal ulcer received rabeprazole 20 mg and 103 patients omeprazole
+      20 mg once daily for 2 or 4 weeks, with ulcer healing monitored by endoscopy.
+      RESULTS: After 2 weeks, complete ulcer healing was documented in 69% of patients 
+      given rabeprazole 20 mg and in 62% of patients given omeprazole 20 mg (N.S.).
+      After 4 weeks, healing rates were 98% in the rabeprazole group and 93% in the
+      omeprazole group (P = 0.083). Rabeprazole-treated patients had significantly
+      greater improvement in daytime pain symptom relief than those treated with
+      omeprazole at the conclusion of the study (P = 0.038). Both drugs were well
+      tolerated over the 4-week treatment period. Mean changes from baseline to
+      end-point in fasting serum gastrin were significantly greater in the rabeprazole 
+      group, but at end-point mean values were well within normal limits for both
+      groups. No clinically meaningful changes or other between-group differences were 
+      observed in laboratory parameters. CONCLUSION: In this study, rabeprazole
+      produced healing rates equivalent to omeprazole at weeks 2 and 4, and provided
+      significantly greater improvement in daytime pain. Both treatments were well
+      tolerated.
+AD  - Ignatius Hospital, Breda, the Netherlands.
+FAU - Dekkers, C P
+AU  - Dekkers CP
+FAU - Beker, J A
+AU  - Beker JA
+FAU - Thjodleifsson, B
+AU  - Thjodleifsson B
+FAU - Gabryelewicz, A
+AU  - Gabryelewicz A
+FAU - Bell, N E
+AU  - Bell NE
+FAU - Humphries, T J
+AU  - Humphries TJ
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Gastrins)
+RN  - 117976-90-6 (rabeprazole)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adult
+MH  - Aged
+MH  - Anti-Ulcer Agents/*therapeutic use
+MH  - Benzimidazoles/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Duodenal Ulcer/*drug therapy
+MH  - Female
+MH  - Gastrins/blood
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/adverse effects/*therapeutic use
+EDAT- 1999/04/02
+MHDA- 1999/04/02 00:01
+CRDT- 1999/04/02 00:00
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 1999 Feb;13(2):179-86.
+
+PMID- 10102945
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990414
+DCOM- 19990414
+LR  - 20041117
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 13
+IP  - 2
+DP  - 1999 Feb
+TI  - Helicobacter pylori eradication with proton pump inhibitor-based triple therapies
+      and re-treatment with ranitidine bismuth citrate-based triple therapy.
+PG  - 163-8
+AB  - BACKGROUND: It has been suggested that short-term triple therapy comprising a
+      proton pump inhibitor, plus clarithromycin and amoxycillin be used as first
+      choice in treating H. pylori infection, while eradication failure patients should
+      be further treated with a quadruple therapy. Nevertheless, conflicting results
+      have been reported using these treatment regimens in different countries.
+      METHODS: A total of 278 patients with H. pylori infection were randomised to
+      receive one-week triple therapy, comprising clarithromycin 500 mg b.d.,
+      amoxycillin 1 g b.d., and either omeprazole 20 mg b.d. (OAC; 90 patients), or
+      pantoprazole 40 mg b.d. (PAC; 95 patients), or lansoprazole 30 mg b.d. (LAC; 93
+      patients). H. pylori infection at entry, and eradication 4-6 weeks after therapy 
+      had ended, were assessed by rapid urease test and histology on biopsies from the 
+      antrum and the corpus. When eradication did not occur, patients were given a
+      2-week treatment comprising ranitidine bismuth citrate 400 mg b.d., tetracycline 
+      500 mg t.d.s. and tinidazole 500 mg b.d. (RBTT). Eradication in these patients
+      was assessed 4-6 weeks after conclusion of treatment by a further endoscopy.
+      RESULTS: Six patients were lost to the follow-up. At the end of the first course 
+      of treatment, the overall H. pylori eradication rate was 78% (95% CI: 73-83) and 
+      79% (95% CI: 75-84) at 'intention-to-treat' (ITT) and 'per protocol' (PP)
+      analysis, respectively, without any statistically significant difference between 
+      treatment regimens, although a trend for better results with the omeprazole
+      combination was observed. Moreover, H. pylori eradication was achieved in 82%
+      (95% CI: 75-97) (ITT) and 86% (95% CI: 69-94) (PP) of 38 patients re-treated with
+      RBTT regimen. CONCLUSIONS: Our data found that this short-term triple therapy is 
+      not a satisfactory treatment (< 80% eradication rate) for H. pylori infection.
+      The 2-week triple therapy used as re-treatment in eradication failure patients
+      yielded more promising results.
+AD  - Department of Clinical Medicine, Gastroenterology II, 'La Sapienza' University,
+      Rome, Italy.
+FAU - Rinaldi, V
+AU  - Rinaldi V
+FAU - Zullo, A
+AU  - Zullo A
+FAU - De Francesco, V
+AU  - De Francesco V
+FAU - Hassan, C
+AU  - Hassan C
+FAU - Winn, S
+AU  - Winn S
+FAU - Stoppino, V
+AU  - Stoppino V
+FAU - Faleo, D
+AU  - Faleo D
+FAU - Attili, A F
+AU  - Attili AF
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (Histamine H2 Antagonists)
+RN  - 0 (Proton Pumps)
+RN  - 128345-62-0 (ranitidine bismuth citrate)
+RN  - 66357-35-5 (Ranitidine)
+RN  - 7440-69-9 (Bismuth)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Bismuth/*administration & dosage
+MH  - Drug Therapy, Combination
+MH  - Female
+MH  - Helicobacter Infections/*drug therapy
+MH  - Helicobacter pylori/*drug effects
+MH  - Histamine H2 Antagonists/*administration & dosage
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Proton Pumps/*antagonists & inhibitors
+MH  - Ranitidine/administration & dosage/*analogs & derivatives
+EDAT- 1999/04/02
+MHDA- 1999/04/02 00:01
+CRDT- 1999/04/02 00:00
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 1999 Feb;13(2):163-8.
+
+PMID- 9798803
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990120
+DCOM- 19990120
+LR  - 20061115
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 12
+IP  - 10
+DP  - 1998 Oct
+TI  - Lansoprazole and omeprazole in the prevention of relapse of reflux oesophagitis: 
+      a long-term comparative study.
+PG  - 985-90
+AB  - BACKGROUND: Proton pump inhibitors are superior to H2-receptor antagonists in the
+      prevention of relapse of oesophagitis, but few data directly compare the relative
+      efficacies of lansoprazole and omeprazole in preventing oesophagitis relapse over
+      a prolonged period. METHODS: Patients with healed Grade II, III or IV
+      oesophagitis were treated with lansoprazole 30 mg o.d. or omeprazole 20 mg o.d.
+      for 48 weeks. Endoscopy and symptom assessment were performed after 12. 24 and 48
+      weeks of treatment and an additional symptom assessment 36 weeks after starting
+      treatment. RESULTS: Intention-to-treat analysis included 248 patients
+      (lansoprazole n = 126, omeprazole n = 122). Comparison of time to endoscopic
+      and/or symptomatic relapse revealed no difference between the treatments. There
+      was no significant difference between treatments with respect to the proportion
+      of patients in whom endoscopic and/or symptomatic relapse was reported
+      (lansoprazole 12/126 (9.5%), omeprazole 11/122 (9.0%)). No difference between the
+      treatments in either the number or severity of adverse events was reported.
+      CONCLUSIONS: Continuous treatment with either lansoprazole 30 mg or omeprazole 20
+      mg is effective in preventing the relapse of oesophagitis over a 48-week period
+      in a majority of patients. Both treatments exhibit a similar side-effect profile.
+AD  - Department of Medicine, Bollnas Hospital, Sweden. lasse.carling@bs.lg.se
+FAU - Carling, L
+AU  - Carling L
+FAU - Axelsson, C K
+AU  - Axelsson CK
+FAU - Forssell, H
+AU  - Forssell H
+FAU - Stubberod, A
+AU  - Stubberod A
+FAU - Kraglund, K
+AU  - Kraglund K
+FAU - Bonnevie, O
+AU  - Bonnevie O
+FAU - Ekstrom, P
+AU  - Ekstrom P
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Esophagitis, Peptic/*prevention & control
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/adverse effects/*analogs & derivatives/*therapeutic use
+MH  - Recurrence/prevention & control
+MH  - Time Factors
+EDAT- 1998/11/03
+MHDA- 1998/11/03 00:01
+CRDT- 1998/11/03 00:00
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 1998 Oct;12(10):985-90.
+
+PMID- 9768529
+OWN - NLM
+STAT- MEDLINE
+DA  - 19981211
+DCOM- 19981211
+LR  - 20061115
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 12
+IP  - 9
+DP  - 1998 Sep
+TI  - Pantoprazole 20 mg is effective for relief of symptoms and healing of lesions in 
+      mild reflux oesophagitis.
+PG  - 865-72
+AB  - AIM: To investigate the efficacy of a low dose of pantoprazole, a gastric proton 
+      pump inhibitor, for the relief of symptoms and healing of lesions in mild
+      gastro-oesophageal reflux disease (GERD), and to compare it with the efficacy of 
+      ranitidine. METHODS: Patients with endoscopically established GERD (Stage I,
+      Savary-Miller classification) were enrolled into a randomized, double-blind,
+      parallel-group and multicentre study (intention-to-treat n = 209, age range 19-82
+      years). They were treated once daily with oral pantoprazole 20 mg or ranitidine
+      300 mg, for up to 8 weeks. End-point parameters included relief of symptoms
+      (heartburn, acid regurgitation, pain on swallowing) and the healing of GERD
+      lesions. Relief from symptoms was assessed after 2 and 4 weeks, and
+      endoscopically confirmed healing of lesions after 4 and 8 weeks. RESULTS: The
+      proportion of patients reporting complete relief from symptoms after 2 weeks was 
+      greater in the pantoprazole than in the ranitidine group (69 vs. 48%, P < 0.01), 
+      with further improvements seen in the pantoprazole group after 4 weeks (80 vs.
+      65%, P < 0.05, Cochran-Mantel/Haenszel test). Healing of lesions was confirmed in
+      70/87 (80%) patients after 4 weeks (pantoprazole group), as compared with 55/86
+      (64%) patients (ranitidine group) (P < 0.05, per protocol population); after 8
+      weeks the respective results were 78/87 (90%) and 63/86 (73%) patients (P <
+      0.01). Both study medications were well tolerated. CONCLUSION: Low-dose
+      pantoprazole (20 mg) is clinically superior to ranitidine (300 mg) in providing
+      fast relief from symptoms and healing of lesions in patients with mild GERD.
+AD  - Byk Gulden Pharmaceuticals, Konstanz, Germany.
+FAU - Dettmer, A
+AU  - Dettmer A
+FAU - Vogt, R
+AU  - Vogt R
+FAU - Sielaff, F
+AU  - Sielaff F
+FAU - Luhmann, R
+AU  - Luhmann R
+FAU - Schneider, A
+AU  - Schneider A
+FAU - Fischer, R
+AU  - Fischer R
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Sulfoxides)
+RN  - 102625-70-7 (pantoprazole)
+RN  - 66357-35-5 (Ranitidine)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Ulcer Agents/administration & dosage/*therapeutic use
+MH  - Benzimidazoles/administration & dosage/*therapeutic use
+MH  - Double-Blind Method
+MH  - Esophagitis, Peptic/*drug therapy/physiopathology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/analogs & derivatives
+MH  - Ranitidine/administration & dosage/therapeutic use
+MH  - Sulfoxides/administration & dosage/*therapeutic use
+MH  - Treatment Outcome
+EDAT- 1998/10/13
+MHDA- 1998/10/13 00:01
+CRDT- 1998/10/13 00:00
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 1998 Sep;12(9):865-72.
+
+PMID- 9731991
+OWN - NLM
+STAT- MEDLINE
+DA  - 19981124
+DCOM- 19981124
+LR  - 20071115
+IS  - 1083-4389 (Print)
+IS  - 1083-4389 (Linking)
+VI  - 3
+IP  - 3
+DP  - 1998 Sep
+TI  - Efficacy of lansoprazole in eradicating Helicobacter pylori: a meta-analysis.
+PG  - 195-201
+AB  - BACKGROUND: The combination of lansoprazole with antibiotics either as double or 
+      triple therapy has demonstrated an H. pylori eradication rate of between 80 and
+      90%. With the aim of providing a complete revision of the results of these
+      clinical studies and a quantification of the efficacy of lansoprazole in
+      eradicating H. pylori and healing peptic ulcers, we have undertaken a
+      meta-analysis of all the controlled studies published in the literature. METHODS:
+      This meta-analysis reviewed all randomized, controlled clinical trials published 
+      as full text articles in English between 1993 and 1996 that reported the efficacy
+      of lansoprazole treatment as monotherapy or in combination with antibiotics in
+      the treatment of peptic ulcer and in eradicating H. pylori. Articles were
+      identified from the literature, which included both manual and computerized
+      research (MEDLINE) and references provided by articles in this area. In order to 
+      compare the efficacy of triple therapy comprising lansoprazole vs. another PPI,
+      data from abstracts (n = 5) were used, as no full text articles were located.
+      RESULTS: This systematic review of the literature documents that lansoprazole has
+      a high degree of efficacy in eradicating H. pylori, above all when used within
+      treatment schemes including amoxicillin or clarithromycin, and metronidazole or
+      tinidazole. This efficacy is comparable to that of other PPIs. CONCLUSIONS:
+      Triple therapy allows the eradication of H. pylori in more than 85% of cases in
+      patients with peptic ulcer. In addition, there is a substantial comparability of 
+      the efficacy of lansoprazole and omeprazole when they are used together with
+      other anti-infective agents. Thus, lansoprazole appears to offer an option in the
+      eradication of H. pylori.
+AD  - Dipartimento di Medicina Interna e Gastroenterologia, Policlinico Universitario
+      Sant' Orsola, Bologna, Italy. bazzoli@alma.unibo.it
+FAU - Bazzoli, F
+AU  - Bazzoli F
+FAU - Pozzato, P
+AU  - Pozzato P
+FAU - Zagari, M
+AU  - Zagari M
+FAU - Fossi, S
+AU  - Fossi S
+FAU - Ricciardiello, L
+AU  - Ricciardiello L
+FAU - Nicolini, G
+AU  - Nicolini G
+FAU - Berretti, D
+AU  - Berretti D
+FAU - De Luca, L
+AU  - De Luca L
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Meta-Analysis
+PL  - UNITED STATES
+TA  - Helicobacter
+JT  - Helicobacter
+JID - 9605411
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Penicillins)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 26787-78-0 (Amoxicillin)
+RN  - 73590-58-6 (Omeprazole)
+RN  - 81103-11-9 (Clarithromycin)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Amoxicillin/therapeutic use
+MH  - Anti-Bacterial Agents/therapeutic use
+MH  - Anti-Ulcer Agents/*therapeutic use
+MH  - Clarithromycin/therapeutic use
+MH  - Drug Administration Schedule
+MH  - Drug Therapy, Combination
+MH  - Helicobacter Infections/*drug therapy
+MH  - *Helicobacter pylori
+MH  - Humans
+MH  - Omeprazole/*analogs & derivatives/therapeutic use
+MH  - Patient Selection
+MH  - Penicillins/therapeutic use
+MH  - Peptic Ulcer/*drug therapy/microbiology
+MH  - Randomized Controlled Trials as Topic
+EDAT- 1998/09/10
+MHDA- 1998/09/10 00:01
+CRDT- 1998/09/10 00:00
+PST - ppublish
+SO  - Helicobacter. 1998 Sep;3(3):195-201.
+
+PMID- 9726393
+OWN - NLM
+STAT- MEDLINE
+DA  - 19981106
+DCOM- 19981106
+LR  - 20061115
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 12
+IP  - 8
+DP  - 1998 Aug
+TI  - Comparison of rabeprazole 20 mg vs. omeprazole 20 mg in the treatment of active
+      gastric ulcer--a European multicentre study. The European Rabeprazole Study
+      Group.
+PG  - 789-95
+AB  - BACKGROUND: Rabeprazole sodium is the newest member of a class of substituted
+      benzimidazole molecules known as proton pump inhibitors. Other proton pump
+      inhibitors have been shown to be effective in healing active, benign gastric
+      ulcers. METHODS: In this randomized, double-blind, multicentre study, conducted
+      at 25 European sites, rabeprazole and omeprazole were compared in patients with
+      active gastric ulcers. Two hundred and twenty-seven patients with active benign
+      gastric ulcer were randomized to receive either rabeprazole 20 mg (n = 113) or
+      omeprazole 20 mg (n = 114) once daily for 3 or 6 weeks, with healing monitored by
+      endoscopy. RESULTS: After 3 weeks, complete healing (ITT analysis) was documented
+      in 58% of patients given rabeprazole and 61% in patients given omeprazole (N.S.).
+      After 6 weeks the healing rates were identical in both groups at 91%.
+      Rabeprazole-treated patients had numerically greater symptom relief at all 12
+      points of comparison. The differences significantly favoured rabeprazole at week 
+      3 for daytime pain improvement (P = 0.023) and at week 6 for pain frequency (P = 
+      0.006) and complete resolution of night pain (P = 0.022). Both drugs were
+      well-tolerated over the 6-week treatment course. Mean changes from baseline to
+      end-point in fasting serum gastrin were comparable. No significant differences in
+      laboratory parameters were seen. CONCLUSION: In this study, rabeprazole produced 
+      healing rates comparable to omeprazole at weeks 3 and 6, but provided more
+      consistent and occasionally significantly superior symptom improvement. Both
+      treatments were well-tolerated.
+AD  - Ignatius Hospital, Breda, The Netherlands.
+FAU - Dekkers, C P
+AU  - Dekkers CP
+FAU - Beker, J A
+AU  - Beker JA
+FAU - Thjodleifsson, B
+AU  - Thjodleifsson B
+FAU - Gabryelewicz, A
+AU  - Gabryelewicz A
+FAU - Bell, N E
+AU  - Bell NE
+FAU - Humphries, T J
+AU  - Humphries TJ
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Benzimidazoles)
+RN  - 117976-90-6 (rabeprazole)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Anti-Ulcer Agents/*administration & dosage
+MH  - Benzimidazoles/*administration & dosage
+MH  - Double-Blind Method
+MH  - Female
+MH  - Gastroscopy
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/*administration & dosage
+MH  - Pain/drug therapy
+MH  - Stomach Ulcer/*drug therapy/pathology
+MH  - Treatment Outcome
+EDAT- 1998/09/03
+MHDA- 1998/09/03 00:01
+CRDT- 1998/09/03 00:00
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 1998 Aug;12(8):789-95.
+
+PMID- 9726387
+OWN - NLM
+STAT- MEDLINE
+DA  - 19981106
+DCOM- 19981106
+LR  - 20061115
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 12
+IP  - 8
+DP  - 1998 Aug
+TI  - Incidence of duodenal ulcer healing after 1 week of proton pump inhibitor triple 
+      therapy for eradication of Helicobacter pylori. The Lansoprazole Helicobacter
+      Study Group.
+PG  - 741-5
+AB  - BACKGROUND: A number of clinical studies have assessed the efficacy of short-term
+      twice-daily Helicobacter pylori eradication regimens but few have investigated
+      the proportion of patients in whom duodenal ulcer disease was healed with these
+      regimens. AIM: To compare the safety and efficacy of four 1-week H. pylori
+      eradication regimens in the healing of H. pylori associated duodenal ulcer
+      disease. METHODS: Following endoscopic confirmation of duodenal ulcer disease and
+      a positive CLO test, patients underwent a 13C-urea breath test to confirm H.
+      pylori status. Treatment with one of four regimens: LAC, LAM, LCM or OAM, where L
+      is lansoprazole 30 mg b.d., A is amoxycillin 1 g b.d., M is metronidazole 400 mg 
+      b.d., C is clarithromycin 250 mg b.d., and O is omeprazole 20 mg b.d., was
+      assigned randomly to those patients who were H. pylori positive, with 62 (LAC),
+      64 (LAM), 61 (LCM) and 75 (OAM) patients in each treatment group. Follow-up
+      breath tests and endoscopies were performed at least 28 days after the end of
+      treatment. RESULTS: Duodenal ulcer disease was healed 28 days after treatment in 
+      53/62 (85.5%) patients who were treated with LAC, 52/64 (81.3%) of patients
+      treated with LAM, 49/61 (80.3%) of patients treated with LCM and 60/75 (80.0%) of
+      patients treated with OAM (intention-to-treat analysis, n = 262, assumed unhealed
+      if no follow-up endoscopy was performed). All the treatments were of similar
+      efficacy (P = 0.85, chi-squared test) with regard to the healing of duodenal
+      ulcer disease. CONCLUSIONS: The four 1-week treatment regimens were equally
+      effective in healing H. pylori associated duodenal ulcer disease.
+AD  - Central Middlesex Hospital, London, UK.
+FAU - Harris, A W
+AU  - Harris AW
+FAU - Misiewicz, J J
+AU  - Misiewicz JJ
+FAU - Bardhan, K D
+AU  - Bardhan KD
+FAU - Levi, S
+AU  - Levi S
+FAU - O'Morain, C
+AU  - O'Morain C
+FAU - Cooper, B T
+AU  - Cooper BT
+FAU - Kerr, G D
+AU  - Kerr GD
+FAU - Dixon, M F
+AU  - Dixon MF
+FAU - Langworthy, H
+AU  - Langworthy H
+FAU - Piper, D
+AU  - Piper D
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Penicillins)
+RN  - 0 (Proton Pumps)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 26787-78-0 (Amoxicillin)
+RN  - 443-48-1 (Metronidazole)
+RN  - 73590-58-6 (Omeprazole)
+RN  - 81103-11-9 (Clarithromycin)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adult
+MH  - Aged
+MH  - Amoxicillin/*administration & dosage
+MH  - Anti-Bacterial Agents/*administration & dosage
+MH  - Anti-Ulcer Agents/*administration & dosage
+MH  - Clarithromycin/*administration & dosage
+MH  - Combined Modality Therapy
+MH  - Duodenal Ulcer/*drug therapy/*microbiology
+MH  - Female
+MH  - Helicobacter Infections/*drug therapy
+MH  - Helicobacter pylori/*drug effects
+MH  - Humans
+MH  - Male
+MH  - Metronidazole/*administration & dosage
+MH  - Middle Aged
+MH  - Omeprazole/*administration & dosage/*analogs & derivatives
+MH  - Penicillins/*administration & dosage
+MH  - Proton Pumps/*antagonists & inhibitors
+MH  - Treatment Outcome
+EDAT- 1998/09/03
+MHDA- 1998/09/03 00:01
+CRDT- 1998/09/03 00:00
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 1998 Aug;12(8):741-5.
+
+PMID- 9692700
+OWN - NLM
+STAT- MEDLINE
+DA  - 19981105
+DCOM- 19981105
+LR  - 20061115
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 12
+IP  - 1
+DP  - 1998 Jan
+TI  - A comparison of omeprazole, lansoprazole and pantoprazole in the maintenance
+      treatment of severe reflux oesophagitis.
+PG  - 49-52
+AB  - BACKGROUND: Proton pump inhibitors are effective for the healing of oesophagitis.
+      Standard doses of omeprazole, lansoprazole or pantoprazole are sufficient for
+      healing in mild to moderate cases of oesophagitis. AIM: To compare the efficacy
+      of double the standard doses of omeprazole, lansoprazole or pantoprazole for
+      maintenance treatment of severe oesophagitis complicated by a stricture. METHODS:
+      Thirty-six patients with reflux oesophagitis and stricture confirmed by endoscopy
+      were included in a prospective study comparing three maintenance therapies. In
+      all cases weekly dilatation of the stenosis was performed and patients were
+      treated with omeprazole 20 mg b.d. until healing of oesophagitis and dysphagia
+      relief were achieved. Thirty participants responded to therapy and were then
+      randomly assigned to 4 weeks of maintenance treatment with omeprazole (20 mg
+      b.d.; n = 10), lansoprazole (30 mg b.d.; n = 10) or pantoprazole (40 mg b.d.; n =
+      10). Subsequently, endoscopies were performed-the endoscopists were blinded to
+      the therapy assignment. The endpoints were defined as the absence of
+      oesophagitis, oesophageal stricture and complaints. RESULTS: After 4 weeks of
+      treatment, the number of patients remaining in remission (no oesophagitis or
+      stricture and no symptoms) was nine out of 10 (90%) in the omeprazole group, two 
+      out of 10 (20%) in the lansoprazole group (P < 0.01) and three out of 10 (30%) in
+      the pantoprazole group (P < 0.01). CONCLUSIONS: In our study omeprazole was
+      superior to either lansoprazole or pantoprazole in the maintenance treatment of
+      complicated gastro-oesophageal reflux disease.
+AD  - Department of Gastroenterology, Academic Hospital Fulda, Germany.
+FAU - Jaspersen, D
+AU  - Jaspersen D
+FAU - Diehl, K L
+AU  - Diehl KL
+FAU - Schoeppner, H
+AU  - Schoeppner H
+FAU - Geyer, P
+AU  - Geyer P
+FAU - Martens, E
+AU  - Martens E
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Proton Pumps)
+RN  - 0 (Sulfoxides)
+RN  - 102625-70-7 (pantoprazole)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adult
+MH  - Aged
+MH  - Anti-Ulcer Agents/administration & dosage/*therapeutic use
+MH  - Benzimidazoles/administration & dosage/*therapeutic use
+MH  - Deglutition Disorders/prevention & control
+MH  - Double-Blind Method
+MH  - Endoscopy
+MH  - Esophageal Stenosis/complications/drug therapy
+MH  - Gastroesophageal Reflux/complications/*drug therapy
+MH  - Heartburn/prevention & control
+MH  - Humans
+MH  - Middle Aged
+MH  - Omeprazole/administration & dosage/*analogs & derivatives/*therapeutic use
+MH  - Prospective Studies
+MH  - Proton Pumps/*antagonists & inhibitors
+MH  - Recurrence/prevention & control
+MH  - Sulfoxides/administration & dosage/*therapeutic use
+MH  - Treatment Outcome
+EDAT- 1998/08/06
+MHDA- 1998/08/06 00:01
+CRDT- 1998/08/06 00:00
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 1998 Jan;12(1):49-52.
+
+PMID- 9494149
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980312
+DCOM- 19980312
+LR  - 20061115
+IS  - 0028-4793 (Print)
+IS  - 0028-4793 (Linking)
+VI  - 338
+IP  - 11
+DP  - 1998 Mar 12
+TI  - Omeprazole compared with misoprostol for ulcers associated with nonsteroidal
+      antiinflammatory drugs. Omeprazole versus Misoprostol for NSAID-induced Ulcer
+      Management (OMNIUM) Study Group.
+PG  - 727-34
+AB  - BACKGROUND: Misoprostol is effective for ulcers associated with the use of
+      nonsteroidal antiinflammatory drugs (NSAIDs) but is often poorly tolerated
+      because of diarrhea and abdominal pain. We compared the efficacy of omeprazole
+      and misoprostol in healing and preventing ulcers associated with NSAIDs. METHODS:
+      In a double-blind study, we randomly assigned 935 patients who required
+      continuous NSAID therapy and who had ulcers or more than 10 erosions in the
+      stomach or duodenum (or both) to receive 20 mg or 40 mg of omeprazole orally in
+      the morning or 200 microg of misoprostol orally four times daily. Patients were
+      treated for four weeks or, in the absence of healing, eight weeks. Treatment
+      success was defined as the absence of ulcers and the presence of fewer than five 
+      erosions at each site and not more than mild dyspepsia. We then randomly
+      reassigned 732 patients in whom treatment was successful to maintenance therapy
+      with 20 mg of omeprazole daily, 200 microg of misoprostol twice daily, or placebo
+      for six months. RESULTS: At eight weeks, treatment was successful in 76 percent
+      of the patients given 20 mg of omeprazole (233 of 308), 75 percent of those given
+      40 mg of omeprazole (237 of 315), and 71 percent of those given misoprostol (212 
+      of 298). The rates of gastric-ulcer healing were significantly higher with 20 mg 
+      of omeprazole (but not 40 mg of omeprazole) than with misoprostol. Healing rates 
+      among patients with duodenal ulcers were higher with either dose of omeprazole
+      than with misoprostol, whereas healing rates among patients with erosions alone
+      were higher with misoprostol. More patients remained in remission during
+      maintenance treatment with omeprazole (61 percent) than with misoprostol (48
+      percent, P=0.001) and with either drug than with placebo (27 percent, P<0.001).
+      There were more adverse events during the healing phase in the misoprostol group 
+      than in the groups given 20 mg and 40 mg of omeprazole (59 percent, 48 percent,
+      and 46 percent, respectively). CONCLUSIONS: The overall rates of successful
+      treatment of ulcers, erosions, and symptoms associated with NSAIDs were similar
+      for the two doses of omeprazole and misoprostol. Maintenance therapy with
+      omeprazole was associated with a lower rate of relapse than misoprostol.
+      Omeprazole was better tolerated than misoprostol.
+AD  - Division of Gastroenterology, University Hospital, Nottingham, United Kingdom.
+FAU - Hawkey, C J
+AU  - Hawkey CJ
+FAU - Karrasch, J A
+AU  - Karrasch JA
+FAU - Szczepanski, L
+AU  - Szczepanski L
+FAU - Walker, D G
+AU  - Walker DG
+FAU - Barkun, A
+AU  - Barkun A
+FAU - Swannell, A J
+AU  - Swannell AJ
+FAU - Yeomans, N D
+AU  - Yeomans ND
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Proton Pumps)
+RN  - 59122-46-2 (Misoprostol)
+RN  - 73590-58-6 (Omeprazole)
+SB  - AIM
+SB  - IM
+CIN - ACP J Club. 1998 Jul-Aug;129(1):8-9
+CIN - N Engl J Med. 1998 Jul 30;339(5):350; author reply 350-1. PMID: 9696651
+CIN - N Engl J Med. 1998 Jul 30;339(5):349-50; author reply 350-1. PMID: 9696650
+CIN - N Engl J Med. 1998 Jul 30;339(5):349; author reply 350-1. PMID: 9696649
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*adverse effects
+MH  - Anti-Ulcer Agents/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Duodenal Ulcer/chemically induced/*drug therapy
+MH  - Dyspepsia/drug therapy
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Misoprostol/adverse effects/*therapeutic use
+MH  - Omeprazole/adverse effects/*therapeutic use
+MH  - Prognosis
+MH  - Proton Pumps/antagonists & inhibitors
+MH  - Recurrence
+MH  - Remission Induction
+MH  - Stomach Ulcer/chemically induced/*drug therapy
+EDAT- 1998/03/12
+MHDA- 1998/03/12 00:01
+CRDT- 1998/03/12 00:00
+AID - 10.1056/NEJM199803123381105 [doi]
+PST - ppublish
+SO  - N Engl J Med. 1998 Mar 12;338(11):727-34.
+
+PMID- 9494148
+OWN - NLM
+STAT- MEDLINE
+DA  - 19980312
+DCOM- 19980312
+LR  - 20061115
+IS  - 0028-4793 (Print)
+IS  - 0028-4793 (Linking)
+VI  - 338
+IP  - 11
+DP  - 1998 Mar 12
+TI  - A comparison of omeprazole with ranitidine for ulcers associated with
+      nonsteroidal antiinflammatory drugs. Acid Suppression Trial: Ranitidine versus
+      Omeprazole for NSAID-associated Ulcer Treatment (ASTRONAUT) Study Group.
+PG  - 719-26
+AB  - BACKGROUND: Suppressing acid secretion is thought o reduce the risk of ulcers
+      associated with regular use of nonsteroidal antiinflammatory drugs (NSAIDs), but 
+      the best means of accomplishing this is uncertain. METHODS: We studied 541
+      patients who required continuous treatment with NSAIDs and who had ulcers or more
+      than 10 erosions in either the stomach or duodenum. Patients were randomly
+      assigned to double-blind treatment with omeprazole, 20 mg or 40 mg orally per
+      day, or ranitidine, 150 mg orally twice a day, for four or eight weeks, depending
+      on when treatment was successful (defined as the resolution of ulcer and the
+      presence of fewer than five erosions in the stomach, and fewer than five erosions
+      in the duodenum, and not more than mild dyspepsia). We randomly assigned 432
+      patients in whom treatment was successful to maintenance treatment with either 20
+      mg of omeprazole per day or 150 mg of ranitidine twice a day for six months.
+      RESULTS: At eight weeks, treatment was successful in 80 percent (140 of 174) of
+      the patients in the group given 20 mg of omeprazole per day, 79 percent (148 of
+      187) of those given 40 mg of omeprazole per day, and 63 percent (110 of 174) of
+      those given ranitidine (P<0.001 for the comparison with 20 mg of omeprazole and
+      P=0.001 for the comparison with 40 mg of omeprazole). The rates of healing of all
+      types of lesions were higher with omeprazole than with ranitidine. During
+      maintenance therapy, the estimated proportion of patients in remission at the end
+      of six months was 72 percent in the omeprazole group and 59 percent in the
+      ranitidine group. The rates of adverse events were similar between groups during 
+      both phases. Both medications were well tolerated. CONCLUSIONS: In patients with 
+      regular use of NSAIDs, omeprazole healed and prevented ulcers more effectively
+      than did ranitidine.
+AD  - Department of Medicine, University of Melbourne, Western Hospital, Footscray,
+      Victoria, Australia.
+FAU - Yeomans, N D
+AU  - Yeomans ND
+FAU - Tulassay, Z
+AU  - Tulassay Z
+FAU - Juhasz, L
+AU  - Juhasz L
+FAU - Racz, I
+AU  - Racz I
+FAU - Howard, J M
+AU  - Howard JM
+FAU - van Rensburg, C J
+AU  - van Rensburg CJ
+FAU - Swannell, A J
+AU  - Swannell AJ
+FAU - Hawkey, C J
+AU  - Hawkey CJ
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+RN  - 0 (Anti-Inflammatory Agents, Non-Steroidal)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Histamine H2 Antagonists)
+RN  - 0 (Proton Pumps)
+RN  - 66357-35-5 (Ranitidine)
+RN  - 73590-58-6 (Omeprazole)
+SB  - AIM
+SB  - IM
+CIN - ACP J Club. 1998 Jul-Aug;129(1):9
+CIN - N Engl J Med. 1998 Jul 30;339(5):350-1. PMID: 9696652
+CIN - N Engl J Med. 1998 Jul 30;339(5):349-50; author reply 350-1. PMID: 9696650
+CIN - N Engl J Med. 1998 Jul 30;339(5):349; author reply 350-1. PMID: 9696649
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Inflammatory Agents, Non-Steroidal/*adverse effects
+MH  - Anti-Ulcer Agents/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Duodenal Ulcer/chemically induced/*drug therapy
+MH  - Female
+MH  - Histamine H2 Antagonists/adverse effects/therapeutic use
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/adverse effects/*therapeutic use
+MH  - Prognosis
+MH  - Proton Pumps/antagonists & inhibitors
+MH  - Ranitidine/adverse effects/*therapeutic use
+MH  - Remission Induction
+MH  - Stomach Ulcer/chemically induced/*drug therapy
+EDAT- 1998/03/12
+MHDA- 1998/03/12 00:01
+CRDT- 1998/03/12 00:00
+AID - 10.1056/NEJM199803123381104 [doi]
+PST - ppublish
+SO  - N Engl J Med. 1998 Mar 12;338(11):719-26.
+
+PMID- 9382084
+OWN - NLM
+STAT- MEDLINE
+DA  - 19971112
+DCOM- 19971112
+LR  - 20061115
+IS  - 0002-9270 (Print)
+IS  - 0002-9270 (Linking)
+VI  - 92
+IP  - 10
+DP  - 1997 Oct
+TI  - Pantoprazole versus omeprazole in one-week low-dose triple therapy for curve of
+      H. pylori infection.
+PG  - 1949-50
+FAU - Adamek, R J
+AU  - Adamek RJ
+FAU - Szymanski, C
+AU  - Szymanski C
+FAU - Pfaffenbach, B
+AU  - Pfaffenbach B
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Letter
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - Am J Gastroenterol
+JT  - The American journal of gastroenterology
+JID - 0421030
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Sulfoxides)
+RN  - 102625-70-7 (pantoprazole)
+RN  - 443-48-1 (Metronidazole)
+RN  - 73590-58-6 (Omeprazole)
+RN  - 81103-11-9 (Clarithromycin)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Anti-Bacterial Agents/administration & dosage
+MH  - Anti-Ulcer Agents/*administration & dosage
+MH  - Benzimidazoles/*administration & dosage
+MH  - Clarithromycin/administration & dosage
+MH  - Dyspepsia/drug therapy/microbiology
+MH  - Female
+MH  - Helicobacter Infections/complications/*drug therapy
+MH  - *Helicobacter pylori
+MH  - Humans
+MH  - Male
+MH  - Metronidazole/administration & dosage
+MH  - Middle Aged
+MH  - Omeprazole/*administration & dosage
+MH  - Peptic Ulcer/drug therapy/microbiology
+MH  - Prospective Studies
+MH  - Sulfoxides/*administration & dosage
+EDAT- 1997/10/23
+MHDA- 1997/10/23 00:01
+CRDT- 1997/10/23 00:00
+PST - ppublish
+SO  - Am J Gastroenterol. 1997 Oct;92(10):1949-50.
+
+PMID- 9136821
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970527
+DCOM- 19970527
+LR  - 20071114
+IS  - 0016-5085 (Print)
+IS  - 0016-5085 (Linking)
+VI  - 112
+IP  - 5
+DP  - 1997 May
+TI  - Prevalence and clinical spectrum of gastroesophageal reflux: a population-based
+      study in Olmsted County, Minnesota.
+PG  - 1448-56
+AB  - BACKGROUND & AIMS: Gastroesophageal reflux is considered a common condition, but 
+      detailed population-based data on reflux in the United States are lacking. The
+      aim of this study was to determine the prevalence and clinical spectrum of
+      gastroesophageal reflux in Olmsted County, Minnesota. METHODS: A reliable and
+      valid self-report questionnaire was mailed to an age- and sex-stratified random
+      sample of 2200 Olmsted County residents aged 25-74 years. RESULTS: The prevalence
+      per 100 of heartburn and/or acid regurgitation experienced at least weekly was
+      19.8 (95% confidence interval [95% CI], 17.7-21.9). Heartburn and acid
+      regurgitation were associated with noncardiac chest pain (odds ratio [OR], 4.2;
+      95% CI, 2.9-6.0), dysphagia (OR, 4.7; 95% CI, 2.9-7.4), dyspepsia (OR, 3.1; 95%
+      CI, 1.9-5.0), and globus sensation (OR, 1.9; 95% CI, 1.0-3.6) but not with
+      asthma, hoarseness, bronchitis, or a history of pneumonia. Among subjects with
+      reflux symptoms, 1.0% reported an episode of hematemesis and 1.3% had a past
+      esophageal dilatation. CONCLUSIONS: Symptoms of reflux are common among white men
+      and women who are 25-74 years of age. Heartburn and acid regurgitation are
+      significantly associated with chest pain, dysphagia, dyspepsia, and globus
+      sensation. The percentage of patients reporting complications is low, but the
+      absolute number is probably considerable given the high prevalence of the
+      condition in the community.
+AD  - Department of Health Sciences Research, Mayo Clinic and Mayo Foundation,
+      Rochester, Minnesota 55905, USA.
+FAU - Locke, G R 3rd
+AU  - Locke GR 3rd
+FAU - Talley, N J
+AU  - Talley NJ
+FAU - Fett, S L
+AU  - Fett SL
+FAU - Zinsmeister, A R
+AU  - Zinsmeister AR
+FAU - Melton, L J 3rd
+AU  - Melton LJ 3rd
+LA  - eng
+GR  - AG09440/AG/NIA NIH HHS/United States
+GR  - AR30582/AR/NIAMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - UNITED STATES
+TA  - Gastroenterology
+JT  - Gastroenterology
+JID - 0374630
+SB  - AIM
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Chest Pain/complications
+MH  - *Community Medicine
+MH  - Female
+MH  - Gastroesophageal Reflux/*complications/*epidemiology/therapy
+MH  - Gastrointestinal Diseases/complications
+MH  - Hematemesis/etiology
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Minnesota
+MH  - Prevalence
+MH  - Questionnaires
+MH  - Respiration Disorders/complications
+EDAT- 1997/05/01
+MHDA- 2001/03/28 10:01
+CRDT- 1997/05/01 00:00
+AID - S0016508597002114 [pii]
+PST - ppublish
+SO  - Gastroenterology. 1997 May;112(5):1448-56.
+
+PMID- 9068463
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970408
+DCOM- 19970408
+LR  - 20061115
+IS  - 0002-9270 (Print)
+IS  - 0002-9270 (Linking)
+VI  - 92
+IP  - 3
+DP  - 1997 Mar
+TI  - Lansoprazole heals erosive reflux esophagitis resistant to histamine H2-receptor 
+      antagonist therapy.
+PG  - 429-37
+AB  - PURPOSE: We conducted a randomized, double-blind, multicenter clinical trial to
+      determine whether lansoprazole was superior to continued therapy with histamine
+      H2-receptor antagonist therapy in healing erosive reflux esophagitis. METHODS:
+      Investigators from nine medical centers enrolled 159 patients with endoscopically
+      documented esophageal erosions and/or ulcers that had failed to heal with 12 or
+      more wk of at least standard dosages of histamine H2-receptor antagonist therapy.
+      Patients received ranitidine 150 mg b.i.d. for 8 wk or lansoprazole 30 mg for 4
+      wk followed by either lansoprazole 30 mg or lansoprazole 60 mg for another 4 wk
+      of treatment. Patients underwent endoscopy at screening and at weeks 2, 4, and 8.
+      RESULTS: At 2, 4, and 8 wk of therapy, healing rates were significantly higher in
+      the lansoprazole group compared with the ranitidine group (p < 0.001). By 8 wk,
+      84% of the lansoprazole group were healed as opposed to only 32% of the
+      ranitidine group. Lansoprazole was superior to ranitidine in providing relief of 
+      upper abdominal burning and daytime heartburn (p < 0.001) and reducing the need
+      for antacids (p < 0.001). Lansoprazole patients had less interference with sleep 
+      and less day time drowsiness than ranitidine patients (p = 0.05). The percentages
+      of patients with adverse events were similar in both groups. Fasting serum
+      gastrin levels at weeks 4 and 8 were significantly higher in the lansoprazole
+      group compared with the ranitidine group. CONCLUSION: Eight weeks of lansoprazole
+      therapy is safe, superior to continued ranitidine therapy, and effective in
+      healing more than 80% of patients with erosive reflux esophagitis previously
+      resistant to histamine H2-receptor antagonist therapy.
+AD  - Department of Medicine, Veterans Affairs Hospital, Hines, Illinois, USA.
+FAU - Sontag, S J
+AU  - Sontag SJ
+FAU - Kogut, D G
+AU  - Kogut DG
+FAU - Fleischmann, R
+AU  - Fleischmann R
+FAU - Campbell, D R
+AU  - Campbell DR
+FAU - Richter, J
+AU  - Richter J
+FAU - Robinson, M
+AU  - Robinson M
+FAU - McFarland, M
+AU  - McFarland M
+FAU - Sabesin, S
+AU  - Sabesin S
+FAU - Lehman, G A
+AU  - Lehman GA
+FAU - Castell, D
+AU  - Castell D
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Am J Gastroenterol
+JT  - The American journal of gastroenterology
+JID - 0421030
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Antacids)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Gastrins)
+RN  - 0 (Histamine H2 Antagonists)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 66357-35-5 (Ranitidine)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adult
+MH  - Aged
+MH  - Antacids/administration & dosage/therapeutic use
+MH  - Anti-Ulcer Agents/administration & dosage/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Drug Resistance
+MH  - Esophagitis, Peptic/*drug therapy
+MH  - Esophagoscopy
+MH  - Fasting
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Gastrins/blood
+MH  - Heartburn/drug therapy
+MH  - Histamine H2 Antagonists/administration & dosage/adverse effects/*therapeutic use
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/administration & dosage/adverse effects/*analogs &
+      derivatives/therapeutic use
+MH  - Ranitidine/administration & dosage/adverse effects/*therapeutic use
+MH  - Safety
+MH  - Sleep/drug effects
+MH  - Sleep Stages/drug effects
+MH  - Ulcer/drug therapy
+MH  - Wound Healing
+EDAT- 1997/03/01
+MHDA- 1997/03/01 00:01
+CRDT- 1997/03/01 00:00
+PST - ppublish
+SO  - Am J Gastroenterol. 1997 Mar;92(3):429-37.
+
+PMID- 8944373
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970306
+DCOM- 19970306
+LR  - 20091016
+IS  - 0954-691X (Print)
+IS  - 0954-691X (Linking)
+VI  - 8
+IP  - 11
+DP  - 1996 Nov
+TI  - Lansoprazole 30 mg versus omeprazole 40 mg in the treatment of reflux
+      oesophagitis grade II, III and IVa (a Dutch multicentre trial). Dutch Study
+      Group.
+PG  - 1101-6
+AB  - OBJECTIVES: To compare the efficacy and safety of lansoprazole 30 mg daily
+      (LAN30) and omeprazole 40 mg daily (OME40) in the treatment of moderate
+      (Savary-Miller grade II) as well as severe reflux oesophagitis (grade III/IVa).
+      DESIGN: A double-blind, randomized, multicentre study, involving 211 patients at 
+      29 Dutch hospitals. METHODS: Healing was assessed by endoscopy, performed on
+      admission, after 4 weeks and after 8 weeks if the patient was not healed after 4 
+      weeks. Symptom relief was determined by symptom assessments at the same time
+      points. Safety was evaluated by determining the incidence of adverse events.
+      RESULTS: There was no significant difference in intention-to-treat (ITT) healing 
+      rates after 4 weeks (LAN30 87.5%, OME40 80.6%; 95% CI (-4.0; +17.8)) and in the
+      ITT overall healing (LAN30 96.1%, OME40 93.1%; 95% CI (-4.2; +10.2)) rates
+      between the LAN30 and the OME40 group. Relief of reflux-related symptoms at 4
+      weeks as well as 8 weeks did not differ significantly between the treatment
+      groups. No difference in the incidence of adverse events was observed between the
+      groups. CONCLUSION: Treatment of patients with reflux oesophagitis grade II, III 
+      or IVa with LAN30 was as effective as with OME40 with respect to healing as well 
+      as symptom relief.
+AD  - Department of Hepatogastroenterology, Rijnstate Hospital, Arnhem, The
+      Netherlands.
+FAU - Mulder, C J
+AU  - Mulder CJ
+FAU - Dekker, W
+AU  - Dekker W
+FAU - Gerretsen, M
+AU  - Gerretsen M
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Eur J Gastroenterol Hepatol
+JT  - European journal of gastroenterology & hepatology
+JID - 9000874
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Administration, Oral
+MH  - Adult
+MH  - Aged
+MH  - Denmark
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Enzyme Inhibitors/administration & dosage/*therapeutic use
+MH  - *Esophagitis, Peptic/drug therapy/pathology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/administration & dosage/*analogs & derivatives/*therapeutic use
+MH  - Prospective Studies
+MH  - Severity of Illness Index
+MH  - Treatment Outcome
+EDAT- 1996/11/01
+MHDA- 1996/11/01 00:01
+CRDT- 1996/11/01 00:00
+PST - ppublish
+SO  - Eur J Gastroenterol Hepatol. 1996 Nov;8(11):1101-6.
+
+PMID- 8899084
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970213
+DCOM- 19970213
+LR  - 20061115
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 10
+IP  - 5
+DP  - 1996 Oct
+TI  - Rapid symptom relief in reflux oesophagitis: a comparison of lansoprazole and
+      omeprazole.
+PG  - 757-63
+AB  - BACKGROUND: Lansoprazole, a substituted benzimidazole, is a proton pump inhibitor
+      which is highly effective in the control of 24-h intragastric acidity. The aim of
+      this multicentre, randomized, double-blind study was to compare lansoprazole 30
+      mg once daily and omeprazole 20 mg once daily in the symptom relief and healing
+      of patients with reflux oesophagitis. METHODS: Six hundred and four patients with
+      endoscopically proven oesophagitis and a recent history of heartburn were
+      randomly assigned to receive lansoprazole 30 mg or omeprazole 20 mg daily for 4-8
+      weeks. Daily assessment of symptoms was made by the patient using a 100-mm Visual
+      Analogue Scale. Clinical symptoms were evaluated at weeks 0, 1, 4 and 8.
+      Endoscopic assessment of healing, defined by normalization of the oesophageal
+      mucosal appearance, was made at weeks 4 and 8. RESULTS: Two hundred and
+      eighty-two patients in the lansoprazole group and 283 patients in the omeprazole 
+      group were eligible for inclusion in the per protocol analysis. At 3 days, there 
+      was a significant improvement in daytime symptoms of heartburn for patients in
+      the lansoprazole group compared with the omeprazole group (P = 0.05). A similar
+      but non-significant trend was seen at 7 days (P = 0.18). Clinical assessment at 7
+      days demonstrated significant improvement in daytime epigastric pain in the
+      lansoprazole group compared with the omeprazole group (P = 0.03), with a similar 
+      but non-significant trend in night-time epigastric pain (P = 0.07). Healing rates
+      of oesophagitis at 4 and 8 weeks were 70 and 87%, respectively, with
+      lansoprazole, and 63 and 82%, respectively, with omeprazole. Logistic regression 
+      analysis of the cumulative healing rates, which included baseline factors
+      affecting outcome, resulted in an odds ratio of 1.46 (95% CI = 0.87-2.45),
+      suggesting a higher chance of being healed with lansoprazole treatment compared
+      with omeprazole treatment. A total of 615 adverse events were reported by 308
+      (51%) patients during the study period. The majority of events were mild in
+      nature and the incidence was similar in both treatment groups. The most
+      frequently reported events were headache, diarrhoea and nausea. CONCLUSION:
+      Lansoprazole provides greater symptom relief compared with omeprazole during the 
+      first week of treatment. Both treatments were effective in healing oesophagitis.
+AD  - Royal Berkshire Hospital, Reading, Berkshire, UK.
+FAU - Mee, A S
+AU  - Mee AS
+FAU - Rowley, J L
+AU  - Rowley JL
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Administration, Oral
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Ulcer Agents/administration & dosage/adverse
+      effects/pharmacology/*therapeutic use
+MH  - Double-Blind Method
+MH  - Enzyme Inhibitors/administration & dosage/adverse
+      effects/pharmacology/*therapeutic use
+MH  - Esophagitis/drug therapy
+MH  - Female
+MH  - Gastroesophageal Reflux/*drug therapy
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/administration & dosage/adverse effects/*analogs &
+      derivatives/pharmacology/*therapeutic use
+MH  - Regression Analysis
+EDAT- 1996/10/01
+MHDA- 1996/10/01 00:01
+CRDT- 1996/10/01 00:00
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 1996 Oct;10(5):757-63.
+
+PMID- 8792693
+OWN - NLM
+STAT- MEDLINE
+DA  - 19961017
+DCOM- 19961017
+LR  - 20061115
+IS  - 0002-9270 (Print)
+IS  - 0002-9270 (Linking)
+VI  - 91
+IP  - 9
+DP  - 1996 Sep
+TI  - Efficacy and safety of lansoprazole in the treatment of erosive reflux
+      esophagitis. The Lansoprazole Group.
+PG  - 1749-57
+AB  - OBJECTIVES: This study was designed to compare lansoprazole 30 mg, lansoprazole
+      15 mg, omeprazole 20 mg, and placebo in the treatment of erosive reflux
+      esophagitis. METHODS: In a double-blind, multicenter study, 1284 patients with
+      endoscopically diagnosed erosive reflux esophagitis were randomized to received
+      lansoprazole 30 mg (n = 422), lansoprazole 15 mg (n = 218), omeprazole 20 mg (n =
+      431), or placebo (n = 213) once daily for 8 wk. At 2, 4, 6, and 8 wk, healing was
+      evaluated endoscopically. Patients kept daily diaries of symptoms. RESULTS:
+      Healing rates at 2, 4, 6, and 8 wk were 65.3%, 83.3%, 89.4%, and 90.0%,
+      respectively, for lansoprazole 30 mg; 56.3%, 74.6%, 80.3%, and 78.8% for
+      lansoprazole 15 mg; 60.9%, 82.0%, 89.7%, and 90.7% for omeprazole 20 mg; and
+      23.9%, 32.8%, 36.6%, and 40.0% for placebo (all active treatments higher than
+      placebo, p < 0.001). Healing rates with lansoprazole 30 mg were significantly
+      higher than with lansoprazole 15 mg at all time points (p < 0.05). Healing rates 
+      with omeprazole 20 mg were significantly higher than with lansoprazole 15 mg at
+      4, 6, and 8 wk and were similar to those with lansoprazole 30 mg. Based on
+      patient diaries, lansoprazole 30 mg produced better symptomatic relief than
+      lansoprazole 15 mg or omeprazole 20 mg, primarily early in the treatment course. 
+      CONCLUSIONS: Both lansoprazole 30 mg and omeprazole 20 mg were more effective
+      than lansoprazole 15 mg in esophageal mucosal healing. Compared with omeprazole
+      20 mg, lansoprazole 30 mg was as safe, was similarly effective with respect to
+      esophageal healing, and provided superior symptomatic relief, primarily early in 
+      treatment. Lansoprazole 30 mg provided greater symptomatic relief than
+      lansoprazole 15 mg.
+AD  - Graduate Hospital, Philadelphia, Pennsylvania, USA.
+FAU - Castell, D O
+AU  - Castell DO
+FAU - Richter, J E
+AU  - Richter JE
+FAU - Robinson, M
+AU  - Robinson M
+FAU - Sontag, S J
+AU  - Sontag SJ
+FAU - Haber, M M
+AU  - Haber MM
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Am J Gastroenterol
+JT  - The American journal of gastroenterology
+JID - 0421030
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Gastrins)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 73590-58-6 (Omeprazole)
+RN  - EC 3.6.1.10 (H(+)-K(+)-Exchanging ATPase)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Enzyme Inhibitors/administration & dosage/adverse effects/*therapeutic use
+MH  - Esophagitis, Peptic/diagnosis/*drug therapy
+MH  - Female
+MH  - Gastric Mucosa/pathology
+MH  - Gastrins/blood
+MH  - H(+)-K(+)-Exchanging ATPase/*antagonists & inhibitors
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/administration & dosage/adverse effects/*analogs &
+      derivatives/*therapeutic use
+MH  - Time Factors
+EDAT- 1996/09/01
+MHDA- 1996/09/01 00:01
+CRDT- 1996/09/01 00:00
+PST - ppublish
+SO  - Am J Gastroenterol. 1996 Sep;91(9):1749-57.
+
+PMID- 8824655
+OWN - NLM
+STAT- MEDLINE
+DA  - 19961112
+DCOM- 19961112
+LR  - 20061115
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 9
+IP  - 6
+DP  - 1995 Dec
+TI  - Pantoprazole and omeprazole in the treatment of reflux oesophagitis: a European
+      multicentre study.
+PG  - 667-71
+AB  - BACKGROUND: Pantoprazole is a new substituted benzimidazole which inhibits
+      gastric H+,K(+)-ATPase. METHODS: In this double-blind, multicentre study,
+      pantoprazole 40 mg once daily was compared with omeprazole 20 mg once daily in
+      the treatment of grade II and III (Savary-Miller) reflux oesophagitis. Endoscopy 
+      was repeated after 4 weeks of treatment, and also after 8 weeks in patients
+      unhealed at 4 weeks. RESULTS: The primary efficacy variable was ulcer healing;
+      after 4 weeks, 81/103 (78.6%) patients in the pantoprazole group and 83/105
+      (79.0%) patients in the omeprazole group had healed completely. After 8 weeks,
+      the cumulative healing rates were 94.2% and 91.4% in the pantoprazole and
+      omeprazole groups, respectively (P > 0.05 at 4 weeks and 8 weeks). Both groups
+      experienced rapid relief of the key symptoms: heartburn, acid regurgitation and
+      pain on swallowing. The time course of relief of the individual symptoms was
+      similar in both groups after 2 and 4 weeks (P > 0.05). Both treatments were well 
+      tolerated, with only three patients withdrawing owing to adverse events.
+      CONCLUSION: Pantoprazole has been shown to be as effective as omeprazole in the
+      treatment of reflux oesophagitis.
+AD  - Ospedale S. Orsola, Bologna, Italy.
+FAU - Corinaldesi, R
+AU  - Corinaldesi R
+FAU - Valentini, M
+AU  - Valentini M
+FAU - Belaiche, J
+AU  - Belaiche J
+FAU - Colin, R
+AU  - Colin R
+FAU - Geldof, H
+AU  - Geldof H
+FAU - Maier, C
+AU  - Maier C
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Controlled Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Sulfoxides)
+RN  - 102625-70-7 (pantoprazole)
+RN  - 73590-58-6 (Omeprazole)
+RN  - EC 3.6.1.10 (H(+)-K(+)-Exchanging ATPase)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Ulcer Agents/adverse effects/*therapeutic use
+MH  - Benzimidazoles/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Esophagitis, Peptic/*drug therapy/physiopathology
+MH  - Female
+MH  - H(+)-K(+)-Exchanging ATPase/antagonists & inhibitors
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/adverse effects/*therapeutic use
+MH  - Sulfoxides/adverse effects/*therapeutic use
+EDAT- 1995/12/01
+MHDA- 1995/12/01 00:01
+CRDT- 1995/12/01 00:00
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 1995 Dec;9(6):667-71.
+
+PMID- 7569755
+OWN - NLM
+STAT- MEDLINE
+DA  - 19951025
+DCOM- 19951025
+LR  - 20061115
+IS  - 0036-5521 (Print)
+IS  - 0036-5521 (Linking)
+VI  - 30
+IP  - 6
+DP  - 1995 Jun
+TI  - Pantoprazole and ranitidine in the treatment of acute duodenal ulcer. A
+      multicentre study.
+PG  - 511-4
+AB  - BACKGROUND: Pantoprazole is a new substituted benzimidazole that inhibits the
+      parietal cell H+,K(+)-adenosine triphosphatase. METHODS: Pantoprazole (40 mg) was
+      compared with ranitidine (300 mg) in the treatment of acute duodenal ulcer. Two
+      hundred and sixty-six patients with endoscopically diagnosed duodenal ulcers
+      entered this multicentre, double-blind study. The primary efficacy variable was
+      complete ulcer healing at 2 weeks; treatment then continued for a further 2 weeks
+      if ulcers were unhealed. RESULTS: After 2 weeks 112 of 164 (68%) patients in the 
+      pantoprazole group had healed ulcers, compared with 36 of 81 (44%) taking
+      ranitidine (p < 0.001). After 4 weeks the cumulative healing rates were 96% and
+      85% (p < 0.01). Improvement in ulcer pain was also significantly better with
+      pantoprazole than with ranitidine (81% versus 62% with no pain at 2 weeks, p <
+      0.01). CONCLUSIONS: Pantoprazole is clinically superior to ranitidine in the
+      treatment of acute duodenal ulcer, in terms of both healing and symptom relief.
+AD  - Dept. of Medicine II, Technical University of Munich, Germany.
+FAU - Schepp, W
+AU  - Schepp W
+FAU - Classen, M
+AU  - Classen M
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - NORWAY
+TA  - Scand J Gastroenterol
+JT  - Scandinavian journal of gastroenterology
+JID - 0060105
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Histamine H2 Antagonists)
+RN  - 0 (Sulfoxides)
+RN  - 102625-70-7 (pantoprazole)
+RN  - 66357-35-5 (Ranitidine)
+RN  - 73590-58-6 (Omeprazole)
+RN  - EC 3.6.1.10 (H(+)-K(+)-Exchanging ATPase)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Acute Disease
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Ulcer Agents/administration & dosage/*therapeutic use
+MH  - Benzimidazoles/administration & dosage/*therapeutic use
+MH  - Double-Blind Method
+MH  - Duodenal Ulcer/*drug therapy/pathology
+MH  - Enzyme Inhibitors/administration & dosage/*therapeutic use
+MH  - Female
+MH  - H(+)-K(+)-Exchanging ATPase/*antagonists & inhibitors
+MH  - Histamine H2 Antagonists/administration & dosage/*therapeutic use
+MH  - Humans
+MH  - Intestinal Mucosa/drug effects/pathology
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/analogs & derivatives
+MH  - Ranitidine/administration & dosage/*therapeutic use
+MH  - Sulfoxides/administration & dosage/*therapeutic use
+MH  - Treatment Outcome
+EDAT- 1995/06/01
+MHDA- 1995/06/01 00:01
+CRDT- 1995/06/01 00:00
+AID - 10.3109/00365529509089781 [doi]
+PST - ppublish
+SO  - Scand J Gastroenterol. 1995 Jun;30(6):511-4.
+
+PMID- 7614102
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950822
+DCOM- 19950822
+LR  - 20091016
+IS  - 0954-691X (Print)
+IS  - 0954-691X (Linking)
+VI  - 7
+IP  - 5
+DP  - 1995 May
+TI  - Double-blind comparison of pantoprazole and omeprazole for the treatment of acute
+      duodenal ulcer.
+PG  - 407-10
+AB  - OBJECTIVES: To compare the healing rates of acute duodenal ulcer in patients
+      receiving pantoprazole 40 mg or omeprazole 20 mg once daily and to assess drug
+      tolerance. DESIGN: Randomized, double-blind study evaluating patients with healed
+      duodenal ulcer on endoscopy after 2 weeks of treatment and patients unhealed at 2
+      and after 4 weeks of treatment. SETTING: Hospital or private gastroenterology
+      practice outpatients. PATIENTS: Men or women, aged at least 18 years, with one or
+      two duodenal ulcers. Patients with ulcer complications or with other significant 
+      acid-related disease were excluded. A total of 270 patients entered the study, of
+      whom 255 were included in the per-protocol analysis. RESULTS: The primary measure
+      of efficacy was the healing rates of duodenal ulcers. Complete healing of ulcers 
+      was observed in 88 (71%) of the 124 patients in the pantoprazole group and in 85 
+      (65%) of the 131 patients in the omeprazole group after 2 weeks of treatment. The
+      cumulative healing rates after 4 weeks were 118 (95%) out of 124 and 117 (89%)
+      out of 131 patients, respectively. There was no significant difference between
+      treatment groups with respect to either healing rates or freedom from ulcer pain 
+      at 2 weeks. Both treatments were well tolerated: only 10 and 11 patients in the
+      pantoprazole and omeprazole groups, respectively, reported adverse events.
+      Diarrhoea was reported by two patients in each group. CONCLUSIONS: Pantoprazole
+      40 mg daily and omeprazole 20 mg daily are equally effective in inducing ulcer
+      healing.
+AD  - Hospital Sint Antoniushove, Leidschendam, The Netherlands.
+FAU - Beker, J A
+AU  - Beker JA
+FAU - Bianchi Porro, G
+AU  - Bianchi Porro G
+FAU - Bigard, M A
+AU  - Bigard MA
+FAU - Delle Fave, G
+AU  - Delle Fave G
+FAU - Devis, G
+AU  - Devis G
+FAU - Gouerou, H
+AU  - Gouerou H
+FAU - Maier, C
+AU  - Maier C
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Eur J Gastroenterol Hepatol
+JT  - European journal of gastroenterology & hepatology
+JID - 9000874
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Sulfoxides)
+RN  - 102625-70-7 (pantoprazole)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Acute Disease
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Anti-Ulcer Agents/administration & dosage/adverse effects/*therapeutic use
+MH  - Benzimidazoles/administration & dosage/adverse effects/*therapeutic use
+MH  - Diarrhea/chemically induced
+MH  - Double-Blind Method
+MH  - Drug Tolerance
+MH  - Duodenal Ulcer/*drug therapy
+MH  - Duodenoscopy
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/administration & dosage/adverse effects/*therapeutic use
+MH  - Sulfoxides/administration & dosage/adverse effects/*therapeutic use
+MH  - Wound Healing
+EDAT- 1995/05/01
+MHDA- 1995/05/01 00:01
+CRDT- 1995/05/01 00:00
+PST - ppublish
+SO  - Eur J Gastroenterol Hepatol. 1995 May;7(5):407-10.
+
+PMID- 7797824
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950728
+DCOM- 19950728
+LR  - 20061115
+IS  - 0192-0790 (Print)
+IS  - 0192-0790 (Linking)
+VI  - 20
+IP  - 3
+DP  - 1995 Apr
+TI  - Comparative trial of pantoprazole and ranitidine in the treatment of reflux
+      esophagitis. Results of a German multicenter study.
+PG  - 192-5
+AB  - In 249 patients with acute symptomatic reflux esophagitis grade II and III
+      (Savary-Miller classification), we compared the efficacy and safety of
+      pantoprazole, a newly developed proton pump inhibitor given at a once-daily dose 
+      of 40 mg, with a standard dose of the H2 receptor antagonist ranitidine (150 mg
+      b.i.d.) in a randomized, double-blind, multicenter study. Complete healing was
+      achieved after 4 and 8 weeks of therapy (protocol-correct) in 69 and 82%
+      (pantoprazole) and 57 and 67% (ranitidine), respectively (p = 0.054 at 4 weeks
+      and p < 0.01 at 8 weeks). The predominant symptoms of gastroesophageal reflux,
+      i.e., heartburn and acid eructation, were more effectively reduced in
+      pantoprazole- than in ranitidine-treated patients. The frequency of adverse
+      events was low and did not differ between the two treatment groups. We conclude
+      that pantoprazole is superior to ranitidine in the acute treatment of reflux
+      esophagitis.
+AD  - 4th Department of Medicine (Gastroenterology), Municipal Hospital Berlin-Buch,
+      Germany.
+FAU - Koop, H
+AU  - Koop H
+FAU - Schepp, W
+AU  - Schepp W
+FAU - Dammann, H G
+AU  - Dammann HG
+FAU - Schneider, A
+AU  - Schneider A
+FAU - Luhmann, R
+AU  - Luhmann R
+FAU - Classen, M
+AU  - Classen M
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - J Clin Gastroenterol
+JT  - Journal of clinical gastroenterology
+JID - 7910017
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Sulfoxides)
+RN  - 102625-70-7 (pantoprazole)
+RN  - 66357-35-5 (Ranitidine)
+RN  - 73590-58-6 (Omeprazole)
+RN  - EC 3.6.1.10 (H(+)-K(+)-Exchanging ATPase)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Benzimidazoles/*therapeutic use
+MH  - Double-Blind Method
+MH  - Esophagitis, Peptic/*drug therapy
+MH  - Female
+MH  - H(+)-K(+)-Exchanging ATPase/*antagonists & inhibitors
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/analogs & derivatives
+MH  - Ranitidine/*therapeutic use
+MH  - Sulfoxides/*therapeutic use
+EDAT- 1995/04/01
+MHDA- 1995/04/01 00:01
+CRDT- 1995/04/01 00:00
+PST - ppublish
+SO  - J Clin Gastroenterol. 1995 Apr;20(3):192-5.
+
+PMID- 7605854
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950811
+DCOM- 19950811
+LR  - 20061115
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 9
+IP  - 2
+DP  - 1995 Apr
+TI  - Lansoprazole versus ranitidine for the treatment of reflux oesophagitis. UK
+      Lansoprazole Clinical Research Group.
+PG  - 145-51
+AB  - BACKGROUND: Lansoprazole is a H+.K(+)-ATPase (proton pump) inhibitor with an
+      anti-secretory action and is therefore potentially useful in the treatment of
+      gastro-oesophageal reflux. METHODS: This study was conducted to determine the
+      efficacy and short-term safety of lansoprazole at doses of 30 mg or 60 mg once
+      daily, compared with ranitidine 150 mg twice daily, in the treatment of patients 
+      with reflux oesophagitis. This was a double-blind, stratified, randomized,
+      comparative, parallel group study conducted in five centres in the UK. A total of
+      229 patients (155 men) aged 18-79 years with endoscopically-confirmed
+      oesophagitis were randomized to receive lansoprazole 30 mg p.o. daily,
+      lansoprazole 60 mg p.o. daily, or ranitidine 150 mg p.o. b.d. Efficacy was
+      assessed by endoscopic examination at 4 weeks and 8 weeks, together with symptom 
+      relief and antacid usage. RESULTS: Lansoprazole 30 mg and 60 mg were superior at 
+      4 and 8 weeks (P < 0.01) to ranitidine in healing reflux oesophagitis: respective
+      healing rates being 84%, 72% and 39% after 4 weeks and 92%, 91% and 53% after 8
+      weeks. Relief of heartburn with lansoprazole 30 mg and 60 mg was superior to that
+      achieved with ranitidine at both week 4 (P < 0.01) and week 8 (P < 0.02).
+      Sixty-four patients experienced a total of 85 adverse events, one-third of which 
+      were considered drug-related. The incidence and severity were similar in the
+      three groups. CONCLUSION: Lansoprazole 30 mg and 60 mg once daily are more
+      effective than ranitidine 150 mg twice daily in the short-term treatment of
+      reflux oesophagitis.
+AD  - Rotherham District General Hospital, UK.
+FAU - Bardhan, K D
+AU  - Bardhan KD
+FAU - Hawkey, C J
+AU  - Hawkey CJ
+FAU - Long, R G
+AU  - Long RG
+FAU - Morgan, A G
+AU  - Morgan AG
+FAU - Wormsley, K G
+AU  - Wormsley KG
+FAU - Moules, I K
+AU  - Moules IK
+FAU - Brocklebank, D
+AU  - Brocklebank D
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 66357-35-5 (Ranitidine)
+RN  - 73590-58-6 (Omeprazole)
+RN  - EC 3.6.1.10 (H(+)-K(+)-Exchanging ATPase)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Adult
+MH  - Aged
+MH  - Double-Blind Method
+MH  - Esophagitis, Peptic/*drug therapy
+MH  - Follow-Up Studies
+MH  - H(+)-K(+)-Exchanging ATPase/antagonists & inhibitors/pharmacology
+MH  - Headache/chemically induced
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/adverse effects/*analogs & derivatives/therapeutic use
+MH  - Ranitidine/adverse effects/*therapeutic use
+MH  - Treatment Outcome
+EDAT- 1995/04/01
+MHDA- 1995/04/01 00:01
+CRDT- 1995/04/01 00:00
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 1995 Apr;9(2):145-51.
+
+PMID- 7770708
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950706
+DCOM- 19950706
+LR  - 20061115
+IS  - 0036-5521 (Print)
+IS  - 0036-5521 (Linking)
+VI  - 30
+IP  - 3
+DP  - 1995 Mar
+TI  - Lansoprazole versus omeprazole in active duodenal ulcer. A double-blind,
+      randomized, comparative study.
+PG  - 210-5
+AB  - BACKGROUND: Lansoprazole is a new substituted benzimidazole that inhibits the
+      H+,K(+)-adenosine triphosphatase in the parietal cell and, like the first
+      developed proton pump inhibitor omeprazole, gives a strong inhibition of gastric 
+      acid output. METHODS: In this double-blind randomized comparative study patients 
+      with active duodenal ulcers were treated with either 30 mg lansoprazole or 20 mg 
+      omeprazole in the morning. All demographic data in the two treatment groups were 
+      comparable. RESULTS: A total of 279 patients entered the study. There was no
+      difference in healing rates between the groups either after 2 weeks (86.2% for
+      lansoprazole and 82.1% for omeprazole) or after 4 weeks (97.1% and 96.2%). No
+      patient ceased treatment owing to side effects. CONCLUSIONS: Both lansoprazole
+      and omeprazole generate very high healing rates and good symptom relief in active
+      duodenal ulcer. Side effects are few and mild.
+AD  - Dept. of Surgery, Sandvikens Hospital, Sweden.
+FAU - Ekstrom, P
+AU  - Ekstrom P
+FAU - Carling, L
+AU  - Carling L
+FAU - Unge, P
+AU  - Unge P
+FAU - Anker-Hansen, O
+AU  - Anker-Hansen O
+FAU - Sjostedt, S
+AU  - Sjostedt S
+FAU - Sellstrom, H
+AU  - Sellstrom H
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - NORWAY
+TA  - Scand J Gastroenterol
+JT  - Scandinavian journal of gastroenterology
+JID - 0060105
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 73590-58-6 (Omeprazole)
+RN  - EC 3.6.1.10 (H(+)-K(+)-Exchanging ATPase)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Double-Blind Method
+MH  - Duodenal Ulcer/*drug therapy/epidemiology
+MH  - Female
+MH  - H(+)-K(+)-Exchanging ATPase/*antagonists & inhibitors
+MH  - Humans
+MH  - Logistic Models
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/adverse effects/*analogs & derivatives/*therapeutic use
+MH  - Risk Factors
+MH  - Smoking/epidemiology
+MH  - Time Factors
+MH  - Treatment Outcome
+MH  - Wound Healing
+EDAT- 1995/03/01
+MHDA- 1995/03/01 00:01
+CRDT- 1995/03/01 00:00
+PST - ppublish
+SO  - Scand J Gastroenterol. 1995 Mar;30(3):210-5.
+
+PMID- 7884170
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950410
+DCOM- 19950410
+LR  - 20081121
+IS  - 0192-0790 (Print)
+IS  - 0192-0790 (Linking)
+VI  - 20
+IP  - 1
+DP  - 1995 Jan
+TI  - Comparison of serum anti-gliadin, anti-endomysium, and anti-jejunum antibodies in
+      adult celiac sprue.
+PG  - 17-21
+AB  - We compared the diagnostic accuracy of a new immunological marker of celiac sprue
+      (CS), the antijejunum antibody (JAB), with that of antigliadin (AGA) and
+      antiendomysium (EmA) antibodies. One hundred untreated adults with biopsy-proven 
+      CS, 52 healthy controls, and 57 patients with inflammatory bowel disease,
+      lymphoma of the small bowel, Whipple's disease, and irritable bowel syndrome were
+      investigated. Only JAB and EmA were detected at a similar titer in all patients
+      with untreated CS but in no controls (100% sensitivity and specificity).
+      Sensitivity of AGA was, respectively, 55% for IgA and 78% for Ig class, with a
+      100 and 82% specificity. The differences in frequencies between both EmA and JAB 
+      with IgA and IgG AGA were highly significant. We conclude that JAB and EmA
+      provide a reliable noninvasive screening test for clinically significant
+      gluten-sensitive enteropathy. The lower cost of IgA-JAB is a major advantage,
+      owing to the different availability of the lower third of the esophagus and
+      jejunum from primates. The sensitivity and specificity of the two tests are
+      almost identical, but we find interpreting EmA easier than JAB especially when
+      the titer is low.
+AD  - Dipartimento di Fisiopatologia Clinica, Universita di Torino, Italy.
+FAU - Sategna-Guidetti, C
+AU  - Sategna-Guidetti C
+FAU - Grosso, S
+AU  - Grosso S
+FAU - Bruno, M
+AU  - Bruno M
+FAU - Grosso, S B
+AU  - Grosso SB
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - J Clin Gastroenterol
+JT  - Journal of clinical gastroenterology
+JID - 7910017
+RN  - 0 (Autoantibodies)
+RN  - 0 (Biological Markers)
+RN  - 0 (Immunoglobulin A)
+RN  - 0 (Immunoglobulin G)
+RN  - 9007-90-3 (Gliadin)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Autoantibodies/*blood
+MH  - Biological Markers/blood
+MH  - Celiac Disease/*diagnosis/immunology
+MH  - Chi-Square Distribution
+MH  - Connective Tissue/immunology
+MH  - Female
+MH  - Gliadin/*immunology
+MH  - Humans
+MH  - Immunoglobulin A/blood
+MH  - Immunoglobulin G
+MH  - Jejunum/*immunology
+MH  - Male
+MH  - Middle Aged
+MH  - Muscle Fibers, Skeletal/*immunology
+MH  - Sensitivity and Specificity
+MH  - Statistics as Topic
+EDAT- 1995/01/01
+MHDA- 1995/01/01 00:01
+CRDT- 1995/01/01 00:00
+PST - ppublish
+SO  - J Clin Gastroenterol. 1995 Jan;20(1):17-21.
+
+PMID- 7960688
+OWN - NLM
+STAT- MEDLINE
+DA  - 19941214
+DCOM- 19941214
+LR  - 20061115
+IS  - 0021-2180 (Print)
+IS  - 0021-2180 (Linking)
+VI  - 30
+IP  - 10
+DP  - 1994 Oct
+TI  - A multicenter, double-blind, randomized controlled study of omeprazole versus
+      ranitidine in the treatment of duodenal ulcer in Israel.
+PG  - 757-61
+AB  - A multicenter, double-blind, randomized, controlled study of 203 Israeli patients
+      with endoscopically proven duodenal ulcer is described. The study compares the
+      efficacy (i.e., ulcer healing and relief of symptoms) and safety of 20 mg
+      omeprazole once daily in the morning, with those of 300 mg ranitidine once daily 
+      at night. The omeprazole group had significantly higher cumulative healing rates 
+      than the ranitidine group both at day 15 (71% vs. 55%, P < 0.03) and day 29 (94% 
+      vs. 86%, P < 0.05). The efficacy was unaffected by known risk factors such as
+      smoking. The omeprazole group had significantly fewer days with pain than the
+      ranitidine group (median 1 vs. 3.5 days) (P < 0.03). There were no differences in
+      ulcer size, symptoms or healing rates between Ashkenazi and Sephardic patients
+      who were born in Israel, or who had immigrated to Israel. In summary, the present
+      study confirms the efficacy and safety of omeprazole in the treatment of duodenal
+      ulcer. Omeprazole provides more rapid relief of the symptoms and heals a greater 
+      proportion of duodenal ulcers, within 2-4 weeks, than ranitidine.
+AD  - Department of Gastroenterology, Sourasky Medical Center (Ichilov Hospital), Tel
+      Aviv, Israel.
+FAU - Arber, N
+AU  - Arber N
+FAU - Avni, Y
+AU  - Avni Y
+FAU - Eliakim, R
+AU  - Eliakim R
+FAU - Swissa, A
+AU  - Swissa A
+FAU - Melzer, E
+AU  - Melzer E
+FAU - Rachmilewitz, D
+AU  - Rachmilewitz D
+FAU - Konikoff, F
+AU  - Konikoff F
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - ISRAEL
+TA  - Isr J Med Sci
+JT  - Israel journal of medical sciences
+JID - 0013105
+RN  - 66357-35-5 (Ranitidine)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+CIN - Isr J Med Sci. 1994 Oct;30(10):784-6. PMID: 7960694
+MH  - Adult
+MH  - Aged
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Duodenal Ulcer/*drug therapy
+MH  - Female
+MH  - Humans
+MH  - Israel
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/administration & dosage/*therapeutic use
+MH  - Pain/prevention & control
+MH  - Prospective Studies
+MH  - Ranitidine/administration & dosage/*therapeutic use
+MH  - Safety
+MH  - Smoking
+EDAT- 1994/10/01
+MHDA- 1994/10/01 00:01
+CRDT- 1994/10/01 00:00
+PST - ppublish
+SO  - Isr J Med Sci. 1994 Oct;30(10):757-61.
+
+PMID- 8053433
+OWN - NLM
+STAT- MEDLINE
+DA  - 19940902
+DCOM- 19940902
+LR  - 20061115
+IS  - 0002-9270 (Print)
+IS  - 0002-9270 (Linking)
+VI  - 89
+IP  - 8
+DP  - 1994 Aug
+TI  - Double-blind comparison of lansoprazole, ranitidine, and placebo in the treatment
+      of acute duodenal ulcer. Lansoprazole Study Group.
+PG  - 1191-200
+AB  - OBJECTIVES: To study in a double-blind controlled manner the effects of
+      lansoprazole 15 mg or 30 mg daily compared with ranitidine 300 mg once daily and 
+      placebo in the relieving of symptoms and healing of acute duodenal ulceration.
+      METHODS: Two hundred eighty patients with duodenal ulcer entered in to the study 
+      from 30 centers. They were randomized in a double-blind manner into four groups
+      with 80 patients entered into each active treatment group and 40 patients into
+      the placebo group. Endoscopy was performed at 2- and 4-wk intervals to assess
+      healing. Symptom relief was recorded, serum gastrin levels were measured, and
+      gastric mucosal biopsies were obtained to evaluate for the presence of acute and 
+      chronic inflammation, the presence of neoplasia, and the extent of gastric
+      endocrine growth at the time of endoscopy. RESULTS: After 4 wk of treatment using
+      per protocol analysis, 19 of 40 (47.5%) patients receiving placebo had healed
+      compared with 55 of 78 (70.5%) receiving ranitidine (p < 0.05 vs. placebo), 61 of
+      76 (80.3%) receiving lansoprazole 30 mg (p < 0.05 vs. placebo), and 72 of 78
+      (92.3%) receiving lansoprazole 15 mg (p < 0.05 vs. placebo and ranitidine). In
+      patients with evaluable data, lansoprazole 30 mg and ranitidine produced greater 
+      relief of night-time symptoms and lansoprazole 15 mg produced greater relief of
+      both day- and night-time symptoms than did placebo after 4 wk of treatment.
+      Ranitidine increased fasting serum gastrin levels (22%; p < 0.05 vs. placebo),
+      whereas both lansoprazole regimens produced more marked rises in serum gastrin
+      (54% and 60%; p < 0.05 vs. placebo and ranitidine). Lansoprazole 15 mg and 30 mg 
+      also increased the density of antral G-cells (105.8% and 128.80%; p < 0.05 vs.
+      baseline) and greater curvature Grimelius-positive cells (20.33% and 28.8%; p <
+      0.05 vs. baseline); there were no increases in the density of antral EC- or
+      D-cells, and there was no alteration of gastric endocrine growth as judged by the
+      Solcia classification. Both ranitidine and lansoprazole were associated with
+      decreased antral Helicobacter pylori density accompanied, in the lansoprazole
+      groups, by decreased antral inflammation scores. All antisecretory regimens were 
+      associated with increased inflammatory scores in the greater curvature.
+      CONCLUSIONS: In acute duodenal ulceration, treatment with lansoprazole 15 and 30 
+      mg produced 4-wk healing rates and symptom relief superior to those produced by
+      placebo and the 15-mg dose similar to those produced by placebo. The 15-mg dose
+      of lansoprazole was also superior to ranitidine in healing duodenal ulcer after 4
+      wk of therapy.
+AD  - Houston Institute for Clinical Research, Texas.
+FAU - Lanza, F
+AU  - Lanza F
+FAU - Goff, J
+AU  - Goff J
+FAU - Scowcroft, C
+AU  - Scowcroft C
+FAU - Jennings, D
+AU  - Jennings D
+FAU - Greski-Rose, P
+AU  - Greski-Rose P
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - Am J Gastroenterol
+JT  - The American journal of gastroenterology
+JID - 0421030
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Anti-Ulcer Agents)
+RN  - 0 (Gastrins)
+RN  - 103577-45-3 (lansoprazole)
+RN  - 66357-35-5 (Ranitidine)
+RN  - 73590-58-6 (Omeprazole)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Acute Disease
+MH  - Adult
+MH  - Anti-Ulcer Agents/*therapeutic use
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Duodenal Ulcer/*drug therapy/microbiology
+MH  - Female
+MH  - Gastric Mucosa/microbiology/pathology
+MH  - Gastrins/blood
+MH  - Helicobacter pylori/isolation & purification
+MH  - Humans
+MH  - Male
+MH  - Omeprazole/*analogs & derivatives/therapeutic use
+MH  - Ranitidine/*therapeutic use
+EDAT- 1994/08/01
+MHDA- 1994/08/01 00:01
+CRDT- 1994/08/01 00:00
+PST - ppublish
+SO  - Am J Gastroenterol. 1994 Aug;89(8):1191-200.
+
+PMID- 8186350
+OWN - NLM
+STAT- MEDLINE
+DA  - 19940623
+DCOM- 19940623
+LR  - 20061115
+IS  - 0269-2813 (Print)
+IS  - 0269-2813 (Linking)
+VI  - 8
+IP  - 1
+DP  - 1994 Feb
+TI  - Comparison of pantoprazole and ranitidine in the treatment of acute duodenal
+      ulcer. Pantoprazole-Duodenal Ulcer-Study Group.
+PG  - 81-6
+AB  - BACKGROUND: Pantoprazole is a new substituted benzimidazole that blocks the
+      H+/K(+)-ATPase in the gastric mucosa and thus inhibits acid secretion. METHODS:
+      Efficacy and tolerability of pantoprazole (40 mg at breakfast) and ranitidine
+      (300 mg at bedtime) in the treatment of uncomplicated acute duodenal ulcer were
+      compared in a double-blind randomized multicentre trial. RESULTS: Of 202
+      outpatients who entered the study, 185 terminated the treatment without violation
+      of the protocol. After 2 weeks of treatment, healing rates (protocol correct)
+      with pantoprazole and ranitidine were 81 and 53%, respectively (P < 0.001), the
+      corresponding results after 4 weeks were 97 and 83% (P < 0.01). Pantoprazole was 
+      more effective with respect to symptom relief. Both treatments were well
+      tolerated. CONCLUSION: Pantoprazole 40 mg at breakfast is superior to ranitidine 
+      300 mg at bedtime in the short-term treatment of acute, uncomplicated duodenal
+      ulcer.
+AD  - University Hospital, Innsbruck, Austria.
+FAU - Judmaier, G
+AU  - Judmaier G
+FAU - Koelz, H R
+AU  - Koelz HR
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - Aliment Pharmacol Ther
+JT  - Alimentary pharmacology & therapeutics
+JID - 8707234
+RN  - 0 (2-Pyridinylmethylsulfinylbenzimidazoles)
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Sulfoxides)
+RN  - 102625-70-7 (pantoprazole)
+RN  - 66357-35-5 (Ranitidine)
+RN  - 73590-58-6 (Omeprazole)
+RN  - EC 3.6.1.10 (H(+)-K(+)-Exchanging ATPase)
+SB  - IM
+MH  - 2-Pyridinylmethylsulfinylbenzimidazoles
+MH  - Administration, Oral
+MH  - Adult
+MH  - Aged
+MH  - Benzimidazoles/administration & dosage/*therapeutic use
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Duodenal Ulcer/*drug therapy
+MH  - Female
+MH  - H(+)-K(+)-Exchanging ATPase/antagonists & inhibitors
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Omeprazole/analogs & derivatives
+MH  - Ranitidine/administration & dosage/*therapeutic use
+MH  - Sulfoxides/administration & dosage/*therapeutic use
+EDAT- 1994/02/01
+MHDA- 1994/02/01 00:01
+CRDT- 1994/02/01 00:00
+PST - ppublish
+SO  - Aliment Pharmacol Ther. 1994 Feb;8(1):81-6.

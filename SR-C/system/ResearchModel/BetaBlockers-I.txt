@@ -1,0 +1,3853 @@
+
+PMID- 14583369
+OWN - NLM
+STAT- MEDLINE
+DA  - 20031029
+DCOM- 20031202
+LR  - 20061115
+IS  - 0002-9149 (Print)
+IS  - 0002-9149 (Linking)
+VI  - 92
+IP  - 9
+DP  - 2003 Nov 1
+TI  - Comparison of effectiveness of carvedilol versus bisoprolol for maintenance of
+      sinus rhythm after cardioversion of persistent atrial fibrillation.
+PG  - 1116-9
+AB  - Ninety patients who underwent cardioversion of persistent atrial fibrillation
+      (AF) were randomized to bisoprolol 5 to 10 mg once daily or carvedilol 12.5 to 25
+      mg twice daily. Using intention-to-treat analysis, 23 patients (46%) in the
+      bisoprolol group and 17 patients (32%) in the carvedilol group relapsed into AF
+      during the 1 year of total follow-up (p = 0.486). Patients treated with
+      carvedilol had a 14% (hazard ratio 0.86) lower risk of relapse of AF compared
+      with patients in the bisoprolol group, although results were statistically
+      insignificant (p = 0.661) after controlling for patient age, gender, baseline
+      heart rate, and left atrial diameter.
+AD  - Department of Cardiology, Athens Euroclinic, Athens, Greece.
+      dkatritsis@euroclinic.gr
+FAU - Katritsis, Demosthenes G
+AU  - Katritsis DG
+FAU - Panagiotakos, Demosthenes B
+AU  - Panagiotakos DB
+FAU - Karvouni, Evangelia
+AU  - Karvouni E
+FAU - Giazitzoglou, Eleftherios
+AU  - Giazitzoglou E
+FAU - Korovesis, Socrates
+AU  - Korovesis S
+FAU - Paxinos, George
+AU  - Paxinos G
+FAU - Anagnostopoulos, Constantine E
+AU  - Anagnostopoulos CE
+FAU - Camm, A John
+AU  - Camm AJ
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - United States
+TA  - Am J Cardiol
+JT  - The American journal of cardiology
+JID - 0207277
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Carbazoles)
+RN  - 0 (Propanolamines)
+RN  - 66722-44-9 (Bisoprolol)
+RN  - 72956-09-3 (carvedilol)
+SB  - AIM
+SB  - IM
+MH  - Adrenergic beta-Antagonists/*therapeutic use
+MH  - Aged
+MH  - Atrial Fibrillation/*prevention & control
+MH  - Bisoprolol/*therapeutic use
+MH  - Carbazoles/*therapeutic use
+MH  - Double-Blind Method
+MH  - *Electric Countershock
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Propanolamines/*therapeutic use
+MH  - Recurrence/prevention & control
+MH  - Time Factors
+MH  - Treatment Outcome
+EDAT- 2003/10/30 05:00
+MHDA- 2003/12/03 05:00
+CRDT- 2003/10/30 05:00
+AID - S0002914903010506 [pii]
+PST - ppublish
+SO  - Am J Cardiol. 2003 Nov 1;92(9):1116-9.
+
+PMID- 12853193
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030710
+DCOM- 20030723
+LR  - 20071115
+IS  - 1474-547X (Electronic)
+IS  - 0140-6736 (Linking)
+VI  - 362
+IP  - 9377
+DP  - 2003 Jul 5
+TI  - Comparison of carvedilol and metoprolol on clinical outcomes in patients with
+      chronic heart failure in the Carvedilol Or Metoprolol European Trial (COMET):
+      randomised controlled trial.
+PG  - 7-13
+AB  - BACKGROUND: Beta blockers reduce mortality in patients who have chronic heart
+      failure, systolic dysfunction, and are on background treatment with diuretics and
+      angiotensin-converting enzyme inhibitors. We aimed to compare the effects of
+      carvedilol and metoprolol on clinical outcome. METHODS: In a multicentre,
+      double-blind, and randomised parallel group trial, we assigned 1511 patients with
+      chronic heart failure to treatment with carvedilol (target dose 25 mg twice
+      daily) and 1518 to metoprolol (metoprolol tartrate, target dose 50 mg twice
+      daily). Patients were required to have chronic heart failure (NYHA II-IV),
+      previous admission for a cardiovascular reason, an ejection fraction of less than
+      0.35, and to have been treated optimally with diuretics and
+      angiotensin-converting enzyme inhibitors unless not tolerated. The primary
+      endpoints were all-cause mortality and the composite endpoint of all-cause
+      mortality or all-cause admission. Analysis was done by intention to treat.
+      FINDINGS: The mean study duration was 58 months (SD 6). The mean ejection
+      fraction was 0.26 (0.07) and the mean age 62 years (11). The all-cause mortality 
+      was 34% (512 of 1511) for carvedilol and 40% (600 of 1518) for metoprolol (hazard
+      ratio 0.83 [95% CI 0.74-0.93], p=0.0017). The reduction of all-cause mortality
+      was consistent across predefined subgroups. The composite endpoint of mortality
+      or all-cause admission occurred in 1116 (74%) of 1511 on carvedilol and in 1160
+      (76%) of 1518 on metoprolol (0.94 [0.86-1.02], p=0.122). Incidence of
+      side-effects and drug withdrawals did not differ by much between the two study
+      groups. INTERPRETATION: Our results suggest that carvedilol extends survival
+      compared with metoprolol.
+AD  - National Heart and Lung Institute, Imperial College, London, UK.
+      p.poole-wilson@imperial.ac.uk
+FAU - Poole-Wilson, Philip A
+AU  - Poole-Wilson PA
+FAU - Swedberg, Karl
+AU  - Swedberg K
+FAU - Cleland, John G F
+AU  - Cleland JG
+FAU - Di Lenarda, Andrea
+AU  - Di Lenarda A
+FAU - Hanrath, Peter
+AU  - Hanrath P
+FAU - Komajda, Michel
+AU  - Komajda M
+FAU - Lubsen, Jacobus
+AU  - Lubsen J
+FAU - Lutiger, Beatrix
+AU  - Lutiger B
+FAU - Metra, Marco
+AU  - Metra M
+FAU - Remme, Willem J
+AU  - Remme WJ
+FAU - Torp-Pedersen, Christian
+AU  - Torp-Pedersen C
+FAU - Scherhag, Armin
+AU  - Scherhag A
+FAU - Skene, Allan
+AU  - Skene A
+CN  - Carvedilol Or Metoprolol European Trial Investigators
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Lancet
+JT  - Lancet
+JID - 2985213R
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Carbazoles)
+RN  - 0 (Propanolamines)
+RN  - 37350-58-6 (Metoprolol)
+RN  - 72956-09-3 (carvedilol)
+SB  - AIM
+SB  - IM
+CIN - Lancet. 2003 Jul 5;362(9377):2-3. PMID: 12853188
+CIN - Lancet. 2003 Sep 27;362(9389):1076; author reply 1077-8. PMID: 14522541
+CIN - Expert Opin Pharmacother. 2004 Jan;5(1):205-8. PMID: 14680448
+CIN - J Fam Pract. 2003 Nov;52(11):830-2. PMID: 14599369
+CIN - Lancet. 2003 Sep 27;362(9389):1076-7; author reply 1077-8. PMID: 14522542
+CIN - Lancet. 2003 Sep 27;362(9389):1077; author reply 1077-8. PMID: 14522544
+CIN - CMAJ. 2003 Nov 25;169(11):1188. PMID: 14638658
+CIN - Rev Cardiovasc Med. 2003 Fall;4(4):260-1. PMID: 14674380
+CIN - ACP J Club. 2004 Jan-Feb;140(1):5. PMID: 14711276
+MH  - Adrenergic beta-Antagonists/adverse effects/*therapeutic use
+MH  - Carbazoles/adverse effects/*therapeutic use
+MH  - Cause of Death
+MH  - Double-Blind Method
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Heart Failure/*drug therapy/mortality/physiopathology
+MH  - Heart Rate
+MH  - Humans
+MH  - Male
+MH  - Metoprolol/adverse effects/*therapeutic use
+MH  - Middle Aged
+MH  - Propanolamines/adverse effects/*therapeutic use
+MH  - Treatment Outcome
+EDAT- 2003/07/11 05:00
+MHDA- 2003/07/24 05:00
+CRDT- 2003/07/11 05:00
+AID - S0140-6736(03)13800-7 [pii]
+AID - 10.1016/S0140-6736(03)13800-7 [doi]
+PST - ppublish
+SO  - Lancet. 2003 Jul 5;362(9377):7-13.
+
+PMID- 12742278
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030513
+DCOM- 20030530
+LR  - 20041117
+IS  - 0735-1097 (Print)
+IS  - 0735-1097 (Linking)
+VI  - 41
+IP  - 9
+DP  - 2003 May 7
+TI  - Carvedilol increases two-year survivalin dialysis patients with dilated
+      cardiomyopathy: a prospective, placebo-controlled trial.
+PG  - 1438-44
+AB  - OBJECTIVES: We sought to evaluate the effects of carvedilol on mortality and
+      morbidity in dialysis patients with dilated cardiomyopathy. BACKGROUND: Several
+      lines of evidence support the concept that therapy with beta-blocking agents
+      reduces morbidity and mortality in patients with congestive heart failure (HF),
+      but the demonstration of such a survival benefit in dialysis patients with
+      dilated cardiomyopathy is still lacking. METHODS: A total of 114 dialysis
+      patients with dilated cardiomyopathy were randomized to receive either carvedilol
+      or placebo in addition to standard therapy. A first analysis was performed at one
+      year and was followed by an additional follow-up period of 12 months. RESULTS:
+      Two-year echocardiographic data revealed a significant attenuation of pathologic 
+      remodeling, with smaller cavity diameters and higher ejection fractions in the
+      active treatment group than in the placebo group. At two years, 51.7% of the
+      patients died in the carvedilol group, compared with 73.2% in the placebo group
+      (p < 0.01). Furthermore, there were significantly fewer cardiovascular deaths
+      (29.3%) and hospital admissions (34.5%) among patients receiving carvedilol than 
+      among those receiving a placebo (67.9% and 58.9%, respectively; p < 0.00001). The
+      exploratory analyses revealed that fatal myocardial infarctions, fatal strokes,
+      and hospital admissions for worsening HF were lower in the carvedilol group than 
+      in the placebo group. A reduction in sudden deaths and pump-failure deaths was
+      also observed, though it did not reach statistical significance. CONCLUSIONS:
+      Carvedilol reduced morbidity and mortality in dialysis patients with dilated
+      cardiomyopathy. These data suggest the use of carvedilol in all dialysis patients
+      with chronic HF.
+AD  - Division of Cardiology, Second University of Naples, Naples, Italy.
+      gennarocice@hotmail.com
+FAU - Cice, Gennaro
+AU  - Cice G
+FAU - Ferrara, Luigi
+AU  - Ferrara L
+FAU - D'Andrea, Antonello
+AU  - D'Andrea A
+FAU - D'Isa, Salvatore
+AU  - D'Isa S
+FAU - Di Benedetto, Attilio
+AU  - Di Benedetto A
+FAU - Cittadini, Antonio
+AU  - Cittadini A
+FAU - Russo, Pina Elvira
+AU  - Russo PE
+FAU - Golino, Paolo
+AU  - Golino P
+FAU - Calabro, Raffaele
+AU  - Calabro R
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - United States
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Carbazoles)
+RN  - 0 (Propanolamines)
+RN  - 72956-09-3 (carvedilol)
+SB  - AIM
+SB  - IM
+MH  - Adrenergic beta-Antagonists/*therapeutic use
+MH  - Aged
+MH  - Carbazoles/*therapeutic use
+MH  - Cardiomyopathy, Dilated/*drug therapy/etiology/*mortality
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Kidney Diseases/*complications/mortality/*therapy
+MH  - Male
+MH  - Middle Aged
+MH  - Prognosis
+MH  - Propanolamines/*therapeutic use
+MH  - Prospective Studies
+MH  - Renal Dialysis/*mortality
+MH  - Survival Rate
+MH  - Time Factors
+EDAT- 2003/05/14 05:00
+MHDA- 2003/05/31 05:00
+CRDT- 2003/05/14 05:00
+AID - S0735109703002419 [pii]
+PST - ppublish
+SO  - J Am Coll Cardiol. 2003 May 7;41(9):1438-44.
+
+PMID- 12585949
+OWN - NLM
+STAT- MEDLINE
+DA  - 20030214
+DCOM- 20030225
+LR  - 20071115
+IS  - 0098-7484 (Print)
+IS  - 0098-7484 (Linking)
+VI  - 289
+IP  - 6
+DP  - 2003 Feb 12
+TI  - Effects of initiating carvedilol in patients with severe chronic heart failure:
+      results from the COPERNICUS Study.
+PG  - 712-8
+AB  - CONTEXT: Beta-blockers remain underused despite their established utility for
+      improving outcome in heart failure. Concerns that initiation of treatment
+      produces few immediate benefits and may have important risks may be deterring
+      widespread use. OBJECTIVE: To evaluate the early effects of the beta-blocker
+      carvedilol in patients with severe heart failure. DESIGN, SETTING, AND PATIENTS: 
+      Randomized, double-blind, placebo-controlled trial conducted from October 28,
+      1997, to March 20, 2000, at 334 hospital centers in 21 countries among 2289
+      patients with symptoms of heart failure at rest or with minimal exertion who were
+      clinically euvolemic and had a left ventricular ejection fraction of less than
+      25%. INTERVENTION: Patients were randomly assigned to receive carvedilol, with
+      start dosage of at 3.125 mg twice daily with uptitration to a target dosage of 25
+      mg twice daily (n = 1156), or placebo (n = 1133), in addition to their usual
+      medications for heart failure. MAIN OUTCOME MEASURES: Death, hospitalization, or 
+      permanent withdrawal from study drug, as well as adverse events during the first 
+      8 weeks of treatment. RESULTS: The carvedilol group experienced no increase in
+      cardiovascular risk but instead had fewer patients who died (19 vs 25; hazard
+      ratio [HR], 0.75; 95% confidence interval [CI], 0.41-1.35); who died or were
+      hospitalized (134 vs 153; HR, 0.85; 95% CI, 0.67-1.07); or who died, were
+      hospitalized, or were permanently withdrawn from treatment (162 vs 188; HR, 0.83;
+      95% CI, 0.68-1.03). These effects were similar in direction and magnitude to
+      those observed during the entire study, and were apparent particularly in the 624
+      patients with recent or recurrent decompensation or a very depressed left
+      ventricular ejection fraction. Differences in favor of carvedilol became apparent
+      as early as 14 to 21 days following initiation of treatment. Worsening heart
+      failure was the only serious adverse event with a frequency greater than 2% and
+      was reported with similar frequency in the placebo and carvedilol groups (6.4% vs
+      5.1%). CONCLUSIONS: These data suggest that, in clinically euvolemic patients,
+      the relation of benefit to risk during initiation of treatment with carvedilol is
+      similar to that seen during long-term therapy with the drug. Our findings should 
+      provide the reassurance needed to encourage the high levels of use that are
+      warranted by the results of long-term clinical trials.
+AD  - Dept of Medicine and Epidemiology and Preventive Medicine, Monash University,
+      Alfred Hospital, Melbourne, Victoria, 3181 Australia.
+      henry.krum@med.monash.edu.au
+FAU - Krum, Henry
+AU  - Krum H
+FAU - Roecker, Ellen B
+AU  - Roecker EB
+FAU - Mohacsi, Paul
+AU  - Mohacsi P
+FAU - Rouleau, Jean L
+AU  - Rouleau JL
+FAU - Tendera, Michal
+AU  - Tendera M
+FAU - Coats, Andrew J S
+AU  - Coats AJ
+FAU - Katus, Hugo A
+AU  - Katus HA
+FAU - Fowler, Michael B
+AU  - Fowler MB
+FAU - Packer, Milton
+AU  - Packer M
+CN  - Carvedilol Prospective Randomized Cumulative Survival (COPERNICUS) Study Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - JAMA
+JT  - JAMA : the journal of the American Medical Association
+JID - 7501160
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Carbazoles)
+RN  - 0 (Propanolamines)
+RN  - 72956-09-3 (carvedilol)
+SB  - AIM
+SB  - IM
+CIN - JAMA. 2003 Feb 12;289(6):754-6. PMID: 12585956
+MH  - Adrenergic beta-Antagonists/administration & dosage/adverse effects/*therapeutic 
+      use
+MH  - Carbazoles/administration & dosage/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Heart Failure/*drug therapy
+MH  - Humans
+MH  - Propanolamines/administration & dosage/adverse effects/*therapeutic use
+MH  - Risk
+MH  - Survival Analysis
+MH  - Treatment Outcome
+EDAT- 2003/02/15 04:00
+MHDA- 2003/02/26 04:00
+CRDT- 2003/02/15 04:00
+AID - joc21658 [pii]
+PST - ppublish
+SO  - JAMA. 2003 Feb 12;289(6):712-8.
+
+PMID- 12479763
+OWN - NLM
+STAT- MEDLINE
+DA  - 20021213
+DCOM- 20021224
+LR  - 20071114
+IS  - 0098-7484 (Print)
+IS  - 0098-7484 (Linking)
+VI  - 288
+IP  - 23
+DP  - 2002 Dec 18
+TI  - Major outcomes in high-risk hypertensive patients randomized to
+      angiotensin-converting enzyme inhibitor or calcium channel blocker vs diuretic:
+      The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial
+      (ALLHAT).
+PG  - 2981-97
+AB  - CONTEXT: Antihypertensive therapy is well established to reduce
+      hypertension-related morbidity and mortality, but the optimal first-step therapy 
+      is unknown. OBJECTIVE: To determine whether treatment with a calcium channel
+      blocker or an angiotensin-converting enzyme inhibitor lowers the incidence of
+      coronary heart disease (CHD) or other cardiovascular disease (CVD) events vs
+      treatment with a diuretic. DESIGN: The Antihypertensive and Lipid-Lowering
+      Treatment to Prevent Heart Attack Trial (ALLHAT), a randomized, double-blind,
+      active-controlled clinical trial conducted from February 1994 through March 2002.
+      SETTING AND PARTICIPANTS: A total of 33 357 participants aged 55 years or older
+      with hypertension and at least 1 other CHD risk factor from 623 North American
+      centers. INTERVENTIONS: Participants were randomly assigned to receive
+      chlorthalidone, 12.5 to 25 mg/d (n = 15 255); amlodipine, 2.5 to 10 mg/d (n =
+      9048); or lisinopril, 10 to 40 mg/d (n = 9054) for planned follow-up of
+      approximately 4 to 8 years. MAIN OUTCOME MEASURES: The primary outcome was
+      combined fatal CHD or nonfatal myocardial infarction, analyzed by
+      intent-to-treat. Secondary outcomes were all-cause mortality, stroke, combined
+      CHD (primary outcome, coronary revascularization, or angina with
+      hospitalization), and combined CVD (combined CHD, stroke, treated angina without 
+      hospitalization, heart failure [HF], and peripheral arterial disease). RESULTS:
+      Mean follow-up was 4.9 years. The primary outcome occurred in 2956 participants, 
+      with no difference between treatments. Compared with chlorthalidone (6-year rate,
+      11.5%), the relative risks (RRs) were 0.98 (95% CI, 0.90-1.07) for amlodipine
+      (6-year rate, 11.3%) and 0.99 (95% CI, 0.91-1.08) for lisinopril (6-year rate,
+      11.4%). Likewise, all-cause mortality did not differ between groups. Five-year
+      systolic blood pressures were significantly higher in the amlodipine (0.8 mm Hg, 
+      P =.03) and lisinopril (2 mm Hg, P<.001) groups compared with chlorthalidone, and
+      5-year diastolic blood pressure was significantly lower with amlodipine (0.8 mm
+      Hg, P<.001). For amlodipine vs chlorthalidone, secondary outcomes were similar
+      except for a higher 6-year rate of HF with amlodipine (10.2% vs 7.7%; RR, 1.38;
+      95% CI, 1.25-1.52). For lisinopril vs chlorthalidone, lisinopril had higher
+      6-year rates of combined CVD (33.3% vs 30.9%; RR, 1.10; 95% CI, 1.05-1.16);
+      stroke (6.3% vs 5.6%; RR, 1.15; 95% CI, 1.02-1.30); and HF (8.7% vs 7.7%; RR,
+      1.19; 95% CI, 1.07-1.31). CONCLUSION: Thiazide-type diuretics are superior in
+      preventing 1 or more major forms of CVD and are less expensive. They should be
+      preferred for first-step antihypertensive therapy.
+CN  - ALLHAT Officers and Coordinators for the ALLHAT Collaborative Research Group. The
+      Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial
+LA  - eng
+GR  - N01-HC-35130/HC/NHLBI NIH HHS/United States
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - JAMA
+JT  - JAMA : the journal of the American Medical Association
+JID - 7501160
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Antihypertensive Agents)
+RN  - 0 (Calcium Channel Blockers)
+RN  - 0 (Diuretics)
+RN  - 77-36-1 (Chlorthalidone)
+RN  - 83915-83-7 (Lisinopril)
+RN  - 88150-42-9 (Amlodipine)
+SB  - AIM
+SB  - IM
+CIN - Expert Opin Pharmacother. 2003 May;4(5):825-8. PMID: 12740004
+CIN - Am J Hypertens. 2003 Jun;16(6):512-4. PMID: 12799104
+CIN - ACP J Club. 2003 Jul-Aug;139(1):7. PMID: 12841711
+CIN - Curr Hypertens Rep. 2003 Jun;5(3):183-5. PMID: 14524367
+CIN - Curr Hypertens Rep. 2003 Jun;5(3):189-91. PMID: 12724049
+CIN - Curr Hypertens Rep. 2003 Oct;5(5):405-7. PMID: 12948433
+CIN - J Hypertens. 2003 Mar;21(3):459-61. PMID: 12640231
+CIN - J Hypertens. 2003 Mar;21(3):455-7. PMID: 12640230
+CIN - J Hypertens. 2003 Mar;21(3):453-4. PMID: 12640229
+CIN - CMAJ. 2003 Apr 1;168(7):874-5. PMID: 12668549
+CIN - JAMA. 2003 Apr 23-30;289(16):2068; author reply 2069-70. PMID: 12709460
+CIN - JAMA. 2003 Apr 23-30;289(16):2068-9; author reply 2069-70. PMID: 12709458
+CIN - JAMA. 2003 Apr 23-30;289(16):2128-31. PMID: 12709471
+CIN - JAMA. 2003 Apr 23-30;289(16):2068; author reply 2069-70. PMID: 12709459
+CIN - JAMA. 2003 Apr 23-30;289(16):2067-8; author reply 2069-70. PMID: 12709457
+CIN - JAMA. 2002 Dec 18;288(23):3039-42. PMID: 12479770
+CIN - JAMA. 2003 Apr 23-30;289(16):2066; author reply 2069-70. PMID: 12709454
+CIN - Can Fam Physician. 2004 May;50:713-5. PMID: 15171673
+CIN - JAMA. 2003 Apr 23-30;289(16):2066; author reply 2069-70. PMID: 12709456
+CIN - JAMA. 2003 Apr 23-30;289(16):2066-7; author reply 2069-70. PMID: 12709455
+EIN - JAMA 2003 Jan 8;289(2):178
+EIN - JAMA. 2004 May 12;291(18):2196
+MH  - Aged
+MH  - Amlodipine/economics/therapeutic use
+MH  - Angiotensin-Converting Enzyme Inhibitors/economics/*therapeutic use
+MH  - Antihypertensive Agents/economics/*therapeutic use
+MH  - Calcium Channel Blockers/economics/*therapeutic use
+MH  - Cardiovascular Diseases/epidemiology/prevention & control
+MH  - Chlorthalidone/economics/therapeutic use
+MH  - Diuretics/economics/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Hypertension/*drug therapy
+MH  - Lisinopril/economics/therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Proportional Hazards Models
+MH  - Risk Factors
+MH  - Treatment Outcome
+EDAT- 2002/12/20 04:00
+MHDA- 2002/12/27 04:00
+CRDT- 2002/12/20 04:00
+AID - joc21962 [pii]
+PST - ppublish
+SO  - JAMA. 2002 Dec 18;288(23):2981-97.
+
+PMID- 12390947
+OWN - NLM
+STAT- MEDLINE
+DA  - 20021022
+DCOM- 20021105
+LR  - 20071115
+IS  - 1524-4539 (Electronic)
+IS  - 0009-7322 (Linking)
+VI  - 106
+IP  - 17
+DP  - 2002 Oct 22
+TI  - Effect of carvedilol on the morbidity of patients with severe chronic heart
+      failure: results of the carvedilol prospective randomized cumulative survival
+      (COPERNICUS) study.
+PG  - 2194-9
+AB  - BACKGROUND: Beta-blocking agents improve functional status and reduce morbidity
+      in mild-to-moderate heart failure, but it is not known whether they produce such 
+      benefits in severe heart failure. METHODS AND RESULTS: We randomly assigned 2289 
+      patients with symptoms of heart failure at rest or on minimal exertion and with
+      an ejection fraction <25% (but not volume-overloaded) to double-blind treatment
+      with either placebo (n=1133) or carvedilol (n=1156) for an average of 10.4
+      months. Carvedilol reduced the combined risk of death or hospitalization for a
+      cardiovascular reason by 27% (P=0.00002) and the combined risk of death or
+      hospitalization for heart failure by 31% (P=0.000004). Patients in the carvedilol
+      group also spent 27% fewer days in the hospital for any reason (P=0.0005) and 40%
+      fewer days in the hospital for heart failure (P<0.0001). These differences were
+      as a result of both a decrease in the number of hospitalizations and a shorter
+      duration of each admission. More patients felt improved and fewer patients felt
+      worse in the carvedilol group than in the placebo group after 6 months of
+      maintenance therapy (P=0.0009). Carvedilol-treated patients were also less likely
+      than placebo-treated patients to experience a serious adverse event (P=0.002),
+      especially worsening heart failure, sudden death, cardiogenic shock, or
+      ventricular tachycardia. CONCLUSION: In euvolemic patients with symptoms at rest 
+      or on minimal exertion, the addition of carvedilol to conventional therapy
+      ameliorates the severity of heart failure and reduces the risk of clinical
+      deterioration, hospitalization, and other serious adverse clinical events.
+AD  - College of Physicians and Surgeons, Columbia University, New York, NY 10032, USA.
+      mp65@columbia.edu
+FAU - Packer, Milton
+AU  - Packer M
+FAU - Fowler, Michael B
+AU  - Fowler MB
+FAU - Roecker, Ellen B
+AU  - Roecker EB
+FAU - Coats, Andrew J S
+AU  - Coats AJ
+FAU - Katus, Hugo A
+AU  - Katus HA
+FAU - Krum, Henry
+AU  - Krum H
+FAU - Mohacsi, Paul
+AU  - Mohacsi P
+FAU - Rouleau, Jean L
+AU  - Rouleau JL
+FAU - Tendera, Michal
+AU  - Tendera M
+FAU - Staiger, Christoph
+AU  - Staiger C
+FAU - Holcslaw, Terry L
+AU  - Holcslaw TL
+FAU - Amann-Zalan, Ildiko
+AU  - Amann-Zalan I
+FAU - DeMets, David L
+AU  - DeMets DL
+CN  - Carvedilol Prospective Randomized Cumulative Survival (COPERNICUS) Study Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Carbazoles)
+RN  - 0 (Propanolamines)
+RN  - 72956-09-3 (carvedilol)
+SB  - AIM
+SB  - IM
+CIN - Circulation. 2002 Oct 22;106(17):2164-6. PMID: 12390940
+MH  - Adrenergic beta-Antagonists/adverse effects/*therapeutic use
+MH  - Carbazoles/adverse effects/*therapeutic use
+MH  - Chronic Disease
+MH  - Disease-Free Survival
+MH  - Double-Blind Method
+MH  - Health Resources/utilization
+MH  - Heart Failure/diagnosis/*drug therapy/*mortality
+MH  - Hospitalization
+MH  - Humans
+MH  - Propanolamines/adverse effects/*therapeutic use
+MH  - Risk
+MH  - Survival Rate
+EDAT- 2002/10/23 04:00
+MHDA- 2002/11/26 04:00
+CRDT- 2002/10/23 04:00
+PST - ppublish
+SO  - Circulation. 2002 Oct 22;106(17):2194-9.
+
+PMID- 12383572
+OWN - NLM
+STAT- MEDLINE
+DA  - 20021017
+DCOM- 20021104
+LR  - 20071115
+IS  - 0735-1097 (Print)
+IS  - 0735-1097 (Linking)
+VI  - 40
+IP  - 7
+DP  - 2002 Oct 2
+TI  - Beta-blocker therapy influences the hemodynamic response to inotropic agents in
+      patients with heart failure: a randomized comparison of dobutamine and enoximone 
+      before and after chronic treatment with metoprolol or carvedilol.
+PG  - 1248-58
+AB  - OBJECTIVE: We compared the hemodynamic effects of dobutamine and enoximone
+      administration before and after long-term beta-blocker therapy with metoprolol or
+      carvedilol in patients with chronic heart failure (HF). BACKGROUND: Patients with
+      HF on beta-blocker therapy may need hemodynamic support with inotropic agents,
+      and the hemodynamic response may be influenced by both the inotropic agent and
+      the beta-blocker used. METHODS: The hemodynamic effects of dobutamine (5 to 20
+      microg/kg/min intravenously) and enoximone (0.5 to 2 mg/kg intravenously) were
+      assessed by pulmonary artery catheterization in 29 patients with chronic HF
+      before and after 9 to 12 months of treatment with metoprolol or carvedilol at
+      standard target maintenance oral doses. Hemodynamic studies were performed after 
+      >/=12 h of wash-out from all cardiovascular medications, except the beta-blockers
+      that were administered 3 h before the second study. RESULTS: Compared with before
+      beta-blocker therapy, metoprolol treatment decreased the magnitude of mean
+      pulmonary artery pressure (PAP) and pulmonary wedge pressure (PWP) decline during
+      dobutamine infusion and increased the cardiac index (CI) and stroke volume index 
+      (SVI) response to enoximone administration, without any effect on other
+      hemodynamic parameters. Carvedilol treatment abolished the increase in heart
+      rate, SVI, and CI and caused a rise, rather than a decline, in PAP, PWP, systemic
+      vascular resistance, and pulmonary vascular resistance during dobutamine
+      infusion. The hemodynamic response to enoximone, however, was maintained or
+      enhanced in the presence of carvedilol. CONCLUSIONS: In contrast with its effects
+      on enoximone, carvedilol and, to a lesser extent, metoprolol treatment may
+      significantly inhibit the favorable hemodynamic response to dobutamine. No such
+      beta-blocker-related attenuation of hemodynamic effects occurs with enoximone.
+AD  - Cattedra di Cardiologia, Universita di Brescia, Brescia, Italy.
+      metramarco@libero.it
+FAU - Metra, Marco
+AU  - Metra M
+FAU - Nodari, Savina
+AU  - Nodari S
+FAU - D'Aloia, Antonio
+AU  - D'Aloia A
+FAU - Muneretto, Claudio
+AU  - Muneretto C
+FAU - Robertson, Alastair D
+AU  - Robertson AD
+FAU - Bristow, Michael R
+AU  - Bristow MR
+FAU - Dei Cas, Livio
+AU  - Dei Cas L
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+RN  - 0 (Adrenergic beta-Agonists)
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Carbazoles)
+RN  - 0 (Cardiotonic Agents)
+RN  - 0 (Propanolamines)
+RN  - 34368-04-2 (Dobutamine)
+RN  - 37350-58-6 (Metoprolol)
+RN  - 72956-09-3 (carvedilol)
+RN  - 77671-31-9 (Enoximone)
+SB  - AIM
+SB  - IM
+MH  - Adrenergic beta-Agonists/pharmacology/*therapeutic use
+MH  - Adrenergic beta-Antagonists/pharmacology/*therapeutic use
+MH  - Aged
+MH  - Carbazoles/pharmacology/*therapeutic use
+MH  - Cardiotonic Agents/pharmacology/*therapeutic use
+MH  - Chronic Disease
+MH  - Dobutamine/pharmacology/*therapeutic use
+MH  - Drug Interactions
+MH  - Drug Therapy, Combination
+MH  - Enoximone/pharmacology/*therapeutic use
+MH  - Female
+MH  - Heart Failure/classification/*drug therapy/*physiopathology
+MH  - Hemodynamics/*drug effects
+MH  - Humans
+MH  - Male
+MH  - Metoprolol/pharmacology/*therapeutic use
+MH  - Middle Aged
+MH  - Propanolamines/pharmacology/*therapeutic use
+MH  - Radionuclide Angiography
+MH  - Severity of Illness Index
+MH  - Time Factors
+MH  - Treatment Outcome
+EDAT- 2002/10/18 04:00
+MHDA- 2002/11/26 04:00
+CRDT- 2002/10/18 04:00
+AID - S0735109702021344 [pii]
+PST - ppublish
+SO  - J Am Coll Cardiol. 2002 Oct 2;40(7):1248-58.
+
+PMID- 11927527
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020402
+DCOM- 20020410
+LR  - 20071115
+IS  - 1524-4539 (Electronic)
+IS  - 0009-7322 (Linking)
+VI  - 105
+IP  - 13
+DP  - 2002 Apr 2
+TI  - Metoprolol CR/XL in female patients with heart failure: analysis of the
+      experience in Metoprolol Extended-Release Randomized Intervention Trial in Heart 
+      Failure (MERIT-HF).
+PG  - 1585-91
+AB  - BACKGROUND: Underrepresentation of women in heart failure clinical trials has
+      limited conclusions regarding the effect of various management strategies on
+      survival in women with heart failure and decreased left ventricular ejection
+      fraction (LVEF). METHODS AND RESULTS: MERIT-HF (Metoprolol Extended-Release
+      Randomized Intervention Trial in Heart Failure) was a randomized,
+      placebo-controlled study, the purpose of which was to evaluate the effect of
+      metoprolol controlled-release/extended-release (CR/XL) in 3991 patients with New 
+      York Heart Association class II to IV heart failure and LVEF < or =0.40. We
+      performed a post hoc analysis to evaluate the effect of metoprolol CR/XL on
+      outcome in women (n=898), including the outcome in 183 women with severe heart
+      failure (New York Heart Association class III/IV and LVEF < 0.25). Treatment with
+      metoprolol CR/XL in women resulted in a 21% reduction in the primary combined end
+      point of all-cause mortality/all-cause hospitalizations (164 versus 137 patients;
+      P=0.044). The number of cardiovascular hospitalizations was reduced by 29% (164
+      versus 120; P=0.013), and hospitalization for worsening heart failure was reduced
+      by 42% (95 versus 56; P=0.021). Similar results were noted in the subgroup of
+      women with severe heart failure, with a 57% reduction in cardiovascular
+      hospitalizations (63 versus 30; P=0.005) and a 72% reduction in hospitalization
+      due to worsening heart failure (46 versus 14; P=0.0004). A pooling of mortality
+      results from MERIT-HF, the Cardiac Insufficiency Bisoprolol Study (CIBIS II), and
+      the Carvedilol Prospective Randomized Cumulative Survival Study (COPERNICUS)
+      showed very similar survival benefits in women and men. CONCLUSIONS: The
+      beneficial effects of metoprolol CR/XL extend to women with heart failure,
+      including women with clinically stable severe heart failure.
+AD  - Cardiac Centers of Louisiana, Shreveport, LA 71103, USA. jkgalt@shreve.net
+FAU - Ghali, Jalal K
+AU  - Ghali JK
+FAU - Pina, Ileana L
+AU  - Pina IL
+FAU - Gottlieb, Stephen S
+AU  - Gottlieb SS
+FAU - Deedwania, Prakash C
+AU  - Deedwania PC
+FAU - Wikstrand, John C
+AU  - Wikstrand JC
+CN  - MERIT-HF Study Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (metoprolol succinate)
+RN  - 37350-58-6 (Metoprolol)
+SB  - AIM
+SB  - IM
+CIN - Circulation. 2002 Apr 2;105(13):1526-8. PMID: 11927513
+MH  - Adrenergic beta-Antagonists/administration & dosage/*therapeutic use
+MH  - Aged
+MH  - Angiotensin-Converting Enzyme Inhibitors/therapeutic use
+MH  - Delayed-Action Preparations
+MH  - Drug Therapy, Combination
+MH  - Endpoint Determination
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Heart Failure/diagnosis/*drug therapy/mortality
+MH  - Hospitalization
+MH  - Humans
+MH  - Male
+MH  - Metoprolol/administration & dosage/*analogs & derivatives/*therapeutic use
+MH  - Middle Aged
+MH  - Sex Factors
+MH  - Survival Analysis
+MH  - Treatment Outcome
+MH  - Ventricular Dysfunction, Left/drug therapy/mortality
+EDAT- 2002/04/03 10:00
+MHDA- 2002/04/11 10:01
+CRDT- 2002/04/03 10:00
+PST - ppublish
+SO  - Circulation. 2002 Apr 2;105(13):1585-91.
+
+PMID- 11889011
+OWN - NLM
+STAT- MEDLINE
+DA  - 20020312
+DCOM- 20020327
+LR  - 20071115
+IS  - 1524-4539 (Electronic)
+IS  - 0009-7322 (Linking)
+VI  - 105
+IP  - 10
+DP  - 2002 Mar 12
+TI  - Tolerability of beta-blocker initiation and titration in the Metoprolol CR/XL
+      Randomized Intervention Trial in Congestive Heart Failure (MERIT-HF).
+PG  - 1182-8
+AB  - BACKGROUND: beta-Blockade improves survival when administered over a long period 
+      of time to patients with heart failure. However, the time course of any possible 
+      deterioration during the titration phase has not been reported. METHODS AND
+      RESULTS: We looked at evidence of clinical deterioration in the Metoprolol CR/XL 
+      Randomized Intervention Trial in Congestive Heart Failure (MERIT-HF) by analyzing
+      events and symptoms during the first 90 days. During titration, the Kaplan-Meier 
+      curves for the combined end point of all-cause mortality/all-cause
+      hospitalization were similar in all patients randomized, with no significant
+      difference in favor of placebo at any visit or in any of the analyzed subgroups
+      (New York Heart Association class II, III/IV, or III/IV with ejection fraction
+      <0.25, heart rate less-than-or-equal 76 bpm, and systolic blood pressure
+      less-than-or-equal 120 mm Hg). The curves started to diverge in favor of
+      beta-blockade after 60 days. Low heart rate was the main factor that limited
+      titration. In New York Heart Association class III/IV, 5.9% of the patients
+      receiving placebo discontinued study medicine during the first 90 days compared
+      with 8.1% of those receiving metoprolol CR/XL (P=0.037 unadjusted, P=NS
+      adjusted); corresponding figures in those with New York Heart Association class
+      III/IV and ejection fraction <0.25 were 7.1% and 8.0% (P=NS). From day 90 until
+      the end of the study, more patients in the placebo group discontinued study
+      medicine in all subgroups. There was no change in diuretic or ACE inhibitor
+      dosing with beta-blocker titration. Most patients reported no change in symptoms 
+      of breathlessness or fatigue during the titration phase. CONCLUSIONS: When
+      carefully titrated, metoprolol CR/XL can be given safely to the overwhelming
+      majority of patients with stable mild to moderate heart failure, with minimal
+      side effects or deterioration.
+AD  - University of Maryland School of Medicine, Baltimore, MD 21201, USA.
+      sgottlie@medicine.umaryland.edu
+FAU - Gottlieb, Stephen S
+AU  - Gottlieb SS
+FAU - Fisher, Michael L
+AU  - Fisher ML
+FAU - Kjekshus, John
+AU  - Kjekshus J
+FAU - Deedwania, Prakash
+AU  - Deedwania P
+FAU - Gullestad, Lars
+AU  - Gullestad L
+FAU - Vitovec, Jiri
+AU  - Vitovec J
+FAU - Wikstrand, John
+AU  - Wikstrand J
+CN  - MERIT-HF Investigators
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Diuretics)
+RN  - 0 (metoprolol succinate)
+RN  - 37350-58-6 (Metoprolol)
+SB  - AIM
+SB  - IM
+MH  - Adrenergic beta-Antagonists/adverse effects/therapeutic use
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Angiotensin-Converting Enzyme Inhibitors/therapeutic use
+MH  - Blood Pressure/drug effects
+MH  - Delayed-Action Preparations/adverse effects/therapeutic use
+MH  - Diuretics/therapeutic use
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Fatigue/chemically induced
+MH  - Female
+MH  - Heart Failure/*drug therapy/mortality
+MH  - Heart Rate/drug effects
+MH  - Humans
+MH  - Male
+MH  - Metoprolol/*adverse effects/*analogs & derivatives/*therapeutic use
+MH  - Middle Aged
+MH  - Patient Compliance/statistics & numerical data
+MH  - Patient Dropouts/statistics & numerical data
+MH  - Respiration/drug effects
+EDAT- 2002/03/13 10:00
+MHDA- 2002/03/28 10:01
+CRDT- 2002/03/13 10:00
+PST - ppublish
+SO  - Circulation. 2002 Mar 12;105(10):1182-8.
+
+PMID- 11738299
+OWN - NLM
+STAT- MEDLINE
+DA  - 20011212
+DCOM- 20020102
+LR  - 20071115
+IS  - 0735-1097 (Print)
+IS  - 0735-1097 (Linking)
+VI  - 38
+IP  - 7
+DP  - 2001 Dec
+TI  - Aspirin impairs reverse myocardial remodeling in patients with heart failure
+      treated with beta-blockers.
+PG  - 1950-6
+AB  - OBJECTIVES: We hypothesized that aspirin (ASA) might alter the beneficial effect 
+      of beta-blockers on left ventricular ejection fraction (LVEF) in patients with
+      chronic heart failure. BACKGROUND: Aspirin blunts the vasodilation caused by both
+      angiotensin-converting enzyme (ACE) inhibitors and beta-blockers in hypertensive 
+      patients and in patients with heart failure. Several studies suggest that ASA
+      also blunts some of beneficial effects of ACE inhibitors on mortality in patients
+      with heart failure. To our knowledge, there have been no data evaluating the
+      possible interaction of ASA and beta-blockers on left ventricular remodeling in
+      patients with heart failure. METHODS: We retrospectively evaluated patients
+      entered into the Multicenter Oral Carvedilol Heart failure Assessment (MOCHA)
+      trial, a 6-month, double-blind, randomized, placebo-controlled, multicenter,
+      dose-response evaluation of carvedilol in patients with chronic stable
+      symptomatic heart failure. Multivariate analysis was performed to determine if
+      aspirin independently influenced the improvement in LVEF. RESULTS: Over all
+      randomized patients (n = 293), LVEF improved 8.2 +/- 0.8 ejection fraction (EF)
+      units in ASA nonusers and 4.5 +/- 0.7 EF units in ASA users (p = 0.005). In
+      subjects randomized to treatment with carvedilol (n = 231), LVEF improved 9.5 +/-
+      0.9 EF units in ASA nonusers and 5.8 +/- 0.8 EF units in ASA users (p = 0.02). In
+      subjects randomized to treatment with placebo (n = 62), LVEF improved 2.8 +/- 1.2
+      EF units in ASA nonusers and 0.5 +/- 1.4 EF units in ASA users (p = 0.20).
+      Aspirin did not significantly affect the heart rate or systolic blood pressure
+      response in either the placebo or carvedilol groups. The effect of ASA became
+      more significant on multivariate analysis. The change in LVEF was also influenced
+      by carvedilol dose, etiology of heart failure, baseline heart rate, EF and
+      coumadin use. The detrimental effect of ASA on the improvement in LVEF was
+      dose-related and was present in both placebo and carvedilol groups, although the 
+      effect was statistically significant only in the much larger carvedilol group.
+      CONCLUSIONS: Aspirin significantly affects the changes in LVEF over time in
+      patients with heart failure and systolic dysfunction treated with carvedilol. The
+      specific mechanism(s) underlying this interaction are unknown and further studies
+      are needed to provide additional understanding of the molecular basis of factors 
+      influencing reverse remodeling in patients with heart failure.
+AD  - Division of Cardiology, University of Colorado Health Sciences Center, Denver,
+      Colorado 80262, USA. JoAnn.Lindenfeld@UCHSC.edu
+FAU - Lindenfeld, J
+AU  - Lindenfeld J
+FAU - Robertson, A D
+AU  - Robertson AD
+FAU - Lowes, B D
+AU  - Lowes BD
+FAU - Bristow, M R
+AU  - Bristow MR
+CN  - MOCHA (Multicenter Oral Carvedilol Heart failure Assessment) Investigators
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - United States
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Carbazoles)
+RN  - 0 (Propanolamines)
+RN  - 72956-09-3 (carvedilol)
+SB  - AIM
+SB  - IM
+MH  - Adrenergic beta-Antagonists/*administration & dosage
+MH  - Carbazoles/administration & dosage/*antagonists & inhibitors
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Drug Interactions
+MH  - Drug Therapy, Combination
+MH  - Female
+MH  - Heart Failure/*drug therapy
+MH  - Hemodynamics/drug effects
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Propanolamines/administration & dosage/*antagonists & inhibitors
+MH  - Retrospective Studies
+MH  - Ventricular Dysfunction, Left/*drug therapy
+MH  - Ventricular Function, Left/drug effects
+MH  - Ventricular Remodeling/*drug effects
+EDAT- 2001/12/12 10:00
+MHDA- 2002/01/05 10:01
+CRDT- 2001/12/12 10:00
+AID - S0735-1097(01)01641-2 [pii]
+PST - ppublish
+SO  - J Am Coll Cardiol. 2001 Dec;38(7):1950-6.
+
+PMID- 11583861
+OWN - NLM
+STAT- MEDLINE
+DA  - 20011003
+DCOM- 20011025
+LR  - 20100323
+IS  - 0735-1097 (Print)
+IS  - 0735-1097 (Linking)
+VI  - 38
+IP  - 4
+DP  - 2001 Oct
+TI  - Metoprolol controlled release/extended release in patients with severe heart
+      failure: analysis of the experience in the MERIT-HF study.
+PG  - 932-8
+AB  - OBJECTIVES: This study analyzed the effect of the beta(1)-selective beta-blocker 
+      metoprolol succinate controlled release/extended release (CR/XL) once daily on
+      mortality, hospitalizations and tolerability in patients with severe heart
+      failure. BACKGROUND: There continues to be resistance to the incorporation of
+      beta-blockers into clinical care, largely due to concerns about their benefit in 
+      patients with more severe heart failure. METHOD: SA subgroup of patients from
+      Metoprolol CR/XL Randomized Intervention Trial in chronic Heart Failure
+      (MERIT-HF) in New York Heart Association (NYHA) functional class III/IV with left
+      ventricular ejection fraction < 0.25 were identified (n = 795). The analysis was 
+      by intention-to-treat. RESULTS: The mean ejection fraction at baseline was 0.19, 
+      and the yearly placebo mortality during follow-up was 19.1%. Treatment with
+      metoprolol CR/XL compared to placebo resulted in significant reductions in all
+      predefined mortality end points including: total mortality, 45 versus 72 deaths
+      (risk reduction 39%; 95% confidence interval 11% to 58%; p = 0.0086); sudden
+      death, 22 vs. 39 deaths (45% [7% to 67%]; p = 0.024); and death due to worsening 
+      heart failure, 13 vs. 28 deaths (55% [13% to 77%]; p = 0.015). Metoprolol CR/XL
+      also reduced the number of hospitalizations for worsening heart failure by 45%
+      compared with placebo (p < 0.0001). The NYHA functional class improved in the
+      metoprolol CR/XL group compared with placebo (p = 0.0031). Metoprolol CR/XL was
+      well tolerated, with 31% fewer patients withdrawn from study medicine (all
+      causes) compared with placebo (p = 0.027). CONCLUSIONS: This subgroup analysis of
+      the MERIT-HF study shows that patients with severe heart failure receive a
+      similar mortality benefit and a similar reduction in hospitalizations for
+      worsening heart failure with metoprolol CR/XL treatment as those patients
+      included in the total study.
+AD  - Henry Ford Heart and Vascular Institute, Henry Ford Hospital, Detroit, Michigan
+      48202-2689, USA. SGOLDST1@HFHS.ORG
+FAU - Goldstein, S
+AU  - Goldstein S
+FAU - Fagerberg, B
+AU  - Fagerberg B
+FAU - Hjalmarson A
+AU  - Hjalmarson A
+FAU - Kjekshus, J
+AU  - Kjekshus J
+FAU - Waagstein, F
+AU  - Waagstein F
+FAU - Wedel, H
+AU  - Wedel H
+FAU - Wikstrand, J
+AU  - Wikstrand J
+CN  - MERIT-HF Study Group
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (metoprolol succinate)
+RN  - 37350-58-6 (Metoprolol)
+SB  - AIM
+SB  - IM
+MH  - Adrenergic beta-Antagonists/*administration & dosage
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Delayed-Action Preparations
+MH  - Female
+MH  - Heart Failure/*drug therapy/mortality
+MH  - Hospitalization
+MH  - Humans
+MH  - Male
+MH  - Metoprolol/*administration & dosage/analogs & derivatives
+MH  - Middle Aged
+MH  - Multicenter Studies as Topic
+MH  - Randomized Controlled Trials as Topic
+EDAT- 2001/10/05 10:00
+MHDA- 2001/10/26 10:01
+CRDT- 2001/10/05 10:00
+AID - S0735109701015169 [pii]
+PST - ppublish
+SO  - J Am Coll Cardiol. 2001 Oct;38(4):932-8.
+
+PMID- 11401111
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010612
+DCOM- 20010809
+LR  - 20071115
+IS  - 0735-1097 (Print)
+IS  - 0735-1097 (Linking)
+VI  - 37
+IP  - 7
+DP  - 2001 Jun 1
+TI  - Plasma N-terminal pro-brain natriuretic peptide and adrenomedullin: prognostic
+      utility and prediction of benefit from carvedilol in chronic ischemic left
+      ventricular dysfunction. Australia-New Zealand Heart Failure Group.
+PG  - 1781-7
+AB  - OBJECTIVES: We sought to assess plasma concentrations of the amino (N)-terminal
+      portion of pro-brain natriuretic peptide (N-BNP) and adrenomedullin for
+      prediction of adverse outcomes and responses to treatment in 297 patients with
+      ischemic left ventricular (LV) dysfunction who were randomly assigned to receive 
+      carvedilol or placebo. BACKGROUND: Although neurohormonal status has known
+      prognostic significance in heart failure, the predictive power of either N-BNP or
+      adrenomedullin in chronic ischemic LV dysfunction has not been previously
+      reported. METHODS: Plasma N-BNP and adrenomedullin were measured in 297 patients 
+      with chronic ischemic (LV) dysfunction before randomization to carvedilol or
+      placebo, added to established treatment with a converting enzyme inhibitor and
+      loop diuretic (with or without digoxin). The patients' clinical outcomes,
+      induding mortality and heart failure events, were recorded for 18 months.
+      RESULTS: Above-median N-BNP and adrenomedullin levels conferred increased risks
+      (all p < 0.001) of mortality (risk ratios [95% confidence intervals]: 4.67
+      [2-10.9] and 3.92 [1.76-8.7], respectively) and hospital admission with heart
+      failure (4.7 [2.2-10.3] and 2.4 [1.3-4.5], respectively). Both of these predicted
+      death or heart failure independent of age, New York Heart Association functional 
+      class, LV ejection fraction, previous myocardial infarction or previous admission
+      with heart failure. Carvedilol reduced the risk of death or heart failure in
+      patients with above-median levels of N-BNP or adrenomedullin, or both, to rates
+      not significantly different from those observed in patients with levels below the
+      median value. CONCLUSIONS: In patients with established ischemic LV dysfunction, 
+      plasma N-BNP and adrenomedullin are independent predictors of mortality and heart
+      failure. Carvedilol reduced mortality and heart failure in patients with higher
+      pre-treatment plasma N-BNP and adrenomedullin.
+AD  - Department of Medicine, Christchurch Hospital, New Zealand.
+      barbara.griffin@chmeds.ac.nz
+FAU - Richards, A M
+AU  - Richards AM
+FAU - Doughty, R
+AU  - Doughty R
+FAU - Nicholls, M G
+AU  - Nicholls MG
+FAU - MacMahon, S
+AU  - MacMahon S
+FAU - Sharpe, N
+AU  - Sharpe N
+FAU - Murphy, J
+AU  - Murphy J
+FAU - Espiner, E A
+AU  - Espiner EA
+FAU - Frampton, C
+AU  - Frampton C
+FAU - Yandle, T G
+AU  - Yandle TG
+CN  - Australia-New Zealand Heart Failure Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Biological Markers)
+RN  - 0 (Carbazoles)
+RN  - 0 (Nerve Tissue Proteins)
+RN  - 0 (Peptide Fragments)
+RN  - 0 (Peptides)
+RN  - 0 (Propanolamines)
+RN  - 0 (pro-brain natriuretic peptide (1-76))
+RN  - 114471-18-0 (Natriuretic Peptide, Brain)
+RN  - 148498-78-6 (Adrenomedullin)
+RN  - 72956-09-3 (carvedilol)
+SB  - AIM
+SB  - IM
+MH  - Adrenergic beta-Antagonists/*therapeutic use
+MH  - Adrenomedullin
+MH  - Biological Markers/blood
+MH  - Carbazoles/*therapeutic use
+MH  - Chronic Disease
+MH  - Heart Failure/*blood/*drug therapy/mortality
+MH  - Humans
+MH  - Natriuretic Peptide, Brain
+MH  - Nerve Tissue Proteins/*blood
+MH  - Peptide Fragments/*blood
+MH  - Peptides/*blood
+MH  - Prognosis
+MH  - Propanolamines/*therapeutic use
+MH  - Risk Factors
+MH  - Ventricular Dysfunction, Left/*blood/*drug therapy/mortality
+EDAT- 2001/06/13 10:00
+MHDA- 2001/08/10 10:01
+CRDT- 2001/06/13 10:00
+AID - S0735109701012694 [pii]
+PST - ppublish
+SO  - J Am Coll Cardiol. 2001 Jun 1;37(7):1781-7.
+
+PMID- 11386263
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010516
+DCOM- 20010607
+LR  - 20071115
+IS  - 0028-4793 (Print)
+IS  - 0028-4793 (Linking)
+VI  - 344
+IP  - 22
+DP  - 2001 May 31
+TI  - Effect of carvedilol on survival in severe chronic heart failure.
+PG  - 1651-8
+AB  - BACKGROUND: Beta-blocking agents reduce the risk of hospitalization and death in 
+      patients with mild-to-moderate heart failure, but little is known about their
+      effects in severe heart failure. METHODS: We evaluated 2289 patients who had
+      symptoms of heart failure at rest or on minimal exertion, who were clinically
+      euvolemic, and who had an ejection fraction of less than 25 percent. In a
+      double-blind fashion, we randomly assigned 1133 patients to placebo and 1156
+      patients to treatment with carvedilol for a mean period of 10.4 months, during
+      which standard therapy for heart failure was continued. Patients who required
+      intensive care, had marked fluid retention, or were receiving intravenous
+      vasodilators or positive inotropic drugs were excluded. RESULTS: There were 190
+      deaths in the placebo group and 130 deaths in the carvedilol group. This
+      difference reflected a 35 percent decrease in the risk of death with carvedilol
+      (95 percent confidence interval, 19 to 48 percent; P=0.00013, unadjusted;
+      P=0.0014, adjusted for interim analyses). A total of 507 patients died or were
+      hospitalized in the placebo group, as compared with 425 in the carvedilol group. 
+      This difference reflected a 24 percent decrease in the combined risk of death or 
+      hospitalization with carvedilol (95 percent confidence interval, 13 to 33
+      percent; P<0.001). The favorable effects on both end points were seen
+      consistently in all the subgroups we examined, including patients with a history 
+      of recent or recurrent cardiac decompensation. Fewer patients in the carvedilol
+      group than in the placebo group withdrew because of adverse effects or for other 
+      reasons (P=0.02). CONCLUSIONS: The previously reported benefits of carvedilol
+      with regard to morbidity and mortality in patients with mild-to-moderate heart
+      failure were also apparent in the patients with severe heart failure who were
+      evaluated in this trial.
+AD  - Division of Circulatory Physiology, College of Physicians and Surgeons, Columbia 
+      University, New York, NY 10032, USA. mp65@columbia.edu
+FAU - Packer, M
+AU  - Packer M
+FAU - Coats, A J
+AU  - Coats AJ
+FAU - Fowler, M B
+AU  - Fowler MB
+FAU - Katus, H A
+AU  - Katus HA
+FAU - Krum, H
+AU  - Krum H
+FAU - Mohacsi, P
+AU  - Mohacsi P
+FAU - Rouleau, J L
+AU  - Rouleau JL
+FAU - Tendera, M
+AU  - Tendera M
+FAU - Castaigne, A
+AU  - Castaigne A
+FAU - Roecker, E B
+AU  - Roecker EB
+FAU - Schultz, M K
+AU  - Schultz MK
+FAU - DeMets, D L
+AU  - DeMets DL
+CN  - Carvedilol Prospective Randomized Cumulative Survival Study Group
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Carbazoles)
+RN  - 0 (Propanolamines)
+RN  - 72956-09-3 (carvedilol)
+SB  - AIM
+SB  - IM
+CIN - ACP J Club. 2001 Nov-Dec;135(3):85
+CIN - N Engl J Med. 2001 Sep 27;345(13):998; author reply 998-9. PMID: 11575300
+CIN - N Engl J Med. 2001 Sep 27;345(13):998-9. PMID: 11575299
+CIN - N Engl J Med. 2001 May 31;344(22):1711-2. PMID: 11386271
+MH  - Adrenergic beta-Antagonists/adverse effects/*therapeutic use
+MH  - Aged
+MH  - Carbazoles/adverse effects/*therapeutic use
+MH  - Chronic Disease
+MH  - Double-Blind Method
+MH  - Female
+MH  - Heart Failure/*drug therapy/mortality
+MH  - Hospitalization/statistics & numerical data
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Propanolamines/adverse effects/*therapeutic use
+MH  - Proportional Hazards Models
+MH  - Prospective Studies
+MH  - Risk
+MH  - Severity of Illness Index
+MH  - Survival Analysis
+EDAT- 2001/06/02 10:00
+MHDA- 2001/06/08 10:01
+CRDT- 2001/06/02 10:00
+AID - 10.1056/NEJM200105313442201 [doi]
+PST - ppublish
+SO  - N Engl J Med. 2001 May 31;344(22):1651-8.
+
+PMID- 11356434
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010517
+DCOM- 20010531
+LR  - 20041117
+IS  - 0140-6736 (Print)
+IS  - 0140-6736 (Linking)
+VI  - 357
+IP  - 9266
+DP  - 2001 May 5
+TI  - Effect of carvedilol on outcome after myocardial infarction in patients with
+      left-ventricular dysfunction: the CAPRICORN randomised trial.
+PG  - 1385-90
+AB  - BACKGROUND: The beneficial effects of beta-blockers on long-term outcome after
+      acute myocardial infarction were shown before the introduction of thrombolysis
+      and angiotensin-converting-enzyme (ACE) inhibitors. Generally, the patients
+      recruited to these trials were at low risk: few had heart failure, and none had
+      measurements of left-ventricular function taken. We investigated the long-term
+      efficacy of carvedilol on morbidity and mortality in patients with
+      left-ventricular dysfunction after acute myocardial infarction treated according 
+      to current evidence-based practice. METHODS: In a multicentre, randomised,
+      placebo-controlled trial, 1959 patients with a proven acute myocardial infarction
+      and a left-ventricular ejection fraction of </=40% were randomly assigned 6.25 mg
+      carvedilol (n=975) or placebo (n=984). Study medication was progressively
+      increased to a maximum of 25 mg twice daily during the next 4-6 weeks, and
+      patients were followed up until the requisite number of primary endpoints had
+      occurred. The primary endpoint was all-cause mortality or hospital admission for 
+      cardiovascular problems. Analysis was by intention to treat. FINDINGS: Although
+      there was no difference between the carvedilol and placebo groups in the number
+      of patients with the primary endpoint (340 [35%] vs 367 [37%], hazard ratio 0.92 
+      [95% CI 0.80-1.07]), all-cause mortality alone was lower in the carvedilol group 
+      than in the placebo group (116 [12%] vs 151 [15%], 0.77 [0.60-0.98], p=0.03).
+      Cardiovascular mortality, non-fatal myocardial infarctions, and all-cause
+      mortality or non-fatal myocardial infarction were also lower on carvedilol than
+      on placebo. INTERPRETATION: In patients treated long-term after an acute
+      myocardial infarction complicated by left-ventricular systolic dysfunction,
+      carvedilol reduced the frequency of all-cause and cardiovascular mortality, and
+      recurrent, non-fatal myocardial infarctions. These beneficial effects are
+      additional to those of evidence-based treatments for acute myocardial infarction 
+      including ACE inhibitors.
+AD  - Department of Cardiology, Western Infirmary, G11 2NT, Glasgow, UK.
+      H.Dargie@bio.gla.ac.uk
+FAU - Dargie, H J
+AU  - Dargie HJ
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - England
+TA  - Lancet
+JT  - Lancet
+JID - 2985213R
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Carbazoles)
+RN  - 0 (Propanolamines)
+RN  - 72956-09-3 (carvedilol)
+SB  - AIM
+SB  - IM
+CIN - Lancet. 2001 Oct 27;358(9291):1457-8. PMID: 11705520
+CIN - ACP J Club. 2002 Jan-Feb;136(1):7. PMID: 11829548
+MH  - Adrenergic beta-Antagonists/administration & dosage/*therapeutic use
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Carbazoles/administration & dosage/*therapeutic use
+MH  - Drug Administration Schedule
+MH  - Endpoint Determination
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/complications/*drug therapy/mortality
+MH  - Propanolamines/administration & dosage/*therapeutic use
+MH  - Treatment Outcome
+MH  - Ventricular Dysfunction, Left/*complications
+EDAT- 2001/05/18 10:00
+MHDA- 2001/06/02 10:01
+CRDT- 2001/05/18 10:00
+AID - S0140673600045608 [pii]
+PST - ppublish
+SO  - Lancet. 2001 May 5;357(9266):1385-90.
+
+PMID- 11113718
+OWN - NLM
+STAT- MEDLINE
+DA  - 20010110
+DCOM- 20010322
+LR  - 20110608
+IS  - 1388-9842 (Print)
+IS  - 1388-9842 (Linking)
+VI  - 2
+IP  - 4
+DP  - 2000 Dec
+TI  - Effect of beta 1 blockade with atenolol on progression of heart failure in
+      patients pretreated with high-dose enalapril.
+PG  - 407-12
+AB  - BACKGROUND: The survival benefit of beta-blocker treatment in patients with heart
+      failure has been established in recent trials. Yet, the impact of beta-blockers
+      added on high dose angiotensin converting enzyme inhibitors has not been
+      reported. AIMS: To investigate the effect of atenolol, a hydrophilic, selective
+      beta1-adrenergic antagonist, added on enalapril 40 mg/day in patients with
+      advanced left ventricular dysfunction in a double-blind placebo-controlled trial.
+      METHODS: One hundred and nineteen patients with class II or III heart failure,
+      left ventricular ejection fraction < or = 25% and treatment with 40 mg enalapril 
+      daily were given an initial challenge dose of atenolol 12. 5 mg. One hundred
+      patients (54 with idiopathic, 28 with ischemic, 18 with other dilated
+      cardiomyopathy) tolerated challenge and were randomized to atenolol (maintenance 
+      dose 89+/-11 mg/day, range 50-100 mg/day) or placebo. The primary endpoint was
+      combined worsening heart failure or death within 2 years, the secondary endpoint 
+      was hospitalization for cardiac events. RESULTS: After 395+/-266 days interim
+      analysis revealed a significant difference between the atenolol and placebo group
+      (log rank P<0.01) and the trial was concluded. Twenty-seven patients had
+      developed worsening heart failure (8 in the atenolol group vs. 19 in the placebo 
+      group) and 13 patients had died (5 in the atenolol vs. 8 in the placebo group).
+      Overall there were 23 hospitalizations for cardiac events (6 in the atenolol
+      group vs. 21 in the placebo group, P=0.07); 17 hospitalizations were due to
+      worsening heart failure (5 in the atenolol group, 12 in the placebo-group,
+      P=0.05) and 10 due to arrhythmias (1 in the atenolol group vs. 9 in the placebo
+      group, P<0.01) CONCLUSIONS: The data suggest that in patients with advanced left 
+      ventricular dysfunction, beta-blockers can provide substantial benefits
+      supplementary to that already achieved with high dose enalapril treatment.
+AD  - Department of Cardiology, University of Vienna, Wahringer Gurtel 18-20, A-1090
+      Vienna, Austria.
+FAU - Sturm, B
+AU  - Sturm B
+FAU - Pacher, R
+AU  - Pacher R
+FAU - Strametz-Juranek, J
+AU  - Strametz-Juranek J
+FAU - Berger, R
+AU  - Berger R
+FAU - Frey, B
+AU  - Frey B
+FAU - Stanek, B
+AU  - Stanek B
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - NETHERLANDS
+TA  - Eur J Heart Fail
+JT  - European journal of heart failure
+JID - 100887595
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 29122-68-7 (Atenolol)
+RN  - 75847-73-3 (Enalapril)
+SB  - IM
+MH  - Adrenergic beta-Antagonists/*therapeutic use
+MH  - Angiotensin-Converting Enzyme Inhibitors/administration & dosage/*therapeutic use
+MH  - Atenolol/*therapeutic use
+MH  - Disease Progression
+MH  - Double-Blind Method
+MH  - Enalapril/administration & dosage/*therapeutic use
+MH  - Female
+MH  - Heart Failure/*drug therapy/mortality
+MH  - Hospitalization/statistics & numerical data
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Patient Selection
+EDAT- 2000/12/13 11:00
+MHDA- 2001/03/27 10:01
+CRDT- 2000/12/13 11:00
+AID - S1388984200001203 [pii]
+PST - ppublish
+SO  - Eur J Heart Fail. 2000 Dec;2(4):407-12.
+
+PMID- 11025624
+OWN - NLM
+STAT- MEDLINE
+DA  - 20001103
+DCOM- 20001130
+LR  - 20091111
+IS  - 0028-3886 (Print)
+IS  - 0028-3886 (Linking)
+VI  - 48
+IP  - 3
+DP  - 2000 Sep
+TI  - A double blind controlled study of propranolol and cyproheptadine in migraine
+      prophylaxis.
+PG  - 223-6
+AB  - Role of propranolol and cyproheptadine in the prophylaxis of migraine was studied
+      in a controlled double blind trial. Two hundred fifty-nine patients were divided 
+      into four groups. Each group was either given a placebo, cyproheptadine,
+      propranolol or a combination of the latter two drugs. The patients were followed 
+      for a period of three months. Significant relief in frequency, duration and
+      severity from migranous attacks was seen in all drug treated groups over placebo.
+      Significant correlation in response was seen in frequency, duration and severity 
+      in all the groups which received drugs. Statistically more significant relief was
+      seen in cyproheptadine and propranolol treated group as compared to individual
+      drug treated groups. In cyproheptadine and propranolol treated groups, the
+      dropout rate was lower and associated symptoms were better relieved than in other
+      groups. The study shows efficacy of combination of cyproheptadine and propranolol
+      in migraine prophylaxis.
+AD  - Departments of Neurosurgery, Clinical Pharmacology and Neurology, Guntur Medical 
+      College, Guntur, Andhra Pradesh, 522001, India.
+FAU - Rao, B S
+AU  - Rao BS
+FAU - Das, D G
+AU  - Das DG
+FAU - Taraknath, V R
+AU  - Taraknath VR
+FAU - Sarma, Y
+AU  - Sarma Y
+LA  - eng
+PT  - Clinical Trial
+PT  - Controlled Clinical Trial
+PT  - Journal Article
+PL  - INDIA
+TA  - Neurol India
+JT  - Neurology India
+JID - 0042005
+RN  - 0 (Serotonin Antagonists)
+RN  - 0 (Vasodilator Agents)
+RN  - 129-03-3 (Cyproheptadine)
+RN  - 525-66-6 (Propranolol)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Cyproheptadine/*administration & dosage/adverse effects
+MH  - Double-Blind Method
+MH  - Drug Therapy, Combination
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/*drug therapy/*prevention & control
+MH  - Propranolol/*administration & dosage/adverse effects
+MH  - Serotonin Antagonists/*administration & dosage/adverse effects
+MH  - Vasodilator Agents/*administration & dosage/adverse effects
+EDAT- 2000/10/12 11:00
+MHDA- 2001/02/28 10:01
+CRDT- 2000/10/12 11:00
+PST - ppublish
+SO  - Neurol India. 2000 Sep;48(3):223-6.
+
+PMID- 10920067
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000817
+DCOM- 20000817
+LR  - 20071115
+IS  - 1524-4539 (Electronic)
+IS  - 0009-7322 (Linking)
+VI  - 102
+IP  - 5
+DP  - 2000 Aug 1
+TI  - Differential effects of beta-blockers in patients with heart failure: A
+      prospective, randomized, double-blind comparison of the long-term effects of
+      metoprolol versus carvedilol.
+PG  - 546-51
+AB  - BACKGROUND: Both metoprolol and carvedilol produce hemodynamic and clinical
+      benefits in patients with chronic heart failure; carvedilol exerts greater
+      antiadrenergic effects than metoprolol, but it is unknown whether this
+      pharmacological difference results in hemodynamic and clinical differences
+      between the 2 drugs. METHODS AND RESULTS: We randomized 150 patients with heart
+      failure (left ventricular ejection fraction </=0.35) to double-blind treatment
+      with either metoprolol or carvedilol. When compared with metoprolol (124+/-55
+      mg/d), patients treated with carvedilol (49+/-18 mg/d) showed larger increases in
+      left ventricular ejection fraction at rest (+10.9+/-11.0 versus +7.2+/-7.7 U,
+      P=0.038) and in left ventricular stroke volume and stroke work during exercise
+      (both P<0. 05) after 13 to 15 months of treatment. In addition, carvedilol
+      produced greater decreases in mean pulmonary artery pressure and pulmonary wedge 
+      pressure, both at rest and during exercise, than metoprolol (all P<0.05). In
+      contrast, the metoprolol group showed greater increases in maximal exercise
+      capacity than the carvedilol group (P=0.035), but the 2 drugs improved symptoms, 
+      submaximal exercise tolerance, and quality of life to a similar degree. After a
+      mean of 23+/-11 months of follow-up, 21 patients in the metoprolol group and 17
+      patients in the carvedilol group died or underwent urgent transplantation.
+      CONCLUSIONS: The present study demonstrates that during long-term therapy,
+      carvedilol improves cardiac performance to a greater extent than metoprolol when 
+      administered to patients with heart failure in the doses shown to be effective in
+      clinical trials. These differences were likely related to a greater
+      antiadrenergic activity of carvedilol.
+AD  - Cattedra di Cardiologia, Universita di Brescia, Italy. metramarco@libero.it
+FAU - Metra, M
+AU  - Metra M
+FAU - Giubbini, R
+AU  - Giubbini R
+FAU - Nodari, S
+AU  - Nodari S
+FAU - Boldi, E
+AU  - Boldi E
+FAU - Modena, M G
+AU  - Modena MG
+FAU - Dei Cas, L
+AU  - Dei Cas L
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Carbazoles)
+RN  - 0 (Propanolamines)
+RN  - 37350-58-6 (Metoprolol)
+RN  - 72956-09-3 (carvedilol)
+SB  - AIM
+SB  - IM
+CIN - Circulation. 2001 Jun 12;103(23):E118. PMID: 11401950
+CIN - Circulation. 2000 Aug 1;102(5):484-6. PMID: 10920055
+MH  - Adrenergic beta-Antagonists/*therapeutic use
+MH  - Blood Pressure/drug effects
+MH  - Carbazoles/*therapeutic use
+MH  - Cardiomyopathy, Dilated/*drug therapy/physiopathology
+MH  - Female
+MH  - Heart Failure/drug therapy/etiology/physiopathology
+MH  - Heart Rate/drug effects
+MH  - Hemodynamics/*drug effects/physiology
+MH  - Humans
+MH  - Male
+MH  - Metoprolol/*therapeutic use
+MH  - Middle Aged
+MH  - Propanolamines/*therapeutic use
+MH  - Stroke Volume/drug effects
+MH  - Vascular Resistance/drug effects
+MH  - Ventricular Function, Left/drug effects
+EDAT- 2000/08/02
+MHDA- 2000/08/19
+CRDT- 2000/08/02 00:00
+PST - ppublish
+SO  - Circulation. 2000 Aug 1;102(5):546-51.
+
+PMID- 10898425
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000801
+DCOM- 20000801
+LR  - 20101118
+IS  - 0735-1097 (Print)
+IS  - 0735-1097 (Linking)
+VI  - 36
+IP  - 1
+DP  - 2000 Jul
+TI  - Use of metoprolol CR/XL to maintain sinus rhythm after conversion from persistent
+      atrial fibrillation: a randomized, double-blind, placebo-controlled study.
+PG  - 139-46
+AB  - OBJECTIVES: The primary objective of the present study was to assess the efficacy
+      of metoprolol CR/XL to reduce the risk of relapse after cardioversion of
+      persistent atrial fibrillation to sinus rhythm. BACKGROUND: Indirect data from
+      studies with d,l sotalol provide evidence that the beta-blocking effects of the
+      compound are important in maintaining sinus rhythm after cardioversion of atrial 
+      fibrillation. METHODS: After successful conversion to sinus rhythm, 394 patients 
+      with a history of persistent atrial fibrillation were randomly assigned to
+      treatment with metoprolol CR/XL or placebo. The two treatment groups were similar
+      with respect to all pretreatment characteristics. Patients were seen on an
+      outpatient basis for recording of resting electrocardiogram (ECG) after one week,
+      one, three and six months of follow-up or whenever they felt that they had a
+      relapse into atrial fibrillation or experienced an adverse event. RESULTS: In the
+      metoprolol CR/XL group, 96 patients (48.7%) had a relapse into atrial
+      fibrillation compared with 118 patients (59.9%) in the placebo group (p = 0.005).
+      Heart rate in patients after a relapse into atrial fibrillation was significantly
+      lower in the metoprolol group (98 +/- 23 beats/min) than in the placebo group
+      (107 +/- 27 beats/min). The rate of adverse events reported was similar in both
+      groups when the difference in follow-up time was taken into account. CONCLUSIONS:
+      The results of this double-blind, placebo-controlled study in patients after
+      cardioversion of persistent atrial fibrillation showed that metoprolol CR/XL was 
+      effective in preventing relapse into atrial fibrillation or flutter.
+AD  - Eberhard-Karls-Universitat, Medizinische Klinik III, Tubingen, Germany.
+      volker.kuehlkamp@med.uni-tuebingen.de
+FAU - Kuhlkamp, V
+AU  - Kuhlkamp V
+FAU - Schirdewan, A
+AU  - Schirdewan A
+FAU - Stangl, K
+AU  - Stangl K
+FAU - Homberg, M
+AU  - Homberg M
+FAU - Ploch, M
+AU  - Ploch M
+FAU - Beck, O A
+AU  - Beck OA
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+RN  - 0 (Adrenergic beta-1 Receptor Antagonists)
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (metoprolol succinate)
+RN  - 37350-58-6 (Metoprolol)
+SB  - AIM
+SB  - IM
+CIN - J Am Coll Cardiol. 2000 Jul;36(1):147-50. PMID: 10898426
+MH  - Administration, Oral
+MH  - Adrenergic beta-1 Receptor Antagonists
+MH  - Adrenergic beta-Antagonists/administration & dosage/*therapeutic use
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Atrial Fibrillation/physiopathology/*prevention & control
+MH  - Double-Blind Method
+MH  - *Electric Countershock
+MH  - Electrocardiography
+MH  - Female
+MH  - Heart Rate/*drug effects
+MH  - Humans
+MH  - Male
+MH  - Metoprolol/administration & dosage/*analogs & derivatives/therapeutic use
+MH  - Middle Aged
+MH  - Prospective Studies
+MH  - Recurrence/prevention & control
+MH  - Safety
+MH  - Treatment Outcome
+EDAT- 2000/07/18 11:00
+MHDA- 2000/08/06 11:00
+CRDT- 2000/07/18 11:00
+AID - S0735-1097(00)00693-8 [pii]
+PST - ppublish
+SO  - J Am Coll Cardiol. 2000 Jul;36(1):139-46.
+
+PMID- 10826501
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000907
+DCOM- 20000907
+LR  - 20061115
+IS  - 0300-8428 (Print)
+IS  - 0300-8428 (Linking)
+VI  - 95
+IP  - 2
+DP  - 2000 Apr
+TI  - Endothelin-1 induces interleukin-6 release via activation of the transcription
+      factor NF-kappaB in human vascular smooth muscle cells.
+PG  - 98-105
+AB  - The potent vasoconstrictor peptide endothelin-1 (ET-1) has been implicated in the
+      pathophysiology of atherosclerosis and its complications. Since inflammation of
+      the vessel wall is a hallmark of atherosclerosis, the purpose of the present
+      study was to investigate the influence of ET-1 on cytokine production in human
+      vascular smooth muscle cells (SMC) as a marker of inflammatory cell activation.
+      ET-1 (100 pM - 1 microM) stimulated interleukin-6 (IL-6) secretion from human
+      vascular SMC in a concentration-dependent manner. The ET-A-receptor antagonist
+      BQ-123 (10 microM), but not the ET-B-receptor antagonist BQ-788, inhibited IL-6
+      release. ET-1 also transiently increased IL-6 mRNA compatible with regulation of 
+      IL-6 release at the pretranslational level. Electrophoretic mobility shift assays
+      demonstrated time- and concentration-dependent activation of the proinflammatory 
+      transcription factor nuclear factor-kappaB (NF-kappaB) in ET-1-stimulated human
+      vascular SMC. A decoy oligodeoxynucleotide bearing the NF-kappaB binding site
+      inhibited ET-1-stimulated IL-6 release to a great extent suggesting that this
+      transcription factor plays a key role for cytokine production elicited by ET-1.
+      Moreover, the antioxidant pyrrolidine dithiocarbamate (10 microM) inhibited
+      ET-1-induced IL-6 release indicating involvement of reactive oxygen species in
+      ET-1 signaling. ET-1-stimulated IL-6 secretion was also suppressed by diphenylene
+      iodonium (40 microM), an inhibitor of flavon-containing enzymes such as
+      NADH/NADPH oxidase. The results demonstrate the ability of ET-1 to induce an
+      inflammatory response in human vascular SMC. These observations may contribute to
+      a better understanding of the role of ET-1 in inflammatory activation of the
+      vessel wall during atherogenesis.
+AD  - Medizinische Universitatsklinik, Abt. Kardiologie, Heidelberg, Germany.
+FAU - Browatzki, M
+AU  - Browatzki M
+FAU - Schmidt, J
+AU  - Schmidt J
+FAU - Kubler, W
+AU  - Kubler W
+FAU - Kranzhofer, R
+AU  - Kranzhofer R
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - GERMANY
+TA  - Basic Res Cardiol
+JT  - Basic research in cardiology
+JID - 0360342
+RN  - 0 (Antioxidants)
+RN  - 0 (Endothelin-1)
+RN  - 0 (Interleukin-6)
+RN  - 0 (NF-kappa B)
+RN  - 0 (Receptor, Endothelin A)
+RN  - 0 (Receptors, Endothelin)
+SB  - IM
+MH  - Antioxidants/pharmacology
+MH  - Cells, Cultured
+MH  - Endothelin-1/*pharmacology
+MH  - Humans
+MH  - Interleukin-6/genetics/*secretion
+MH  - Muscle, Smooth, Vascular/cytology/*drug effects/metabolism
+MH  - NF-kappa B/*physiology
+MH  - Receptor, Endothelin A
+MH  - Receptors, Endothelin/physiology
+EDAT- 2000/05/29 09:00
+MHDA- 2000/09/09 11:01
+CRDT- 2000/05/29 09:00
+PST - ppublish
+SO  - Basic Res Cardiol. 2000 Apr;95(2):98-105.
+
+PMID- 10759091
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000421
+DCOM- 20000421
+LR  - 20071114
+IS  - 0002-9343 (Print)
+IS  - 0002-9343 (Linking)
+VI  - 108
+IP  - 5
+DP  - 2000 Apr 1
+TI  - The effects of propranolol on cognitive function and quality of life: a
+      randomized trial among patients with diastolic hypertension.
+PG  - 359-65
+AB  - PURPOSE: We sought to determine whether propranolol has adverse effects on
+      cognitive function, depressive symptoms, and sexual function in patients treated 
+      for diastolic hypertension. SUBJECTS AND METHODS: We performed a
+      placebo-controlled trial among 312 men and women, 22 to 59 years of age, who had 
+      untreated diastolic hypertension (90 to 104 mm Hg). Patients were randomly
+      assigned to treatment with propranolol (80 to 400 mg/day) or matching placebo
+      tablets. Thirteen tests of cognitive function were assessed at baseline, 3
+      months, and 12 months. Five tests measured reaction time to, or accuracy in,
+      interpreting visual stimuli; one test measured the ability to acquire, reproduce,
+      and change a set of arbitrary stimulus-response sets; and seven tests measured
+      memory or learning verbal information. Depressive symptoms and sexual function
+      were assessed by questionnaires at baseline and 12 months. RESULTS: There were no
+      significant differences by treatment assignment for 11 of the 13 tests of
+      cognitive function at either 3 or 12 months of follow-up. Compared with placebo, 
+      participants treated with propranolol had slightly fewer correct responses at 3
+      months (33 +/- 3 [mean +/- SD] versus 34 +/- 2, P = 0.02) and slightly more
+      errors of commission at 3 months (4 +/-5 versus 3 +/- 3, P = 0.04) and at 12
+      months (4 +/- 4 versus 3 +/- 3, P = 0.05). At 12 months, depressive symptoms and 
+      sexual function and desire did not differ by treatment assignment. CONCLUSIONS:
+      Treatment of hypertension with propranolol had limited adverse effects on tests
+      of cognitive function that were of questionable clinical relevance, and there
+      were no documented adverse effects on depressive symptoms or sexual function.
+      Selection of beta-blockers for treatment of hypertension should be based on other
+      factors.
+AD  - Department of Medicine, University of California, San Francisco, USA.
+FAU - Perez-Stable, E J
+AU  - Perez-Stable EJ
+FAU - Halliday, R
+AU  - Halliday R
+FAU - Gardiner, P S
+AU  - Gardiner PS
+FAU - Baron, R B
+AU  - Baron RB
+FAU - Hauck, W W
+AU  - Hauck WW
+FAU - Acree, M
+AU  - Acree M
+FAU - Coates, T J
+AU  - Coates TJ
+LA  - eng
+GR  - HL 33920/HL/NHLBI NIH HHS/United States
+GR  - HS077373-01/HS/AHRQ HHS/United States
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - UNITED STATES
+TA  - Am J Med
+JT  - The American journal of medicine
+JID - 0267200
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Antihypertensive Agents)
+RN  - 525-66-6 (Propranolol)
+SB  - AIM
+SB  - IM
+CIN - Am J Med. 2000 Apr 1;108(5):429-30. PMID: 10759102
+MH  - Adrenergic beta-Antagonists/*adverse effects/therapeutic use
+MH  - Adult
+MH  - Aged
+MH  - Antihypertensive Agents/*adverse effects/therapeutic use
+MH  - Cognition/*drug effects
+MH  - Depression/chemically induced
+MH  - Diastole
+MH  - Female
+MH  - Humans
+MH  - Hypertension/*drug therapy/physiopathology/*psychology
+MH  - Male
+MH  - Middle Aged
+MH  - Propranolol/*adverse effects/therapeutic use
+MH  - *Quality of Life
+MH  - Sexual Behavior/drug effects
+EDAT- 2000/04/12 09:00
+MHDA- 2000/04/29 09:00
+CRDT- 2000/04/12 09:00
+AID - S0002-9343(00)00304-1 [pii]
+PST - ppublish
+SO  - Am J Med. 2000 Apr 1;108(5):359-65.
+
+PMID- 10653828
+OWN - NLM
+STAT- MEDLINE
+DA  - 20000218
+DCOM- 20000218
+LR  - 20041117
+IS  - 1524-4539 (Electronic)
+IS  - 0009-7322 (Linking)
+VI  - 101
+IP  - 4
+DP  - 2000 Feb 1
+TI  - Effects of metoprolol CR in patients with ischemic and dilated cardiomyopathy :
+      the randomized evaluation of strategies for left ventricular dysfunction pilot
+      study.
+PG  - 378-84
+AB  - BACKGROUND: Metoprolol provides clinical benefits in patients with congestive
+      heart failure (CHF). In this study, we investigated the effects of
+      controlled-release metoprolol (metoprolol CR) on clinical status, on left
+      ventricular (LV) volumes and function, and on neurohumoral activation in a large 
+      number of patients with CHF of mixed causes. METHODS AND RESULTS: Four hundred
+      twenty-six patients with symptomatic CHF were randomized to receive metoprolol CR
+      or placebo for 24 weeks. Metoprolol CR did not affect 6-minute walk distance, New
+      York Heart Association functional class, or quality of life. However, there was a
+      significant improvement in measures of LV function with an attenuation in the
+      increase in LV end-diastolic (+23+/-65 mL [placebo] versus +6+/-61 mL, P=0.01)
+      and LV end-systolic (+19+/-55 mL [placebo] versus -2+/-51 mL, P<0.001) volumes
+      after 24 weeks of therapy. LV ejection fraction was unchanged (-0.05% or -0.005) 
+      in the placebo group but increased by 2. 4% in the metoprolol CR-treated patients
+      (P=0.001). Patients receiving metoprolol CR had a greater decrease in angiotensin
+      II (P=0.036) and renin (P=0.032) levels but an increase in N-terminal atrial
+      natriuretic peptide and brain natriuretic peptide levels (P<0. 01). There were
+      fewer deaths in the group receiving beta-blockers (3. 4% versus 8.1%), and there 
+      was a similar number of patients experiencing the composite outcomes of death or 
+      any hospitalization. CONCLUSIONS: When added to ACE inhibitors, angiotensin II
+      receptor antagonists, or both, the use of metoprolol CR improves ventricular
+      function, reduces activation of the renin-angiotensin systems, and results in
+      fewer deaths.
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Placebos)
+RN  - 37350-58-6 (Metoprolol)
+RN  - 51-41-2 (Norepinephrine)
+RN  - 51-43-4 (Epinephrine)
+SB  - AIM
+SB  - IM
+MH  - Adrenergic beta-Antagonists/adverse effects/*therapeutic use
+MH  - Cardiomyopathy, Dilated/blood/complications/*drug therapy
+MH  - Delayed-Action Preparations
+MH  - Dopamine/blood
+MH  - Double-Blind Method
+MH  - Epinephrine/blood
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Metoprolol/adverse effects/*therapeutic use
+MH  - Middle Aged
+MH  - Myocardial Ischemia/blood/complications/*drug therapy
+MH  - Norepinephrine/blood
+MH  - Pilot Projects
+MH  - Placebos
+MH  - Quality of Life
+MH  - Ventricular Dysfunction, Left/blood/*drug therapy/etiology
+MH  - Ventricular Function, Left/*drug effects/physiology
+EDAT- 2000/02/02
+MHDA- 2000/02/26
+CRDT- 2000/02/02 00:00
+PST - ppublish
+SO  - Circulation. 2000 Feb 1;101(4):378-84.
+
+PMID- 10551702
+OWN - NLM
+STAT- MEDLINE
+DA  - 19991119
+DCOM- 19991119
+LR  - 20071115
+IS  - 0735-1097 (Print)
+IS  - 0735-1097 (Linking)
+VI  - 34
+IP  - 5
+DP  - 1999 Nov 1
+TI  - Beta-blockade in heart failure: a comparison of carvedilol with metoprolol.
+PG  - 1522-8
+AB  - OBJECTIVES: This study was performed to compare the long-term clinical efficacy
+      of treatment with metoprolol versus carvedilol in patients with chronic heart
+      failure. BACKGROUND: Beta-adrenergic blockade is of proven value in chronic heart
+      failure. Metoprolol, a selective beta-blocker, is widely used, but recent trials 
+      suggest carvedilol, a nonselective beta-blocker with alpha-1-receptor antagonist 
+      activity and antioxidant activities, is also effective. It is uncertain, however,
+      if these additional properties of carvedilol provide further clinical benefit
+      compared with metoprolol. METHODS: In this randomized double-blind control trial,
+      51 patients with chronic heart failure and mean left ventricular (LV) ejection
+      fraction of 26% +/- 1.8% were randomly assigned treatment with metoprolol 50 mg
+      twice daily or carvedilol 25 mg twice daily in addition to standard therapy after
+      a four-week dose titration period for a total of 12 weeks. Response was assessed 
+      by a quality of life questionnaire, New York Heart Association class, exercise
+      capacity (6-min walk test), radionucleotide ventriculography for LV ejection
+      fraction, two-dimensional echocardiography measurement of LV dimensions and
+      diastolic filling and 24-h electrocardiograph monitoring to assess heart rate
+      variability. RESULTS: Both carvedilol and metoprolol produced highly significant 
+      improvement in symptoms (p < 0.001), exercise capacity (p < 0.05) and LV ejection
+      fraction (p < 0.001), and there were no significant differences between the two
+      drugs. Carvedilol had a significantly greater effect on sitting and standing
+      blood pressure, LV end-diastolic dimension and normalized the mitral E wave
+      deceleration time. CONCLUSIONS: Both metoprolol and carvedilol were equally
+      effective in improving symptoms, quality of life, exercise capacity and LV
+      ejection fraction, although carvedilol lowers blood pressure more than
+      metoprolol.
+AD  - Department of Medicine and Therapeutics, The Chinese University of Hong Kong,
+      Prince of Wales Hospital, Hong Kong SAR. jesanderson@cuhk.edu.hk
+FAU - Sanderson, J E
+AU  - Sanderson JE
+FAU - Chan, S K
+AU  - Chan SK
+FAU - Yip, G
+AU  - Yip G
+FAU - Yeung, L Y
+AU  - Yeung LY
+FAU - Chan, K W
+AU  - Chan KW
+FAU - Raymond, K
+AU  - Raymond K
+FAU - Woo, K S
+AU  - Woo KS
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Carbazoles)
+RN  - 0 (Propanolamines)
+RN  - 37350-58-6 (Metoprolol)
+RN  - 72956-09-3 (carvedilol)
+SB  - AIM
+SB  - IM
+MH  - Adrenergic beta-Antagonists/pharmacology/*therapeutic use
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Blood Pressure/drug effects
+MH  - Carbazoles/pharmacology/*therapeutic use
+MH  - Double-Blind Method
+MH  - Exercise Test
+MH  - Female
+MH  - Heart Failure/*drug therapy/physiopathology
+MH  - Humans
+MH  - Male
+MH  - Metoprolol/pharmacology/*therapeutic use
+MH  - Middle Aged
+MH  - Propanolamines/pharmacology/*therapeutic use
+MH  - Prospective Studies
+MH  - Ventricular Function, Left/drug effects
+EDAT- 1999/11/07
+MHDA- 1999/11/07 00:01
+CRDT- 1999/11/07 00:00
+AID - S0735-1097(99)00367-8 [pii]
+PST - ppublish
+SO  - J Am Coll Cardiol. 1999 Nov 1;34(5):1522-8.
+
+PMID- 10376614
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990629
+DCOM- 19990629
+LR  - 20071115
+IS  - 0140-6736 (Print)
+IS  - 0140-6736 (Linking)
+VI  - 353
+IP  - 9169
+DP  - 1999 Jun 12
+TI  - Effect of metoprolol CR/XL in chronic heart failure: Metoprolol CR/XL Randomised 
+      Intervention Trial in Congestive Heart Failure (MERIT-HF)
+PG  - 2001-7
+AB  - BACKGROUND: Metoprolol can improve haemodynamics in chronic heart failure, but
+      survival benefit has not been proven. We investigated whether metoprolol
+      controlled release/extended release (CR/XL) once daily, in addition to standard
+      therapy, would lower mortality in patients with decreased ejection fraction and
+      symptoms of heart failure. METHODS: We enrolled 3991 patients with chronic heart 
+      failure in New York Heart Association (NYHA) functional class II-IV and with
+      ejection fraction of 0.40 or less, stabilised with optimum standard therapy, in a
+      double-blind randomised controlled study. Randomisation was preceded by a 2-week 
+      single-blind placebo run-in period. 1990 patients were randomly assigned
+      metoprolol CR/XL 12.5 mg (NYHA III-IV) or 25.0 mg once daily (NYHA II) and 2001
+      were assigned placebo. The target dose was 200 mg once daily and doses were
+      up-titrated over 8 weeks. Our primary endpoint was all-cause mortality, analysed 
+      by intention to treat. FINDINGS: The study was stopped early on the
+      recommendation of the independent safety committee. Mean follow-up time was 1
+      year. All-cause mortality was lower in the metoprolol CR/XL group than in the
+      placebo group (145 [7.2%, per patient-year of follow-up]) vs 217 deaths [11.0%], 
+      relative risk 0.66 [95% CI 0.53-0.81]; p=0.00009 or adjusted for interim analyses
+      p=0.0062). There were fewer sudden deaths in the metoprolol CR/XL group than in
+      the placebo group (79 vs 132, 0.59 [0.45-0.78]; p=0.0002) and deaths from
+      worsening heart failure (30 vs 58, 0.51 [0.33-0.79]; p=0.0023). INTERPRETATION:
+      Metoprolol CR/XL once daily in addition to optimum standard therapy improved
+      survival. The drug was well tolerated.
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Lancet
+JT  - Lancet
+JID - 2985213R
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 37350-58-6 (Metoprolol)
+SB  - AIM
+SB  - IM
+CIN - Lancet. 1999 Jun 12;353(9169):1988-9. PMID: 10376609
+CIN - ACP J Club. 2000 Jan-Feb;132(1):3
+CIN - Lancet. 1999 Oct 23;354(9188):1471-2. PMID: 10543692
+MH  - Adrenergic beta-Antagonists/*therapeutic use
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Cardiovascular Diseases/mortality
+MH  - Death, Sudden
+MH  - Delayed-Action Preparations
+MH  - Double-Blind Method
+MH  - Female
+MH  - Heart Failure/*drug therapy/mortality
+MH  - Humans
+MH  - Male
+MH  - Metoprolol/*therapeutic use
+MH  - Middle Aged
+MH  - Survival Rate
+EDAT- 1999/06/22 10:00
+MHDA- 2000/03/11 09:00
+CRDT- 1999/06/22 10:00
+AID - S0140673699044402 [pii]
+PST - ppublish
+SO  - Lancet. 1999 Jun 12;353(9169):2001-7.
+
+PMID- 10338457
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990615
+DCOM- 19990615
+LR  - 20061115
+IS  - 1524-4539 (Electronic)
+IS  - 0009-7322 (Linking)
+VI  - 99
+IP  - 20
+DP  - 1999 May 25
+TI  - Prospective, randomized comparison of effect of long-term treatment with
+      metoprolol or carvedilol on symptoms, exercise, ejection fraction, and oxidative 
+      stress in heart failure.
+PG  - 2645-51
+AB  - BACKGROUND: With beta-blocker use becoming more prevalent in treating chronic
+      heart failure (CHF), the choice of drugs raises important theoretical and
+      practical questions. Although the second-generation compound metoprolol is
+      beta1-selective, the third-generation compound carvedilol is beta-nonselective,
+      with ancillary pharmacological properties including alpha-blockade and
+      antioxidant effects. A prospective comparison of these 2 agents can address the
+      issue of optimal adrenergic blockade in selecting agents for therapy in CHF.
+      METHODS AND RESULTS: Sixty-seven patients with symptomatic stable heart failure
+      were randomly assigned to receive either carvedilol or metoprolol in addition to 
+      standard therapy for CHF. Measured variables included symptoms, exercise,
+      ejection fraction, and thiobarbituric acid-reactive substances (TBARS) as an
+      indirect marker of free radical activity. Metoprolol and carvedilol were well
+      tolerated, and both patient groups showed beneficial effects of beta-blocker
+      therapy in each of the measured parameters, with no between-group differences.
+      Ejection fraction increased over 6 months from 18+/-6.3% to 23+/-8.7% (P<0.005)
+      with metoprolol and from 19+/-8.5% to 25+/-9.9% (P<0.0005) with carvedilol (P=NS 
+      between groups). With metoprolol, TBARS values decreased from 4.7+/-0.9 nmol/mL
+      at baseline to 4.2+/-1.5 nmol/mL at month 4 to 3.9+/-1.0 nmol/mL at month 6
+      (P<0.0001). With carvedilol, there was a parallel decline from 4.7+/-1.4 to
+      4.2+/-1.3 to 4.1+/-1.2 nmol/mL over the same time frame (P<0.025), with no
+      between-group difference in these changes. CONCLUSIONS: Carvedilol and metoprolol
+      showed parallel beneficial effects in the measured parameters over 6 months, with
+      no relevant between-group differences in this heart failure population.
+AD  - Cardiovascular Institute, Mount Sinai School of Medicine, New York, NY 10029,
+      USA. marrickvkukin@mssm.edu
+FAU - Kukin, M L
+AU  - Kukin ML
+FAU - Kalman, J
+AU  - Kalman J
+FAU - Charney, R H
+AU  - Charney RH
+FAU - Levy, D K
+AU  - Levy DK
+FAU - Buchholz-Varley, C
+AU  - Buchholz-Varley C
+FAU - Ocampo, O N
+AU  - Ocampo ON
+FAU - Eng, C
+AU  - Eng C
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Carbazoles)
+RN  - 0 (Propanolamines)
+RN  - 0 (Thiobarbituric Acid Reactive Substances)
+RN  - 37350-58-6 (Metoprolol)
+RN  - 72956-09-3 (carvedilol)
+SB  - AIM
+SB  - IM
+CIN - Circulation. 2000 Aug 8;102(6):E41-2. PMID: 10931819
+MH  - Adrenergic beta-Antagonists/*therapeutic use
+MH  - Adult
+MH  - Aged
+MH  - Carbazoles/*therapeutic use
+MH  - Cardiac Output, Low/*drug therapy/metabolism/physiopathology
+MH  - Chronic Disease
+MH  - *Exercise
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Metoprolol/*therapeutic use
+MH  - Middle Aged
+MH  - Oxidative Stress/*drug effects
+MH  - Propanolamines/*therapeutic use
+MH  - Prospective Studies
+MH  - Stroke Volume/*drug effects
+MH  - Thiobarbituric Acid Reactive Substances/metabolism
+EDAT- 1999/05/25
+MHDA- 1999/05/25 00:01
+CRDT- 1999/05/25 00:00
+PST - ppublish
+SO  - Circulation. 1999 May 25;99(20):2645-51.
+
+PMID- 10218722
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990615
+DCOM- 19990615
+LR  - 20041117
+IS  - 0160-2446 (Print)
+IS  - 0160-2446 (Linking)
+VI  - 33
+IP  - 4
+DP  - 1999 Apr
+TI  - Beta-blocker effects on plasma lipids during prolonged treatment of hypertensive 
+      patients with hypercholesterolemia.
+PG  - 534-9
+AB  - The aim of this study was to compare the effects of long-term monotherapy with
+      four different beta-blockers on plasma lipids in hypercholesterolemic
+      hypertensive patients. We studied 152 subjects with essential hypertension
+      [diastolic blood pressure (DBP) >90 mm Hg], total cholesterol (TC) >240 and <330 
+      mg/dl, and triglycerides (TGs) <300 mg/dl. After a 4-week washout period with
+      placebo, patients were randomized to receive propranolol, 160 mg/day (n = 37),
+      atenolol, 100 mg/day (n = 38), bisoprolol, 10 mg/day (n = 39), or celiprolol, 400
+      mg/day (n = 38), for 18 months. No cholesterol-reducing drug was allowed. Blood
+      samples for evaluation of TC, low-density lipoprotein cholesterol (LDL-C), HDL
+      cholesterol (HDL-C), and TGs were taken before and after the placebo period and
+      subsequently every 6 months. No beta-blocker worsened TC or LDL-C. Nonselective
+      propranolol caused the most pronounced changes in HDL-C and TGs. Beta1-Selective 
+      atenolol produced the same qualitative effects, but to a lesser extent. The more 
+      beta1-selective bisoprolol did not affect HDL-C and TGs. Celiprolol significantly
+      improved the lipid profile by significantly decreasing TC, LDL-C, and TGs, and
+      increasing HDL-C. These findings suggest that in hypercholesterolemic
+      hypertensive patients, (a) beta1-selective beta-blockers are likely to adversely 
+      affect plasma lipids to a lesser extent than nonselective ones; and (b)
+      celiprolol is able to improve the lipid pattern, which could be because of its
+      peculiar ancillary properties.
+AD  - Department of Internal Medicine and Therapeutics, University of Pavia, Italy.
+FAU - Fogari, R
+AU  - Fogari R
+FAU - Zoppi, A
+AU  - Zoppi A
+FAU - Corradi, L
+AU  - Corradi L
+FAU - Preti, P
+AU  - Preti P
+FAU - Mugellini, A
+AU  - Mugellini A
+FAU - Lusardi, P
+AU  - Lusardi P
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - J Cardiovasc Pharmacol
+JT  - Journal of cardiovascular pharmacology
+JID - 7902492
+RN  - 0 (Adrenergic beta-Agonists)
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Lipids)
+RN  - 29122-68-7 (Atenolol)
+RN  - 525-66-6 (Propranolol)
+RN  - 56980-93-9 (Celiprolol)
+RN  - 66722-44-9 (Bisoprolol)
+SB  - IM
+MH  - Adrenergic beta-Agonists/pharmacology/therapeutic use
+MH  - Adrenergic beta-Antagonists/pharmacology/*therapeutic use
+MH  - Adult
+MH  - Analysis of Variance
+MH  - Atenolol/pharmacology
+MH  - Bisoprolol/pharmacology
+MH  - Celiprolol/pharmacology
+MH  - Double-Blind Method
+MH  - Humans
+MH  - Hypercholesterolemia/complications/*drug therapy
+MH  - Hypertension/complications/*drug therapy
+MH  - Lipids/*blood
+MH  - Male
+MH  - Middle Aged
+MH  - Propranolol/pharmacology
+EDAT- 1999/04/28
+MHDA- 1999/04/28 00:01
+CRDT- 1999/04/28 00:00
+PST - ppublish
+SO  - J Cardiovasc Pharmacol. 1999 Apr;33(4):534-9.
+
+PMID- 10080412
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990401
+DCOM- 19990401
+LR  - 20061115
+IS  - 0002-9149 (Print)
+IS  - 0002-9149 (Linking)
+VI  - 83
+IP  - 5
+DP  - 1999 Mar 1
+TI  - Comparison of safety and efficacy of carvedilol and metoprolol in stable angina
+      pectoris.
+PG  - 643-9
+AB  - In a double-blind, randomized, 3-month multicenter study, the safety and
+      tolerability and the antianginal and anti-ischemic efficacy of carvedilol 25 to
+      50 mg twice daily were assessed in comparison with metoprolol 50 to 100 mg twice 
+      daily in younger and elderly patients with stable angina. After a 7-day placebo
+      run-in at the end of which a symptom-limited bicycle ergometric exercise was
+      performed, 368 patients were randomly allocated to the parallel treatment groups.
+      After 4 weeks of therapy with a low dose, a further exercise test was performed
+      and patients were titrated in single-blind fashion to the higher dose if the
+      increase in total exercise time was < 1 minute, and there was no safety concern. 
+      After a further 8 weeks of treatment a third exercise test was performed.
+      Carvedilol low dose/high dose was shown to be at least as safe and well tolerated
+      as metoprolol low dose/high dose both in younger and elderly patients. There were
+      no hitherto unknown adverse events and no marked change in the types of events
+      after increase of the doses. Early adverse events after treatment initiation or
+      uptitration were equal with both medications, indicating no particular risk
+      associated with carvedilol's vasodilatory action. No rebound phenomena were
+      observed. Both drugs showed good antianginal and anti-ischemic efficacy, with
+      marked increases on uptitration including patients > or = 65 years of age.
+      However, in the doses selected, which appeared equipotent with respect to beta
+      blockade, carvedilol's improvement of time to 1-mm ST-segment depression was
+      statistically significantly greater than that of metoprolol. This could be due to
+      its additional vasodilatory or antioxidative actions. Based on the safety and
+      efficacy data of the present study, use of the higher of the 2 recommended doses 
+      of carvedilol and metoprolol appears justified in younger and elderly patients
+      without adequate therapeutic control at lower doses.
+AD  - IST Studien Therapeutica GmbH, Mannheim, Germany.
+FAU - van der Does, R
+AU  - van der Does R
+FAU - Hauf-Zachariou, U
+AU  - Hauf-Zachariou U
+FAU - Pfarr, E
+AU  - Pfarr E
+FAU - Holtbrugge, W
+AU  - Holtbrugge W
+FAU - Konig, S
+AU  - Konig S
+FAU - Griffiths, M
+AU  - Griffiths M
+FAU - Lahiri, A
+AU  - Lahiri A
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Am J Cardiol
+JT  - The American journal of cardiology
+JID - 0207277
+RN  - 0 (Adrenergic alpha-Antagonists)
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Antioxidants)
+RN  - 0 (Carbazoles)
+RN  - 0 (Placebos)
+RN  - 0 (Propanolamines)
+RN  - 0 (Vasodilator Agents)
+RN  - 37350-58-6 (Metoprolol)
+RN  - 72956-09-3 (carvedilol)
+SB  - AIM
+SB  - IM
+MH  - Adrenergic alpha-Antagonists/administration & dosage/adverse effects/*therapeutic
+      use
+MH  - Adrenergic beta-Antagonists/administration & dosage/adverse effects/*therapeutic 
+      use
+MH  - Age Factors
+MH  - Aged
+MH  - Angina Pectoris/*drug therapy
+MH  - Antioxidants/administration & dosage/adverse effects/therapeutic use
+MH  - Carbazoles/administration & dosage/adverse effects/*therapeutic use
+MH  - Double-Blind Method
+MH  - Electrocardiography/drug effects
+MH  - Exercise Test
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Metoprolol/administration & dosage/adverse effects/*therapeutic use
+MH  - Middle Aged
+MH  - Myocardial Ischemia/prevention & control
+MH  - Placebos
+MH  - Propanolamines/administration & dosage/adverse effects/*therapeutic use
+MH  - Risk Factors
+MH  - Safety
+MH  - Single-Blind Method
+MH  - Time Factors
+MH  - Vasodilator Agents/administration & dosage/adverse effects/therapeutic use
+EDAT- 1999/03/18
+MHDA- 1999/03/18 00:01
+CRDT- 1999/03/18 00:00
+AID - S0002914998009606 [pii]
+PST - ppublish
+SO  - Am J Cardiol. 1999 Mar 1;83(5):643-9.
+
+PMID- 10023943
+OWN - NLM
+STAT- MEDLINE
+DA  - 19990304
+DCOM- 19990304
+LR  - 20071115
+IS  - 0140-6736 (Print)
+IS  - 0140-6736 (Linking)
+VI  - 353
+IP  - 9146
+DP  - 1999 Jan 2
+TI  - The Cardiac Insufficiency Bisoprolol Study II (CIBIS-II): a randomised trial.
+PG  - 9-13
+AB  - BACKGROUND: In patients with heart failure, beta-blockade has improved morbidity 
+      and left-ventricular function, but the impact on survival is uncertain. We
+      investigated the efficacy of bisoprolol, a beta1 selective adrenoceptor blocker
+      in decreasing all-cause mortality in chronic heart failure. METHODS: In a
+      multicentre double-blind randomised placebo-controlled trial in Europe, we
+      enrolled 2647 symptomatic patients in New York Heart Association class III or IV,
+      with left-ventricular ejection fraction of 35% or less receiving standard therapy
+      with diuretics and inhibitors of angiotensin-converting enzyme. We randomly
+      assigned patients bisoprolol 1.25 mg (n=1327) or placebo (n=1320) daily, the drug
+      being progressively increased to a maximum of 10 mg per day. Patients were
+      followed up for a mean of 1.3 years. Analysis was by intention to treat.
+      FINDINGS: CIBIS-II was stopped early, after the second interim analysis, because 
+      bisoprolol showed a significant mortality benefit. All-cause mortality was
+      significantly lower with bisoprolol than on placebo (156 [11.8%] vs 228 [17.3%]
+      deaths with a hazard ratio of 0.66 (95% CI 0.54-0.81, p<0.0001). There were
+      significantly fewer sudden deaths among patients on bisoprolol than in those on
+      placebo (48 [3.6%] vs 83 [6.3%] deaths), with a hazard ratio of 0.56 (0.39-0.80, 
+      p=0.0011). Treatment effects were independent of the severity or cause of heart
+      failure. INTERPRETATION: Beta-blocker therapy had benefits for survival in stable
+      heart-failure patients. Results should not, however, be extrapolated to patients 
+      with severe class IV symptoms and recent instability because safety and efficacy 
+      has not been established in these patients.
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Lancet
+JT  - Lancet
+JID - 2985213R
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 66722-44-9 (Bisoprolol)
+SB  - AIM
+SB  - IM
+CIN - Lancet. 1999 Apr 17;353(9161):1361. PMID: 10218556
+CIN - Lancet. 1999 Apr 17;353(9161):1360-1. PMID: 10218555
+CIN - Lancet. 1999 Apr 17;353(9161):1361. PMID: 10218557
+CIN - Lancet. 1999 Mar 20;353(9157):1011-2. PMID: 10459932
+CIN - Lancet. 1999 Mar 20;353(9157):1011-2. PMID: 10459933
+CIN - ACP J Club. 1999 Jul-Aug;131(1):5
+CIN - Lancet. 1999 Jan 2;353(9146):2-3. PMID: 10023937
+MH  - Adrenergic beta-Antagonists/*therapeutic use
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Bisoprolol/*therapeutic use
+MH  - Death, Sudden, Cardiac/prevention & control
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Heart Failure/classification/*drug therapy/mortality
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Severity of Illness Index
+MH  - Stroke Volume/drug effects
+MH  - Survival Analysis
+EDAT- 1999/02/19
+MHDA- 1999/02/19 00:01
+CRDT- 1999/02/19 00:00
+AID - S0140673698111819 [pii]
+PST - ppublish
+SO  - Lancet. 1999 Jan 2;353(9146):9-13.
+
+PMID- 9330125
+OWN - NLM
+STAT- MEDLINE
+DA  - 19971114
+DCOM- 19971114
+LR  - 20071115
+IS  - 1071-9164 (Print)
+IS  - 1071-9164 (Linking)
+VI  - 3
+IP  - 3
+DP  - 1997 Sep
+TI  - Safety and efficacy of carvedilol in severe heart failure. The U.S. Carvedilol
+      Heart Failure Study Group.
+PG  - 173-9
+AB  - BACKGROUND: Many patients remain markedly symptomatic despite optimal current
+      therapy for heart failure. Beta-blockers have often been viewed as
+      contraindicated in this group because of their potential adverse short-term
+      effects on cardiac function. METHODS AND RESULTS: One hundred thirty-one patients
+      with severe congestive heart failure were enrolled into a double-blind,
+      placebo-controlled study of the vasodilating beta-blocker carvedilol. All
+      patients had symptomatic, advanced heart failure while on standard triple
+      therapy, as evidenced by a mean ejection fraction of 0.22, marked reduction in
+      distance traveled in a 6-minute corridor walk test, and severe impairment in
+      quality of life measured by the Minnesota Living With Heart Failure
+      Questionnaire. After a 2-week, open-label test of 6.25 mg twice daily carvedilol,
+      105 patients were randomized (2:1) to receive either carvedilol (up to 25 mg
+      twice daily, n = 70) or matching placebo (n = 35) for 6 months while background
+      therapy with digoxin, diuretics, and an angiotensin-converting enzyme inhibitor
+      remained constant. Ten patients (8%) did not complete the open-label period
+      because of adverse events and 11.4% in both the carvedilol and placebo groups
+      dropped out in the double-blind phase. The study was terminated early by the Data
+      Safety and Monitoring Board and follow-up evaluation was therefore aborted before
+      the projected number of patients and follow-up time was achieved. Quality of
+      life, which was the primary endpoint, improved similarly in the carvedilol and
+      placebo groups, whereas the global assessment by the physicians and the patient
+      exhibited a better response to carvedilol (P < .05). Hospitalization and
+      mortality rate were too low to evaluate a difference, and exercise time and New
+      York Heart Association classification did not change significantly in response to
+      the drug. Left ventricular ejection fraction rose significantly (+0.09) in the
+      carvedilol group compared with the placebo group (+0.02, P = .004). CONCLUSION:
+      The beta-blocker carvedilol can be safely employed in patients with severe heart 
+      failure. Improved left ventricular function with a trend for some improvement in 
+      symptoms combined with the experience with the drug in the larger population of
+      less severe patients in this multicenter trial suggests that carvedilol may have 
+      a favorable long-term effect in heart failure of diverse severity.
+AD  - Cardiovascular Division, University of Minnesota Medical School, Minneapolis
+      55455, USA.
+FAU - Cohn, J N
+AU  - Cohn JN
+FAU - Fowler, M B
+AU  - Fowler MB
+FAU - Bristow, M R
+AU  - Bristow MR
+FAU - Colucci, W S
+AU  - Colucci WS
+FAU - Gilbert, E M
+AU  - Gilbert EM
+FAU - Kinhal, V
+AU  - Kinhal V
+FAU - Krueger, S K
+AU  - Krueger SK
+FAU - Lejemtel, T
+AU  - Lejemtel T
+FAU - Narahara, K A
+AU  - Narahara KA
+FAU - Packer, M
+AU  - Packer M
+FAU - Young, S T
+AU  - Young ST
+FAU - Holcslaw, T L
+AU  - Holcslaw TL
+FAU - Lukas, M A
+AU  - Lukas MA
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - J Card Fail
+JT  - Journal of cardiac failure
+JID - 9442138
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Carbazoles)
+RN  - 0 (Propanolamines)
+RN  - 72956-09-3 (carvedilol)
+SB  - IM
+MH  - Adrenergic beta-Antagonists/pharmacology/*therapeutic use
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Carbazoles/pharmacology/*therapeutic use
+MH  - Double-Blind Method
+MH  - Female
+MH  - Heart Failure/classification/*drug therapy/physiopathology
+MH  - Hemodynamics/drug effects
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Propanolamines/pharmacology/*therapeutic use
+MH  - Prospective Studies
+MH  - Quality of Life
+EDAT- 1997/10/23
+MHDA- 1997/10/23 00:01
+CRDT- 1997/10/23 00:00
+AID - S107191649700016X [pii]
+PST - ppublish
+SO  - J Card Fail. 1997 Sep;3(3):173-9.
+
+PMID- 9311358
+OWN - NLM
+STAT- MEDLINE
+DA  - 19971023
+DCOM- 19971023
+LR  - 20061115
+IS  - 0003-9942 (Print)
+IS  - 0003-9942 (Linking)
+VI  - 54
+IP  - 9
+DP  - 1997 Sep
+TI  - A comparison of divalproex with propranolol and placebo for the prophylaxis of
+      migraine without aura.
+PG  - 1141-5
+AB  - OBJECTIVE: To compare the efficacy of divalproex sodium (Depakote) with that of
+      propranolol hydrochloride (and placebo) for the prophylaxis of migraine without
+      aura. DESIGN: Single-investigator, randomized, single-blind, placebo-controlled
+      study with 5 phases: baseline (weeks 1-4); placebo (weeks 5-8); first treatment, 
+      1 agent (weeks 9-20); washout (weeks 21-24); and second treatment, crossover to
+      other agent (weeks 25-36). SETTING: Private practice of a general neurologist
+      with a special interest in headache disorders. PATIENTS: Of 37 patients (30 women
+      and 7 men) selected, 32 completed the study. All received placebo, after which
+      half were randomized to receive divalproex or propranolol, then crossed over
+      after washout. INTERVENTION: Divalproex and propranolol doses were titrated
+      during the initial 8 weeks of each 12-week treatment cycle. For divalproex, doses
+      were titrated to 1500 mg/d in 23 patients, to 2000 mg/d in 2, and downward in 7; 
+      the mean valproate sodium trough level was 68.5 mg/L. Propranolol was titrated to
+      180 mg/d in 28 patients, to 240 mg/d in 1, and downward in 3. RESULTS: Migraine
+      frequency was reduced in 19% (6/ 32) of placebo-treated, 66% (21/32) of
+      divalproex-treated, and 63% (20/32) of propranolol-treated patients. Assessment
+      of migraine-days per month revealed significant response to placebo in 22% (7/32)
+      of patients, to divalproex in 66% (21/32), and to propranolol in 69% (22/32).
+      When results were limited to the third month of each active-agent treatment
+      phase, 75% (24/ 32) of patients receiving divalproex and 78% (25/32) of those
+      receiving propranolol had reduction in migraine frequency. CONCLUSION: No
+      significant difference was identified between divalproex and propranolol for the 
+      prophylaxis of migraine without aura.
+AD  - Allegheny General Headache Center, Allegheny University of the Health Sciences,
+      Pittsburgh, Pa., USA.
+FAU - Kaniecki, R G
+AU  - Kaniecki RG
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Arch Neurol
+JT  - Archives of neurology
+JID - 0372436
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (GABA Agents)
+RN  - 0 (Placebos)
+RN  - 525-66-6 (Propranolol)
+RN  - 99-66-1 (Valproic Acid)
+SB  - AIM
+SB  - IM
+MH  - Adolescent
+MH  - Adrenergic beta-Antagonists/*therapeutic use
+MH  - Adult
+MH  - Aged
+MH  - Cross-Over Studies
+MH  - Female
+MH  - GABA Agents/*therapeutic use
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/complications/*drug therapy
+MH  - Placebos
+MH  - Propranolol/*therapeutic use
+MH  - Sensation Disorders/etiology
+MH  - Single-Blind Method
+MH  - Treatment Outcome
+MH  - Valproic Acid/*therapeutic use
+EDAT- 1997/10/06
+MHDA- 1997/10/06 00:01
+CRDT- 1997/10/06 00:00
+PST - ppublish
+SO  - Arch Neurol. 1997 Sep;54(9):1141-5.
+
+PMID- 9251876
+OWN - NLM
+STAT- MEDLINE
+DA  - 19971027
+DCOM- 19971027
+LR  - 20080211
+IS  - 0333-1024 (Print)
+IS  - 0333-1024 (Linking)
+VI  - 17
+IP  - 5
+DP  - 1997 Aug
+TI  - Prophylactic treatment of migraine with bisoprolol: a placebo-controlled study.
+PG  - 596-9
+AB  - The objective of the present study was to assess the efficacy of bisoprolol in
+      migraine prophylaxis. A double-blind placebo-controlled study was conducted in
+      226 patients with migraine with or without aura, a migraine history of at least 2
+      years at least 3 documented attacks during the 28 days run-in period. The
+      duration of treatment was 12 weeks following an initial 28 days' run-in period.
+      Patients reported the number of attacks and their severity in a diary. Treatment 
+      with bisoprolol 5 mg resulted in a significant reduction in the frequency of
+      migraine attacks (39% vs 22%) compared to placebo treatment (p < 0.05). Treatment
+      had no effect on the duration and severity of the attacks. Bisoprolol was well
+      tolerated.
+AD  - E. Merck Nederland b.v. Amsterdam, The Netherlands.
+FAU - van de Ven, L L
+AU  - van de Ven LL
+FAU - Franke, C L
+AU  - Franke CL
+FAU - Koehler, P J
+AU  - Koehler PJ
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - NORWAY
+TA  - Cephalalgia
+JT  - Cephalalgia : an international journal of headache
+JID - 8200710
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 66722-44-9 (Bisoprolol)
+SB  - IM
+MH  - Adolescent
+MH  - Adrenergic beta-Antagonists/*therapeutic use
+MH  - Adult
+MH  - Bisoprolol/*therapeutic use
+MH  - Blood Pressure/drug effects
+MH  - Double-Blind Method
+MH  - Female
+MH  - Heart Rate/drug effects
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/drug therapy/*prevention & control
+EDAT- 1997/08/01
+MHDA- 1997/08/01 00:01
+CRDT- 1997/08/01 00:00
+PST - ppublish
+SO  - Cephalalgia. 1997 Aug;17(5):596-9.
+
+PMID- 9236433
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970814
+DCOM- 19970814
+LR  - 20071115
+IS  - 0009-7322 (Print)
+IS  - 0009-7322 (Linking)
+VI  - 96
+IP  - 1
+DP  - 1997 Jul 1
+TI  - Beneficial effects of intravenous and oral carvedilol treatment in acute
+      myocardial infarction. A placebo-controlled, randomized trial.
+PG  - 183-91
+AB  - BACKGROUND: Evidence of efficacy and safety of beta-blockers after thrombolysis
+      for acute myocardial infarction (AMI) is equivocal. Newer beta-blockers such as
+      carvedilol have not been tested in this setting. METHODS AND RESULTS: This study 
+      investigated the effects of acute (intravenous) and long-term (6 months, oral)
+      treatment with carvedilol versus placebo in 151 consecutive patients with AMI.
+      Exercise ECG, ambulatory monitoring, and two-dimensional echocardiography were
+      performed before hospital discharge and at 3 and 6 months. All patients were
+      followed up and cardiovascular events recorded. The Cox proportional hazards
+      model was used to compare time from randomization with the occurrence of a
+      cardiovascular event, and Kaplan-Meier survival curves were calculated.
+      Carvedilol was found to be safe, and it significantly reduced cardiac events
+      compared with placebo (18 on carvedilol and 31 on placebo, P < .02). Fifty-four
+      patients had heart failure at study entry; 34 received carvedilol. There were no 
+      adverse effects of carvedilol therapy and no excess events in this subgroup.
+      Carvedilol produced significant reductions in heart rate (P < .0001), blood
+      pressure (P < .005) at rest, and rate-pressure product at peak exercise (P <
+      .003), but exercise capacity was unchanged. Left ventricular ejection fraction
+      was not altered significantly by carvedilol, but stroke volume was higher at
+      pre-hospital discharge examination (63 versus 53 mL; P < .01). Diastolic filling 
+      of the left ventricle (E/A ratio) was also improved (1.2 versus 0.9; P < .001).
+      In a subgroup with left ventricular ejection fraction < 45% (n = 49 patients; 24 
+      on carvedilol and 25 on placebo), carvedilol showed attenuation of remodeling.
+      CONCLUSIONS: Carvedilol was well tolerated and safe to use in patients
+      immediately after AMI, including those with heart failure, and significantly
+      improved outcome.
+AD  - Department of Cardiology, Northwick Park Hospital and Institute of Medical
+      Research, Harrow, UK.
+FAU - Basu, S
+AU  - Basu S
+FAU - Senior, R
+AU  - Senior R
+FAU - Raval, U
+AU  - Raval U
+FAU - van der Does, R
+AU  - van der Does R
+FAU - Bruckner, T
+AU  - Bruckner T
+FAU - Lahiri, A
+AU  - Lahiri A
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Controlled Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Carbazoles)
+RN  - 0 (Propanolamines)
+RN  - 72956-09-3 (carvedilol)
+SB  - AIM
+SB  - IM
+MH  - Administration, Oral
+MH  - Adrenergic beta-Antagonists/*administration & dosage/adverse effects
+MH  - Aged
+MH  - Carbazoles/*administration & dosage/adverse effects
+MH  - Dizziness/chemically induced
+MH  - Echocardiography
+MH  - Electrocardiography
+MH  - Exercise Test
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Heart Rate/drug effects
+MH  - Hemodynamics/drug effects
+MH  - Humans
+MH  - Injections, Intravenous
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/complications/diagnosis/*drug therapy/mortality
+MH  - Propanolamines/*administration & dosage/adverse effects
+MH  - Proportional Hazards Models
+MH  - Recurrence
+MH  - Survival Analysis
+MH  - Ventricular Dysfunction, Left/complications
+EDAT- 1997/07/01
+MHDA- 1997/07/01 00:01
+CRDT- 1997/07/01 00:00
+PST - ppublish
+SO  - Circulation. 1997 Jul 1;96(1):183-91.
+
+PMID- 9107560
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970702
+DCOM- 19970702
+LR  - 20041117
+IS  - 0767-3981 (Print)
+IS  - 0767-3981 (Linking)
+VI  - 11
+IP  - 2
+DP  - 1997
+TI  - Design of the cardiac insufficiency bisoprolol study II (CIBIS II). The CIBIS II 
+      Scientific Committee.
+PG  - 138-42
+AB  - Clinical research in chronic heart failure has recently focused on the stimulated
+      neuro-hormonal compensatory mechanisms that could contribute to auto-aggravation 
+      of the disease. On the basis of such a hypothesis, and apart from the inhibition 
+      of the renin angiotensin system, the antagonism of beta-receptors has evolved as 
+      a promising approach for improving quality of life and prognosis. However, the
+      definite proof of beta-adrenoceptor blockade induced benefit on survival remains 
+      to be demonstrated. On the basis of CIBIS I data, the objective of the Cardiac
+      Insufficiency Bisoprolol Study II (CIBIS II) is to evaluate effects of the
+      selective beta-1 adrenoceptor blocker, bisoprolol, on mortality (primary
+      endpoint) in patients with ischaemic or non-ischaemic chronic heart failure.
+      Eligible patients will be symptomatic ambulatory patients with left ventricular
+      ejection fraction < or = 35% in NYHA functional class III or IV, receiving a
+      background treatment of diuretics and angiotensin converting enzyme inhibitors. A
+      total of 2,500 patients are planned to be included with a mean follow up of at
+      least 3 years. Secondary endpoints include hospitalisations, cardiovascular
+      mortality and combination of both as well as permanent treatment withdrawal.
+      Bisoprolol will be titrated up to 10 mg, starting with 1.25 mg daily.
+      Randomization began in November 1995. CIBIS II results will represent a basis for
+      definite conclusions on the evaluation of beta-adrenoceptor blockade induced
+      benefit with bisoprolol in chronic heart failure.
+LA  - eng
+PT  - Clinical Trial
+PT  - Controlled Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - FRANCE
+TA  - Fundam Clin Pharmacol
+JT  - Fundamental & clinical pharmacology
+JID - 8710411
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Antihypertensive Agents)
+RN  - 66722-44-9 (Bisoprolol)
+SB  - IM
+MH  - Adolescent
+MH  - Adrenergic beta-Antagonists/*therapeutic use
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Antihypertensive Agents/*therapeutic use
+MH  - Bisoprolol/*therapeutic use
+MH  - Cardiac Output, Low/*drug therapy
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - *Research Design
+EDAT- 1997/01/01
+MHDA- 1997/01/01 00:01
+CRDT- 1997/01/01 00:00
+AID - S0767398197897071 [pii]
+PST - ppublish
+SO  - Fundam Clin Pharmacol. 1997;11(2):138-42.
+
+PMID- 8941106
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970102
+DCOM- 19970102
+LR  - 20071114
+IS  - 0009-7322 (Print)
+IS  - 0009-7322 (Linking)
+VI  - 94
+IP  - 11
+DP  - 1996 Dec 1
+TI  - Carvedilol produces dose-related improvements in left ventricular function and
+      survival in subjects with chronic heart failure. MOCHA Investigators.
+PG  - 2807-16
+AB  - BACKGROUND: We conducted a multicenter, placebo-controlled trial designed to
+      establish the efficacy and safety of carvedilol, a "third-generation" beta
+      -blocking agent with vasodilator properties, in chronic heart failure. METHODS
+      AND RESULTS: Three hundred forty-five subjects with mild to moderate, stable
+      chronic heart failure were randomized to receive treatment with placebo, 6.25 mg 
+      BID carvedilol (low-dose group), 12.5 mg BID carvedilol (medium-dose group), or
+      25 mg BID carvedilol (high-dose group). After a 2- to 4-week up-titration period,
+      subjects remained on study medication for a period of 6 months. The primary
+      efficacy parameter was submaximal exercise measured by two different techniques, 
+      the 6-minute corridor walk test and the 9-minute self-powered treadmill test.
+      Carvedilol had no detectable effect on submaximal exercise as measured by either 
+      technique. However, carvedilol was associated with dose-related improvements in
+      LV function (by 5, 6, and 8 ejection fraction [EF] units in the low-, medium-,
+      and high-dose carvedilol groups, respectively, compared with 2 EF units with
+      placebo, P < .001 for linear dose response) and survival (respective crude
+      mortality rates of 6.0%, 6.7%, and 1.1% with increasing doses of carvedilol
+      compared with 15.5% in the placebo group, P < .001). When the three carvedilol
+      groups were combined, the all-cause actuarial mortality risk was lowered by 73%
+      in carvedilol-treated subjects (P < .001). Carvedilol also lowered the
+      hospitalization rate (by 58% to 64%, P = .01) and was generally well tolerated.
+      CONCLUSIONS: In subjects with mild to moderate heart failure from systolic
+      dysfunction, carvedilol produced dose-related improvements in LV function and
+      dose-related reductions in mortality and hospitalization rate.
+AD  - Division of Cardiology, University of Colorado HSC, Denver 80262, USA.
+      michael.bristow@uchsc.edu
+FAU - Bristow, M R
+AU  - Bristow MR
+FAU - Gilbert, E M
+AU  - Gilbert EM
+FAU - Abraham, W T
+AU  - Abraham WT
+FAU - Adams, K F
+AU  - Adams KF
+FAU - Fowler, M B
+AU  - Fowler MB
+FAU - Hershberger, R E
+AU  - Hershberger RE
+FAU - Kubo, S H
+AU  - Kubo SH
+FAU - Narahara, K A
+AU  - Narahara KA
+FAU - Ingersoll, H
+AU  - Ingersoll H
+FAU - Krueger, S
+AU  - Krueger S
+FAU - Young, S
+AU  - Young S
+FAU - Shusterman, N
+AU  - Shusterman N
+LA  - eng
+GR  - R01-HL-48013/HL/NHLBI NIH HHS/United States
+PT  - Clinical Trial
+PT  - Comment
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - UNITED STATES
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Carbazoles)
+RN  - 0 (Propanolamines)
+RN  - 72956-09-3 (carvedilol)
+SB  - AIM
+SB  - IM
+CON - Circulation. 1996 Dec 1;94(11):2800-6. PMID: 8941105
+CON - Circulation. 1996 Dec 1;94(11):2793-9. PMID: 8941104
+CIN - Circulation. 1997 Oct 21;96(8):2743-4. PMID: 9355928
+MH  - Adrenergic beta-Antagonists/adverse effects/*therapeutic use
+MH  - Aged
+MH  - Blood Pressure/drug effects
+MH  - Carbazoles/adverse effects/*therapeutic use
+MH  - Cardiac Output, Low/*drug therapy/*mortality/physiopathology
+MH  - Chronic Disease
+MH  - Dose-Response Relationship, Drug
+MH  - Female
+MH  - Heart Rate/drug effects
+MH  - Hospitalization
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Propanolamines/adverse effects/*therapeutic use
+MH  - Quality of Life
+MH  - Survival Analysis
+MH  - Ventricular Function, Left/*drug effects
+EDAT- 1996/12/01
+MHDA- 1996/12/01 00:01
+CRDT- 1996/12/01 00:00
+PST - ppublish
+SO  - Circulation. 1996 Dec 1;94(11):2807-16.
+
+PMID- 8941105
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970102
+DCOM- 19970102
+LR  - 20061115
+IS  - 0009-7322 (Print)
+IS  - 0009-7322 (Linking)
+VI  - 94
+IP  - 11
+DP  - 1996 Dec 1
+TI  - Carvedilol inhibits clinical progression in patients with mild symptoms of heart 
+      failure. US Carvedilol Heart Failure Study Group.
+PG  - 2800-6
+AB  - BACKGROUND: We tested the hypothesis that carvedilol inhibits clinical
+      progression in patients with mildly symptomatic heart failure due to left
+      ventricular (LV) systolic dysfunction. METHODS AND RESULTS: Patients (n = 366)
+      who had mildly symptomatic heart failure with an LV ejection fraction (LVEF) < or
+      = 0.35, had minimal functional impairment (defined as the ability to walk 450 to 
+      550 m on a 6-minute walk test), and were receiving optimal standard therapy,
+      including ACE inhibitors, were randomized double-blind to carvedilol (n = 232) or
+      placebo (n = 134) and followed up for 12 months. The primary end point was
+      clinical progression, defined as death due to heart failure, hospitalization for 
+      heart failure, or a sustained increase in heart failure medications. Clinical
+      progression of heart failure occurred in 21% of placebo patients and 11% of
+      carvedilol patients, reflecting a 48% (P = .008) reduction in the primary end
+      point of heart failure progression (relative risk, 0.52; CI, 0.32 to 0.85). This 
+      effect of carvedilol was not influenced by sex, age, race, cause of heart
+      failure, or baseline LVEF. Carvedilol also significantly improved several
+      secondary end points, including LVEF, heart failure score, NYHA functional class,
+      and the physician and patient global assessments. Carvedilol reduced all-cause
+      mortality but had no effects on the Minnesota Living With Heart Failure scale,
+      the distance walked in 9 minutes on a self-powered treadmill, or cardiothoracic
+      index. The drug was well tolerated. CONCLUSIONS: Carvedilol, when added to
+      standard therapy, including an ACE inhibitor, reduces clinical progression in
+      patients who are only mildly symptomatic with well-compensated heart failure.
+AD  - Boston University School of Medicine, Mass, USA.
+FAU - Colucci, W S
+AU  - Colucci WS
+FAU - Packer, M
+AU  - Packer M
+FAU - Bristow, M R
+AU  - Bristow MR
+FAU - Gilbert, E M
+AU  - Gilbert EM
+FAU - Cohn, J N
+AU  - Cohn JN
+FAU - Fowler, M B
+AU  - Fowler MB
+FAU - Krueger, S K
+AU  - Krueger SK
+FAU - Hershberger, R
+AU  - Hershberger R
+FAU - Uretsky, B F
+AU  - Uretsky BF
+FAU - Bowers, J A
+AU  - Bowers JA
+FAU - Sackner-Bernstein, J D
+AU  - Sackner-Bernstein JD
+FAU - Young, S T
+AU  - Young ST
+FAU - Holcslaw, T L
+AU  - Holcslaw TL
+FAU - Lukas, M A
+AU  - Lukas MA
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Carbazoles)
+RN  - 0 (Propanolamines)
+RN  - 72956-09-3 (carvedilol)
+SB  - AIM
+SB  - IM
+CIN - Circulation. 1996 Dec 1;94(11):2807-16. PMID: 8941106
+MH  - Adolescent
+MH  - Adrenergic beta-Antagonists/adverse effects/*therapeutic use
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Carbazoles/adverse effects/*therapeutic use
+MH  - Cardiac Output, Low/*drug therapy/mortality/*physiopathology
+MH  - Disease Progression
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Propanolamines/adverse effects/*therapeutic use
+MH  - Prospective Studies
+MH  - Quality of Life
+MH  - Stroke Volume
+EDAT- 1996/12/01
+MHDA- 1996/12/01 00:01
+CRDT- 1996/12/01 00:00
+PST - ppublish
+SO  - Circulation. 1996 Dec 1;94(11):2800-6.
+
+PMID- 8941104
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970102
+DCOM- 19970102
+LR  - 20061115
+IS  - 0009-7322 (Print)
+IS  - 0009-7322 (Linking)
+VI  - 94
+IP  - 11
+DP  - 1996 Dec 1
+TI  - Double-blind, placebo-controlled study of the effects of carvedilol in patients
+      with moderate to severe heart failure. The PRECISE Trial. Prospective Randomized 
+      Evaluation of Carvedilol on Symptoms and Exercise.
+PG  - 2793-9
+AB  - BACKGROUND: Carvedilol has improved the symptomatic status of patients with
+      moderate to severe heart failure in single-center studies, but its clinical
+      effects have not been evaluated in large, multicenter trials. METHODS AND
+      RESULTS: We enrolled 278 patients with moderate to severe heart failure (6-minute
+      walk distance, 150 to 450 m) and a left ventricular ejection fraction < or = 0.35
+      at 31 centers. After an open-label, run-in period, each patient was randomly
+      assigned (double-blind) to either placebo (n = 145) or carvedilol (n = 133;
+      target dose, 25 to 50 mg BID) for 6 months, while background therapy with
+      digoxin, diuretics, and an ACE inhibitor remained constant. Compared with
+      placebo, patients in the carvedilol group had a greater frequency of symptomatic 
+      improvement and lower risk of clinical deterioration, as evaluated by changes in 
+      the NYHA functional class (P = .014) or by a global assessment of progress judged
+      either by the patient (P = .002) or by the physician (P < .001). In addition,
+      treatment with carvedilol was associated with a significant increase in ejection 
+      fraction (P < .001) and a significant decrease in the combined risk of morbidity 
+      and mortality (P = .029). In contrast, carvedilol therapy had little effect on
+      indirect measures of patient benefit, including changes in exercise tolerance or 
+      quality-of-life scores. The effects of the drug were similar in patients with
+      ischemic heart disease or idiopathic dilated cardiomyopathy as the cause of heart
+      failure. CONCLUSIONS: These findings indicate that, in addition to its favorable 
+      effects on survival, carvedilol produces important clinical benefits in patients 
+      with moderate to severe heart failure treated with digoxin, diuretics, and an ACE
+      inhibitor.
+AD  - College of Physicians and Surgeons, Columbia University, New York, NY, USA.
+FAU - Packer, M
+AU  - Packer M
+FAU - Colucci, W S
+AU  - Colucci WS
+FAU - Sackner-Bernstein, J D
+AU  - Sackner-Bernstein JD
+FAU - Liang, C S
+AU  - Liang CS
+FAU - Goldscher, D A
+AU  - Goldscher DA
+FAU - Freeman, I
+AU  - Freeman I
+FAU - Kukin, M L
+AU  - Kukin ML
+FAU - Kinhal, V
+AU  - Kinhal V
+FAU - Udelson, J E
+AU  - Udelson JE
+FAU - Klapholz, M
+AU  - Klapholz M
+FAU - Gottlieb, S S
+AU  - Gottlieb SS
+FAU - Pearle, D
+AU  - Pearle D
+FAU - Cody, R J
+AU  - Cody RJ
+FAU - Gregory, J J
+AU  - Gregory JJ
+FAU - Kantrowitz, N E
+AU  - Kantrowitz NE
+FAU - LeJemtel, T H
+AU  - LeJemtel TH
+FAU - Young, S T
+AU  - Young ST
+FAU - Lukas, M A
+AU  - Lukas MA
+FAU - Shusterman, N H
+AU  - Shusterman NH
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Carbazoles)
+RN  - 0 (Placebos)
+RN  - 0 (Propanolamines)
+RN  - 72956-09-3 (carvedilol)
+SB  - AIM
+SB  - IM
+CIN - Circulation. 1998 Feb 24;97(7):707. PMID: 9495309
+CIN - Circulation. 1996 Dec 1;94(11):2807-16. PMID: 8941106
+MH  - Adrenergic beta-Antagonists/adverse effects/*therapeutic use
+MH  - Aged
+MH  - Carbazoles/adverse effects/*therapeutic use
+MH  - Cardiac Output, Low/*drug therapy/mortality/physiopathology
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Morbidity
+MH  - Placebos
+MH  - Propanolamines/adverse effects/*therapeutic use
+MH  - Risk Factors
+MH  - Severity of Illness Index
+MH  - Stroke Volume/drug effects
+MH  - Treatment Outcome
+EDAT- 1996/12/01
+MHDA- 1996/12/01 00:01
+CRDT- 1996/12/01 00:00
+PST - ppublish
+SO  - Circulation. 1996 Dec 1;94(11):2793-9.
+
+PMID- 8902255
+OWN - NLM
+STAT- MEDLINE
+DA  - 19970320
+DCOM- 19970320
+LR  - 20080211
+IS  - 0333-1024 (Print)
+IS  - 0333-1024 (Linking)
+VI  - 16
+IP  - 6
+DP  - 1996 Oct
+TI  - Cyclandelate in the prophylaxis of migraine: a randomized, parallel, double-blind
+      study in comparison with placebo and propranolol. The Study group.
+PG  - 441-7
+AB  - Cyclandelate inhibits calcium-induced contraction of vascular smooth muscle
+      cells, platelet aggregation induced by thrombin, platelet-activating-factor and
+      adenosine, and also suppresses a provoked 5HT release from platelets. This
+      pharmacological profile suggests that cyclandelate may have a potential
+      prophylactic effect in migraine. To test this hypothesis, a double-blind
+      multicentre study was performed in 214 patients to investigate the efficacy and
+      tolerability of cyclandelate compared to placebo and propranolol. After a 4-week 
+      baseline period, eligible patients (randomization 3:2:3) were treated for 12
+      weeks with daily doses of 1.200 mg cyclandelate (n = 81), placebo (n = 55) or 120
+      mg propranolol (n = 78). The number of migraine attacks (> or = 50% responders)
+      and the migraine duration/month were compared based on the difference between
+      baseline and the last 4 weeks of prophylactic treatment. The percentage of
+      patients with a reduction in migraine attacks of > or = 50% treated with
+      cyclandelate (37.0%) or propranolol (42.3%) was not significantly superior to
+      placebo (30.9%; p > 0.025). The mean duration of migraine in hours (h) per month 
+      decreased in both active treatment groups (cyclandelate: 36.8 h, p = 0.046;
+      propranolol: 34.4 h, p = 0.039) compared to placebo (13.7 h) without reaching
+      statistical significance (alpha/2 = 0.025). The clinical efficacy of cyclandelate
+      and propranolol was comparable. Adverse experiences were reported by 13 patients 
+      (16.0%) treated with cyclandelate, by 5 patients (9.1%) treated with placebo and 
+      by 19 patients (24.4%) treated with propranolol. These were drug-related in 7.1% 
+      (n = 6) of patients treated with cyclandelate and in 9% (n = 7) of patients
+      treated with propranolol. In summary, cyclandelate has a comparable efficacy to
+      that of propranolol, an established drug of first choice in the prophylaxis of
+      migraine. Both drugs were better than placebo, but not significantly so. Both
+      active treatments were well tolerated.
+AD  - Department of Neurology, Universities of Essen, Germany.
+FAU - Diener, H C
+AU  - Diener HC
+FAU - Foh, M
+AU  - Foh M
+FAU - Iaccarino, C
+AU  - Iaccarino C
+FAU - Wessely, P
+AU  - Wessely P
+FAU - Isler, H
+AU  - Isler H
+FAU - Strenge, H
+AU  - Strenge H
+FAU - Fischer, M
+AU  - Fischer M
+FAU - Wedekind, W
+AU  - Wedekind W
+FAU - Taneri, Z
+AU  - Taneri Z
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - NORWAY
+TA  - Cephalalgia
+JT  - Cephalalgia : an international journal of headache
+JID - 8200710
+RN  - 0 (Vasodilator Agents)
+RN  - 456-59-7 (Cyclandelate)
+RN  - 525-66-6 (Propranolol)
+SB  - IM
+MH  - Adult
+MH  - Cyclandelate/*administration & dosage/adverse effects
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Migraine Disorders/*drug therapy
+MH  - Pain Measurement
+MH  - Propranolol/*administration & dosage/adverse effects
+MH  - Treatment Outcome
+MH  - Vasodilator Agents/*administration & dosage/adverse effects
+EDAT- 1996/10/01
+MHDA- 1996/10/01 00:01
+CRDT- 1996/10/01 00:00
+PST - ppublish
+SO  - Cephalalgia. 1996 Oct;16(6):441-7.
+
+PMID- 8682014
+OWN - NLM
+STAT- MEDLINE
+DA  - 19960816
+DCOM- 19960816
+LR  - 20071115
+IS  - 0195-668X (Print)
+IS  - 0195-668X (Linking)
+VI  - 16
+IP  - 12
+DP  - 1995 Dec
+TI  - Effect of metoprolol on death and cardiac events during a 2-year period after
+      coronary artery bypass grafting. The MACB Study Group.
+PG  - 1825-32
+AB  - PURPOSE: To evaluate the effect of long-term treatment with metoprolol after
+      coronary bypass grafting on death and cardiac events. METHODS: Patients in
+      western Sweden on whom coronary artery bypass grafting was performed between June
+      1988 and June 1991 were evaluated for inclusion during the first 3 weeks after
+      surgery. Major exclusion criteria were age > 75 years, concomitant valve surgery,
+      traditional contraindications to beta-blockers and unwillingness to participate. 
+      Patients were randomized in a double-blind fashion to 100 mg of
+      metoprolol/placebo daily for 2 weeks and thereafter 200 mg daily for 2 years.
+      RESULTS: Of 2365 patients who were operated on, 967 were randomized to either
+      metoprolol (n = 480) or placebo (n = 487). Primary end points (death, non-fatal
+      myocardial infarction, unstable angina pectoris, need for coronary artery bypass 
+      grafting or percutaneous transluminal angioplasty), were reached by 42 patients
+      in the metoprolol group (8.8%), as compared with 39 in the placebo group (8.0%)
+      (P = 0.73). Of all the patients randomized to metoprolol, 34% withdrew from blind
+      treatment prematurely compared with 44% for placebo (P < 0.01). CONCLUSION:
+      Prophylactic treatment with metoprolol over a 2-year period after coronary artery
+      bypass grafting did not reduce death or the development of cardiac events.
+      However, the 95% confidence limits ranged from the possibility of a 30% reduction
+      in events to a 68% increase in events if patients were treated with metoprolol as
+      compared with placebo.
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - Eur Heart J
+JT  - European heart journal
+JID - 8006263
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 37350-58-6 (Metoprolol)
+SB  - IM
+MH  - Adrenergic beta-Antagonists/adverse effects/*therapeutic use
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Angina Pectoris/mortality/*surgery
+MH  - *Coronary Artery Bypass
+MH  - Coronary Disease/mortality/*surgery
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Drug Administration Schedule
+MH  - Drug Therapy, Combination
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Hemodynamics/drug effects
+MH  - Humans
+MH  - Long-Term Care
+MH  - Male
+MH  - Metoprolol/adverse effects/*therapeutic use
+MH  - Middle Aged
+MH  - Myocardial Infarction/*drug therapy/mortality
+MH  - Postoperative Complications/*drug therapy/mortality
+MH  - Recurrence
+MH  - Survival Rate
+MH  - Sweden/epidemiology
+EDAT- 1995/12/01
+MHDA- 1995/12/01 00:01
+CRDT- 1995/12/01 00:00
+PST - ppublish
+SO  - Eur Heart J. 1995 Dec;16(12):1825-32.
+
+PMID- 7547016
+OWN - NLM
+STAT- MEDLINE
+DA  - 19951121
+DCOM- 19951121
+LR  - 20100324
+IS  - 0007-0769 (Print)
+IS  - 0007-0769 (Linking)
+VI  - 74
+IP  - 3
+DP  - 1995 Sep
+TI  - Metoprolol treatment for two years after coronary bypass grafting: effects on
+      exercise capacity and signs of myocardial ischaemia.
+PG  - 235-41
+AB  - OBJECTIVE: To evaluate whether prophylactic treatment with metoprolol for two
+      years after coronary artery bypass grafting improves working capacity and reduces
+      the occurrence of myocardial ischaemia in patients with coronary artery disease. 
+      METHODS: After coronary artery bypass grafting, patients were randomised to
+      treatment with metoprolol or placebo for two years. Two years after
+      randomisation, a computerised 12-lead electrocardiogram was obtained during a
+      standardised bicycle exercise test in 618 patients (64% of all those randomised).
+      RESULTS: The median exercise capacity was 140 W in the metoprolol group (n = 307)
+      and 130 W in the placebo group (n = 311) (P > 0.20). An ST depression of > or = 1
+      mm at maximum exercise was present in 34% of the patients in the metoprolol group
+      and 38% in the placebo group (P > 0.20) and an ST depression of > or = 2 mm at
+      maximum exercise was present in 11% in the metoprolol group and 16% in the
+      placebo group (P = 0.09). The median values for maximum systolic blood pressure
+      were 200 mm Hg in the metoprolol group and 210 mm Hg in the placebo group (P <
+      0.0001), while the median values for maximum heart rate were 126 beats/min in the
+      metoprolol group and 143 beats/min in the placebo group (P < 0.0001). The
+      occurrence of cardiac and neurological clinical events two years postoperatively 
+      among exercised patients was comparable in the treatment groups. CONCLUSIONS:
+      Treatment with metoprolol for two years after coronary artery bypass grafting did
+      not significantly change exercise capacity or electrocardiographic signs of
+      myocardial ischaemia.
+AD  - Division of Cardiology, Sahlgrenska University Hospital, Goteborg, Sweden.
+FAU - Sjoland, H
+AU  - Sjoland H
+FAU - Caidahl, K
+AU  - Caidahl K
+FAU - Lurje, L
+AU  - Lurje L
+FAU - Hjalmarson, A
+AU  - Hjalmarson A
+FAU - Herlitz, J
+AU  - Herlitz J
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - ENGLAND
+TA  - Br Heart J
+JT  - British heart journal
+JID - 0370634
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 37350-58-6 (Metoprolol)
+SB  - AIM
+SB  - IM
+MH  - Adrenergic beta-Antagonists/*therapeutic use
+MH  - Aged
+MH  - *Coronary Artery Bypass
+MH  - Double-Blind Method
+MH  - Electrocardiography
+MH  - Exercise Test
+MH  - Exercise Tolerance/drug effects
+MH  - Female
+MH  - Heart Rate/drug effects
+MH  - Humans
+MH  - Male
+MH  - Metoprolol/*therapeutic use
+MH  - Middle Aged
+MH  - Myocardial Infarction/physiopathology/*prevention & control
+MH  - Myocardial Ischemia/physiopathology/prevention & control
+MH  - Postoperative Period
+PMC - PMC484012
+OID - NLM: PMC484012
+EDAT- 1995/09/01
+MHDA- 1995/09/01 00:01
+CRDT- 1995/09/01 00:00
+PST - ppublish
+SO  - Br Heart J. 1995 Sep;74(3):235-41.
+
+PMID- 7600653
+OWN - NLM
+STAT- MEDLINE
+DA  - 19950810
+DCOM- 19950810
+LR  - 20071115
+IS  - 0009-7322 (Print)
+IS  - 0009-7322 (Linking)
+VI  - 92
+IP  - 2
+DP  - 1995 Jul 15
+TI  - Effects of carvedilol, a vasodilator-beta-blocker, in patients with congestive
+      heart failure due to ischemic heart disease. Australia-New Zealand Heart Failure 
+      Research Collaborative Group.
+PG  - 212-8
+AB  - BACKGROUND: beta-Blocker therapy has been shown to increase ejection fraction in 
+      patients with heart failure of idiopathic etiology. However, in patients with
+      heart failure of ischemic etiology, the effects of this treatment on left
+      ventricular function remain uncertain, as do the effects on exercise performance 
+      and symptoms. METHODS AND RESULTS: This study investigated the effects of
+      carvedilol, a beta-blocker with alpha 1-blocking properties, on left ventricular 
+      size and function, maximal and submaximal exercise performance, and symptoms in
+      415 patients with stable heart failure of ischemic etiology (ejection fraction < 
+      45%). After a 2- to 3-week run-in phase on open-label low-dose carvedilol,
+      patients were randomized to continued treatment with carvedilol (up to 25 mg BID)
+      or to matching placebo. After 6 months, left ventricular ejection fraction
+      measured by radionuclide ventriculography had increased by 5.2% (2P < .0001) in
+      the carvedilol group compared with the placebo group, and left ventricular
+      end-systolic and end-diastolic dimensions measured by two-dimensionally guided
+      M-mode echocardiography had decreased by 2.6 mm (2P = .0005) and 1.3 mm (2P =
+      .05), respectively. There were no significant changes in either treadmill
+      exercise duration or 6-minute walk distance between carvedilol and placebo groups
+      (both 2P > .1); in the carvedilol group, exercise performance was therefore
+      maintained with a 23% lower rate-pressure product. Symptoms assessed by the New
+      York Heart Association (NYHA) scale and the Specific Activity Scale (SAS) were
+      unchanged in two thirds of patients in both groups, but there was a small excess 
+      of patients whose symptoms worsened and a deficit of patients whose symptoms
+      improved among those assigned carvedilol (NYHA, 2P = .05; SAS, 2P = .02).
+      CONCLUSIONS: In patients with heart failure of ischemic etiology, 6-month
+      treatment with carvedilol improved left ventricular function and maintained
+      exercise performance at a lower rate-pressure product, but symptoms assessed by
+      functional class were slightly worsened. A larger-scale trial is now required to 
+      determine whether this treatment will reduce serious morbidity and mortality from
+      heart failure.
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 0 (Carbazoles)
+RN  - 0 (Propanolamines)
+RN  - 72956-09-3 (carvedilol)
+SB  - AIM
+SB  - IM
+MH  - Adrenergic beta-Antagonists/*therapeutic use
+MH  - Aged
+MH  - Carbazoles/*therapeutic use
+MH  - Double-Blind Method
+MH  - Echocardiography
+MH  - Exercise Test
+MH  - Exercise Tolerance/drug effects
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Heart Failure/diagnosis/*drug therapy/etiology
+MH  - Hemodynamics/drug effects
+MH  - Humans
+MH  - Male
+MH  - Myocardial Ischemia/*complications
+MH  - Propanolamines/*therapeutic use
+MH  - Radionuclide Ventriculography
+MH  - Stroke Volume/drug effects
+MH  - Time Factors
+MH  - Ventricular Function, Left/drug effects
+EDAT- 1995/07/15
+MHDA- 1995/07/15 00:01
+CRDT- 1995/07/15 00:00
+PST - ppublish
+SO  - Circulation. 1995 Jul 15;92(2):212-8.
+
+PMID- 7979639
+OWN - NLM
+STAT- MEDLINE
+DA  - 19941222
+DCOM- 19941222
+LR  - 20090518
+IS  - 0003-4983 (Print)
+IS  - 0003-4983 (Linking)
+VI  - 88
+IP  - 5
+DP  - 1994 Oct
+TI  - Propranolol reduces mortality in patients with portal hypertension secondary to
+      schistosomiasis.
+PG  - 493-500
+AB  - Although beta-adrenoceptor antagonists improve morbidity and mortality in
+      patients with portal hypertension associated with cirrhosis, this has not been
+      demonstrated in non-cirrhotic patients. In the present, double-blind, 24-month,
+      prospective study of patients with endoscopically-proven varices and
+      ultrasonographically-confirmed hepatic fibrosis, the effects of propranolol 160
+      mg LA and placebo on the incidence of rebleeding and mortality were compared in
+      82 patients with portal hypertension secondary to schistosomiasis. The results,
+      analysed on intention-to-treat basis, indicated a reduction in rebleeding (median
+      time to rebleeding 589 days for propanol v. 252 days for placebo; P < 0.02) and
+      increased survival in the propranolol-treated patients (three deaths v. seven
+      deaths on placebo; P < 0.02). Fifteen patients withdrew from the propranolol
+      group and 18 from the placebo group. A positive prognostic indicator was a large 
+      portal vein diameter whereas a small liver size indicated a negative outcome.
+AD  - Faculty of Medicine, University of Khartoum, Sudan.
+FAU - el Tourabi, H
+AU  - el Tourabi H
+FAU - el Amin, A A
+AU  - el Amin AA
+FAU - Shaheen, M
+AU  - Shaheen M
+FAU - Woda, S A
+AU  - Woda SA
+FAU - Homeida, M
+AU  - Homeida M
+FAU - Harron, D W
+AU  - Harron DW
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - ENGLAND
+TA  - Ann Trop Med Parasitol
+JT  - Annals of tropical medicine and parasitology
+JID - 2985178R
+RN  - 525-66-6 (Propranolol)
+SB  - IM
+MH  - Adult
+MH  - Double-Blind Method
+MH  - Esophageal and Gastric Varices/drug therapy/etiology
+MH  - Female
+MH  - Gastrointestinal Hemorrhage/drug therapy
+MH  - Humans
+MH  - Hypertension, Portal/*drug therapy/etiology/mortality
+MH  - Liver/pathology
+MH  - Male
+MH  - Portal Vein/pathology
+MH  - Propranolol/*therapeutic use
+MH  - Prospective Studies
+MH  - Schistosomiasis/*complications
+MH  - Survival Rate
+EDAT- 1994/10/01
+MHDA- 1994/10/01 00:01
+CRDT- 1994/10/01 00:00
+PST - ppublish
+SO  - Ann Trop Med Parasitol. 1994 Oct;88(5):493-500.
+
+PMID- 7923660
+OWN - NLM
+STAT- MEDLINE
+DA  - 19941110
+DCOM- 19941110
+LR  - 20061115
+IS  - 0009-7322 (Print)
+IS  - 0009-7322 (Linking)
+VI  - 90
+IP  - 4
+DP  - 1994 Oct
+TI  - A randomized trial of beta-blockade in heart failure. The Cardiac Insufficiency
+      Bisoprolol Study (CIBIS). CIBIS Investigators and Committees.
+PG  - 1765-73
+AB  - BACKGROUND: Functional benefit in heart failure due to idiopathic dilated
+      cardiomyopathy has been observed after beta-blockade, but improvement in survival
+      has not been established in a large-scale randomized trial. This was the main
+      objective of the Cardiac Insufficiency Bisoprolol Study (CIBIS). METHODS AND
+      RESULTS: Six hundred forty-one patients with chronic heart failure of various
+      etiologies and a left ventricular ejection fraction of < 40% entered this
+      placebo-controlled, randomized, double-blind study. Patients were in New York
+      Heart Association functional class III (95%) or IV (5%) at inclusion. All
+      received background diuretic and vasodilator therapy (an angiotensin-converting
+      enzyme inhibitor in 90% of cases). A total of 320 patients was randomized to
+      bisoprolol and 321 to placebo. Mean follow-up was 1.9 years. Bisoprolol was well 
+      tolerated without between group difference in premature treatment withdrawals (82
+      on placebo, 75 on bisoprolol; NS). The observed difference in mortality between
+      groups did not reach statistical significance: 67 patients died on placebo, 53 on
+      bisoprolol (P = .22; relative risk, 0.80; 95% confidence interval, 0.56 to 1.15).
+      No significant difference was observed in sudden death rate (17 on placebo, 15 on
+      bisoprolol) or death related to documented ventricular tachycardia or
+      fibrillation (7 on placebo, 4 on bisoprolol). Bisoprolol significantly improved
+      the functional status of the patients; fewer patients in the bisoprolol group
+      required hospitalization for cardiac decompensation (90 on placebo versus 61 on
+      bisoprolol, P < .01), and more patients improved by at least one New York Heart
+      Association functional class (48 on placebo versus 68 on bisoprolol, P = .04) by 
+      the end of follow-up period. CONCLUSIONS: These results confirm previous trials
+      evidence that a progressively increasing dose of beta-blocker in severe heart
+      failure confers functional benefit. Subgroup analysis suggested that benefit from
+      beta-blockade therapy was greater for those with nonischemic cardiomyopathy.
+      However, improvement in survival while on beta-blockade remains to be
+      demonstrated.
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PL  - UNITED STATES
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+RN  - 0 (Adrenergic beta-Antagonists)
+RN  - 66722-44-9 (Bisoprolol)
+SB  - AIM
+SB  - IM
+CIN - ACP J Club. 1995 May-Jun;122(3):62
+CIN - Circulation. 1994 Oct;90(4):2153-6. PMID: 7923702
+MH  - Adrenergic beta-Antagonists/*therapeutic use
+MH  - Bisoprolol/*therapeutic use
+MH  - Cardiac Output, Low/*drug therapy/etiology/mortality
+MH  - Cardiomyopathy, Dilated/complications
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/complications
+MH  - Myocardial Ischemia/complications
+MH  - Survival Analysis
+EDAT- 1994/10/01
+MHDA- 1994/10/01 00:01
+CRDT- 1994/10/01 00:00
+PST - ppublish
+SO  - Circulation. 1994 Oct;90(4):1765-73.
+
+PMID- 8044945
+OWN - NLM
+STAT- MEDLINE
+DA  - 19940826
+DCOM- 19940826
+LR  - 20061115
+IS  - 0009-7322 (Print)
+IS  - 0009-7322 (Linking)
+VI  - 90
+IP  - 2
+DP  - 1994 Aug
+TI  - Effects of treatment on outcome in mildly symptomatic patients with ischemia
+      during daily life. The Atenolol Silent Ischemia Study (ASIST)
+PG  - 762-8
+AB  - BACKGROUND: Detection of asymptomatic ischemia in patients with coronary artery
+      disease has been associated with increased risk for adverse outcome, but
+      treatment of patients with asymptomatic ischemia remains controversial.
+      Accordingly, the purpose of this study was to determine if treatment reduces
+      adverse outcome in patients with daily life ischemia. METHODS AND RESULTS: A
+      multicenter, randomized, double-blind, placebo-controlled study of asymptomatic
+      or minimally symptomatic outpatients with daily life silent ischemia due to
+      coronary artery disease was conducted. The primary outcome measure was event-free
+      survival at 1 year by Kaplan-Meier analysis. Events were death, resuscitated
+      ventricular tachycardia/fibrillation, myocardial infarction, hospitalization for 
+      unstable angina, aggravation of angina, or revascularization. The secondary
+      outcome was ischemia during ambulatory ECG monitoring at 4 weeks. Three hundred
+      six outpatients with mild or no angina (Canadian Cardiovascular Society class I
+      or II), abnormal exercise tests, and ischemia on ambulatory monitoring were
+      randomized to receive either atenolol (100 mg/d) or placebo. After 4 weeks of
+      treatment, the number (mean +/- SD, 3.6 +/- 4.2 versus 1.7 +/- 4.6 episodes, P < 
+      .001) and average duration (30 +/- 3.3 versus 16.4 +/- 6.7 minutes, P < .001) of 
+      ischemic episodes per 48 hours of ambulatory monitoring decreased in atenolol-
+      compared with placebo-assigned patients (4.4 +/- 4.6 to 3.1 +/- 6.0 episodes and 
+      36.6 +/- 4.1 to 30 +/- 5.5 minutes). Event-free survival improved in
+      atenolol-treated patients (P < .0066), who had an increased time to onset of
+      first adverse event (120 versus 79 days) and fewer total first events compared
+      with placebo (relative risk, 0.44; 95% confidence intervals, 0.26 to 0.75; P =
+      .001). There was a nonsignificant trend for fewer serious events (death,
+      resuscitation from ventricular tachycardia/fibrillation, nonfatal myocardial
+      infarction, or hospitalization for unstable angina) in atenolol-treated patients 
+      (relative risk, 0.55; 95% confidence intervals, 0.22 to 1.33; P = .175). The most
+      powerful univariate and multivariate correlate of event-free survival was absence
+      of ischemia on ambulatory monitoring at 4 weeks. Side effects were mild and
+      generally similar comparing atenolol- and placebo-treated patients, although
+      bradycardia was more frequent with atenolol. CONCLUSIONS: Atenolol treatment
+      reduced daily life ischemia and was associated with reduced risk for adverse
+      outcome in asymptomatic and mildly symptomatic patients compared with placebo.
+AD  - University of Florida, Gainesville.
+FAU - Pepine, C J
+AU  - Pepine CJ
+FAU - Cohn, P F
+AU  - Cohn PF
+FAU - Deedwania, P C
+AU  - Deedwania PC
+FAU - Gibson, R S
+AU  - Gibson RS
+FAU - Handberg, E
+AU  - Handberg E
+FAU - Hill, J A
+AU  - Hill JA
+FAU - Miller, E
+AU  - Miller E
+FAU - Marks, R G
+AU  - Marks RG
+FAU - Thadani, U
+AU  - Thadani U
+LA  - eng
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - UNITED STATES
+TA  - Circulation
+JT  - Circulation
+JID - 0147763
+RN  - 29122-68-7 (Atenolol)
+SB  - AIM
+SB  - IM
+CIN - ACP J Club. 1995 Mar-Apr;122(2):32
+MH  - *Activities of Daily Living
+MH  - Atenolol/*therapeutic use
+MH  - Double-Blind Method
+MH  - Electrocardiography, Ambulatory
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Logistic Models
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Ischemia/diagnosis/*drug therapy/epidemiology
+MH  - Prospective Studies
+MH  - Risk Factors
+MH  - Time Factors
+MH  - Treatment Outcome
+EDAT- 1994/08/01
+MHDA- 1994/08/01 00:01
+CRDT- 1994/08/01 00:00
+PST - ppublish
+SO  - Circulation. 1994 Aug;90(2):762-8.
