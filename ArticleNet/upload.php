@@ -1,8 +1,8 @@
 <?php
 session_start();
-error_reporting(E_ALL|E_STRICT);
 
 echo "
+<!DOCTYPE html>
 <html lang='en'>
   <head>
     <title>Step1-Upload</title>

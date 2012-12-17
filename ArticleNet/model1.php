@@ -1,6 +1,7 @@
 <?php
 session_start();
 echo "
+<!DOCTYPE html>
 <html lang='en'>
 <head>
     <title>Step 2-Process</title>

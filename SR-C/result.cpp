@@ -38,7 +38,7 @@ int main(int argc, char* argv[]){
     }
 
 	char path[50];
-        strcpy (path, argv[1]);
+       strcpy (path, argv[1]);
 	char filename1[80];
 	strcpy(filename1, path);
 	strcat(filename1, "II.txt");
@@ -106,6 +106,7 @@ int main(int argc, char* argv[]){
 		words1.push_back (word1);
 		num1++;
 		recommendID = atoi(word1.c_str());
+		strcpy (path, argv[1]);
 		display(path, recommendID, pmid);
 		cout<<"<h7><a href=http://www.ncbi.nlm.nih.gov/pubmed/"<<pmid<<">"<<"See this article in PubMed</a></h7>"<<endl;
 		cout<<"<br>";
@@ -123,6 +124,7 @@ int main(int argc, char* argv[]){
 		words2.push_back (word2);
 		num2++;
 		recommendID = atoi(word2.c_str());
+		strcpy (path, argv[1]);
 		display(path, recommendID, pmid);
 		cout<<"<h7><a href=http://www.ncbi.nlm.nih.gov/pubmed/"<<pmid<<">"<<"See this article in PubMed</a></h7>"<<endl;
 		cout<<"<br>";
