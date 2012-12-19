@@ -164,7 +164,7 @@ echo "<h4>Title Similarity: " . $title . "</br>Abstract Similarity: ".$ab."</br>
 		echo "<h1>You did not enter any arguments.</h1>";
 		else
 		{
-			echo "<h5>Articles are recommended as the followings...</h5>";
+			echo "<h5>Articles are recommended as the followings...</h5><h7>(Traverse Rate = at % screening of total number)</h7><br>";
 			$command = "/var/www/cgi-bin/SR/SR-C/evalue1 " . escapeshellcmd($args);
 			passthru($command,$res);
 		}
