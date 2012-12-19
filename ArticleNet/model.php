@@ -33,7 +33,7 @@ echo "
       <div class='fill'>
         <div class='container'>
 			<h3><a href='#' ><tt><strong>ArticleNet</strong></tt></a></h3>
-			<div style='position:absolute;left:720px;top:88px'><h18>Version1.2. &nbsp Last modified: 11/30/2012.</h18></div>
+			<div style='position:absolute;left:720px;top:88px'><h18>Version1.2. &nbsp Last modified: 12/19/2012.</h18></div>
 			<img src='./pages/img/logo.png' alt='logo' class='logo'>
         </div>
       </div>

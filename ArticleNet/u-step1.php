@@ -117,7 +117,7 @@
 		<div class="fill">
 			<div class="container">
 			<h3><a href="#" ><tt><strong>ArticleNet</strong></tt></a></h3>
-			<div style="position:absolute;left:720px;top:88px"><h18>Version1.2. &nbsp Last modified: 11/30/2012.</h18></div>
+			<div style="position:absolute;left:720px;top:88px"><h18>Version1.2. &nbsp Last modified: 12/19/2012.</h18></div>
 			<img src="./pages/img/logo.png" alt="logo" class="logo">
 			</div>
 		</div>
@@ -146,7 +146,7 @@ if(!isset($_SESSION["agree"])){
 ?>       
 		<div class="hero-unit2">
 			<h5>Step1:Please upload your Article List here.</h5>
-			<h11>Please provide articles in MEDLINE format, and your article list should contain no less than 2 and no more than 500 articles.</h11><br>
+			<h11>Please provide articles in MEDLINE format, and your article list should contain no less than 2 and no more than 4000 articles.</h11><br>
 			<hr width=80% size=4 color=#357EC7 style="filter:alpha(opacity=100,finishopacity=0,style=2)">
          
 			<form action="u-upload.php" method="post" enctype="multipart/form-data" onsubmit="return validate();">

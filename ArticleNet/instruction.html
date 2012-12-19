@@ -54,7 +54,7 @@
       <div class="fill">
         <div class="container">
           <h3><a href="#" ><tt><strong>ArticleNet</strong></tt></a></h3>
-		  <div style='position:absolute;left:720px;top:88px'><h18>Version1.2. &nbsp Last modified: 11/30/2012.</h18></div>
+		  <div style='position:absolute;left:720px;top:88px'><h18>Version1.2. &nbsp Last modified: 12/19/2012.</h18></div>
           <img src="./pages/img/logo.png" alt="logo" class="logo">
         </div>
       </div>
@@ -78,7 +78,7 @@
 				<ul class="active"><a href="#intro">Introduction</a></ul>
 				<ul><a href="#method">Method</a></ul>
 				<ul><a href="#use">How to start</a></ul>
-				<ul><a href="#us">Contact us</a></ul>
+				<ul><a href="#us">Publication</a></ul>
 			</div>
 		</div>
         
@@ -87,14 +87,14 @@
 			<h2>Introduction--Learn about us!</h2>
 			<hr width=80% size=4 color=#357EC7 style="filter:alpha(opacity=100,finishopacity=0,style=2)">
 			<div id="left-content"><img src="./pages/img/pic4.jpg" alt="network picture" height="300px" width="330px" align="left"></div>
-			<div id="right_content"><p>The purpose of the project is to recommend articles based on their total scores which reflect not only the similarity to the selected articles, but also the degree of relevance to the specified search strategy, such as publicationtype and biomedical related keywords.</p></div>
+			<div id="right_content"><p>The purpose of the project is to recommend articles based on their total scores which reflect not only the similarity to the selected articles, but also the degree of relevance to the specified search strategy, such as publication type and biomedical related keywords.</p></div>
 			<br />	
 	
 			<div id="main">
 				<a class="anchor" name="method"><h20>2</h20></a>
 				<h2>Our Methods--How the system works!</h2>
 				<hr width=80% size=4 color=#357EC7 style="filter:alpha(opacity=100,finishopacity=0,style=2)">
-				<p>We develop out systems in five phases: (1) build the text collection by extracting articles (MEDLINE format) from PubMed; This article list will be input by users in future use; (2) Prepare keywords list, PubType list and medical dictionary. The keywords list and PubType list will be defined by users in future use; (3) Preprocess and parse articles from the list, extract and classify feature terms and remove noisy terms; (4) Process to calculate Mesh Similarity, Abstract similarity, PubType score and Keywords score; (5) Recommend articles based on their total scores; (6) Evaluate the performance regarding different topics and scenarios. </p>
+				<p>We develop out systems in five phases: (1) Build the text collection by extracting articles (MEDLINE format) from PubMed; This article list will be input by users; (2) Prepare keywords list, PubType list, Author list (provided by users) and medical dictionary (provided by system); (3) Preprocess and parse articles from the list, extract and classify feature terms and remove noisy terms; (4) Process to construct the article network: calculate Title Similarity, Abstract similarity, Mesh Similarity, Author Simialrity, Keywords score, PubType score and Author score; (5) Recommend articles based on their total scores; (6) Evaluate the performance regarding different topics and scenarios. </p>
 				<img src="./pages/img/work flow.jpg" alt="work flow" height="800px" width="600px" align="left">
 			</div>
 			<br />
@@ -103,13 +103,43 @@
 				<a class="anchor" name="use"><h20>3</h20></a>
 				<h2>How to start--To use this system!</h2>
 				<hr width=80% size=4 color=#357EC7 style="filter:alpha(opacity=100,finishopacity=0,style=2)">
+				<h5>To run your own systematic reviews:</h5>
+				<P>1. Click "Run your Own SR", you will need to agree the terms of use before getting started.</br><br>
+				   2. Upload your article list, please provide articles in MEDLINE format, and your article list should contain no less than 2 and no more than 4000 articles.(Please note that the verification code is case sensitive.)<br>
+				      If you are not sure about the format of your article list, please see our examples under "Evaluate DERP Models"->"Download Research Models". <br>
+				      You can also get your article list from <a href="http://www.ncbi.nlm.nih.gov/pubmed/" target="_blank">PubMed</a>.<br><br>	            				
+				   3. Continue to step2, provide your search strategy or systematic review scope here!<br>
+				      Keywords is required, you can either upload a file for the keywords list or enter them directly in the text box.<br>
+				      Publication type (PubType) and Authors are optional.<br>
+				      If uploading, please put each word/phrase in seperated line;<br>
+				      If entering, please seperate each word/phrase with a comma, i.e. "toxic,headache,quality of life,blood pressure,adult,adverse" or "Systematic review, clinical trial"<br>
+				      When providing author names, please put firstname (middle name) before lastname! i.e. "Logon Freeman, A D Jones"<br>
+				      Your can also download our example keywords list under "Evaluate DERP Models"->"Download Research Models". <br><br>
+				   4. After submitting your search strategy, our system will process your request and build the article network. <br>
+				      It will approximately take 5 seconds for an input of 300 articles, 2 minutes and 10 seconds for an input of 2000 articles, and 7~8 minutes for an input of 4000 articles.<br>
+				      Please do not refresh the page. <br><br>
+				   5. Click "continue", recommendation is about to start!</br>
+				      If you want to adjust the weight parameters by yourself, click the link below and it will bring you to the parameter page;<br>
+				      Or the recommendation will automaticaly start in 5 seconds with default parameter settings. <br>
+				      The default settings: weight of title_similarity=1; weight of abstract_similarity=1; weight of MeSH_similarity=1; weight of author_similarity=1; weight of keywords=0.5;<br><br>
+				   6. Now you come to the recommedation page, 5 articles are recommended per time as default. <br>
+				      You can check the details of one article via a link to PubMed, and then make your decision, "Incuded", "Excluded" or "Undecided".<br>
+				      After finishing the judgements of these 5 articles, you can either click "submit and recommend again" to see the next 5 recommendations,<br>
+				      or click "submit and go to summary report" to see an in-detailed summary, download all included articles from PubMed, or re-adjust the weight parameters. <br><br></p>
+			
+				<h5>To evaluate models and our system:</h5>
+				<p>1. Click "Evaluate DERP Models" and select one of the 15 systematic review topics from the list. Click "continue" and "continue".<br><br>
+				   2. Then you come to the weight parameter page. You can slide the bar to set the values, or click the buttons on the right side and apply the default combinations we used in our paper.<br><br>
+				   3. After clicking "submit", you will see the sequence of our recommendation, and a curve of performance is also provided below.<br>
+				      Note that we simulate the situation that: recommend one article per time, give the judgement (I is included, E is excluded) and then recommend the next one, utill all articles are already recommended. <br></p> 
 			</div>
 			<br />	
 
 			<div id="main">
 				<a class="anchor" name="us"><h20>4</h20></a>
-				<h2>Contact us</h2>
+				<h2>Publication</h2>
 				<hr width=80% size=4 color=#357EC7 style="filter:alpha(opacity=100,finishopacity=0,style=2)">
+				<p>ArticleNet: an Online Article Recommendation System to Assist Systematic Reviews (Under Submission)</p>
 			</div>
 
 			<a href="#" id="backtotop"><img src="./pages/img/top.png" alt="back to top" /></a>  

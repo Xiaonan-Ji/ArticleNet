@@ -40,7 +40,7 @@ echo "
       <div class='fill'>
         <div class='container'>
           <h3><a href='#' ><tt><strong>ArticleNet</strong></tt></a></h3>
-	<div style='position:absolute;left:720px;top:88px'><h18>Version1.2. &nbsp Last modified: 11/30/2012.</h18></div>
+	<div style='position:absolute;left:720px;top:88px'><h18>Version1.2. &nbsp Last modified: 12/19/2012.</h18></div>
           <img src='./pages/img/logo.png' alt='logo' class='logo'>
         </div>
       </div>
@@ -164,7 +164,7 @@ echo "<h4>Title Similarity: " . $title . "</br>Abstract Similarity: ".$ab."</br>
 		echo "<h1>You did not enter any arguments.</h1>";
 		else
 		{
-			echo "<h5>Articles are recommended as the followings...</h5><h7>(Traverse Rate = at % screening of total number)</h7><br>";
+			echo "<h5>Articles are recommended as the followings...</h5><h7>(Traverse Rate = % screening of total number)</h7><br>";
 			$command = "/var/www/cgi-bin/SR/SR-C/evalue1 " . escapeshellcmd($args);
 			passthru($command,$res);
 		}
